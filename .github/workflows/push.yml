@@ -1,0 +1,11 @@
+name: notify-changes
+
+on: push
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Push to Mirai
+      run: curl ${{ secrets.MIRAI_ENDPOINT }} -d '{"group_id":${{ secrets.GROUP_ID }},"message":"FGO客户端枚举更新\n差异预览:https://github.com/StarHeartHunt/FGOEnumDiff/commit/${{ github.sha }}"}' -X POST -H "Content-Type:application/json" 
