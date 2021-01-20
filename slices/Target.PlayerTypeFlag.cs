@@ -1,4 +1,4 @@
-public enum Target.PlayerTypeFlag // TypeDefIndex: 5851
+public enum Target.PlayerTypeFlag // TypeDefIndex: 5863
 {
 	// Fields
 	public int value__; // 0x0

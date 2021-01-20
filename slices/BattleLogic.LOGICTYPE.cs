@@ -1,4 +1,4 @@
-public enum BattleLogic.LOGICTYPE // TypeDefIndex: 8320
+public enum BattleLogic.LOGICTYPE // TypeDefIndex: 8342
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleActionLogType.Type // TypeDefIndex: 8029
+public enum BattleActionLogType.Type // TypeDefIndex: 8051
 {
 	// Fields
 	public int value__; // 0x0

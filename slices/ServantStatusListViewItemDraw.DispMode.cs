@@ -1,4 +1,4 @@
-public enum ServantStatusListViewItemDraw.DispMode // TypeDefIndex: 5407
+public enum ServantStatusListViewItemDraw.DispMode // TypeDefIndex: 5419
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SupportSelectConfirmDeckMenu.DialogKind // TypeDefIndex: 9780
+public enum SupportSelectConfirmDeckMenu.DialogKind // TypeDefIndex: 9807
 {
 	// Fields
 	public int value__; // 0x0

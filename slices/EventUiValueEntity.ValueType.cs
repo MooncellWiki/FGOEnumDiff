@@ -1,4 +1,4 @@
-public enum EventUiValueEntity.ValueType // TypeDefIndex: 6515
+public enum EventUiValueEntity.ValueType // TypeDefIndex: 6536
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,4 +8,5 @@ public enum EventUiValueEntity.ValueType // TypeDefIndex: 6515
 	public const EventUiValueEntity.ValueType EVENT_TOWER = 3;
 	public const EventUiValueEntity.ValueType VALUE_LONG = 4;
 	public const EventUiValueEntity.ValueType BATTLE_LINE = 5;
+	public const EventUiValueEntity.ValueType ASSIST = 6;
 }

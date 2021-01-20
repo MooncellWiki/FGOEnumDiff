@@ -1,4 +1,4 @@
-public enum MapGimmickComponent.STATE // TypeDefIndex: 10058
+public enum MapGimmickComponent.STATE // TypeDefIndex: 10085
 {
 	// Fields
 	public int value__; // 0x0

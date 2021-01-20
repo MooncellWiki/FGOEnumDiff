@@ -1,4 +1,4 @@
-private enum SoundTestMenu.SortType // TypeDefIndex: 10573
+private enum SoundTestMenu.SortType // TypeDefIndex: 10601
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum PresentBoxNotificationListViewItemDraw.DispMode // TypeDefIndex: 5262
+public enum PresentBoxNotificationListViewItemDraw.DispMode // TypeDefIndex: 5274
 {
 	// Fields
 	public int value__; // 0x0

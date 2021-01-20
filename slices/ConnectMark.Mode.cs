@@ -1,4 +1,4 @@
-public enum ConnectMark.Mode // TypeDefIndex: 5115
+public enum ConnectMark.Mode // TypeDefIndex: 5123
 {
 	// Fields
 	public int value__; // 0x0

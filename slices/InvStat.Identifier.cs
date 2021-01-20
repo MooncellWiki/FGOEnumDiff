@@ -1,4 +1,4 @@
-public enum InvStat.Identifier // TypeDefIndex: 10899
+public enum InvStat.Identifier // TypeDefIndex: 10927
 {
 	// Fields
 	public int value__; // 0x0

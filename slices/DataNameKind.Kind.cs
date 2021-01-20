@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 5752
+public enum DataNameKind.Kind // TypeDefIndex: 5764
 {
 	// Fields
 	public int value__; // 0x0
@@ -342,4 +342,5 @@ public enum DataNameKind.Kind // TypeDefIndex: 5752
 	public const DataNameKind.Kind SERVANT_LIMIT_IMAGE = 337;
 	public const DataNameKind.Kind FRIENDSHIP_QUEST_DIALOG_INFO = 338;
 	public const DataNameKind.Kind QUEST_RESTRICTION_INFO = 339;
+	public const DataNameKind.Kind ASSIST = 340;
 }

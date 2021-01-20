@@ -1,4 +1,4 @@
-protected enum ScriptManager.PlayMode // TypeDefIndex: 7823
+protected enum ScriptManager.PlayMode // TypeDefIndex: 7845
 {
 	// Fields
 	public int value__; // 0x0

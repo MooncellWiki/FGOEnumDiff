@@ -1,4 +1,4 @@
-public enum StonePurchaseNotificationMenu.Kind // TypeDefIndex: 5473
+public enum StonePurchaseNotificationMenu.Kind // TypeDefIndex: 5485
 {
 	// Fields
 	public int value__; // 0x0

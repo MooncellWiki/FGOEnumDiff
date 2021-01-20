@@ -1,4 +1,4 @@
-public enum UILabel.Crispness // TypeDefIndex: 11092
+public enum UILabel.Crispness // TypeDefIndex: 11120
 {
 	// Fields
 	public int value__; // 0x0

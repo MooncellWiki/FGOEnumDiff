@@ -1,4 +1,4 @@
-private enum TopLoginRequest.UserState // TypeDefIndex: 7718
+private enum TopLoginRequest.UserState // TypeDefIndex: 7740
 {
 	// Fields
 	public int value__; // 0x0

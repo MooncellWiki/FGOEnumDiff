@@ -1,4 +1,4 @@
-public enum ResponseCommandBase.Result // TypeDefIndex: 7697
+public enum ResponseCommandBase.Result // TypeDefIndex: 7719
 {
 	// Fields
 	public int value__; // 0x0

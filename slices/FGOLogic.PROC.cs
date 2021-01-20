@@ -1,4 +1,4 @@
-public enum FGOLogic.PROC // TypeDefIndex: 7433
+public enum FGOLogic.PROC // TypeDefIndex: 7455
 {
 	// Fields
 	public int value__; // 0x0
@@ -48,4 +48,5 @@ public enum FGOLogic.PROC // TypeDefIndex: 7433
 	public const FGOLogic.PROC CHECK_ENDBATTLE_IGNORE_TURN = 43;
 	public const FGOLogic.PROC CHECK_REMAIN_BATTLE_END_WAVE = 44;
 	public const FGOLogic.PROC BOOST_SKILL = 45;
+	public const FGOLogic.PROC ASSIST = 46;
 }

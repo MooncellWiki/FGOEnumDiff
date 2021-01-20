@@ -1,4 +1,4 @@
-public enum RewardType.Type // TypeDefIndex: 5822
+public enum RewardType.Type // TypeDefIndex: 5834
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventDetailEntity.FlagKind // TypeDefIndex: 6359
+public enum EventDetailEntity.FlagKind // TypeDefIndex: 6380
 {
 	// Fields
 	public int value__; // 0x0
@@ -44,4 +44,5 @@ public enum EventDetailEntity.FlagKind // TypeDefIndex: 6359
 	public const EventDetailEntity.FlagKind IS_MAIN_INTERLUDE = 39;
 	public const EventDetailEntity.FlagKind QUEST_COOLTIME = 41;
 	public const EventDetailEntity.FlagKind EVENT_PANEL = 42;
+	public const EventDetailEntity.FlagKind EVENT_ASSIST = 43;
 }

@@ -1,4 +1,4 @@
-public enum FGOActorCutIn.TYPE // TypeDefIndex: 7333
+public enum FGOActorCutIn.TYPE // TypeDefIndex: 7355
 {
 	// Fields
 	public int value__; // 0x0

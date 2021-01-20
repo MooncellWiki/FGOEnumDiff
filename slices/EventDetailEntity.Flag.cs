@@ -1,4 +1,4 @@
-public enum EventDetailEntity.Flag // TypeDefIndex: 6360
+public enum EventDetailEntity.Flag // TypeDefIndex: 6381
 {
 	// Fields
 	public long value__; // 0x0
@@ -44,4 +44,5 @@ public enum EventDetailEntity.Flag // TypeDefIndex: 6360
 	public const EventDetailEntity.Flag IS_MAIN_INTERLUDE = 549755813888;
 	public const EventDetailEntity.Flag QUEST_COOLTIME = 2199023255552;
 	public const EventDetailEntity.Flag EVENT_PANEL = 4398046511104;
+	public const EventDetailEntity.Flag EVENT_ASSIST = 8796093022208;
 }

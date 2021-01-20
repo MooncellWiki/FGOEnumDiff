@@ -1,4 +1,4 @@
-public enum NetworkManager.WebViewAddressType // TypeDefIndex: 6108
+public enum NetworkManager.WebViewAddressType // TypeDefIndex: 6124
 {
 	// Fields
 	public int value__; // 0x0

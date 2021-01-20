@@ -1,4 +1,4 @@
-public enum EquipGraphListViewObject.InitMode // TypeDefIndex: 5136
+public enum EquipGraphListViewObject.InitMode // TypeDefIndex: 5144
 {
 	// Fields
 	public int value__; // 0x0

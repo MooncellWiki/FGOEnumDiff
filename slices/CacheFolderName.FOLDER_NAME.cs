@@ -1,4 +1,4 @@
-public enum CacheFolderName.FOLDER_NAME // TypeDefIndex: 5733
+public enum CacheFolderName.FOLDER_NAME // TypeDefIndex: 5745
 {
 	// Fields
 	public int value__; // 0x0

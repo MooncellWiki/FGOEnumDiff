@@ -1,4 +1,4 @@
-public enum FGOFieldSkillCutIn.ActionType // TypeDefIndex: 7420
+public enum FGOFieldSkillCutIn.ActionType // TypeDefIndex: 7442
 {
 	// Fields
 	public int value__; // 0x0
@@ -6,4 +6,5 @@ public enum FGOFieldSkillCutIn.ActionType // TypeDefIndex: 7420
 	public const FGOFieldSkillCutIn.ActionType Play = 1;
 	public const FGOFieldSkillCutIn.ActionType Release = 2;
 	public const FGOFieldSkillCutIn.ActionType Finish = 3;
+	public const FGOFieldSkillCutIn.ActionType Skip = 4;
 }

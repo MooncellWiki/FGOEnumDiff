@@ -1,4 +1,4 @@
-public enum EventPointVsResultAction.STATE // TypeDefIndex: 9977
+public enum EventPointVsResultAction.STATE // TypeDefIndex: 10004
 {
 	// Fields
 	public int value__; // 0x0

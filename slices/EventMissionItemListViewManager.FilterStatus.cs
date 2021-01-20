@@ -1,4 +1,4 @@
-public enum EventMissionItemListViewManager.FilterStatus // TypeDefIndex: 8876
+public enum EventMissionItemListViewManager.FilterStatus // TypeDefIndex: 8900
 {
 	// Fields
 	public int value__; // 0x0

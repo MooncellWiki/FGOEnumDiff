@@ -1,4 +1,4 @@
-public enum PartyOrganizationListViewManager.ResultKind // TypeDefIndex: 9500
+public enum PartyOrganizationListViewManager.ResultKind // TypeDefIndex: 9527
 {
 	// Fields
 	public int value__; // 0x0

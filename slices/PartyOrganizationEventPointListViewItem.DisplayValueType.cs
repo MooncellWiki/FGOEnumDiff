@@ -1,4 +1,4 @@
-public enum PartyOrganizationEventPointListViewItem.DisplayValueType // TypeDefIndex: 9479
+public enum PartyOrganizationEventPointListViewItem.DisplayValueType // TypeDefIndex: 9506
 {
 	// Fields
 	public int value__; // 0x0

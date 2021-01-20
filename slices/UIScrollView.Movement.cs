@@ -1,4 +1,4 @@
-public enum UIScrollView.Movement // TypeDefIndex: 10977
+public enum UIScrollView.Movement // TypeDefIndex: 11005
 {
 	// Fields
 	public int value__; // 0x0

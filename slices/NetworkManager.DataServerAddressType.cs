@@ -1,4 +1,4 @@
-private enum NetworkManager.DataServerAddressType // TypeDefIndex: 6109
+private enum NetworkManager.DataServerAddressType // TypeDefIndex: 6125
 {
 	// Fields
 	public int value__; // 0x0

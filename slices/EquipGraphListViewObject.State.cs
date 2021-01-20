@@ -1,4 +1,4 @@
-protected enum EquipGraphListViewObject.State // TypeDefIndex: 5137
+protected enum EquipGraphListViewObject.State // TypeDefIndex: 5145
 {
 	// Fields
 	public int value__; // 0x0

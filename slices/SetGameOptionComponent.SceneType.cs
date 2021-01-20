@@ -1,4 +1,4 @@
-public enum SetGameOptionComponent.SceneType // TypeDefIndex: 9093
+public enum SetGameOptionComponent.SceneType // TypeDefIndex: 9120
 {
 	// Fields
 	public int value__; // 0x0

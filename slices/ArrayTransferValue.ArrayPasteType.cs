@@ -1,4 +1,4 @@
-public enum ArrayTransferValue.ArrayPasteType // TypeDefIndex: 11237
+public enum ArrayTransferValue.ArrayPasteType // TypeDefIndex: 11265
 {
 	// Fields
 	public int value__; // 0x0

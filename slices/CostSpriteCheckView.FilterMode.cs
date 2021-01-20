@@ -1,4 +1,4 @@
-public enum CostSpriteCheckView.FilterMode // TypeDefIndex: 10405
+public enum CostSpriteCheckView.FilterMode // TypeDefIndex: 10433
 {
 	// Fields
 	public int value__; // 0x0

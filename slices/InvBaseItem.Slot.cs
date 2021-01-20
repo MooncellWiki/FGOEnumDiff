@@ -1,4 +1,4 @@
-public enum InvBaseItem.Slot // TypeDefIndex: 10893
+public enum InvBaseItem.Slot // TypeDefIndex: 10921
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum QuestPhaseMaster.MoviePlayType // TypeDefIndex: 6657
+public enum QuestPhaseMaster.MoviePlayType // TypeDefIndex: 6678
 {
 	// Fields
 	public int value__; // 0x0

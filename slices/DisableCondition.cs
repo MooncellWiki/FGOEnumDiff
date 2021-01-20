@@ -1,4 +1,4 @@
-public enum DisableCondition // TypeDefIndex: 11000
+public enum DisableCondition // TypeDefIndex: 11028
 {
 	// Fields
 	public int value__; // 0x0

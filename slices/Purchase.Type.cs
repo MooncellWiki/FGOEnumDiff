@@ -1,4 +1,4 @@
-public enum Purchase.Type // TypeDefIndex: 5808
+public enum Purchase.Type // TypeDefIndex: 5820
 {
 	// Fields
 	public int value__; // 0x0
@@ -24,4 +24,5 @@ public enum Purchase.Type // TypeDefIndex: 5808
 	public const Purchase.Type COMMAND_CODE = 19;
 	public const Purchase.Type GIFT = 20;
 	public const Purchase.Type EVENT_SVT_JOIN = 21;
+	public const Purchase.Type ASSIST = 22;
 }
