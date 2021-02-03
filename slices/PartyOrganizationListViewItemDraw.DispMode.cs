@@ -1,4 +1,4 @@
-public enum PartyOrganizationListViewItemDraw.DispMode // TypeDefIndex: 9524
+public enum PartyOrganizationListViewItemDraw.DispMode // TypeDefIndex: 9544
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SrcSpotBasePrefab.STATE // TypeDefIndex: 10382
+public enum SrcSpotBasePrefab.STATE // TypeDefIndex: 10400
 {
 	// Fields
 	public int value__; // 0x0

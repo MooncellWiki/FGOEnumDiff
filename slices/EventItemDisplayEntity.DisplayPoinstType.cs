@@ -1,4 +1,4 @@
-public enum EventItemDisplayEntity.DisplayPoinstType // TypeDefIndex: 6402
+public enum EventItemDisplayEntity.DisplayPoinstType // TypeDefIndex: 6409
 {
 	// Fields
 	public int value__; // 0x0

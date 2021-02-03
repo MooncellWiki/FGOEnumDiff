@@ -1,4 +1,4 @@
-private enum UISliderWithButton.Direction // TypeDefIndex: 7306
+private enum UISliderWithButton.Direction // TypeDefIndex: 7319
 {
 	// Fields
 	public int value__; // 0x0

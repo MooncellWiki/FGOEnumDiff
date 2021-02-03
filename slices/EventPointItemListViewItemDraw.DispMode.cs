@@ -1,4 +1,4 @@
-public enum EventPointItemListViewItemDraw.DispMode // TypeDefIndex: 8924
+public enum EventPointItemListViewItemDraw.DispMode // TypeDefIndex: 8944
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum MapEntity.StartType // TypeDefIndex: 6598
+public enum MapEntity.StartType // TypeDefIndex: 6605
 {
 	// Fields
 	public int value__; // 0x0

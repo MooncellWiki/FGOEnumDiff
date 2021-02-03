@@ -1,4 +1,4 @@
-public enum WarBoardRatingOffsetEntity.Type // TypeDefIndex: 7089
+public enum WarBoardRatingOffsetEntity.Type // TypeDefIndex: 7102
 {
 	// Fields
 	public int value__; // 0x0
@@ -31,4 +31,9 @@ public enum WarBoardRatingOffsetEntity.Type // TypeDefIndex: 7089
 	public const WarBoardRatingOffsetEntity.Type NO_MOVE_GET_DESIGNATION_ITEM = 26;
 	public const WarBoardRatingOffsetEntity.Type MOVE_AROUND_ALLY_SERVANT_RANGE_UNDER = 27;
 	public const WarBoardRatingOffsetEntity.Type MOVE_AROUND_ALLY_SERVANT_RANGE_OVER_UNDER = 28;
+	public const WarBoardRatingOffsetEntity.Type REPLACE_BETWEEN_SERVANT = 29;
+	public const WarBoardRatingOffsetEntity.Type NO_REPLACE_BETWEEN_SERVANT = 30;
+	public const WarBoardRatingOffsetEntity.Type MOVE_AROUND_ITEM = 31;
+	public const WarBoardRatingOffsetEntity.Type MOVE_ON_ITEM = 32;
+	public const WarBoardRatingOffsetEntity.Type MOVE_ON_EFFECT = 33;
 }

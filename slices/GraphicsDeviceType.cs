@@ -2,28 +2,28 @@ public enum GraphicsDeviceType // TypeDefIndex: 2208
 {
 	// Fields
 	public int value__; // 0x0
-	[ObsoleteAttribute] // RVA: 0x43DA50 Offset: 0x43DA50 VA: 0x43DA50
+	[ObsoleteAttribute] // RVA: 0x439F88 Offset: 0x439F88 VA: 0x439F88
 	public const GraphicsDeviceType OpenGL2 = 0;
-	[ObsoleteAttribute] // RVA: 0x43DAAC Offset: 0x43DAAC VA: 0x43DAAC
+	[ObsoleteAttribute] // RVA: 0x439FE4 Offset: 0x439FE4 VA: 0x439FE4
 	public const GraphicsDeviceType Direct3D9 = 1;
 	public const GraphicsDeviceType Direct3D11 = 2;
-	[ObsoleteAttribute] // RVA: 0x43DB0C Offset: 0x43DB0C VA: 0x43DB0C
+	[ObsoleteAttribute] // RVA: 0x43A044 Offset: 0x43A044 VA: 0x43A044
 	public const GraphicsDeviceType PlayStation3 = 3;
 	public const GraphicsDeviceType Null = 4;
-	[ObsoleteAttribute] // RVA: 0x43DB64 Offset: 0x43DB64 VA: 0x43DB64
+	[ObsoleteAttribute] // RVA: 0x43A09C Offset: 0x43A09C VA: 0x43A09C
 	public const GraphicsDeviceType Xbox360 = 6;
 	public const GraphicsDeviceType OpenGLES2 = 8;
 	public const GraphicsDeviceType OpenGLES3 = 11;
-	[ObsoleteAttribute] // RVA: 0x43DBC0 Offset: 0x43DBC0 VA: 0x43DBC0
+	[ObsoleteAttribute] // RVA: 0x43A0F8 Offset: 0x43A0F8 VA: 0x43A0F8
 	public const GraphicsDeviceType PlayStationVita = 12;
 	public const GraphicsDeviceType PlayStation4 = 13;
 	public const GraphicsDeviceType XboxOne = 14;
-	[ObsoleteAttribute] // RVA: 0x43DC1C Offset: 0x43DC1C VA: 0x43DC1C
+	[ObsoleteAttribute] // RVA: 0x43A154 Offset: 0x43A154 VA: 0x43A154
 	public const GraphicsDeviceType PlayStationMobile = 15;
 	public const GraphicsDeviceType Metal = 16;
 	public const GraphicsDeviceType OpenGLCore = 17;
 	public const GraphicsDeviceType Direct3D12 = 18;
-	[ObsoleteAttribute] // RVA: 0x43DC80 Offset: 0x43DC80 VA: 0x43DC80
+	[ObsoleteAttribute] // RVA: 0x43A1B8 Offset: 0x43A1B8 VA: 0x43A1B8
 	public const GraphicsDeviceType N3DS = 19;
 	public const GraphicsDeviceType Vulkan = 21;
 	public const GraphicsDeviceType Switch = 22;

@@ -13,4 +13,5 @@ public enum PayType.Type // TypeDefIndex: 5818
 	public const PayType.Type ANONYMOUS = 9;
 	public const PayType.Type RARE_PRI = 10;
 	public const PayType.Type ITEM = 11;
+	public const PayType.Type GRAIL_FRAGMENTS = 12;
 }

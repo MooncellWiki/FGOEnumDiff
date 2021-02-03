@@ -12,4 +12,5 @@ public enum ShopType.Type // TypeDefIndex: 5844
 	public const ShopType.Type SVT_ANONYMOUS = 7;
 	public const ShopType.Type BGM = 8;
 	public const ShopType.Type LIMIT_MATERIAL = 9;
+	public const ShopType.Type GRAIL_FRAGMENTS = 10;
 }

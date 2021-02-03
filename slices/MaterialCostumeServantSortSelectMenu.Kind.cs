@@ -1,4 +1,4 @@
-public enum MaterialCostumeServantSortSelectMenu.Kind // TypeDefIndex: 9205
+public enum MaterialCostumeServantSortSelectMenu.Kind // TypeDefIndex: 9225
 {
 	// Fields
 	public int value__; // 0x0

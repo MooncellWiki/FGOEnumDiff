@@ -1,4 +1,4 @@
-public enum IconLabelInfo.IconKind // TypeDefIndex: 6016
+public enum IconLabelInfo.IconKind // TypeDefIndex: 6023
 {
 	// Fields
 	public int value__; // 0x0
@@ -33,29 +33,30 @@ public enum IconLabelInfo.IconKind // TypeDefIndex: 6016
 	public const IconLabelInfo.IconKind STONE_FRAGMENTS = 28;
 	public const IconLabelInfo.IconKind ANONYMOUS = 29;
 	public const IconLabelInfo.IconKind RARE_PRI = 30;
-	public const IconLabelInfo.IconKind FRIEND_RANK = 31;
-	public const IconLabelInfo.IconKind NP_LEVEL = 32;
-	public const IconLabelInfo.IconKind NP_ICON_LEVEL = 33;
-	public const IconLabelInfo.IconKind RARITY = 34;
-	public const IconLabelInfo.IconKind RARITY_EXCEED = 35;
-	public const IconLabelInfo.IconKind AMOUNT = 36;
-	public const IconLabelInfo.IconKind ADD_HP = 37;
-	public const IconLabelInfo.IconKind ADD_ATK = 38;
-	public const IconLabelInfo.IconKind ADD_COST = 39;
-	public const IconLabelInfo.IconKind DIFFER_HP = 40;
-	public const IconLabelInfo.IconKind DIFFER_ATK = 41;
-	public const IconLabelInfo.IconKind DIFFER_COST = 42;
-	public const IconLabelInfo.IconKind REINFORCEMENT_HP = 43;
-	public const IconLabelInfo.IconKind REINFORCEMENT_ATK = 44;
-	public const IconLabelInfo.IconKind EXTENTION_HP = 45;
-	public const IconLabelInfo.IconKind EXTENTION_ATK = 46;
-	public const IconLabelInfo.IconKind FOLLOWER_SKILL_LEVEL = 47;
-	public const IconLabelInfo.IconKind YEAR_DATE = 48;
-	public const IconLabelInfo.IconKind ALL_COSTUME = 49;
-	public const IconLabelInfo.IconKind HAVE_COSTUME = 50;
-	public const IconLabelInfo.IconKind NOT_HAVE_COSTUME = 51;
-	public const IconLabelInfo.IconKind NOT_HAVE_RELEASE_ITEM = 52;
-	public const IconLabelInfo.IconKind LIMIT_COUNT2 = 53;
-	public const IconLabelInfo.IconKind FOLLOWER_FRIEND_POINT = 54;
-	public const IconLabelInfo.IconKind NOT_HAVING_SHOP_ITEM_RECEIVE = 55;
+	public const IconLabelInfo.IconKind GRAIL_FRAGMENTS = 31;
+	public const IconLabelInfo.IconKind FRIEND_RANK = 32;
+	public const IconLabelInfo.IconKind NP_LEVEL = 33;
+	public const IconLabelInfo.IconKind NP_ICON_LEVEL = 34;
+	public const IconLabelInfo.IconKind RARITY = 35;
+	public const IconLabelInfo.IconKind RARITY_EXCEED = 36;
+	public const IconLabelInfo.IconKind AMOUNT = 37;
+	public const IconLabelInfo.IconKind ADD_HP = 38;
+	public const IconLabelInfo.IconKind ADD_ATK = 39;
+	public const IconLabelInfo.IconKind ADD_COST = 40;
+	public const IconLabelInfo.IconKind DIFFER_HP = 41;
+	public const IconLabelInfo.IconKind DIFFER_ATK = 42;
+	public const IconLabelInfo.IconKind DIFFER_COST = 43;
+	public const IconLabelInfo.IconKind REINFORCEMENT_HP = 44;
+	public const IconLabelInfo.IconKind REINFORCEMENT_ATK = 45;
+	public const IconLabelInfo.IconKind EXTENTION_HP = 46;
+	public const IconLabelInfo.IconKind EXTENTION_ATK = 47;
+	public const IconLabelInfo.IconKind FOLLOWER_SKILL_LEVEL = 48;
+	public const IconLabelInfo.IconKind YEAR_DATE = 49;
+	public const IconLabelInfo.IconKind ALL_COSTUME = 50;
+	public const IconLabelInfo.IconKind HAVE_COSTUME = 51;
+	public const IconLabelInfo.IconKind NOT_HAVE_COSTUME = 52;
+	public const IconLabelInfo.IconKind NOT_HAVE_RELEASE_ITEM = 53;
+	public const IconLabelInfo.IconKind LIMIT_COUNT2 = 54;
+	public const IconLabelInfo.IconKind FOLLOWER_FRIEND_POINT = 55;
+	public const IconLabelInfo.IconKind NOT_HAVING_SHOP_ITEM_RECEIVE = 56;
 }

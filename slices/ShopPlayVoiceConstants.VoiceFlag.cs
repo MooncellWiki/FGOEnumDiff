@@ -1,4 +1,4 @@
-public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 9705
+public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 9725
 {
 	// Fields
 	public int value__; // 0x0
@@ -16,4 +16,5 @@ public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 9705
 	public const ShopPlayVoiceConstants.VoiceFlag BACK_SHOP2 = 4096;
 	public const ShopPlayVoiceConstants.VoiceFlag CANCEL_SHOP = 8192;
 	public const ShopPlayVoiceConstants.VoiceFlag ENTER_SPECIAL_ITEM_SHOP = 16384;
+	public const ShopPlayVoiceConstants.VoiceFlag ENTER_GRAIL_FRAGMENTS_SHOP = 32768;
 }

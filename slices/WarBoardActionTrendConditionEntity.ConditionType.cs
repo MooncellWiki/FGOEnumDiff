@@ -1,4 +1,4 @@
-public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 7064
+public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 7071
 {
 	// Fields
 	public int value__; // 0x0
@@ -71,4 +71,49 @@ public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 70
 	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_ENEMY_MASTER_RANGE_NO_CHANGE = 67;
 	public const WarBoardActionTrendConditionEntity.ConditionType ATTACK_MASTER = 68;
 	public const WarBoardActionTrendConditionEntity.ConditionType NOT_ATTACK_MASTER = 69;
+	public const WarBoardActionTrendConditionEntity.ConditionType ACTION_TYPE = 70;
+	public const WarBoardActionTrendConditionEntity.ConditionType ACTION_COUNT_ON_THIS_TURN = 71;
+	public const WarBoardActionTrendConditionEntity.ConditionType ACTION_COUNT_ON_THIS_TURN_OVER = 72;
+	public const WarBoardActionTrendConditionEntity.ConditionType ACTION_COUNT_ON_THIS_TURN_UNDER = 73;
+	public const WarBoardActionTrendConditionEntity.ConditionType EXIST_TARGET = 74;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_EXIST_TARGET = 75;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_TARGET_ENEMY = 76;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_NOT_TARGET_ENEMY = 77;
+	public const WarBoardActionTrendConditionEntity.ConditionType AROUND_TARGET = 78;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOR_AROUND_TARGET = 79;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_TARGET_RANGE_APPROACH = 80;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_TARGET_RANGE_LEAVE = 81;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_TARGET_RANGE_NO_CHANGE = 82;
+	public const WarBoardActionTrendConditionEntity.ConditionType DETOUR_TARGET_ROUTE = 83;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_DETOUR_TARGET_ROUTE = 84;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_USE_DRTOUR_TARGET_RANGE_APPROACH = 85;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_USE_DRTOUR_TARGET_RANGE_LEAVE = 86;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_USE_DRTOUR_TARGET_RANGE_NO_CHANGE = 87;
+	public const WarBoardActionTrendConditionEntity.ConditionType ALLY_BLOCK_SHORTEST_ROUTE_ENEMY_AND_MASTER = 88;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_ALLY_BLOCK_SHORTEST_ROUTE_ENEMY_AND_MASTER = 89;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOBE_BY_ALLY_BLOCK_SHORTEST_ROUTE_ENEMY_AND_MASTER = 90;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOBE_BY_NOT_ALLY_BLOCK_SHORTEST_ROUTE_ENEMY_AND_MASTER = 91;
+	public const WarBoardActionTrendConditionEntity.ConditionType ON_SHORTEST_ROUTE_ENEMY_AND_MASTER = 92;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_ON_SHORTEST_ROUTE_ENEMY_AND_MASTER = 93;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_ON_SHORTEST_ROUTE_ENEMY_AND_MASTER = 94;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_NOT_ON_SHORTEST_ROUTE_ENEMY_AND_MASTER = 95;
+	public const WarBoardActionTrendConditionEntity.ConditionType ENEMY_IN_SHORTEST_ROUTE_TARGET = 96;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_ENEMY_IN_SHORTEST_ROUTE_TARGET = 97;
+	public const WarBoardActionTrendConditionEntity.ConditionType EXIST_ENEMY_IN_RANGE_UNDER = 98;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_EXIST_ENEMY_IN_RANGE_UNDER = 99;
+	public const WarBoardActionTrendConditionEntity.ConditionType ATTACK_COUNT_ON_THIS_TURN = 100;
+	public const WarBoardActionTrendConditionEntity.ConditionType ATTACK_COUNT_ON_THIS_TURN_OVER = 101;
+	public const WarBoardActionTrendConditionEntity.ConditionType ATTACK_COUNT_ON_THIS_TURN_UNDER = 102;
+	public const WarBoardActionTrendConditionEntity.ConditionType AROUND_ALLY_MASTER = 103;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_AROUND_ALLY_MASTER = 104;
+	public const WarBoardActionTrendConditionEntity.ConditionType AROUND_ALLY_SERVANT = 105;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_AROUND_ALLY_SERVANT = 106;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_MASTER_ENEMY_SHORTEST_ROUTE_WITHIN_ALLY_SERVANT = 107;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_MOVE_BY_MASTER_ENEMY_SHORTEST_ROUTE_WITHIN_ALLY_SERVANT = 108;
+	public const WarBoardActionTrendConditionEntity.ConditionType DEFENSE_AREA_WITHIN_ENEMY_ALL_BLOCK = 109;
+	public const WarBoardActionTrendConditionEntity.ConditionType NOT_DEFENSE_AREA_WITHIN_ENEMY_ALL_BLOCK = 110;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_TARGET_ALLY = 111;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_NOT_TARGET_ALLY = 112;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_ON_DETOUR_ROUTE = 113;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_NOT_ON_DETOUR_ROUTE = 114;
 }

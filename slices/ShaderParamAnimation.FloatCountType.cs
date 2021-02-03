@@ -1,4 +1,4 @@
-public enum ShaderParamAnimation.FloatCountType // TypeDefIndex: 8044
+public enum ShaderParamAnimation.FloatCountType // TypeDefIndex: 8062
 {
 	// Fields
 	public int value__; // 0x0

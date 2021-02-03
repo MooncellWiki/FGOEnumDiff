@@ -1,4 +1,4 @@
-protected enum MyRoomHelpListViewObject.State // TypeDefIndex: 9379
+protected enum MyRoomHelpListViewObject.State // TypeDefIndex: 9399
 {
 	// Fields
 	public int value__; // 0x0

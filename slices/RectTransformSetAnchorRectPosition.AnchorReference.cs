@@ -1,4 +1,4 @@
-public enum RectTransformSetAnchorRectPosition.AnchorReference // TypeDefIndex: 11691
+public enum RectTransformSetAnchorRectPosition.AnchorReference // TypeDefIndex: 11742
 {
 	// Fields
 	public int value__; // 0x0

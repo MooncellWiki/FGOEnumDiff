@@ -1,4 +1,4 @@
-public enum TerminalPramsManager.eDispState // TypeDefIndex: 10417
+public enum TerminalPramsManager.eDispState // TypeDefIndex: 10435
 {
 	// Fields
 	public int value__; // 0x0

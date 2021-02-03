@@ -1,4 +1,4 @@
-public enum ConditionsInformation.REFINE // TypeDefIndex: 8326
+public enum ConditionsInformation.REFINE // TypeDefIndex: 8346
 {
 	// Fields
 	public int value__; // 0x0

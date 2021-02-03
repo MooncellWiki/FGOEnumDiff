@@ -343,4 +343,6 @@ public enum DataNameKind.Kind // TypeDefIndex: 5764
 	public const DataNameKind.Kind FRIENDSHIP_QUEST_DIALOG_INFO = 338;
 	public const DataNameKind.Kind QUEST_RESTRICTION_INFO = 339;
 	public const DataNameKind.Kind ASSIST = 340;
+	public const DataNameKind.Kind WARBOARD_EFFECT = 341;
+	public const DataNameKind.Kind WARBOARD_ONBOARD_SKILL = 342;
 }

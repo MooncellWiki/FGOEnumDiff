@@ -1,4 +1,4 @@
-public enum ShopRootConstants.State // TypeDefIndex: 9712
+public enum ShopRootConstants.State // TypeDefIndex: 9733
 {
 	// Fields
 	public int value__; // 0x0
@@ -16,4 +16,5 @@ public enum ShopRootConstants.State // TypeDefIndex: 9712
 	public const ShopRootConstants.State SERVANT_STORAGE = 11;
 	public const ShopRootConstants.State EQUIP_STORAGE = 12;
 	public const ShopRootConstants.State HELP = 13;
+	public const ShopRootConstants.State GRAIL_FRAGMENTS = 14;
 }

@@ -1,4 +1,4 @@
-public enum SpotEntity.enSpotCondType // TypeDefIndex: 6840
+public enum SpotEntity.enSpotCondType // TypeDefIndex: 6847
 {
 	// Fields
 	public int value__; // 0x0

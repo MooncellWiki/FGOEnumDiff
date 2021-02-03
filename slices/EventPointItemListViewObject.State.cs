@@ -1,4 +1,4 @@
-protected enum EventPointItemListViewObject.State // TypeDefIndex: 8932
+protected enum EventPointItemListViewObject.State // TypeDefIndex: 8952
 {
 	// Fields
 	public int value__; // 0x0
