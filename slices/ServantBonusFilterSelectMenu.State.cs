@@ -1,4 +1,4 @@
-protected enum ServantBonusFilterSelectMenu.State // TypeDefIndex: 5335
+protected enum ServantBonusFilterSelectMenu.State // TypeDefIndex: 5336
 {
 	// Fields
 	public int value__; // 0x0

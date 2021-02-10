@@ -1,4 +1,4 @@
-internal enum TargetType // TypeDefIndex: 2054
+internal enum TargetType // TypeDefIndex: 2055
 {
 	// Fields
 	public int value__; // 0x0

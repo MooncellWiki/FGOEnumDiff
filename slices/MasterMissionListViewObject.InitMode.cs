@@ -1,4 +1,4 @@
-public enum MasterMissionListViewObject.InitMode // TypeDefIndex: 5242
+public enum MasterMissionListViewObject.InitMode // TypeDefIndex: 5243
 {
 	// Fields
 	public int value__; // 0x0

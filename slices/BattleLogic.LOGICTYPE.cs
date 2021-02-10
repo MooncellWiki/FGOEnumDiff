@@ -1,4 +1,4 @@
-public enum BattleLogic.LOGICTYPE // TypeDefIndex: 8362
+public enum BattleLogic.LOGICTYPE // TypeDefIndex: 8376
 {
 	// Fields
 	public int value__; // 0x0
@@ -52,11 +52,14 @@ public enum BattleLogic.LOGICTYPE // TypeDefIndex: 8362
 	public const BattleLogic.LOGICTYPE FIELDAI_START_ENEMYTURN = 47;
 	public const BattleLogic.LOGICTYPE FIELDAI_END_ENEMYTURN = 48;
 	public const BattleLogic.LOGICTYPE CHECK_OVERKILL = 49;
-	public const BattleLogic.LOGICTYPE RESET_ENEMYACTLIST = 50;
-	public const BattleLogic.LOGICTYPE UPDATE_SHIFTSERVANT = 51;
-	public const BattleLogic.LOGICTYPE ACT_SHIFTSERVANT = 52;
-	public const BattleLogic.LOGICTYPE AFTER_SHIFTSERVANT = 53;
-	public const BattleLogic.LOGICTYPE PLAYER_ATTACK_TERM = 54;
-	public const BattleLogic.LOGICTYPE ENEMY_ATTACK_TERM = 55;
-	public const BattleLogic.LOGICTYPE LOGIC_TERM = 56;
+	public const BattleLogic.LOGICTYPE CHECK_IMMEDIATE_ENTRY = 50;
+	public const BattleLogic.LOGICTYPE START_IMMEDIATE_ENTRY = 51;
+	public const BattleLogic.LOGICTYPE AFTER_IMMEDIATE_ENTRY = 52;
+	public const BattleLogic.LOGICTYPE RESET_ENEMYACTLIST = 53;
+	public const BattleLogic.LOGICTYPE UPDATE_SHIFTSERVANT = 54;
+	public const BattleLogic.LOGICTYPE ACT_SHIFTSERVANT = 55;
+	public const BattleLogic.LOGICTYPE AFTER_SHIFTSERVANT = 56;
+	public const BattleLogic.LOGICTYPE PLAYER_ATTACK_TERM = 57;
+	public const BattleLogic.LOGICTYPE ENEMY_ATTACK_TERM = 58;
+	public const BattleLogic.LOGICTYPE LOGIC_TERM = 59;
 }

@@ -1,4 +1,4 @@
-public enum DatFileName.FILE_NAME // TypeDefIndex: 5766
+public enum DatFileName.FILE_NAME // TypeDefIndex: 5767
 {
 	// Fields
 	public int value__; // 0x0
@@ -32,5 +32,6 @@ public enum DatFileName.FILE_NAME // TypeDefIndex: 5766
 	public const DatFileName.FILE_NAME SERVANT_PROFILE_LIMIT_COUNT = 27;
 	public const DatFileName.FILE_NAME SERVANT_PROFILE_EVENT_JOIN = 28;
 	public const DatFileName.FILE_NAME BATTLE_USE_CONTINUE_ITEM_REQUEST_SAVE = 29;
-	public const DatFileName.FILE_NAME SUM = 30;
+	public const DatFileName.FILE_NAME BATTLE_USE_ITEM_REQUEST = 30;
+	public const DatFileName.FILE_NAME SUM = 31;
 }

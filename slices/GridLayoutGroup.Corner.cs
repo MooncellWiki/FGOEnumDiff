@@ -1,4 +1,4 @@
-public enum GridLayoutGroup.Corner // TypeDefIndex: 3069
+public enum GridLayoutGroup.Corner // TypeDefIndex: 3070
 {
 	// Fields
 	public int value__; // 0x0

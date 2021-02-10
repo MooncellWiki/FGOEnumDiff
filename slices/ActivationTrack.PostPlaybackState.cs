@@ -1,4 +1,4 @@
-public enum ActivationTrack.PostPlaybackState // TypeDefIndex: 3315
+public enum ActivationTrack.PostPlaybackState // TypeDefIndex: 3316
 {
 	// Fields
 	public int value__; // 0x0

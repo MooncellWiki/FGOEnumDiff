@@ -1,4 +1,4 @@
-public enum UIRect.AnchorUpdate // TypeDefIndex: 11125
+public enum UIRect.AnchorUpdate // TypeDefIndex: 11149
 {
 	// Fields
 	public int value__; // 0x0

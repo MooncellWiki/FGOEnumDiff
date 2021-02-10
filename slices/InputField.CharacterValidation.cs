@@ -1,4 +1,4 @@
-public enum InputField.CharacterValidation // TypeDefIndex: 3013
+public enum InputField.CharacterValidation // TypeDefIndex: 3014
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-internal enum UnityWebRequest.UnityWebRequestMethod // TypeDefIndex: 2652
+internal enum UnityWebRequest.UnityWebRequestMethod // TypeDefIndex: 2653
 {
 	// Fields
 	public int value__; // 0x0

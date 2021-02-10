@@ -1,4 +1,4 @@
-public enum NpcServantFollowerEntity.FlagKind // TypeDefIndex: 6637
+public enum NpcServantFollowerEntity.FlagKind // TypeDefIndex: 6648
 {
 	// Fields
 	public int value__; // 0x0

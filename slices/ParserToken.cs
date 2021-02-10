@@ -1,4 +1,4 @@
-internal enum ParserToken // TypeDefIndex: 3949
+internal enum ParserToken // TypeDefIndex: 3950
 {
 	// Fields
 	public int value__; // 0x0

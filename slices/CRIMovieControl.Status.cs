@@ -1,4 +1,4 @@
-public enum CRIMovieControl.Status // TypeDefIndex: 8869
+public enum CRIMovieControl.Status // TypeDefIndex: 8884
 {
 	// Fields
 	public int value__; // 0x0

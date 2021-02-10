@@ -1,4 +1,4 @@
-public enum CurveAutoTangentModes // TypeDefIndex: 3476
+public enum CurveAutoTangentModes // TypeDefIndex: 3477
 {
 	// Fields
 	public int value__; // 0x0

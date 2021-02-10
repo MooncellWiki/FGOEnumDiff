@@ -1,4 +1,4 @@
-protected enum EventTowerListViewObject.State // TypeDefIndex: 9043
+protected enum EventTowerListViewObject.State // TypeDefIndex: 9064
 {
 	// Fields
 	public int value__; // 0x0

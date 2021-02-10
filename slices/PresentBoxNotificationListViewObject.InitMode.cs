@@ -1,4 +1,4 @@
-public enum PresentBoxNotificationListViewObject.InitMode // TypeDefIndex: 5280
+public enum PresentBoxNotificationListViewObject.InitMode // TypeDefIndex: 5281
 {
 	// Fields
 	public int value__; // 0x0

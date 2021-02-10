@@ -1,4 +1,4 @@
-public enum SetTargetObjectMatrix.RendererType // TypeDefIndex: 8618
+public enum SetTargetObjectMatrix.RendererType // TypeDefIndex: 8633
 {
 	// Fields
 	public int value__; // 0x0

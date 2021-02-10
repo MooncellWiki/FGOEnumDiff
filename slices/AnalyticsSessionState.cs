@@ -1,4 +1,4 @@
-public enum AnalyticsSessionState // TypeDefIndex: 2828
+public enum AnalyticsSessionState // TypeDefIndex: 2829
 {
 	// Fields
 	public int value__; // 0x0

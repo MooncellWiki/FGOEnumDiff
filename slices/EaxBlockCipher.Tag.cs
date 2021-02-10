@@ -1,4 +1,4 @@
-private enum EaxBlockCipher.Tag // TypeDefIndex: 4507
+private enum EaxBlockCipher.Tag // TypeDefIndex: 4508
 {
 	// Fields
 	public byte value__; // 0x0

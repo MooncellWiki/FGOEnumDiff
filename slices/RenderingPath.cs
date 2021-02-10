@@ -1,4 +1,4 @@
-public enum RenderingPath // TypeDefIndex: 2170
+public enum RenderingPath // TypeDefIndex: 2171
 {
 	// Fields
 	public int value__; // 0x0

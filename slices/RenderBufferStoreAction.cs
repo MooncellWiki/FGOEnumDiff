@@ -1,4 +1,4 @@
-public enum RenderBufferStoreAction // TypeDefIndex: 2199
+public enum RenderBufferStoreAction // TypeDefIndex: 2200
 {
 	// Fields
 	public int value__; // 0x0

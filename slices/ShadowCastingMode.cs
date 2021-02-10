@@ -1,4 +1,4 @@
-public enum ShadowCastingMode // TypeDefIndex: 2207
+public enum ShadowCastingMode // TypeDefIndex: 2208
 {
 	// Fields
 	public int value__; // 0x0

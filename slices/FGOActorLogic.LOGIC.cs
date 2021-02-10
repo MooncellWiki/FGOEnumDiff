@@ -1,4 +1,4 @@
-public enum FGOActorLogic.LOGIC // TypeDefIndex: 7379
+public enum FGOActorLogic.LOGIC // TypeDefIndex: 7390
 {
 	// Fields
 	public int value__; // 0x0

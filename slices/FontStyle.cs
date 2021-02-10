@@ -1,4 +1,4 @@
-public enum FontStyle // TypeDefIndex: 2635
+public enum FontStyle // TypeDefIndex: 2636
 {
 	// Fields
 	public int value__; // 0x0

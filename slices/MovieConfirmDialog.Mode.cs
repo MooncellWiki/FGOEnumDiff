@@ -1,4 +1,4 @@
-public enum MovieConfirmDialog.Mode // TypeDefIndex: 5267
+public enum MovieConfirmDialog.Mode // TypeDefIndex: 5268
 {
 	// Fields
 	public int value__; // 0x0

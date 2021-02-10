@@ -1,4 +1,4 @@
-public enum InputField.InputType // TypeDefIndex: 3012
+public enum InputField.InputType // TypeDefIndex: 3013
 {
 	// Fields
 	public int value__; // 0x0

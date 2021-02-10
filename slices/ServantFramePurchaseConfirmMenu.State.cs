@@ -1,4 +1,4 @@
-protected enum ServantFramePurchaseConfirmMenu.State // TypeDefIndex: 5311
+protected enum ServantFramePurchaseConfirmMenu.State // TypeDefIndex: 5312
 {
 	// Fields
 	public int value__; // 0x0

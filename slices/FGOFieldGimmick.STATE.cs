@@ -1,4 +1,4 @@
-public enum FGOFieldGimmick.STATE // TypeDefIndex: 7450
+public enum FGOFieldGimmick.STATE // TypeDefIndex: 7461
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum InputField.LineType // TypeDefIndex: 3014
+public enum InputField.LineType // TypeDefIndex: 3015
 {
 	// Fields
 	public int value__; // 0x0

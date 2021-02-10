@@ -1,4 +1,4 @@
-internal enum LightmapType // TypeDefIndex: 2214
+internal enum LightmapType // TypeDefIndex: 2215
 {
 	// Fields
 	public int value__; // 0x0

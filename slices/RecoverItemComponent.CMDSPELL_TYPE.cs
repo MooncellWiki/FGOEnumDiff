@@ -1,4 +1,4 @@
-public enum RecoverItemComponent.CMDSPELL_TYPE // TypeDefIndex: 5300
+public enum RecoverItemComponent.CMDSPELL_TYPE // TypeDefIndex: 5301
 {
 	// Fields
 	public int value__; // 0x0

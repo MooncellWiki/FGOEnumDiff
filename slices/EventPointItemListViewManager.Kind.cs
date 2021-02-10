@@ -1,4 +1,4 @@
-public enum EventPointItemListViewManager.Kind // TypeDefIndex: 8947
+public enum EventPointItemListViewManager.Kind // TypeDefIndex: 8962
 {
 	// Fields
 	public int value__; // 0x0

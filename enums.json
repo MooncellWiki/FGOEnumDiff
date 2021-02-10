@@ -1335,7 +1335,8 @@
     "RANDOM_LIMIT_COUNT": "17",
     "RANDOM_LIMIT_COUNT_SUPPORT": "18",
     "SVT_LIMIT_SPOILER_PROTECTION": "19",
-    "SVT_LIMIT_DISPLAY_SETTING": "20"
+    "SVT_LIMIT_DISPLAY_SETTING": "20",
+    "BIRTHDAY_SETTING": "21"
   },
   "TitleInfoWarBoardTitleComponent.STATE": {
     "NONE": "0",
@@ -2224,7 +2225,8 @@
     "ITEM_SELECT": "24",
     "COMMAND_CARD_PRM_UP": "25",
     "DICE": "26",
-    "CONTINUE_ITEM": "27"
+    "CONTINUE_ITEM": "27",
+    "EUQIP_SKILL_USE_ITEM": "28"
   },
   "BlockState": {
     "NeedMore": "0",
@@ -5591,7 +5593,8 @@
     "QUEST_RESTRICTION_INFO": "339",
     "ASSIST": "340",
     "WARBOARD_EFFECT": "341",
-    "WARBOARD_ONBOARD_SKILL": "342"
+    "WARBOARD_ONBOARD_SKILL": "342",
+    "BEFORE_BIRTH_DAY": "343"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -5795,7 +5798,8 @@
     "SELECT_PARTY": "8"
   },
   "UserShopFlag.FlagKind": {
-    "RECEIVED_SHOP_ITEM": "1"
+    "RECEIVED_SHOP_ITEM": "1",
+    "USED_ADD_BUFF_ITEM": "2"
   },
   "CombineRootComponent.CombineTutorialProgress": {
     "TOP_SVT_COMBINE": "0",
@@ -6452,6 +6456,11 @@
     "VALID": "2",
     "INPUT": "3",
     "MODIFY": "4"
+  },
+  "InputUserBirthDayConfirmWindow.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "CLOSE": "2"
   },
   "SupportSelectRootComponent.ResultKind": {
     "CANCEL": "0",
@@ -7648,7 +7657,8 @@
     "SOLD_OUT": "32768",
     "COMMIT_AFTER_SCRIPT": "65536",
     "EXCHANGESERVANT_ICON_DISPLAY_TARGET": "131072",
-    "SHOW_INDEFINITE_PERIOD": "262144"
+    "SHOW_INDEFINITE_PERIOD": "262144",
+    "FLAG_ON_USED_ADD_BUFF_ITEM_BY_ANOTHER_PAY": "524288"
   },
   "MultiplyTargetMatrix.MaterialType": {
     "ShareMaterial": "0",
@@ -8660,7 +8670,8 @@
     "WARBOARD_RESUME": "98",
     "EVENT_SCAN_PANEL_MAP": "99",
     "BATTLE_USE_CONTINUE_ITEM": "100",
-    "CHECK_DATE_VERSION": "101"
+    "CHECK_DATE_VERSION": "101",
+    "BATTLE_USE_ITEM": "102"
   },
   "ServantEquipFramePurchaseConfirmMenu.Kind": {
     "FRAME": "0",
@@ -9928,7 +9939,8 @@
     "SERVANT_PROFILE_LIMIT_COUNT": "27",
     "SERVANT_PROFILE_EVENT_JOIN": "28",
     "BATTLE_USE_CONTINUE_ITEM_REQUEST_SAVE": "29",
-    "SUM": "30"
+    "BATTLE_USE_ITEM_REQUEST": "30",
+    "SUM": "31"
   },
   "iTween.NamedValueColor": {
     "_Color": "0",
@@ -10602,7 +10614,8 @@
     "FORCE_TO_NO_DROP": "1125899906842624",
     "DISPLAY_CONSUME_ICON": "2251799813685248",
     "HARVEST": "4503599627370496",
-    "RECONSTRUCTION": "9007199254740992"
+    "RECONSTRUCTION": "9007199254740992",
+    "ENEMY_IMMEDIATE_APPEAR": "18014398509481984"
   },
   "SummonEffectComponent.NoticeEffect": {
     "NONE": "0",
@@ -13080,7 +13093,8 @@
     "WITHDRAW": "37",
     "SHIFT_SERVANT_AFTER": "38",
     "CHANGE_APP": "39",
-    "ENEMY_MASTER_CUTIN": "40"
+    "ENEMY_MASTER_CUTIN": "40",
+    "LOAD_IMMEDIATE_ENTRY_SERVANT": "41"
   },
   "FingerHoverPhase": {
     "None": "0",
@@ -13458,7 +13472,8 @@
     "SYSTEM": "1",
     "FIELD": "2",
     "MOTION": "3",
-    "ENEMY_MASTER": "4"
+    "ENEMY_MASTER": "4",
+    "LOAD_IMMEDIATE_ENTRY_SERVANT": "5"
   },
   "CombineCommandCodeListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -13610,13 +13625,16 @@
     "FIELDAI_START_ENEMYTURN": "47",
     "FIELDAI_END_ENEMYTURN": "48",
     "CHECK_OVERKILL": "49",
-    "RESET_ENEMYACTLIST": "50",
-    "UPDATE_SHIFTSERVANT": "51",
-    "ACT_SHIFTSERVANT": "52",
-    "AFTER_SHIFTSERVANT": "53",
-    "PLAYER_ATTACK_TERM": "54",
-    "ENEMY_ATTACK_TERM": "55",
-    "LOGIC_TERM": "56"
+    "CHECK_IMMEDIATE_ENTRY": "50",
+    "START_IMMEDIATE_ENTRY": "51",
+    "AFTER_IMMEDIATE_ENTRY": "52",
+    "RESET_ENEMYACTLIST": "53",
+    "UPDATE_SHIFTSERVANT": "54",
+    "ACT_SHIFTSERVANT": "55",
+    "AFTER_SHIFTSERVANT": "56",
+    "PLAYER_ATTACK_TERM": "57",
+    "ENEMY_ATTACK_TERM": "58",
+    "LOGIC_TERM": "59"
   },
   "UserItemListViewManager.Type": {
     "STONE": "1",
@@ -13840,7 +13858,8 @@
     "SOLD_OUT": "15",
     "COMMIT_AFTER_SCRIPT": "16",
     "EXCHANGESERVANT_ICON_DISPLAY_TARGET": "17",
-    "SHOW_INDEFINITE_PERIOD": "18"
+    "SHOW_INDEFINITE_PERIOD": "18",
+    "FLAG_ON_USED_ADD_BUFF_ITEM_BY_ANOTHER_PAY": "19"
   },
   "BattleSkillInfoData.TYPE": {
     "NONE": "0",
@@ -14031,6 +14050,12 @@
     "SERVANT_EQUIP": "1",
     "SERVANT_COSTUME": "2",
     "COMMAND_CODE": "3"
+  },
+  "EventRewardAnotherPayConfirmDialog.BuyState": {
+    "Cancel": "0",
+    "Decide": "1",
+    "Normal": "2",
+    "Another": "3"
   },
   "ShadowSamplingMode": {
     "CompareDepths": "0",
@@ -14242,7 +14267,8 @@
     "NoFont": "4"
   },
   "UserShopFlag.Flag": {
-    "RECEIVED_SHOP_ITEM": "2"
+    "RECEIVED_SHOP_ITEM": "2",
+    "USED_ADD_BUFF_ITEM": "4"
   },
   "RefreshProperties": {
     "All": "1",
@@ -16301,6 +16327,14 @@
     "RightAfterUp": "1",
     "AlreadyUp": "2"
   },
+  "EventRewardAnotherPayConfirmDialog.State": {
+    "INIT": "0",
+    "INPUT": "1",
+    "OPEN_BASE": "2",
+    "OPEN_CHOICES": "3",
+    "OPEN_PURCHASED": "4",
+    "OPEN_RESULT": "5"
+  },
   "HostSecurityManagerOptions": {
     "None": "0",
     "HostAppDomainEvidence": "1",
@@ -16515,7 +16549,8 @@
     "RANDOM_LIMIT_COUNT": "131072",
     "RANDOM_LIMIT_COUNT_SUPPORT": "262144",
     "SVT_LIMIT_SPOILER_PROTECTION": "524288",
-    "SVT_LIMIT_DISPLAY_SETTING": "1048576"
+    "SVT_LIMIT_DISPLAY_SETTING": "1048576",
+    "BIRTHDAY_SETTING": "2097152"
   },
   "CombineCommandCardComponent.Kind": {
     "LOCK": "0",
@@ -19060,7 +19095,11 @@
     "RAID_BATTLE_PROGRESS_ABOVE": "140",
     "SVT_EQUIP_RARITY_LEVEL_NUM": "141",
     "LATEST_MAIN_SCENARIO_WAR_CLEAR": "142",
-    "EVENT_MAP_VALUE_CONTAINS": "143"
+    "EVENT_MAP_VALUE_CONTAINS": "143",
+    "RESET_BIRTH_DAY": "144",
+    "SHOP_FLAG_ON": "145",
+    "SHOP_FLAG_OFF": "146",
+    "PURCHASE_VALID_SHOP_GROUP": "147"
   },
   "ServerSettingMenu.State": {
     "INIT": "0",

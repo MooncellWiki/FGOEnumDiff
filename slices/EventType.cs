@@ -1,4 +1,4 @@
-public enum EventType // TypeDefIndex: 2732
+public enum EventType // TypeDefIndex: 2733
 {
 	// Fields
 	public int value__; // 0x0
@@ -21,43 +21,43 @@ public enum EventType // TypeDefIndex: 2732
 	public const EventType ContextClick = 16;
 	public const EventType MouseEnterWindow = 20;
 	public const EventType MouseLeaveWindow = 21;
-	[EditorBrowsableAttribute] // RVA: 0x45C698 Offset: 0x45C698 VA: 0x45C698
-	[ObsoleteAttribute] // RVA: 0x45C698 Offset: 0x45C698 VA: 0x45C698
+	[EditorBrowsableAttribute] // RVA: 0x45E8B0 Offset: 0x45E8B0 VA: 0x45E8B0
+	[ObsoleteAttribute] // RVA: 0x45E8B0 Offset: 0x45E8B0 VA: 0x45E8B0
 	public const EventType mouseDown = 0;
-	[EditorBrowsableAttribute] // RVA: 0x45C718 Offset: 0x45C718 VA: 0x45C718
-	[ObsoleteAttribute] // RVA: 0x45C718 Offset: 0x45C718 VA: 0x45C718
+	[EditorBrowsableAttribute] // RVA: 0x45E930 Offset: 0x45E930 VA: 0x45E930
+	[ObsoleteAttribute] // RVA: 0x45E930 Offset: 0x45E930 VA: 0x45E930
 	public const EventType mouseUp = 1;
-	[EditorBrowsableAttribute] // RVA: 0x45C794 Offset: 0x45C794 VA: 0x45C794
-	[ObsoleteAttribute] // RVA: 0x45C794 Offset: 0x45C794 VA: 0x45C794
+	[EditorBrowsableAttribute] // RVA: 0x45E9AC Offset: 0x45E9AC VA: 0x45E9AC
+	[ObsoleteAttribute] // RVA: 0x45E9AC Offset: 0x45E9AC VA: 0x45E9AC
 	public const EventType mouseMove = 2;
-	[ObsoleteAttribute] // RVA: 0x45C814 Offset: 0x45C814 VA: 0x45C814
-	[EditorBrowsableAttribute] // RVA: 0x45C814 Offset: 0x45C814 VA: 0x45C814
+	[ObsoleteAttribute] // RVA: 0x45EA2C Offset: 0x45EA2C VA: 0x45EA2C
+	[EditorBrowsableAttribute] // RVA: 0x45EA2C Offset: 0x45EA2C VA: 0x45EA2C
 	public const EventType mouseDrag = 3;
-	[ObsoleteAttribute] // RVA: 0x45C894 Offset: 0x45C894 VA: 0x45C894
-	[EditorBrowsableAttribute] // RVA: 0x45C894 Offset: 0x45C894 VA: 0x45C894
+	[ObsoleteAttribute] // RVA: 0x45EAAC Offset: 0x45EAAC VA: 0x45EAAC
+	[EditorBrowsableAttribute] // RVA: 0x45EAAC Offset: 0x45EAAC VA: 0x45EAAC
 	public const EventType keyDown = 4;
-	[EditorBrowsableAttribute] // RVA: 0x45C910 Offset: 0x45C910 VA: 0x45C910
-	[ObsoleteAttribute] // RVA: 0x45C910 Offset: 0x45C910 VA: 0x45C910
+	[EditorBrowsableAttribute] // RVA: 0x45EB28 Offset: 0x45EB28 VA: 0x45EB28
+	[ObsoleteAttribute] // RVA: 0x45EB28 Offset: 0x45EB28 VA: 0x45EB28
 	public const EventType keyUp = 5;
-	[ObsoleteAttribute] // RVA: 0x45C988 Offset: 0x45C988 VA: 0x45C988
-	[EditorBrowsableAttribute] // RVA: 0x45C988 Offset: 0x45C988 VA: 0x45C988
+	[ObsoleteAttribute] // RVA: 0x45EBA0 Offset: 0x45EBA0 VA: 0x45EBA0
+	[EditorBrowsableAttribute] // RVA: 0x45EBA0 Offset: 0x45EBA0 VA: 0x45EBA0
 	public const EventType scrollWheel = 6;
-	[ObsoleteAttribute] // RVA: 0x45CA0C Offset: 0x45CA0C VA: 0x45CA0C
-	[EditorBrowsableAttribute] // RVA: 0x45CA0C Offset: 0x45CA0C VA: 0x45CA0C
+	[ObsoleteAttribute] // RVA: 0x45EC24 Offset: 0x45EC24 VA: 0x45EC24
+	[EditorBrowsableAttribute] // RVA: 0x45EC24 Offset: 0x45EC24 VA: 0x45EC24
 	public const EventType repaint = 7;
-	[ObsoleteAttribute] // RVA: 0x45CA88 Offset: 0x45CA88 VA: 0x45CA88
-	[EditorBrowsableAttribute] // RVA: 0x45CA88 Offset: 0x45CA88 VA: 0x45CA88
+	[ObsoleteAttribute] // RVA: 0x45ECA0 Offset: 0x45ECA0 VA: 0x45ECA0
+	[EditorBrowsableAttribute] // RVA: 0x45ECA0 Offset: 0x45ECA0 VA: 0x45ECA0
 	public const EventType layout = 8;
-	[ObsoleteAttribute] // RVA: 0x45CB00 Offset: 0x45CB00 VA: 0x45CB00
-	[EditorBrowsableAttribute] // RVA: 0x45CB00 Offset: 0x45CB00 VA: 0x45CB00
+	[ObsoleteAttribute] // RVA: 0x45ED18 Offset: 0x45ED18 VA: 0x45ED18
+	[EditorBrowsableAttribute] // RVA: 0x45ED18 Offset: 0x45ED18 VA: 0x45ED18
 	public const EventType dragUpdated = 9;
-	[EditorBrowsableAttribute] // RVA: 0x45CB84 Offset: 0x45CB84 VA: 0x45CB84
-	[ObsoleteAttribute] // RVA: 0x45CB84 Offset: 0x45CB84 VA: 0x45CB84
+	[EditorBrowsableAttribute] // RVA: 0x45ED9C Offset: 0x45ED9C VA: 0x45ED9C
+	[ObsoleteAttribute] // RVA: 0x45ED9C Offset: 0x45ED9C VA: 0x45ED9C
 	public const EventType dragPerform = 10;
-	[EditorBrowsableAttribute] // RVA: 0x45CC08 Offset: 0x45CC08 VA: 0x45CC08
-	[ObsoleteAttribute] // RVA: 0x45CC08 Offset: 0x45CC08 VA: 0x45CC08
+	[EditorBrowsableAttribute] // RVA: 0x45EE20 Offset: 0x45EE20 VA: 0x45EE20
+	[ObsoleteAttribute] // RVA: 0x45EE20 Offset: 0x45EE20 VA: 0x45EE20
 	public const EventType ignore = 11;
-	[ObsoleteAttribute] // RVA: 0x45CC80 Offset: 0x45CC80 VA: 0x45CC80
-	[EditorBrowsableAttribute] // RVA: 0x45CC80 Offset: 0x45CC80 VA: 0x45CC80
+	[ObsoleteAttribute] // RVA: 0x45EE98 Offset: 0x45EE98 VA: 0x45EE98
+	[EditorBrowsableAttribute] // RVA: 0x45EE98 Offset: 0x45EE98 VA: 0x45EE98
 	public const EventType used = 12;
 }

@@ -1,4 +1,4 @@
-protected enum SampleCardListViewDropObject.State // TypeDefIndex: 10641
+protected enum SampleCardListViewDropObject.State // TypeDefIndex: 10665
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CondType.Kind // TypeDefIndex: 5753
+public enum CondType.Kind // TypeDefIndex: 5754
 {
 	// Fields
 	public int value__; // 0x0
@@ -146,4 +146,8 @@ public enum CondType.Kind // TypeDefIndex: 5753
 	public const CondType.Kind SVT_EQUIP_RARITY_LEVEL_NUM = 141;
 	public const CondType.Kind LATEST_MAIN_SCENARIO_WAR_CLEAR = 142;
 	public const CondType.Kind EVENT_MAP_VALUE_CONTAINS = 143;
+	public const CondType.Kind RESET_BIRTH_DAY = 144;
+	public const CondType.Kind SHOP_FLAG_ON = 145;
+	public const CondType.Kind SHOP_FLAG_OFF = 146;
+	public const CondType.Kind PURCHASE_VALID_SHOP_GROUP = 147;
 }

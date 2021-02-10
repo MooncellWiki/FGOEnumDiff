@@ -1,4 +1,4 @@
-public enum ScriptCharaData.Kind // TypeDefIndex: 7844
+public enum ScriptCharaData.Kind // TypeDefIndex: 7856
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum JsonType // TypeDefIndex: 3924
+public enum JsonType // TypeDefIndex: 3925
 {
 	// Fields
 	public int value__; // 0x0

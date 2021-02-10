@@ -1,4 +1,4 @@
-public enum HTTPFormUsage // TypeDefIndex: 4076
+public enum HTTPFormUsage // TypeDefIndex: 4077
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleScriptRootComponent.QuestTalkPhase // TypeDefIndex: 8628
+public enum BattleScriptRootComponent.QuestTalkPhase // TypeDefIndex: 8643
 {
 	// Fields
 	public int value__; // 0x0

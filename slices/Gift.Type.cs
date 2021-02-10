@@ -1,4 +1,4 @@
-public enum Gift.Type // TypeDefIndex: 5797
+public enum Gift.Type // TypeDefIndex: 5798
 {
 	// Fields
 	public int value__; // 0x0

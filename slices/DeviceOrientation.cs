@@ -1,4 +1,4 @@
-public enum DeviceOrientation // TypeDefIndex: 2229
+public enum DeviceOrientation // TypeDefIndex: 2230
 {
 	// Fields
 	public int value__; // 0x0

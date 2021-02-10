@@ -1,4 +1,4 @@
-public enum EventRewardSetEntity.RewardSetType // TypeDefIndex: 6496
+public enum EventRewardSetEntity.RewardSetType // TypeDefIndex: 6507
 {
 	// Fields
 	public int value__; // 0x0

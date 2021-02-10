@@ -1,4 +1,4 @@
-public enum IconLabelInfo.IconKind // TypeDefIndex: 6023
+public enum IconLabelInfo.IconKind // TypeDefIndex: 6024
 {
 	// Fields
 	public int value__; // 0x0

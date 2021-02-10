@@ -1,4 +1,4 @@
-public enum BuffList.ProgressTurnCond // TypeDefIndex: 5743
+public enum BuffList.ProgressTurnCond // TypeDefIndex: 5744
 {
 	// Fields
 	public int value__; // 0x0

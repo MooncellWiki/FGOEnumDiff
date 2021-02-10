@@ -1,4 +1,4 @@
-public enum ShopFlag.FlagKind // TypeDefIndex: 5841
+public enum ShopFlag.FlagKind // TypeDefIndex: 5842
 {
 	// Fields
 	public int value__; // 0x0
@@ -20,4 +20,5 @@ public enum ShopFlag.FlagKind // TypeDefIndex: 5841
 	public const ShopFlag.FlagKind COMMIT_AFTER_SCRIPT = 16;
 	public const ShopFlag.FlagKind EXCHANGESERVANT_ICON_DISPLAY_TARGET = 17;
 	public const ShopFlag.FlagKind SHOW_INDEFINITE_PERIOD = 18;
+	public const ShopFlag.FlagKind FLAG_ON_USED_ADD_BUFF_ITEM_BY_ANOTHER_PAY = 19;
 }

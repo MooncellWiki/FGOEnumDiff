@@ -1,4 +1,4 @@
-public enum CriDisposableObjectManager.ModuleType // TypeDefIndex: 3818
+public enum CriDisposableObjectManager.ModuleType // TypeDefIndex: 3819
 {
 	// Fields
 	public int value__; // 0x0

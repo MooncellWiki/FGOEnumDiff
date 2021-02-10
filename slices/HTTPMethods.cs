@@ -1,4 +1,4 @@
-public enum HTTPMethods // TypeDefIndex: 4086
+public enum HTTPMethods // TypeDefIndex: 4087
 {
 	// Fields
 	public byte value__; // 0x0

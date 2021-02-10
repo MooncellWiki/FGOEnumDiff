@@ -1,4 +1,4 @@
-public enum HideFlags // TypeDefIndex: 2432
+public enum HideFlags // TypeDefIndex: 2433
 {
 	// Fields
 	public int value__; // 0x0

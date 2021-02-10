@@ -1,4 +1,4 @@
-protected enum ContinueDeviceComponent.State // TypeDefIndex: 9111
+protected enum ContinueDeviceComponent.State // TypeDefIndex: 9132
 {
 	// Fields
 	public int value__; // 0x0

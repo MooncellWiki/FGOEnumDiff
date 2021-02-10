@@ -1,4 +1,4 @@
-public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 10733
+public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 10757
 {
 	// Fields
 	public int value__; // 0x0

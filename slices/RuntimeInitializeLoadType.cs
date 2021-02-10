@@ -1,4 +1,4 @@
-public enum RuntimeInitializeLoadType // TypeDefIndex: 2401
+public enum RuntimeInitializeLoadType // TypeDefIndex: 2402
 {
 	// Fields
 	public int value__; // 0x0

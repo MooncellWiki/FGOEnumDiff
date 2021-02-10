@@ -1,4 +1,4 @@
-public enum UserStatusFlag.Mask // TypeDefIndex: 5876
+public enum UserStatusFlag.Mask // TypeDefIndex: 5877
 {
 	// Fields
 	public int value__; // 0x0
@@ -23,4 +23,5 @@ public enum UserStatusFlag.Mask // TypeDefIndex: 5876
 	public const UserStatusFlag.Mask RANDOM_LIMIT_COUNT_SUPPORT = 262144;
 	public const UserStatusFlag.Mask SVT_LIMIT_SPOILER_PROTECTION = 524288;
 	public const UserStatusFlag.Mask SVT_LIMIT_DISPLAY_SETTING = 1048576;
+	public const UserStatusFlag.Mask BIRTHDAY_SETTING = 2097152;
 }

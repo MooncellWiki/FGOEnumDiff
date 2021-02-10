@@ -1,4 +1,4 @@
-public enum ListViewSort.ExpUpDispType // TypeDefIndex: 7260
+public enum ListViewSort.ExpUpDispType // TypeDefIndex: 7271
 {
 	// Fields
 	public int value__; // 0x0

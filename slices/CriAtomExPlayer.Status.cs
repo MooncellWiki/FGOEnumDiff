@@ -1,4 +1,4 @@
-public enum CriAtomExPlayer.Status // TypeDefIndex: 3665
+public enum CriAtomExPlayer.Status // TypeDefIndex: 3666
 {
 	// Fields
 	public int value__; // 0x0

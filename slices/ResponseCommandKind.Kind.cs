@@ -1,4 +1,4 @@
-public enum ResponseCommandKind.Kind // TypeDefIndex: 5829
+public enum ResponseCommandKind.Kind // TypeDefIndex: 5830
 {
 	// Fields
 	public int value__; // 0x0
@@ -104,4 +104,5 @@ public enum ResponseCommandKind.Kind // TypeDefIndex: 5829
 	public const ResponseCommandKind.Kind EVENT_SCAN_PANEL_MAP = 99;
 	public const ResponseCommandKind.Kind BATTLE_USE_CONTINUE_ITEM = 100;
 	public const ResponseCommandKind.Kind CHECK_DATE_VERSION = 101;
+	public const ResponseCommandKind.Kind BATTLE_USE_ITEM = 102;
 }

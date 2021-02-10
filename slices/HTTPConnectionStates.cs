@@ -1,4 +1,4 @@
-internal enum HTTPConnectionStates // TypeDefIndex: 4083
+internal enum HTTPConnectionStates // TypeDefIndex: 4084
 {
 	// Fields
 	public int value__; // 0x0

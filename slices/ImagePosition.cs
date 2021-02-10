@@ -1,4 +1,4 @@
-public enum ImagePosition // TypeDefIndex: 2752
+public enum ImagePosition // TypeDefIndex: 2753
 {
 	// Fields
 	public int value__; // 0x0

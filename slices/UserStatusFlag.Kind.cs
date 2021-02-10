@@ -1,4 +1,4 @@
-public enum UserStatusFlag.Kind // TypeDefIndex: 5875
+public enum UserStatusFlag.Kind // TypeDefIndex: 5876
 {
 	// Fields
 	public int value__; // 0x0
@@ -23,4 +23,5 @@ public enum UserStatusFlag.Kind // TypeDefIndex: 5875
 	public const UserStatusFlag.Kind RANDOM_LIMIT_COUNT_SUPPORT = 18;
 	public const UserStatusFlag.Kind SVT_LIMIT_SPOILER_PROTECTION = 19;
 	public const UserStatusFlag.Kind SVT_LIMIT_DISPLAY_SETTING = 20;
+	public const UserStatusFlag.Kind BIRTHDAY_SETTING = 21;
 }

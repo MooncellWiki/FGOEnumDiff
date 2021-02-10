@@ -1,4 +1,4 @@
-protected enum WarehouseConfirmMenu.State // TypeDefIndex: 10921
+protected enum WarehouseConfirmMenu.State // TypeDefIndex: 10945
 {
 	// Fields
 	public int value__; // 0x0

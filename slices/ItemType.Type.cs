@@ -1,4 +1,4 @@
-public enum ItemType.Type // TypeDefIndex: 5810
+public enum ItemType.Type // TypeDefIndex: 5811
 {
 	// Fields
 	public int value__; // 0x0
@@ -29,4 +29,5 @@ public enum ItemType.Type // TypeDefIndex: 5810
 	public const ItemType.Type COMMAND_CARD_PRM_UP = 25;
 	public const ItemType.Type DICE = 26;
 	public const ItemType.Type CONTINUE_ITEM = 27;
+	public const ItemType.Type EUQIP_SKILL_USE_ITEM = 28;
 }
