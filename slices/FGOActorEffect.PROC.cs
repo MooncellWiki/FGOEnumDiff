@@ -1,4 +1,4 @@
-public enum FGOActorEffect.PROC // TypeDefIndex: 7383
+public enum FGOActorEffect.PROC // TypeDefIndex: 7389
 {
 	// Fields
 	public int value__; // 0x0

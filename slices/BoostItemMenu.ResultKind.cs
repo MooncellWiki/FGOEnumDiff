@@ -1,4 +1,4 @@
-public enum BoostItemMenu.ResultKind // TypeDefIndex: 9452
+public enum BoostItemMenu.ResultKind // TypeDefIndex: 9462
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WarBoardManager.WarBoardResult // TypeDefIndex: 10818
+public enum WarBoardManager.WarBoardResult // TypeDefIndex: 10845
 {
 	// Fields
 	public int value__; // 0x0

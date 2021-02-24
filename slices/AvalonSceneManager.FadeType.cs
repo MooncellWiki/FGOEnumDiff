@@ -1,4 +1,4 @@
-public enum AvalonSceneManager.FadeType // TypeDefIndex: 6081
+public enum AvalonSceneManager.FadeType // TypeDefIndex: 6085
 {
 	// Fields
 	public int value__; // 0x0

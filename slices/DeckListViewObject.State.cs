@@ -1,4 +1,4 @@
-protected enum DeckListViewObject.State // TypeDefIndex: 9466
+protected enum DeckListViewObject.State // TypeDefIndex: 9476
 {
 	// Fields
 	public int value__; // 0x0

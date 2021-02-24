@@ -1,4 +1,4 @@
-public enum UITable.Direction // TypeDefIndex: 11089
+public enum UITable.Direction // TypeDefIndex: 11118
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FollowerSelectItemListViewObject.InitMode // TypeDefIndex: 9079
+public enum FollowerSelectItemListViewObject.InitMode // TypeDefIndex: 9089
 {
 	// Fields
 	public int value__; // 0x0

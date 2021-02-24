@@ -1,4 +1,4 @@
-public enum UserShopFlag.Flag // TypeDefIndex: 5874
+public enum UserShopFlag.Flag // TypeDefIndex: 5878
 {
 	// Fields
 	public int value__; // 0x0

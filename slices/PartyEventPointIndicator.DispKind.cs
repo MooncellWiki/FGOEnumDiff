@@ -1,4 +1,4 @@
-protected enum PartyEventPointIndicator.DispKind // TypeDefIndex: 9484
+protected enum PartyEventPointIndicator.DispKind // TypeDefIndex: 9494
 {
 	// Fields
 	public int value__; // 0x0

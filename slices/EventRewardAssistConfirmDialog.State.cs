@@ -1,4 +1,4 @@
-private enum EventRewardAssistConfirmDialog.State // TypeDefIndex: 8999
+private enum EventRewardAssistConfirmDialog.State // TypeDefIndex: 9009
 {
 	// Fields
 	public int value__; // 0x0

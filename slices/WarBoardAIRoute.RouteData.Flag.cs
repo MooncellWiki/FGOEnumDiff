@@ -1,4 +1,4 @@
-public enum WarBoardAIRoute.RouteData.Flag // TypeDefIndex: 10758
+public enum WarBoardAIRoute.RouteData.Flag // TypeDefIndex: 10785
 {
 	// Fields
 	public long value__; // 0x0

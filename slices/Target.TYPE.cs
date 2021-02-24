@@ -1,4 +1,4 @@
-public enum Target.TYPE // TypeDefIndex: 5865
+public enum Target.TYPE // TypeDefIndex: 5869
 {
 	// Fields
 	public int value__; // 0x0
@@ -29,4 +29,5 @@ public enum Target.TYPE // TypeDefIndex: 5865
 	public const Target.TYPE PT_SELF_ANOTHER_LAST = 24;
 	public const Target.TYPE COMMAND_TYPE_SELF_TREASURE_DEVICE = 25;
 	public const Target.TYPE FIELD_OTHER = 26;
+	public const Target.TYPE ENEMY_ONE_NO_TARGET_NO_ACTION = 27;
 }

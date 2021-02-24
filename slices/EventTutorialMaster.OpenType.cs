@@ -1,4 +1,4 @@
-public enum EventTutorialMaster.OpenType // TypeDefIndex: 6542
+public enum EventTutorialMaster.OpenType // TypeDefIndex: 6548
 {
 	// Fields
 	public int value__; // 0x0
@@ -69,4 +69,5 @@ public enum EventTutorialMaster.OpenType // TypeDefIndex: 6542
 	public const EventTutorialMaster.OpenType WAR_BOARD_MAP_SETUP = 65;
 	public const EventTutorialMaster.OpenType LOGIN_BONUS_CLOSED = 66;
 	public const EventTutorialMaster.OpenType OPEN_SPECIFIC_QUEST = 67;
+	public const EventTutorialMaster.OpenType ON_PUSH_SVT_SELECT = 68;
 }

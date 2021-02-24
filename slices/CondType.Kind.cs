@@ -1,4 +1,4 @@
-public enum CondType.Kind // TypeDefIndex: 5754
+public enum CondType.Kind // TypeDefIndex: 5757
 {
 	// Fields
 	public int value__; // 0x0
@@ -150,4 +150,9 @@ public enum CondType.Kind // TypeDefIndex: 5754
 	public const CondType.Kind SHOP_FLAG_ON = 145;
 	public const CondType.Kind SHOP_FLAG_OFF = 146;
 	public const CondType.Kind PURCHASE_VALID_SHOP_GROUP = 147;
+	public const CondType.Kind SVT_LEVEL_CLASS_NUM = 148;
+	public const CondType.Kind SVT_LEVEL_ID_NUM = 149;
+	public const CondType.Kind LIMIT_COUNT_IMAGE_EQUAL = 150;
+	public const CondType.Kind LIMIT_COUNT_IMAGE_ABOVE = 151;
+	public const CondType.Kind LIMIT_COUNT_IMAGE_BELOW = 152;
 }

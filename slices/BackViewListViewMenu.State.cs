@@ -1,4 +1,4 @@
-protected enum BackViewListViewMenu.State // TypeDefIndex: 10469
+protected enum BackViewListViewMenu.State // TypeDefIndex: 10496
 {
 	// Fields
 	public int value__; // 0x0
