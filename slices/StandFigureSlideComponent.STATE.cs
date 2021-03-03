@@ -1,4 +1,4 @@
-public enum StandFigureSlideComponent.STATE // TypeDefIndex: 10109
+public enum StandFigureSlideComponent.STATE // TypeDefIndex: 10121
 {
 	// Fields
 	public int value__; // 0x0

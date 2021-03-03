@@ -1,4 +1,4 @@
-public enum FGOActorBulr.MODE // TypeDefIndex: 7371
+public enum FGOActorBulr.MODE // TypeDefIndex: 7373
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum QuestMessageMaster.FrequencyType // TypeDefIndex: 6690
+public enum QuestMessageMaster.FrequencyType // TypeDefIndex: 6689
 {
 	// Fields
 	public int value__; // 0x0

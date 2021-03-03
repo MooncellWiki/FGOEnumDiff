@@ -1,4 +1,4 @@
-public enum BaseCore.STATE // TypeDefIndex: 9943
+public enum BaseCore.STATE // TypeDefIndex: 9956
 {
 	// Fields
 	public int value__; // 0x0

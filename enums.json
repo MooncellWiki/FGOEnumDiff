@@ -1182,7 +1182,8 @@
   },
   "MyRoomAddEntity.OverwriteType": {
     "BG_IMAGE": "1",
-    "BGM": "2"
+    "BGM": "2",
+    "FRONT_OBJ": "6"
   },
   "SummonControl.TUTORIAL_KIND": {
     "NONE": "0",
@@ -5601,7 +5602,8 @@
     "ASSIST": "341",
     "WARBOARD_EFFECT": "342",
     "WARBOARD_ONBOARD_SKILL": "343",
-    "BEFORE_BIRTH_DAY": "344"
+    "BEFORE_BIRTH_DAY": "344",
+    "LOGIN_QUEST": "345"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -8877,6 +8879,14 @@
     "REPEAT_FIRST": "2",
     "REPEAT_LAST": "3",
     "RESET_INTERVAL": "4"
+  },
+  "BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget": {
+    "Servant": "1",
+    "CommandCard1": "101",
+    "CommandCard2": "102",
+    "CommandCard3": "103",
+    "CommandCard4": "104",
+    "CommandCard5": "105"
   },
   "ScriptConnectListViewItemDraw.DispMode": {
     "INVISIBLE": "0",

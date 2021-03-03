@@ -1,4 +1,4 @@
-public enum PartyListViewItem.DeckCondition // TypeDefIndex: 9504
+public enum PartyListViewItem.DeckCondition // TypeDefIndex: 9517
 {
 	// Fields
 	public int value__; // 0x0

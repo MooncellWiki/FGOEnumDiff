@@ -1,4 +1,4 @@
-public enum WarehouseListViewManager.Kind // TypeDefIndex: 10995
+public enum WarehouseListViewManager.Kind // TypeDefIndex: 11010
 {
 	// Fields
 	public int value__; // 0x0

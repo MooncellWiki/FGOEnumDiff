@@ -1,4 +1,4 @@
-public enum EventSpotMoveManager.STATE // TypeDefIndex: 8919
+public enum EventSpotMoveManager.STATE // TypeDefIndex: 8929
 {
 	// Fields
 	public int value__; // 0x0

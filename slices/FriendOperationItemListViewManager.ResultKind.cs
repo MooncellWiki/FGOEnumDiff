@@ -1,4 +1,4 @@
-public enum FriendOperationItemListViewManager.ResultKind // TypeDefIndex: 9103
+public enum FriendOperationItemListViewManager.ResultKind // TypeDefIndex: 9113
 {
 	// Fields
 	public int value__; // 0x0

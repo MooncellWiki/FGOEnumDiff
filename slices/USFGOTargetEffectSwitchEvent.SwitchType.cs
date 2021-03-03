@@ -1,4 +1,4 @@
-public enum USFGOTargetEffectSwitchEvent.SwitchType // TypeDefIndex: 7648
+public enum USFGOTargetEffectSwitchEvent.SwitchType // TypeDefIndex: 7650
 {
 	// Fields
 	public int value__; // 0x0

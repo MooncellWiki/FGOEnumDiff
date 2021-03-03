@@ -1,4 +1,4 @@
-protected enum ContinueDeviceInputMenu.State // TypeDefIndex: 9147
+protected enum ContinueDeviceInputMenu.State // TypeDefIndex: 9157
 {
 	// Fields
 	public int value__; // 0x0

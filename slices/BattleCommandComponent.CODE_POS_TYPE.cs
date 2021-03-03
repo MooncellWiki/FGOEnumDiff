@@ -1,4 +1,4 @@
-public enum BattleCommandComponent.CODE_POS_TYPE // TypeDefIndex: 8341
+public enum BattleCommandComponent.CODE_POS_TYPE // TypeDefIndex: 8348
 {
 	// Fields
 	public int value__; // 0x0

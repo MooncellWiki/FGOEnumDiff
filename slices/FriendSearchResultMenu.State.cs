@@ -1,4 +1,4 @@
-protected enum FriendSearchResultMenu.State // TypeDefIndex: 9120
+protected enum FriendSearchResultMenu.State // TypeDefIndex: 9130
 {
 	// Fields
 	public int value__; // 0x0

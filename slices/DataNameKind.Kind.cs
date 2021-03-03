@@ -347,4 +347,5 @@ public enum DataNameKind.Kind // TypeDefIndex: 5769
 	public const DataNameKind.Kind WARBOARD_EFFECT = 342;
 	public const DataNameKind.Kind WARBOARD_ONBOARD_SKILL = 343;
 	public const DataNameKind.Kind BEFORE_BIRTH_DAY = 344;
+	public const DataNameKind.Kind LOGIN_QUEST = 345;
 }

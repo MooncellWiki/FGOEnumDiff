@@ -1,4 +1,4 @@
-public enum USFGOPlayAudioEvent.AudioType // TypeDefIndex: 7617
+public enum USFGOPlayAudioEvent.AudioType // TypeDefIndex: 7619
 {
 	// Fields
 	public int value__; // 0x0

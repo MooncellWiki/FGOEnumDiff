@@ -1,4 +1,4 @@
-public enum ScriptBranchListViewObject.InitMode // TypeDefIndex: 10580
+public enum ScriptBranchListViewObject.InitMode // TypeDefIndex: 10595
 {
 	// Fields
 	public int value__; // 0x0

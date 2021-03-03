@@ -1,4 +1,4 @@
-public enum BattleSelectMainSubServantWindow.POSITION // TypeDefIndex: 8556
+public enum BattleSelectMainSubServantWindow.POSITION // TypeDefIndex: 8566
 {
 	// Fields
 	public int value__; // 0x0
