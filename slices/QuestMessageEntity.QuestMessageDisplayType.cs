@@ -1,4 +1,4 @@
-public enum QuestMessageEntity.QuestMessageDisplayType // TypeDefIndex: 6687
+public enum QuestMessageEntity.QuestMessageDisplayType // TypeDefIndex: 6696
 {
 	// Fields
 	public int value__; // 0x0

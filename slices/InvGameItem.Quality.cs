@@ -1,4 +1,4 @@
-public enum InvGameItem.Quality // TypeDefIndex: 11044
+public enum InvGameItem.Quality // TypeDefIndex: 11061
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum InterpolationType // TypeDefIndex: 3176
+public enum InterpolationType // TypeDefIndex: 3177
 {
 	// Fields
 	public int value__; // 0x0

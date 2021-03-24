@@ -1,6 +1,7 @@
-public enum EventTowerEntity.EventTowerFlag // TypeDefIndex: 6548
+public enum EventTowerEntity.EventTowerFlag // TypeDefIndex: 6557
 {
 	// Fields
 	public int value__; // 0x0
-	public const EventTowerEntity.EventTowerFlag HIDDEN_CLEAR_TOWER = 1;
+	public const EventTowerEntity.EventTowerFlag HIDDEN_CLEAR_TOWER = 0;
+	public const EventTowerEntity.EventTowerFlag STAMP = 1;
 }

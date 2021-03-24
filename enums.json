@@ -6385,6 +6385,10 @@
     "SKIP": "1",
     "EXIT": "2"
   },
+  "EventTowerEntity.Flag": {
+    "HIDDEN_CLEAR_TOWER": "1",
+    "STAMP": "2"
+  },
   "HumanBodyBones": {
     "Hips": "0",
     "LeftUpperLeg": "1",
@@ -10847,7 +10851,8 @@
     "SHARE_QUEST_INFO": "16"
   },
   "EventTowerEntity.EventTowerFlag": {
-    "HIDDEN_CLEAR_TOWER": "1"
+    "HIDDEN_CLEAR_TOWER": "0",
+    "STAMP": "1"
   },
   "StackBehaviour": {
     "Pop0": "0",
@@ -14725,7 +14730,8 @@
   "EventServantFatigueListViewManager.ModeKind": {
     "NORMAL": "0",
     "LOCK": "1",
-    "CHOICE": "2"
+    "CHOICE": "2",
+    "PUSH": "3"
   },
   "IsolatedStorageContainment": {
     "None": "0",

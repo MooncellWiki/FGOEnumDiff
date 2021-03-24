@@ -1,4 +1,4 @@
-public enum ServantStatusCharaGraphListViewItemDraw.DispMode // TypeDefIndex: 5372
+public enum ServantStatusCharaGraphListViewItemDraw.DispMode // TypeDefIndex: 5373
 {
 	// Fields
 	public int value__; // 0x0

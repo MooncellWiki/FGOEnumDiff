@@ -1,4 +1,4 @@
-public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 9775
+public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 9788
 {
 	// Fields
 	public int value__; // 0x0

@@ -6,8 +6,8 @@ public enum LoaderOptimization // TypeDefIndex: 1017
 	public const LoaderOptimization SingleDomain = 1;
 	public const LoaderOptimization MultiDomain = 2;
 	public const LoaderOptimization MultiDomainHost = 3;
-	[ObsoleteAttribute] // RVA: 0x42D608 Offset: 0x42D608 VA: 0x42D608
+	[ObsoleteAttribute] // RVA: 0x42E6A4 Offset: 0x42E6A4 VA: 0x42E6A4
 	public const LoaderOptimization DomainMask = 3;
-	[ObsoleteAttribute] // RVA: 0x42D618 Offset: 0x42D618 VA: 0x42D618
+	[ObsoleteAttribute] // RVA: 0x42E6B4 Offset: 0x42E6B4 VA: 0x42E6B4
 	public const LoaderOptimization DisallowBindings = 4;
 }

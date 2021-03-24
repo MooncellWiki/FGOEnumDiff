@@ -1,4 +1,4 @@
-public enum ParamDataType // TypeDefIndex: 3252
+public enum ParamDataType // TypeDefIndex: 3253
 {
 	// Fields
 	public int value__; // 0x0

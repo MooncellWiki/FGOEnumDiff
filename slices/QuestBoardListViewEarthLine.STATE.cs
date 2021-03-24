@@ -1,4 +1,4 @@
-public enum QuestBoardListViewEarthLine.STATE // TypeDefIndex: 10201
+public enum QuestBoardListViewEarthLine.STATE // TypeDefIndex: 10218
 {
 	// Fields
 	public int value__; // 0x0

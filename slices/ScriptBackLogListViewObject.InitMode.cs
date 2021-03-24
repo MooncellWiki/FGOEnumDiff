@@ -1,4 +1,4 @@
-public enum ScriptBackLogListViewObject.InitMode // TypeDefIndex: 7866
+public enum ScriptBackLogListViewObject.InitMode // TypeDefIndex: 7876
 {
 	// Fields
 	public int value__; // 0x0

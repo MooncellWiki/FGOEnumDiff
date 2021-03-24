@@ -1,4 +1,4 @@
-public enum UINarrowFigureRender.DispType // TypeDefIndex: 7327
+public enum UINarrowFigureRender.DispType // TypeDefIndex: 7337
 {
 	// Fields
 	public int value__; // 0x0

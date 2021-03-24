@@ -1,4 +1,4 @@
-private enum CriManaMixerBehaviour.MovieMixerState // TypeDefIndex: 3757
+private enum CriManaMixerBehaviour.MovieMixerState // TypeDefIndex: 3758
 {
 	// Fields
 	public int value__; // 0x0

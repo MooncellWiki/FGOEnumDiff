@@ -1,4 +1,4 @@
-internal enum AppliedOffsetMode // TypeDefIndex: 3324
+internal enum AppliedOffsetMode // TypeDefIndex: 3325
 {
 	// Fields
 	public int value__; // 0x0

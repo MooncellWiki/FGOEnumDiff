@@ -1,4 +1,4 @@
-public enum EventMissionCondDetailEntity.MissionCondType // TypeDefIndex: 6458
+public enum EventMissionCondDetailEntity.MissionCondType // TypeDefIndex: 6466
 {
 	// Fields
 	public int value__; // 0x0

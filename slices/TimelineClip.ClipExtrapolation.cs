@@ -1,4 +1,4 @@
-public enum TimelineClip.ClipExtrapolation // TypeDefIndex: 3306
+public enum TimelineClip.ClipExtrapolation // TypeDefIndex: 3307
 {
 	// Fields
 	public int value__; // 0x0

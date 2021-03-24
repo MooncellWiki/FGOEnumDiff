@@ -1,4 +1,4 @@
-public enum CriAtomExPlayerOutputAnalyzer.Type // TypeDefIndex: 3671
+public enum CriAtomExPlayerOutputAnalyzer.Type // TypeDefIndex: 3672
 {
 	// Fields
 	public int value__; // 0x0

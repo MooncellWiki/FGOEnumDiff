@@ -1,4 +1,4 @@
-public enum UIRoot.Constraint // TypeDefIndex: 11244
+public enum UIRoot.Constraint // TypeDefIndex: 11261
 {
 	// Fields
 	public int value__; // 0x0

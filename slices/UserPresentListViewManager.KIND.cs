@@ -1,4 +1,4 @@
-public enum UserPresentListViewManager.KIND // TypeDefIndex: 5692
+public enum UserPresentListViewManager.KIND // TypeDefIndex: 5699
 {
 	// Fields
 	public int value__; // 0x0

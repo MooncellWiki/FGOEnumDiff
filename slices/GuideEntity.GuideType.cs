@@ -1,4 +1,4 @@
-public enum GuideEntity.GuideType // TypeDefIndex: 6610
+public enum GuideEntity.GuideType // TypeDefIndex: 6619
 {
 	// Fields
 	public int value__; // 0x0

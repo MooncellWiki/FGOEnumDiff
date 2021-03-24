@@ -1,4 +1,4 @@
-public enum ServantExceedEntity.FRAMETYPE // TypeDefIndex: 6762
+public enum ServantExceedEntity.FRAMETYPE // TypeDefIndex: 6771
 {
 	// Fields
 	public int value__; // 0x0

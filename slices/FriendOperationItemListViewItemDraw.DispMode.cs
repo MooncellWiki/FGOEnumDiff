@@ -1,4 +1,4 @@
-public enum FriendOperationItemListViewItemDraw.DispMode // TypeDefIndex: 9110
+public enum FriendOperationItemListViewItemDraw.DispMode // TypeDefIndex: 9121
 {
 	// Fields
 	public int value__; // 0x0

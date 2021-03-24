@@ -1,4 +1,4 @@
-public enum ActivationControlPlayable.PostPlaybackState // TypeDefIndex: 3347
+public enum ActivationControlPlayable.PostPlaybackState // TypeDefIndex: 3348
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventServantFatigueListViewManager.ResultKind // TypeDefIndex: 9066
+public enum EventServantFatigueListViewManager.ResultKind // TypeDefIndex: 9076
 {
 	// Fields
 	public int value__; // 0x0

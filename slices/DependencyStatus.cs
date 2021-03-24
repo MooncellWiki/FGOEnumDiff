@@ -1,4 +1,4 @@
-public enum DependencyStatus // TypeDefIndex: 3131
+public enum DependencyStatus // TypeDefIndex: 3132
 {
 	// Fields
 	public int value__; // 0x0

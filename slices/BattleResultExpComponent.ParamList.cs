@@ -1,4 +1,4 @@
-private enum BattleResultExpComponent.ParamList // TypeDefIndex: 8629
+private enum BattleResultExpComponent.ParamList // TypeDefIndex: 8639
 {
 	// Fields
 	public int value__; // 0x0

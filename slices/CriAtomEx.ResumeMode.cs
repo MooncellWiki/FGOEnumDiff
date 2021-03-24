@@ -1,4 +1,4 @@
-public enum CriAtomEx.ResumeMode // TypeDefIndex: 3584
+public enum CriAtomEx.ResumeMode // TypeDefIndex: 3585
 {
 	// Fields
 	public int value__; // 0x0

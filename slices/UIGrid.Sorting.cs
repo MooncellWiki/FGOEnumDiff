@@ -1,4 +1,4 @@
-public enum UIGrid.Sorting // TypeDefIndex: 11100
+public enum UIGrid.Sorting // TypeDefIndex: 11117
 {
 	// Fields
 	public int value__; // 0x0

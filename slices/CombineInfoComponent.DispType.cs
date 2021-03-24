@@ -1,4 +1,4 @@
-public enum CombineInfoComponent.DispType // TypeDefIndex: 8738
+public enum CombineInfoComponent.DispType // TypeDefIndex: 8748
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CriAtomExRawPcmVoicePool.RawPcmFormat // TypeDefIndex: 3688
+public enum CriAtomExRawPcmVoicePool.RawPcmFormat // TypeDefIndex: 3689
 {
 	// Fields
 	public int value__; // 0x0

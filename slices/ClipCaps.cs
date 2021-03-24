@@ -1,4 +1,4 @@
-public enum ClipCaps // TypeDefIndex: 3288
+public enum ClipCaps // TypeDefIndex: 3289
 {
 	// Fields
 	public int value__; // 0x0

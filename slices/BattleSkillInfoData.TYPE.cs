@@ -1,4 +1,4 @@
-public enum BattleSkillInfoData.TYPE // TypeDefIndex: 8326
+public enum BattleSkillInfoData.TYPE // TypeDefIndex: 8336
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CriAtomConfig.LinuxOutput // TypeDefIndex: 3782
+public enum CriAtomConfig.LinuxOutput // TypeDefIndex: 3783
 {
 	// Fields
 	public int value__; // 0x0

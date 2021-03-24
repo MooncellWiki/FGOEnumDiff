@@ -1,4 +1,4 @@
-public enum FriendWarningDialog.Kind // TypeDefIndex: 9133
+public enum FriendWarningDialog.Kind // TypeDefIndex: 9144
 {
 	// Fields
 	public int value__; // 0x0

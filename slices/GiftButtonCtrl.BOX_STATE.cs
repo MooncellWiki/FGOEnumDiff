@@ -1,4 +1,4 @@
-private enum GiftButtonCtrl.BOX_STATE // TypeDefIndex: 5209
+private enum GiftButtonCtrl.BOX_STATE // TypeDefIndex: 5210
 {
 	// Fields
 	public int value__; // 0x0

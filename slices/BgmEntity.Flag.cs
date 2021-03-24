@@ -1,4 +1,4 @@
-public enum BgmEntity.Flag // TypeDefIndex: 6277
+public enum BgmEntity.Flag // TypeDefIndex: 6285
 {
 	// Fields
 	public int value__; // 0x0
