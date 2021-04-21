@@ -1,4 +1,4 @@
-protected enum PartyOrganizationChangeObject.State // TypeDefIndex: 9547
+protected enum PartyOrganizationChangeObject.State // TypeDefIndex: 9612
 {
 	// Fields
 	public int value__; // 0x0

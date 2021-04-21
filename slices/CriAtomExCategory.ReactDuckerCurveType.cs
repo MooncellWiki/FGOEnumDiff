@@ -1,4 +1,4 @@
-public enum CriAtomExCategory.ReactDuckerCurveType // TypeDefIndex: 3604
+public enum CriAtomExCategory.ReactDuckerCurveType // TypeDefIndex: 3606
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum SummonEffectComponent.RankUp // TypeDefIndex: 9855
+private enum SummonEffectComponent.RankUp // TypeDefIndex: 9931
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WarBoardManager.ControllType // TypeDefIndex: 10876
+public enum WarBoardManager.ControllType // TypeDefIndex: 10952
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum AdManager.ProfileKey // TypeDefIndex: 6088
+public enum AdManager.ProfileKey // TypeDefIndex: 6102
 {
 	// Fields
 	public int value__; // 0x0

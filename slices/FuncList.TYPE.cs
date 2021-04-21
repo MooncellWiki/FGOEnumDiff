@@ -1,4 +1,4 @@
-public enum FuncList.TYPE // TypeDefIndex: 5802
+public enum FuncList.TYPE // TypeDefIndex: 5816
 {
 	// Fields
 	public int value__; // 0x0
@@ -80,6 +80,7 @@ public enum FuncList.TYPE // TypeDefIndex: 5802
 	public const FuncList.TYPE FORCE_ALL_BUFF_NOACT = 58;
 	public const FuncList.TYPE BREAK_GAUGE_UP = 59;
 	public const FuncList.TYPE BREAK_GAUGE_DOWN = 60;
+	public const FuncList.TYPE MOVE_TO_LAST_SUBMEMBER = 61;
 	public const FuncList.TYPE GET_REWARD_GIFT = 117;
 	public const FuncList.TYPE SEND_SUPPORT_FRIEND_POINT = 118;
 	public const FuncList.TYPE MOVE_POSITION = 119;
@@ -87,4 +88,5 @@ public enum FuncList.TYPE // TypeDefIndex: 5802
 	public const FuncList.TYPE DAMAGE_NP_INDIVIDUAL_SUM = 121;
 	public const FuncList.TYPE DAMAGE_VALUE_SAFE = 122;
 	public const FuncList.TYPE MOVE_STATE = 124;
+	public const FuncList.TYPE CHANGE_BGM_COSTUME = 125;
 }

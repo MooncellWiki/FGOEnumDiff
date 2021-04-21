@@ -1,4 +1,4 @@
-public enum TutorialBigDialog.TutrialWindowSize // TypeDefIndex: 5640
+public enum TutorialBigDialog.TutrialWindowSize // TypeDefIndex: 5654
 {
 	// Fields
 	public int value__; // 0x0

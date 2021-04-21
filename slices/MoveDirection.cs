@@ -1,4 +1,4 @@
-public enum MoveDirection // TypeDefIndex: 2947
+public enum MoveDirection // TypeDefIndex: 2949
 {
 	// Fields
 	public int value__; // 0x0

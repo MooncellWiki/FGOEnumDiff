@@ -1,4 +1,4 @@
-public enum Ai.TIMING // TypeDefIndex: 5731
+public enum Ai.TIMING // TypeDefIndex: 5745
 {
 	// Fields
 	public int value__; // 0x0
@@ -18,4 +18,5 @@ public enum Ai.TIMING // TypeDefIndex: 5731
 	public const Ai.TIMING TURN_PLAYER_END = 4;
 	public const Ai.TIMING TURN_ENEMY_START = 5;
 	public const Ai.TIMING TURN_ENEMY_END = 6;
+	public const Ai.TIMING ENTRY_UNIT = 7;
 }

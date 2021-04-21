@@ -1,4 +1,4 @@
-protected enum SupportSelectConfirmMenu.State // TypeDefIndex: 9896
+protected enum SupportSelectConfirmMenu.State // TypeDefIndex: 9972
 {
 	// Fields
 	public int value__; // 0x0

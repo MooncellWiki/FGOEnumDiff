@@ -1,4 +1,4 @@
-public enum AnimationBlendMode // TypeDefIndex: 2721
+public enum AnimationBlendMode // TypeDefIndex: 2723
 {
 	// Fields
 	public int value__; // 0x0

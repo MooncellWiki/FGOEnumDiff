@@ -1,4 +1,4 @@
-public enum UIMeshSprite.SpriteMeshType // TypeDefIndex: 7332
+public enum UIMeshSprite.SpriteMeshType // TypeDefIndex: 7355
 {
 	// Fields
 	public int value__; // 0x0

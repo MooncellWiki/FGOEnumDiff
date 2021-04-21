@@ -346,16 +346,6 @@
     "MOVE": "2",
     "INPUT": "3"
   },
-  "EventMissionItemListViewObject.InitMode": {
-    "INVISIBLE": "0",
-    "INVALID": "1",
-    "VALID": "2",
-    "INPUT": "3",
-    "INTO": "4",
-    "ENTER": "5",
-    "EXIT": "6",
-    "MODIFY": "7"
-  },
   "MaterialCostumeServantSortSelectMenu.Kind": {
     "SERVANT_COSTUME": "0"
   },
@@ -826,6 +816,12 @@
   "BoostItemListViewManager.Kind": {
     "EVENT": "0"
   },
+  "MissionListViewItemDraw.DispMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
+  },
   "ServantOperationListViewItem.Type": {
     "NONE": "0",
     "SERVANT": "1",
@@ -1100,16 +1096,6 @@
     "AND_TYPE": "1",
     "BOTH_OR_TYPE": "2",
     "BOTH_AND_TYPE": "3"
-  },
-  "MasterMissionListViewObject.InitMode": {
-    "INVISIBLE": "0",
-    "INVALID": "1",
-    "VALID": "2",
-    "INPUT": "3",
-    "INTO": "4",
-    "ENTER": "5",
-    "EXIT": "6",
-    "MODIFY": "7"
   },
   "UserItemListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -1572,7 +1558,8 @@
     "START_RESTICTION_UNIQUE_SERVANT": "18",
     "START_RESTICTION_FIXED_SUPPORT_POSITION": "19",
     "START_RESTICTION_FIXED_MY_SERVANT_POSITION": "20",
-    "START_RESTRICTION": "21"
+    "START_RESTRICTION_REQUIRED": "21",
+    "START_RESTRICTION": "22"
   },
   "USFGOChrColorChangeEvent.ChangeTarget": {
     "Actor": "0",
@@ -1721,12 +1708,6 @@
     "ReplacementCultures": "16",
     "WindowsOnlyCultures": "32",
     "FrameworkCultures": "64"
-  },
-  "EventMissionItemListViewObject.State": {
-    "INIT": "0",
-    "IDLE": "1",
-    "MOVE": "2",
-    "INPUT": "3"
   },
   "CriManaMovieMaterial.MaxFrameDrop": {
     "Disabled": "0",
@@ -1960,7 +1941,8 @@
     "ANONYMOUS": "9",
     "RARE_PRI": "10",
     "ITEM": "11",
-    "GRAIL_FRAGMENTS": "12"
+    "GRAIL_FRAGMENTS": "12",
+    "FREE": "13"
   },
   "FriendOperationItemListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -1982,7 +1964,8 @@
     "TURN_ENEMY_END": "11",
     "TURN_PLAYER_START": "12",
     "TURN_PLAYER_END": "13",
-    "SHIFT_SERVANT_AFTER": "14"
+    "SHIFT_SERVANT_AFTER": "14",
+    "ENTRY_UNIT": "15"
   },
   "EventEntity.EventOpenType": {
     "ONCE": "1",
@@ -4368,12 +4351,6 @@
     "RequestProhibitedByCachePolicy": "19",
     "RequestProhibitedByProxy": "20"
   },
-  "EventMissionItemListViewItemDraw.DispMode": {
-    "INVISIBLE": "0",
-    "INVALID": "1",
-    "VALID": "2",
-    "INPUT": "3"
-  },
   "OpenFlags": {
     "ReadOnly": "0",
     "ReadWrite": "1",
@@ -4555,7 +4532,8 @@
     "NONE": "0",
     "SELECT_NONE": "1",
     "FRIEND": "2",
-    "NPC": "3"
+    "NPC": "3",
+    "MY_SVT_OR_NPC": "4"
   },
   "ServantStatusParameterGauge.Kind": {
     "POWER": "0",
@@ -4584,7 +4562,8 @@
     "SERVANT_STORAGE": "11",
     "EQUIP_STORAGE": "12",
     "HELP": "13",
-    "GRAIL_FRAGMENTS": "14"
+    "GRAIL_FRAGMENTS": "14",
+    "SHOP04": "15"
   },
   "BlacklistRootComponent.MODE": {
     "FRIEND_HISTORY": "0",
@@ -4944,7 +4923,8 @@
     "SHOP_BUY_RARE_PRI": "13",
     "SHOP_BUY_SPECIAL_ITEM": "14",
     "SHOP_GRAIL_FRAGMENTS": "15",
-    "SHOP_BLANK": "16"
+    "SHOP_BUY_SHOP04": "16",
+    "SHOP_BLANK": "17"
   },
   "ServantStatusCharaGraphListViewManager.InitMode": {
     "NONE": "0",
@@ -5603,7 +5583,8 @@
     "WARBOARD_EFFECT": "342",
     "WARBOARD_ONBOARD_SKILL": "343",
     "BEFORE_BIRTH_DAY": "344",
-    "LOGIN_QUEST": "345"
+    "LOGIN_QUEST": "345",
+    "EVENT_COMBINE_COSTUME": "346"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -7106,7 +7087,8 @@
     "SERVANT_STORAGE": "10",
     "EQUIP_STORAGE": "11",
     "SPECIAL_ITEM": "12",
-    "GRAIL_FRAGMENTS": "13"
+    "GRAIL_FRAGMENTS": "13",
+    "SHOP04": "14"
   },
   "CombineServantListViewManager.ModeKind": {
     "NORMAL": "0",
@@ -7330,13 +7312,15 @@
     "FORCE_ALL_BUFF_NOACT": "58",
     "BREAK_GAUGE_UP": "59",
     "BREAK_GAUGE_DOWN": "60",
+    "MOVE_TO_LAST_SUBMEMBER": "61",
     "GET_REWARD_GIFT": "117",
     "SEND_SUPPORT_FRIEND_POINT": "118",
     "MOVE_POSITION": "119",
     "REVIVAL": "120",
     "DAMAGE_NP_INDIVIDUAL_SUM": "121",
     "DAMAGE_VALUE_SAFE": "122",
-    "MOVE_STATE": "124"
+    "MOVE_STATE": "124",
+    "CHANGE_BGM_COSTUME": "125"
   },
   "SkillUpResultWindowComponent.State": {
     "INIT": "0"
@@ -7962,7 +7946,9 @@
     "CLEAR_CONDITION": "0",
     "NOT_CLEAR_CONDITION": "1",
     "NOT_HAVING_RELEASE_ITEM": "2",
-    "ALREADY_GET": "3"
+    "ALREADY_GET": "3",
+    "EVENT_COSTUME_CLEAR_CONDITION": "4",
+    "EVENT_COSTUME_NOT_CLEAR_CONDITION": "5"
   },
   "TransparencySortMode": {
     "Default": "0",
@@ -8033,7 +8019,8 @@
     "TURN_PLAYER_START": "3",
     "TURN_PLAYER_END": "4",
     "TURN_ENEMY_START": "5",
-    "TURN_ENEMY_END": "6"
+    "TURN_ENEMY_END": "6",
+    "ENTRY_UNIT": "7"
   },
   "InputUserBirthDayWindow.State": {
     "INIT": "0",
@@ -8100,7 +8087,8 @@
     "STEP_IN": "5",
     "ISSHADOW": "6",
     "ISMONSTER": "7",
-    "ISDEAD": "8"
+    "ISDEAD": "8",
+    "IS_SUCCEEDED_MOVING_TO_SUBMEMBER": "9"
   },
   "HostProtectionResource": {
     "None": "0",
@@ -8871,7 +8859,11 @@
     "NoTargetNoAct": "65",
     "CardIndex": "66",
     "CardIndividuality": "67",
-    "WarBoardTakeOverBuff": "68"
+    "WarBoardTakeOverBuff": "68",
+    "ParamAddSelfIndividuality": "69",
+    "ParamAddOpIndividuality": "70",
+    "ParamAddFieldIndividuality": "71",
+    "ParamAddValue": "72"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",
@@ -9347,7 +9339,8 @@
     "TOTAL_LOGIN": "18",
     "COMEBACK_CAMPAIGN": "19",
     "LOCATION_CAMPAIGN": "20",
-    "WAR_BOARD": "22"
+    "WAR_BOARD": "22",
+    "COMBINE_COSUTUME_ITEM": "23"
   },
   "EventMissionEntity.MissionFlag": {
     "NONE": "1",
@@ -9473,7 +9466,8 @@
     "SHOP_HELP_STONE_SHOP": "12",
     "SHOP_HELP_SPECIAL_ITEM_SHOP": "13",
     "SHOP_HELP_GRAIL_FRAGMENTS": "14",
-    "SHOP_BLANK": "15"
+    "SHOP_HELP_SHOP04": "15",
+    "SHOP_BLANK": "16"
   },
   "ScriptAssetListViewManager.InitMode": {
     "NONE": "0",
@@ -10243,16 +10237,6 @@
     "Depth": "2",
     "MSAA": "4"
   },
-  "CompleteMissionListViewObject.InitMode": {
-    "INVISIBLE": "0",
-    "INVALID": "1",
-    "VALID": "2",
-    "INPUT": "3",
-    "INTO": "4",
-    "ENTER": "5",
-    "EXIT": "6",
-    "MODIFY": "7"
-  },
   "PartyOrganizationConfirmDeckMenu.State": {
     "INIT": "0",
     "OPEN": "1",
@@ -10639,7 +10623,9 @@
     "DISPLAY_CONSUME_ICON": "2251799813685248",
     "HARVEST": "4503599627370496",
     "RECONSTRUCTION": "9007199254740992",
-    "ENEMY_IMMEDIATE_APPEAR": "18014398509481984"
+    "ENEMY_IMMEDIATE_APPEAR": "18014398509481984",
+    "NO_SUPPORT_LIST": "36028797018963968",
+    "LIVE": "72057594037927936"
   },
   "SummonEffectComponent.NoticeEffect": {
     "NONE": "0",
@@ -11390,6 +11376,11 @@
     "OPEN": "1",
     "NONE_NEXT": "2"
   },
+  "SelectMyServantOrNpcDialog.ResultClicked": {
+    "MY_SERVANT": "0",
+    "NPC": "1",
+    "CANCEL": "2"
+  },
   "ActionType.Type": {
     "TALK": "1",
     "SYSTEM_WINDOW": "2",
@@ -11440,7 +11431,8 @@
     "SVT_ANONYMOUS": "7",
     "BGM": "8",
     "LIMIT_MATERIAL": "9",
-    "GRAIL_FRAGMENTS": "10"
+    "GRAIL_FRAGMENTS": "10",
+    "SHOP04": "11"
   },
   "ServantOperationListViewManager.ModeKind": {
     "SELECT": "0",
@@ -11601,6 +11593,16 @@
     "Common": "0",
     "NotAbleToCloseTapOutDialog": "1"
   },
+  "MissionListViewObject.InitMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3",
+    "INTO": "4",
+    "ENTER": "5",
+    "EXIT": "6",
+    "MODIFY": "7"
+  },
   "WarBoardPartyListViewObject.InitMode": {
     "VALID": "0",
     "CHANGE": "1",
@@ -11715,6 +11717,13 @@
   },
   "BattleActionData.BaseShiftGaugeData.PlayedStateFlag": {
     "SHIFT_GAUGE_MAIN": "1"
+  },
+  "SelectMyServantOrNpcDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
   },
   "PartyListMenu.State": {
     "INIT": "0",
@@ -11946,7 +11955,25 @@
     "TOTAL_COUNT_EQUAL_INDIVIDUALITY_ALL_FIELD": "146",
     "PT_FRONT_DEAD_EQUAL": "147",
     "PT_CENTER_DEAD_EQUAL": "148",
-    "PT_BACK_DEAD_EQUAL": "149"
+    "PT_BACK_DEAD_EQUAL": "149",
+    "COUNT_HIGHER_INDIVIDUALITY_PT_FRONT": "150",
+    "COUNT_HIGHER_INDIVIDUALITY_PT_CENTER": "151",
+    "COUNT_HIGHER_INDIVIDUALITY_PT_BACK": "152",
+    "COUNT_HIGHER_INDIVIDUALITY_OPPONENT_FRONT": "153",
+    "COUNT_HIGHER_INDIVIDUALITY_OPPONENT_CENTER": "154",
+    "COUNT_HIGHER_INDIVIDUALITY_OPPONENT_BACK": "155",
+    "COUNT_LOWER_INDIVIDUALITY_PT_FRONT": "156",
+    "COUNT_LOWER_INDIVIDUALITY_PT_CENTER": "157",
+    "COUNT_LOWER_INDIVIDUALITY_PT_BACK": "158",
+    "COUNT_LOWER_INDIVIDUALITY_OPPONENT_FRONT": "159",
+    "COUNT_LOWER_INDIVIDUALITY_OPPONENT_CENTER": "160",
+    "COUNT_LOWER_INDIVIDUALITY_OPPONENT_BACK": "161",
+    "COUNT_EQUAL_INDIVIDUALITY_PT_FRONT": "162",
+    "COUNT_EQUAL_INDIVIDUALITY_PT_CENTER": "163",
+    "COUNT_EQUAL_INDIVIDUALITY_PT_BACK": "164",
+    "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_FRONT": "165",
+    "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_CENTER": "166",
+    "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_BACK": "167"
   },
   "ListViewSort.ExpUpDispType": {
     "EXP_UP": "0",
@@ -12026,7 +12053,8 @@
     "QUEST_BEHAVIOR": "64",
     "GIMMICK": "128",
     "BOOST_SKILL": "256",
-    "ASSIST": "512"
+    "ASSIST": "512",
+    "FIELDAI_ENTRY": "1024"
   },
   "CodecType": {
     "Unknown": "0",
@@ -12046,12 +12074,6 @@
     "INPUT": "2",
     "SELECTED": "3",
     "CLOSE": "4"
-  },
-  "CompleteMissionListViewItemDraw.DispMode": {
-    "INVISIBLE": "0",
-    "INVALID": "1",
-    "VALID": "2",
-    "INPUT": "3"
   },
   "ServantStatusDialog.MaskType": {
     "NONE": "0",
@@ -13123,7 +13145,8 @@
     "SHIFT_SERVANT_AFTER": "38",
     "CHANGE_APP": "39",
     "ENEMY_MASTER_CUTIN": "40",
-    "LOAD_IMMEDIATE_ENTRY_SERVANT": "41"
+    "LOAD_IMMEDIATE_ENTRY_SERVANT": "41",
+    "FIELDAI_ENTRY_UNIT": "42"
   },
   "FingerHoverPhase": {
     "None": "0",
@@ -13648,22 +13671,23 @@
     "REFLECTION_PLAYER": "41",
     "ENEMY_ATTACK_NORMAL_AI": "42",
     "FIELDAI_START_WAVE": "43",
-    "FIELDAI_START_TURN": "44",
-    "FIELDAI_START_PLAYERTURN": "45",
-    "FIELDAI_END_PLAYERTURN": "46",
-    "FIELDAI_START_ENEMYTURN": "47",
-    "FIELDAI_END_ENEMYTURN": "48",
-    "CHECK_OVERKILL": "49",
-    "CHECK_IMMEDIATE_ENTRY": "50",
-    "START_IMMEDIATE_ENTRY": "51",
-    "AFTER_IMMEDIATE_ENTRY": "52",
-    "RESET_ENEMYACTLIST": "53",
-    "UPDATE_SHIFTSERVANT": "54",
-    "ACT_SHIFTSERVANT": "55",
-    "AFTER_SHIFTSERVANT": "56",
-    "PLAYER_ATTACK_TERM": "57",
-    "ENEMY_ATTACK_TERM": "58",
-    "LOGIC_TERM": "59"
+    "FIELDAI_ENTRY_UNIT": "44",
+    "FIELDAI_START_TURN": "45",
+    "FIELDAI_START_PLAYERTURN": "46",
+    "FIELDAI_END_PLAYERTURN": "47",
+    "FIELDAI_START_ENEMYTURN": "48",
+    "FIELDAI_END_ENEMYTURN": "49",
+    "CHECK_OVERKILL": "50",
+    "CHECK_IMMEDIATE_ENTRY": "51",
+    "START_IMMEDIATE_ENTRY": "52",
+    "AFTER_IMMEDIATE_ENTRY": "53",
+    "RESET_ENEMYACTLIST": "54",
+    "UPDATE_SHIFTSERVANT": "55",
+    "ACT_SHIFTSERVANT": "56",
+    "AFTER_SHIFTSERVANT": "57",
+    "PLAYER_ATTACK_TERM": "58",
+    "ENEMY_ATTACK_TERM": "59",
+    "LOGIC_TERM": "60"
   },
   "UserItemListViewManager.Type": {
     "STONE": "1",
@@ -14459,7 +14483,8 @@
     "FIXED_MY_SVT_INDIVIDUALITY_POSITION_MAIN": "8",
     "FIXED_MY_SVT_INDIVIDUALITY_SINGLE": "9",
     "SVT_NUM": "10",
-    "MY_SVT_NUM": "11"
+    "MY_SVT_NUM": "11",
+    "MY_SVT_OR_NPC": "12"
   },
   "ScriptBackLogListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -14523,7 +14548,8 @@
     "LONG_NAME": "9",
     "MATERIAL_PARENT_WAR": "10",
     "COORDINATES": "11",
-    "EFFECT_CHANGE_BLACK_MARK": "12"
+    "EFFECT_CHANGE_BLACK_MARK": "12",
+    "QUEST_BOARD_SECTION_IMAGE": "13"
   },
   "ServantSellConfirmMenu.Kind": {
     "SELECT_SERVANT": "0",
@@ -14646,6 +14672,13 @@
     "VALID": "2",
     "INPUT": "3"
   },
+  "CenterEffectDetailDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
+  },
   "GestureRecognizer.SelectionType": {
     "Default": "0",
     "StartSelection": "1",
@@ -14691,7 +14724,8 @@
     "BACK_SHOP2": "12",
     "CANCEL_SHOP": "13",
     "ENTER_SPECIAL_ITEM_SHOP": "14",
-    "ENTER_GRAIL_FRAGMENTS_SHOP": "15"
+    "ENTER_GRAIL_FRAGMENTS_SHOP": "15",
+    "ENTER_SHOP04_SHOP": "16"
   },
   "ScriptBackLogListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -15004,7 +15038,8 @@
     "BACK_SHOP2": "4096",
     "CANCEL_SHOP": "8192",
     "ENTER_SPECIAL_ITEM_SHOP": "16384",
-    "ENTER_GRAIL_FRAGMENTS_SHOP": "32768"
+    "ENTER_GRAIL_FRAGMENTS_SHOP": "32768",
+    "ENTER_SHOP04_SHOP": "65536"
   },
   "FavoriteChangeListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -15170,12 +15205,6 @@
     "Level8": "8",
     "BestCompression": "9",
     "Level9": "9"
-  },
-  "MasterMissionListViewItemDraw.DispMode": {
-    "INVISIBLE": "0",
-    "INVALID": "1",
-    "VALID": "2",
-    "INPUT": "3"
   },
   "SupportSelectItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -15816,12 +15845,6 @@
     "SORT": "4",
     "ORGANIZATION_GUIDE_FIRST_SELECT": "5"
   },
-  "MasterMissionListViewObject.State": {
-    "INIT": "0",
-    "IDLE": "1",
-    "MOVE": "2",
-    "INPUT": "3"
-  },
   "Selectable.SelectionState": {
     "Normal": "0",
     "Highlighted": "1",
@@ -15963,12 +15986,6 @@
     "INPUT": "2",
     "SELECTED": "3",
     "CLOSE": "4"
-  },
-  "CompleteMissionListViewObject.State": {
-    "INIT": "0",
-    "IDLE": "1",
-    "MOVE": "2",
-    "INPUT": "3"
   },
   "ProjectLocationToMap.MapProjection": {
     "EquidistantCylindrical": "0",
@@ -17646,7 +17663,8 @@
     "RESTRICTION_SERVANT_NUM": "13",
     "RESTRICTION_SERVANT_NUM_AND_FIXED_MY_SERVANT_POSITION": "14",
     "RESTRICTION_MY_SERVANT_FIX_SUPPORT_QUEST": "15",
-    "RESTICTION": "16"
+    "RESTRICTION_REQUIRED": "16",
+    "RESTICTION": "17"
   },
   "UIWidget.Pivot": {
     "TopLeft": "0",
@@ -17891,7 +17909,8 @@
   },
   "GuideEntity.GuideType": {
     "COMBINE": "1",
-    "SHOP": "2"
+    "SHOP": "2",
+    "SHOP04": "3"
   },
   "TrackBindingFlags": {
     "None": "0",
@@ -18361,7 +18380,8 @@
     "CHECK_ENDBATTLE_IGNORE_TURN": "43",
     "CHECK_REMAIN_BATTLE_END_WAVE": "44",
     "BOOST_SKILL": "45",
-    "ASSIST": "46"
+    "ASSIST": "46",
+    "FIELDAI_ENTRY": "47"
   },
   "FollowerSelectItemListViewManager.InitMode": {
     "NONE": "0",
@@ -18654,6 +18674,12 @@
     "EVENT_DAILY_POINT": "16",
     "TDDAMAGE": "17",
     "SUM": "18"
+  },
+  "MissionListViewObject.State": {
+    "INIT": "0",
+    "IDLE": "1",
+    "MOVE": "2",
+    "INPUT": "3"
   },
   "UIMasterFaceRender.DispType": {
     "FULL": "0",
@@ -19309,7 +19335,8 @@
     "Heal": "2",
     "DamageVoice": "3",
     "SilentDead": "4",
-    "SelfDead": "5"
+    "SelfDead": "5",
+    "MoveToSubMember": "6"
   },
   "ServantCostumeListViewManager.ResultKind": {
     "NONE": "0",

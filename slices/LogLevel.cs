@@ -1,4 +1,4 @@
-public enum LogLevel // TypeDefIndex: 3120
+public enum LogLevel // TypeDefIndex: 3122
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,7 +9,7 @@ public enum LogLevel // TypeDefIndex: 3120
 	public const LogLevel Error = 4;
 	public const LogLevel Assert = 5;
 }
-public enum LogLevel // TypeDefIndex: 3182
+public enum LogLevel // TypeDefIndex: 3184
 {
 	// Fields
 	public int value__; // 0x0

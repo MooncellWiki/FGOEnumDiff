@@ -1,4 +1,4 @@
-public enum Player.Status // TypeDefIndex: 3763
+public enum Player.Status // TypeDefIndex: 3765
 {
 	// Fields
 	public int value__; // 0x0

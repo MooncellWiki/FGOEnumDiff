@@ -1,4 +1,4 @@
-protected enum ServantStatusFlavorTextListViewObject.State // TypeDefIndex: 5415
+protected enum ServantStatusFlavorTextListViewObject.State // TypeDefIndex: 5429
 {
 	// Fields
 	public int value__; // 0x0

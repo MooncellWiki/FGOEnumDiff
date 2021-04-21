@@ -1,4 +1,4 @@
-public enum FormatUsage // TypeDefIndex: 2193
+public enum FormatUsage // TypeDefIndex: 2195
 {
 	// Fields
 	public int value__; // 0x0

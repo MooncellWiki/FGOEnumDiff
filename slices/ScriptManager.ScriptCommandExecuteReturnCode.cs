@@ -1,4 +1,4 @@
-private enum ScriptManager.ScriptCommandExecuteReturnCode // TypeDefIndex: 7903
+private enum ScriptManager.ScriptCommandExecuteReturnCode // TypeDefIndex: 7930
 {
 	// Fields
 	public int value__; // 0x0

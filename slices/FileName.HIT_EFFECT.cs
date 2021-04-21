@@ -1,4 +1,4 @@
-public enum FileName.HIT_EFFECT // TypeDefIndex: 5793
+public enum FileName.HIT_EFFECT // TypeDefIndex: 5807
 {
 	// Fields
 	public int value__; // 0x0

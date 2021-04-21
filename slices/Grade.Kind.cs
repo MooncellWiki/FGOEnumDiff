@@ -1,4 +1,4 @@
-public enum Grade.Kind // TypeDefIndex: 5811
+public enum Grade.Kind // TypeDefIndex: 5825
 {
 	// Fields
 	public int value__; // 0x0

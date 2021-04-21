@@ -1,4 +1,4 @@
-public enum FlushType // TypeDefIndex: 4052
+public enum FlushType // TypeDefIndex: 4054
 {
 	// Fields
 	public int value__; // 0x0

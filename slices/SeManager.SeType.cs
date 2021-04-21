@@ -1,4 +1,4 @@
-private enum SeManager.SeType // TypeDefIndex: 6165
+private enum SeManager.SeType // TypeDefIndex: 6179
 {
 	// Fields
 	public int value__; // 0x0

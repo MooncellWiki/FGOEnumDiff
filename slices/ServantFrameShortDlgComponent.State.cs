@@ -1,4 +1,4 @@
-protected enum ServantFrameShortDlgComponent.State // TypeDefIndex: 5322
+protected enum ServantFrameShortDlgComponent.State // TypeDefIndex: 5336
 {
 	// Fields
 	public int value__; // 0x0

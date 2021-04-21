@@ -1,4 +1,4 @@
-public enum ShopBuyItemListViewManager.Kind // TypeDefIndex: 9745
+public enum ShopBuyItemListViewManager.Kind // TypeDefIndex: 9817
 {
 	// Fields
 	public int value__; // 0x0
@@ -16,4 +16,5 @@ public enum ShopBuyItemListViewManager.Kind // TypeDefIndex: 9745
 	public const ShopBuyItemListViewManager.Kind EQUIP_STORAGE = 11;
 	public const ShopBuyItemListViewManager.Kind SPECIAL_ITEM = 12;
 	public const ShopBuyItemListViewManager.Kind GRAIL_FRAGMENTS = 13;
+	public const ShopBuyItemListViewManager.Kind SHOP04 = 14;
 }

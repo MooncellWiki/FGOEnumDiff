@@ -1,4 +1,4 @@
-public enum QuestEntity.Flag // TypeDefIndex: 6690
+public enum QuestEntity.Flag // TypeDefIndex: 6708
 {
 	// Fields
 	public long value__; // 0x0
@@ -56,4 +56,6 @@ public enum QuestEntity.Flag // TypeDefIndex: 6690
 	public const QuestEntity.Flag HARVEST = 4503599627370496;
 	public const QuestEntity.Flag RECONSTRUCTION = 9007199254740992;
 	public const QuestEntity.Flag ENEMY_IMMEDIATE_APPEAR = 18014398509481984;
+	public const QuestEntity.Flag NO_SUPPORT_LIST = 36028797018963968;
+	public const QuestEntity.Flag LIVE = 72057594037927936;
 }

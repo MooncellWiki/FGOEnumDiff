@@ -1,4 +1,4 @@
-public enum HTTPRequestStates // TypeDefIndex: 4093
+public enum HTTPRequestStates // TypeDefIndex: 4095
 {
 	// Fields
 	public int value__; // 0x0

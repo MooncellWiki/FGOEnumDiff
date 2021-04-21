@@ -1,4 +1,4 @@
-public enum ApplicationChrome.States // TypeDefIndex: 3551
+public enum ApplicationChrome.States // TypeDefIndex: 3553
 {
 	// Fields
 	public int value__; // 0x0

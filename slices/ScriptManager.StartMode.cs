@@ -1,4 +1,4 @@
-public enum ScriptManager.StartMode // TypeDefIndex: 7899
+public enum ScriptManager.StartMode // TypeDefIndex: 7926
 {
 	// Fields
 	public int value__; // 0x0

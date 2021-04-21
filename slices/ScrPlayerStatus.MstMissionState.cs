@@ -1,4 +1,4 @@
-private enum ScrPlayerStatus.MstMissionState // TypeDefIndex: 10334
+private enum ScrPlayerStatus.MstMissionState // TypeDefIndex: 10410
 {
 	// Fields
 	public int value__; // 0x0

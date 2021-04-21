@@ -1,4 +1,4 @@
-protected enum LogoMain.Status // TypeDefIndex: 10755
+protected enum LogoMain.Status // TypeDefIndex: 10831
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum USFGOChrBulrEvent.MODE // TypeDefIndex: 7603
+public enum USFGOChrBulrEvent.MODE // TypeDefIndex: 7626
 {
 	// Fields
 	public int value__; // 0x0

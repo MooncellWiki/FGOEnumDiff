@@ -1,4 +1,4 @@
-public enum CompleteMissionListViewManager.InitMode // TypeDefIndex: 5104
+public enum CompleteMissionListViewManager.InitMode // TypeDefIndex: 5112
 {
 	// Fields
 	public int value__; // 0x0

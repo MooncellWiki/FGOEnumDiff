@@ -1,4 +1,4 @@
-protected enum SummonControl.QUESTTYPE // TypeDefIndex: 9843
+protected enum SummonControl.QUESTTYPE // TypeDefIndex: 9919
 {
 	// Fields
 	public int value__; // 0x0

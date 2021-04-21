@@ -1,4 +1,4 @@
-public enum CriAtomExVoicePool.VoicePoolId // TypeDefIndex: 3677
+public enum CriAtomExVoicePool.VoicePoolId // TypeDefIndex: 3679
 {
 	// Fields
 	public int value__; // 0x0

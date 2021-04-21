@@ -1,4 +1,4 @@
-protected enum UserGameActRecoverMenu.State // TypeDefIndex: 5654
+protected enum UserGameActRecoverMenu.State // TypeDefIndex: 5668
 {
 	// Fields
 	public int value__; // 0x0

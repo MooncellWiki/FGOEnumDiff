@@ -1,4 +1,4 @@
-public enum GameEventType.TYPE // TypeDefIndex: 5805
+public enum GameEventType.TYPE // TypeDefIndex: 5819
 {
 	// Fields
 	public int value__; // 0x0
@@ -24,4 +24,5 @@ public enum GameEventType.TYPE // TypeDefIndex: 5805
 	public const GameEventType.TYPE COMEBACK_CAMPAIGN = 19;
 	public const GameEventType.TYPE LOCATION_CAMPAIGN = 20;
 	public const GameEventType.TYPE WAR_BOARD = 22;
+	public const GameEventType.TYPE COMBINE_COSUTUME_ITEM = 23;
 }

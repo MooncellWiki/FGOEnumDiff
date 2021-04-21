@@ -1,4 +1,4 @@
-public enum StoneShopEffect.Kind // TypeDefIndex: 5860
+public enum StoneShopEffect.Kind // TypeDefIndex: 5874
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum ShopSceneListViewControlHelper.Hierarchy // TypeDefIndex: 9801
+private enum ShopSceneListViewControlHelper.Hierarchy // TypeDefIndex: 9877
 {
 	// Fields
 	public int value__; // 0x0

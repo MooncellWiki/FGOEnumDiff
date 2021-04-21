@@ -1,4 +1,4 @@
-public enum MissionType.Type // TypeDefIndex: 5826
+public enum MissionType.Type // TypeDefIndex: 5840
 {
 	// Fields
 	public int value__; // 0x0

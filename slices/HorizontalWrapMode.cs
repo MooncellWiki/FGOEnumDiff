@@ -1,4 +1,4 @@
-public enum HorizontalWrapMode // TypeDefIndex: 2641
+public enum HorizontalWrapMode // TypeDefIndex: 2643
 {
 	// Fields
 	public int value__; // 0x0

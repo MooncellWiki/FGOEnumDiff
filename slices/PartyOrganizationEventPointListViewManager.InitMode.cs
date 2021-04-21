@@ -1,4 +1,4 @@
-public enum PartyOrganizationEventPointListViewManager.InitMode // TypeDefIndex: 9588
+public enum PartyOrganizationEventPointListViewManager.InitMode // TypeDefIndex: 9653
 {
 	// Fields
 	public int value__; // 0x0

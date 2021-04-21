@@ -1,4 +1,4 @@
-public enum ServantStatusDialog.Kind // TypeDefIndex: 5390
+public enum ServantStatusDialog.Kind // TypeDefIndex: 5404
 {
 	// Fields
 	public int value__; // 0x0

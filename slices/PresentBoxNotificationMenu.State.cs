@@ -1,4 +1,4 @@
-protected enum PresentBoxNotificationMenu.State // TypeDefIndex: 5288
+protected enum PresentBoxNotificationMenu.State // TypeDefIndex: 5302
 {
 	// Fields
 	public int value__; // 0x0

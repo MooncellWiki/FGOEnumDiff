@@ -1,4 +1,4 @@
-public enum ResourceFolder // TypeDefIndex: 5839
+public enum ResourceFolder // TypeDefIndex: 5853
 {
 	// Fields
 	public int value__; // 0x0

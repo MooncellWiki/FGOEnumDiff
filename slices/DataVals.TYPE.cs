@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6213
+public enum DataVals.TYPE // TypeDefIndex: 6227
 {
 	// Fields
 	public int value__; // 0x0
@@ -71,4 +71,8 @@ public enum DataVals.TYPE // TypeDefIndex: 6213
 	public const DataVals.TYPE CardIndex = 66;
 	public const DataVals.TYPE CardIndividuality = 67;
 	public const DataVals.TYPE WarBoardTakeOverBuff = 68;
+	public const DataVals.TYPE ParamAddSelfIndividuality = 69;
+	public const DataVals.TYPE ParamAddOpIndividuality = 70;
+	public const DataVals.TYPE ParamAddFieldIndividuality = 71;
+	public const DataVals.TYPE ParamAddValue = 72;
 }

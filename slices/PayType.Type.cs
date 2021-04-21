@@ -1,4 +1,4 @@
-public enum PayType.Type // TypeDefIndex: 5830
+public enum PayType.Type // TypeDefIndex: 5844
 {
 	// Fields
 	public int value__; // 0x0
@@ -14,4 +14,5 @@ public enum PayType.Type // TypeDefIndex: 5830
 	public const PayType.Type RARE_PRI = 10;
 	public const PayType.Type ITEM = 11;
 	public const PayType.Type GRAIL_FRAGMENTS = 12;
+	public const PayType.Type FREE = 13;
 }

@@ -1,4 +1,4 @@
-public enum SSAOEffect.SSAOSamples // TypeDefIndex: 3990
+public enum SSAOEffect.SSAOSamples // TypeDefIndex: 3992
 {
 	// Fields
 	public int value__; // 0x0

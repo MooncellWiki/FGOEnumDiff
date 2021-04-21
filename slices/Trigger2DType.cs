@@ -1,4 +1,4 @@
-public enum Trigger2DType // TypeDefIndex: 3176
+public enum Trigger2DType // TypeDefIndex: 3178
 {
 	// Fields
 	public int value__; // 0x0

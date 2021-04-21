@@ -1,4 +1,4 @@
-public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 8497
+public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 8541
 {
 	// Fields
 	public int value__; // 0x0
@@ -44,4 +44,5 @@ public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 8497
 	public const BattleLogicTask.ACTIONTYPE CHANGE_APP = 39;
 	public const BattleLogicTask.ACTIONTYPE ENEMY_MASTER_CUTIN = 40;
 	public const BattleLogicTask.ACTIONTYPE LOAD_IMMEDIATE_ENTRY_SERVANT = 41;
+	public const BattleLogicTask.ACTIONTYPE FIELDAI_ENTRY_UNIT = 42;
 }

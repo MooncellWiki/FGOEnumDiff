@@ -1,4 +1,4 @@
-private enum BattleActorControl.DIR // TypeDefIndex: 8513
+private enum BattleActorControl.DIR // TypeDefIndex: 8574
 {
 	// Fields
 	public int value__; // 0x0

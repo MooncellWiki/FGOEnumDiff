@@ -1,4 +1,4 @@
-public enum ResponseFailData.ErrorType // TypeDefIndex: 7774
+public enum ResponseFailData.ErrorType // TypeDefIndex: 7801
 {
 	// Fields
 	public int value__; // 0x0

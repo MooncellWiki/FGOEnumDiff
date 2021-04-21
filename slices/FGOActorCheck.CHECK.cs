@@ -1,4 +1,4 @@
-public enum FGOActorCheck.CHECK // TypeDefIndex: 7390
+public enum FGOActorCheck.CHECK // TypeDefIndex: 7413
 {
 	// Fields
 	public int value__; // 0x0
@@ -11,4 +11,5 @@ public enum FGOActorCheck.CHECK // TypeDefIndex: 7390
 	public const FGOActorCheck.CHECK ISSHADOW = 6;
 	public const FGOActorCheck.CHECK ISMONSTER = 7;
 	public const FGOActorCheck.CHECK ISDEAD = 8;
+	public const FGOActorCheck.CHECK IS_SUCCEEDED_MOVING_TO_SUBMEMBER = 9;
 }

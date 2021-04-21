@@ -1,4 +1,4 @@
-public enum AmbientMode // TypeDefIndex: 2204
+public enum AmbientMode // TypeDefIndex: 2206
 {
 	// Fields
 	public int value__; // 0x0

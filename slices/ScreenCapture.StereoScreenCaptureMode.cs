@@ -1,4 +1,4 @@
-public enum ScreenCapture.StereoScreenCaptureMode // TypeDefIndex: 2814
+public enum ScreenCapture.StereoScreenCaptureMode // TypeDefIndex: 2816
 {
 	// Fields
 	public int value__; // 0x0

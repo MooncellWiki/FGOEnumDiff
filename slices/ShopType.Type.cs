@@ -1,4 +1,4 @@
-public enum ShopType.Type // TypeDefIndex: 5856
+public enum ShopType.Type // TypeDefIndex: 5870
 {
 	// Fields
 	public int value__; // 0x0
@@ -13,4 +13,5 @@ public enum ShopType.Type // TypeDefIndex: 5856
 	public const ShopType.Type BGM = 8;
 	public const ShopType.Type LIMIT_MATERIAL = 9;
 	public const ShopType.Type GRAIL_FRAGMENTS = 10;
+	public const ShopType.Type SHOP04 = 11;
 }

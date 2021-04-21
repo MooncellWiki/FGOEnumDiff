@@ -1,4 +1,4 @@
-public enum PrimitiveType // TypeDefIndex: 2105
+public enum PrimitiveType // TypeDefIndex: 2107
 {
 	// Fields
 	public int value__; // 0x0

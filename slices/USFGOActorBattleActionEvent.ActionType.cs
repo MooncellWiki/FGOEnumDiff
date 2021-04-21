@@ -1,4 +1,4 @@
-public enum USFGOActorBattleActionEvent.ActionType // TypeDefIndex: 7577
+public enum USFGOActorBattleActionEvent.ActionType // TypeDefIndex: 7600
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,4 +8,5 @@ public enum USFGOActorBattleActionEvent.ActionType // TypeDefIndex: 7577
 	public const USFGOActorBattleActionEvent.ActionType DamageVoice = 3;
 	public const USFGOActorBattleActionEvent.ActionType SilentDead = 4;
 	public const USFGOActorBattleActionEvent.ActionType SelfDead = 5;
+	public const USFGOActorBattleActionEvent.ActionType MoveToSubMember = 6;
 }

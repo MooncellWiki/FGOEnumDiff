@@ -1,4 +1,4 @@
-protected enum ScriptAssetListViewMenu.State // TypeDefIndex: 10597
+protected enum ScriptAssetListViewMenu.State // TypeDefIndex: 10673
 {
 	// Fields
 	public int value__; // 0x0

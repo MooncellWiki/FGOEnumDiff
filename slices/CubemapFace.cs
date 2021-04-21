@@ -1,4 +1,4 @@
-public enum CubemapFace // TypeDefIndex: 2186
+public enum CubemapFace // TypeDefIndex: 2188
 {
 	// Fields
 	public int value__; // 0x0
