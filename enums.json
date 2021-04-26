@@ -8863,7 +8863,8 @@
     "ParamAddSelfIndividuality": "69",
     "ParamAddOpIndividuality": "70",
     "ParamAddFieldIndividuality": "71",
-    "ParamAddValue": "72"
+    "ParamAddValue": "72",
+    "MultipleGainStar": "73"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",

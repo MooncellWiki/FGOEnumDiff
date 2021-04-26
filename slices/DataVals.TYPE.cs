@@ -75,4 +75,5 @@ public enum DataVals.TYPE // TypeDefIndex: 6227
 	public const DataVals.TYPE ParamAddOpIndividuality = 70;
 	public const DataVals.TYPE ParamAddFieldIndividuality = 71;
 	public const DataVals.TYPE ParamAddValue = 72;
+	public const DataVals.TYPE MultipleGainStar = 73;
 }
