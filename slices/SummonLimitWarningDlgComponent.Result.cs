@@ -1,4 +1,4 @@
-public enum SummonLimitWarningDlgComponent.Result // TypeDefIndex: 9945
+public enum SummonLimitWarningDlgComponent.Result // TypeDefIndex: 9963
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ShopHelpItemInfo.ItemKind // TypeDefIndex: 9834
+public enum ShopHelpItemInfo.ItemKind // TypeDefIndex: 9852
 {
 	// Fields
 	public int value__; // 0x0
@@ -17,6 +17,6 @@ public enum ShopHelpItemInfo.ItemKind // TypeDefIndex: 9834
 	public const ShopHelpItemInfo.ItemKind SHOP_HELP_STONE_SHOP = 12;
 	public const ShopHelpItemInfo.ItemKind SHOP_HELP_SPECIAL_ITEM_SHOP = 13;
 	public const ShopHelpItemInfo.ItemKind SHOP_HELP_GRAIL_FRAGMENTS = 14;
-	public const ShopHelpItemInfo.ItemKind SHOP_HELP_SHOP04 = 15;
+	public const ShopHelpItemInfo.ItemKind SHOP_HELP_SVT_COSTUME = 15;
 	public const ShopHelpItemInfo.ItemKind SHOP_BLANK = 16;
 }

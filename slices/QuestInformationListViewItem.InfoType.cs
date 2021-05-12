@@ -1,4 +1,4 @@
-public enum QuestInformationListViewItem.InfoType // TypeDefIndex: 10329
+public enum QuestInformationListViewItem.InfoType // TypeDefIndex: 10347
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BuffList.TYPE // TypeDefIndex: 5760
+public enum BuffList.TYPE // TypeDefIndex: 5765
 {
 	// Fields
 	public int value__; // 0x0

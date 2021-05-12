@@ -1,4 +1,4 @@
-public enum EventBonusFilterEntity.EventBonusFilterType // TypeDefIndex: 6415
+public enum EventBonusFilterEntity.EventBonusFilterType // TypeDefIndex: 6420
 {
 	// Fields
 	public int value__; // 0x0

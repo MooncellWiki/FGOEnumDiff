@@ -1,4 +1,4 @@
-public enum ActionType.Type // TypeDefIndex: 5739
+public enum ActionType.Type // TypeDefIndex: 5744
 {
 	// Fields
 	public int value__; // 0x0

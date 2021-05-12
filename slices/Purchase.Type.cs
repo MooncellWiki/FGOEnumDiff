@@ -1,4 +1,4 @@
-public enum Purchase.Type // TypeDefIndex: 5846
+public enum Purchase.Type // TypeDefIndex: 5851
 {
 	// Fields
 	public int value__; // 0x0

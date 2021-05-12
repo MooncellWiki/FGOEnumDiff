@@ -1,4 +1,4 @@
-public enum WarBoardOnboardSkillEntity.SkillTiming // TypeDefIndex: 7096
+public enum WarBoardOnboardSkillEntity.SkillTiming // TypeDefIndex: 7100
 {
 	// Fields
 	public int value__; // 0x0

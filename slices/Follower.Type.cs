@@ -1,4 +1,4 @@
-public enum Follower.Type // TypeDefIndex: 5810
+public enum Follower.Type // TypeDefIndex: 5815
 {
 	// Fields
 	public int value__; // 0x0

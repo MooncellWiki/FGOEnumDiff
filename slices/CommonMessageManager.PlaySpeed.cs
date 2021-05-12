@@ -1,4 +1,4 @@
-public enum CommonMessageManager.PlaySpeed // TypeDefIndex: 7874
+public enum CommonMessageManager.PlaySpeed // TypeDefIndex: 7890
 {
 	// Fields
 	public int value__; // 0x0

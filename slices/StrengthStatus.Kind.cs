@@ -1,4 +1,4 @@
-public enum StrengthStatus.Kind // TypeDefIndex: 5877
+public enum StrengthStatus.Kind // TypeDefIndex: 5882
 {
 	// Fields
 	public int value__; // 0x0

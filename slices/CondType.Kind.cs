@@ -1,4 +1,4 @@
-public enum CondType.Kind // TypeDefIndex: 5778
+public enum CondType.Kind // TypeDefIndex: 5783
 {
 	// Fields
 	public int value__; // 0x0
@@ -155,4 +155,5 @@ public enum CondType.Kind // TypeDefIndex: 5778
 	public const CondType.Kind LIMIT_COUNT_IMAGE_EQUAL = 150;
 	public const CondType.Kind LIMIT_COUNT_IMAGE_ABOVE = 151;
 	public const CondType.Kind LIMIT_COUNT_IMAGE_BELOW = 152;
+	public const CondType.Kind EVENT_TYPE_START_TIME_TO_END_DATE = 153;
 }

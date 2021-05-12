@@ -1,4 +1,4 @@
-public enum ResponseCommandKind.Kind // TypeDefIndex: 5855
+public enum ResponseCommandKind.Kind // TypeDefIndex: 5860
 {
 	// Fields
 	public int value__; // 0x0
@@ -95,14 +95,15 @@ public enum ResponseCommandKind.Kind // TypeDefIndex: 5855
 	public const ResponseCommandKind.Kind WARBOARD_SETUP = 90;
 	public const ResponseCommandKind.Kind WARBOARD_BUFF_SAVE = 91;
 	public const ResponseCommandKind.Kind WARBOARD_MOVE = 92;
-	public const ResponseCommandKind.Kind WARBOARD_TURN_END = 93;
-	public const ResponseCommandKind.Kind WARBOARD_MASTER_ATTACK = 94;
-	public const ResponseCommandKind.Kind WARBOARD_COMMAND_SPELL = 95;
-	public const ResponseCommandKind.Kind WARBOARD_BATTLE_RESULT = 96;
-	public const ResponseCommandKind.Kind WARBOARD_FINISH = 97;
-	public const ResponseCommandKind.Kind WARBOARD_RESUME = 98;
-	public const ResponseCommandKind.Kind EVENT_SCAN_PANEL_MAP = 99;
-	public const ResponseCommandKind.Kind BATTLE_USE_CONTINUE_ITEM = 100;
-	public const ResponseCommandKind.Kind CHECK_DATE_VERSION = 101;
-	public const ResponseCommandKind.Kind BATTLE_USE_ITEM = 102;
+	public const ResponseCommandKind.Kind WARBOARD_TREASURE = 93;
+	public const ResponseCommandKind.Kind WARBOARD_TURN_END = 94;
+	public const ResponseCommandKind.Kind WARBOARD_MASTER_ATTACK = 95;
+	public const ResponseCommandKind.Kind WARBOARD_COMMAND_SPELL = 96;
+	public const ResponseCommandKind.Kind WARBOARD_BATTLE_RESULT = 97;
+	public const ResponseCommandKind.Kind WARBOARD_FINISH = 98;
+	public const ResponseCommandKind.Kind WARBOARD_RESUME = 99;
+	public const ResponseCommandKind.Kind EVENT_SCAN_PANEL_MAP = 100;
+	public const ResponseCommandKind.Kind BATTLE_USE_CONTINUE_ITEM = 101;
+	public const ResponseCommandKind.Kind CHECK_DATE_VERSION = 102;
+	public const ResponseCommandKind.Kind BATTLE_USE_ITEM = 103;
 }

@@ -1,4 +1,4 @@
-public enum ConditionsInformation.PARAMATER // TypeDefIndex: 8418
+public enum ConditionsInformation.PARAMATER // TypeDefIndex: 8436
 {
 	// Fields
 	public int value__; // 0x0
@@ -31,4 +31,6 @@ public enum ConditionsInformation.PARAMATER // TypeDefIndex: 8418
 	public const ConditionsInformation.PARAMATER TARGET_POSITION = 26;
 	public const ConditionsInformation.PARAMATER COUNT_TARGET_BUFF_INDIVIDUALITY_SUM = 27;
 	public const ConditionsInformation.PARAMATER DEAD = 28;
+	public const ConditionsInformation.PARAMATER PRECEDING_ENEMY = 29;
+	public const ConditionsInformation.PARAMATER REMAIN_TURN = 30;
 }

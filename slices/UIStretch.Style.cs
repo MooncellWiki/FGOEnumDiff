@@ -1,4 +1,4 @@
-public enum UIStretch.Style // TypeDefIndex: 11342
+public enum UIStretch.Style // TypeDefIndex: 11374
 {
 	// Fields
 	public int value__; // 0x0

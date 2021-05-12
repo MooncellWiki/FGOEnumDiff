@@ -112,6 +112,20 @@
     "USER_DETAIL": "0",
     "EDIT_LOCK": "1"
   },
+  "WarBoardTreasureComponent.Rarity": {
+    "COMMON": "0",
+    "RARE": "1",
+    "SRARE": "2",
+    "COMMON_PLUS": "3",
+    "RARE_PLUS": "4",
+    "SRARE_PLUS": "5",
+    "COMMON_PLUS2": "6",
+    "RARE_PLUS2": "7",
+    "SRARE_PLUS2": "8",
+    "ITEM_ICON": "9",
+    "ITEM_ICON_PLUS": "10",
+    "ITEM_ICON_PLUS2": "11"
+  },
   "AiAct.TARGET": {
     "NONE": "0",
     "RANDOM": "1",
@@ -409,7 +423,8 @@
   "WarBoardStageLayoutEntity.Type": {
     "NORMAL": "1",
     "ITEM": "2",
-    "EFFECT": "3"
+    "EFFECT": "3",
+    "TREASURE": "4"
   },
   "DebugListViewManager.InitMode": {
     "NONE": "0",
@@ -1148,6 +1163,11 @@
     "RECOVERY_FATIGUE": "9",
     "EVENT_BOARD_GAME_TOKEN": "10"
   },
+  "WarBoardTreasureListComponent.DialogType": {
+    "AcquiredDialog": "0",
+    "RewardDialog": "1",
+    "GetTreasureListDialog": "2"
+  },
   "GetTimeInfo.TimeInfo": {
     "DeltaTime": "0",
     "TimeScale": "1",
@@ -1578,6 +1598,9 @@
     "OnCollisionStay2D": "1",
     "OnCollisionExit2D": "2",
     "OnParticleCollision": "3"
+  },
+  "WarBoardStagePieceDetailEntity.Flag": {
+    "NOT_INCLUDE_WIN": "1"
   },
   "CacheFolderName.FOLDER_NAME": {
     "ASSET": "0",
@@ -4563,7 +4586,7 @@
     "EQUIP_STORAGE": "12",
     "HELP": "13",
     "GRAIL_FRAGMENTS": "14",
-    "SHOP04": "15"
+    "SVT_COSTUME": "15"
   },
   "BlacklistRootComponent.MODE": {
     "FRIEND_HISTORY": "0",
@@ -4923,7 +4946,7 @@
     "SHOP_BUY_RARE_PRI": "13",
     "SHOP_BUY_SPECIAL_ITEM": "14",
     "SHOP_GRAIL_FRAGMENTS": "15",
-    "SHOP_BUY_SHOP04": "16",
+    "SHOP_BUY_SVT_COSTUME": "16",
     "SHOP_BLANK": "17"
   },
   "ServantStatusCharaGraphListViewManager.InitMode": {
@@ -5564,27 +5587,29 @@
     "WARBOARD_RATING_BASE": "323",
     "WARBOARD_RATING_OFFSET": "324",
     "WARBOARD_ITEM": "325",
-    "WARBOARD_QUEST": "326",
-    "WARBOARD_DATA": "327",
-    "WARBOARD_INDIVIDUALITY_CLASS": "328",
-    "WARBOARD_ACTION_TREND_COND": "329",
-    "EVENT_PANEL_MAP": "330",
-    "EVENT_PANEL_MAP_DETAIL": "331",
-    "EVENT_PANEL_SPOT": "332",
-    "EVENT_PANEL_SCAN": "333",
-    "COMMON_CONSUME": "334",
-    "USER_EVENT_MAP": "335",
-    "USER_EVENT_SPOT": "336",
-    "WAR_GROUP": "337",
-    "SERVANT_LIMIT_IMAGE": "338",
-    "FRIENDSHIP_QUEST_DIALOG_INFO": "339",
-    "QUEST_RESTRICTION_INFO": "340",
-    "ASSIST": "341",
-    "WARBOARD_EFFECT": "342",
-    "WARBOARD_ONBOARD_SKILL": "343",
-    "BEFORE_BIRTH_DAY": "344",
-    "LOGIN_QUEST": "345",
-    "EVENT_COMBINE_COSTUME": "346"
+    "WARBOARD_TREASURE": "326",
+    "WARBOARD_QUEST": "327",
+    "WARBOARD_DATA": "328",
+    "WARBOARD_INDIVIDUALITY_CLASS": "329",
+    "WARBOARD_ACTION_TREND_COND": "330",
+    "EVENT_PANEL_MAP": "331",
+    "EVENT_PANEL_MAP_DETAIL": "332",
+    "EVENT_PANEL_SPOT": "333",
+    "EVENT_PANEL_SCAN": "334",
+    "COMMON_CONSUME": "335",
+    "USER_EVENT_MAP": "336",
+    "USER_EVENT_SPOT": "337",
+    "WAR_GROUP": "338",
+    "SERVANT_LIMIT_IMAGE": "339",
+    "FRIENDSHIP_QUEST_DIALOG_INFO": "340",
+    "QUEST_RESTRICTION_INFO": "341",
+    "ASSIST": "342",
+    "WARBOARD_EFFECT": "343",
+    "WARBOARD_ONBOARD_SKILL": "344",
+    "BEFORE_BIRTH_DAY": "345",
+    "LOGIN_QUEST": "346",
+    "EVENT_COMBINE_COSTUME": "347",
+    "WARBOARD_STAGE_PIECE_DETAIL": "348"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -6715,7 +6740,8 @@
     "Explicit": "2"
   },
   "EventMissionAddChangeType.Type": {
-    "BOARD_IMAGE": "1"
+    "BOARD_IMAGE": "1",
+    "BOARD_MESSAGE": "2"
   },
   "DateTimeKind": {
     "Unspecified": "0",
@@ -6745,16 +6771,6 @@
   "KeyNumber": {
     "Exchange": "1",
     "Signature": "2"
-  },
-  "EventMissionCondDetailEntity.MissionCondType": {
-    "ENEMY_KILL_NUM": "1",
-    "ENEMY_INDIVIDUALITY_KILL_NUM": "2",
-    "ITEM_GET_TOTAL": "3",
-    "BATTLE_SVT_IN_DECK": "4",
-    "BATTLE_SVT_EQUIP_IN_DECK": "5",
-    "TARGET_QUEST_ENEMY_KILL_NUM": "6",
-    "TARGET_QUEST_ENEMY_INDIVIDUALITY_KILL_NUM": "7",
-    "TARGET_QUEST_ITEM_GET_TOTAL": "8"
   },
   "MasterMissionListViewManager.InitMode": {
     "NONE": "0",
@@ -7088,7 +7104,7 @@
     "EQUIP_STORAGE": "11",
     "SPECIAL_ITEM": "12",
     "GRAIL_FRAGMENTS": "13",
-    "SHOP04": "14"
+    "SVT_COSTUME": "14"
   },
   "CombineServantListViewManager.ModeKind": {
     "NORMAL": "0",
@@ -8666,16 +8682,17 @@
     "WARBOARD_SETUP": "90",
     "WARBOARD_BUFF_SAVE": "91",
     "WARBOARD_MOVE": "92",
-    "WARBOARD_TURN_END": "93",
-    "WARBOARD_MASTER_ATTACK": "94",
-    "WARBOARD_COMMAND_SPELL": "95",
-    "WARBOARD_BATTLE_RESULT": "96",
-    "WARBOARD_FINISH": "97",
-    "WARBOARD_RESUME": "98",
-    "EVENT_SCAN_PANEL_MAP": "99",
-    "BATTLE_USE_CONTINUE_ITEM": "100",
-    "CHECK_DATE_VERSION": "101",
-    "BATTLE_USE_ITEM": "102"
+    "WARBOARD_TREASURE": "93",
+    "WARBOARD_TURN_END": "94",
+    "WARBOARD_MASTER_ATTACK": "95",
+    "WARBOARD_COMMAND_SPELL": "96",
+    "WARBOARD_BATTLE_RESULT": "97",
+    "WARBOARD_FINISH": "98",
+    "WARBOARD_RESUME": "99",
+    "EVENT_SCAN_PANEL_MAP": "100",
+    "BATTLE_USE_CONTINUE_ITEM": "101",
+    "CHECK_DATE_VERSION": "102",
+    "BATTLE_USE_ITEM": "103"
   },
   "ServantEquipFramePurchaseConfirmMenu.Kind": {
     "FRAME": "0",
@@ -9467,7 +9484,7 @@
     "SHOP_HELP_STONE_SHOP": "12",
     "SHOP_HELP_SPECIAL_ITEM_SHOP": "13",
     "SHOP_HELP_GRAIL_FRAGMENTS": "14",
-    "SHOP_HELP_SHOP04": "15",
+    "SHOP_HELP_SVT_COSTUME": "15",
     "SHOP_BLANK": "16"
   },
   "ScriptAssetListViewManager.InitMode": {
@@ -10486,11 +10503,6 @@
     "NONE": "0",
     "START": "1"
   },
-  "EventMissionCondDetailEntity.MissionConditionLinkType": {
-    "EVENT_START": "1",
-    "MISSION_START": "2",
-    "MASTER＿MISSION_START": "3"
-  },
   "UIProgressBar.FillDirection": {
     "LeftToRight": "0",
     "RightToLeft": "1",
@@ -11322,6 +11334,11 @@
     "MOVE": "2",
     "INPUT": "3"
   },
+  "WarBoardStageLayoutEntity.ActionType": {
+    "ADVANCE": "1",
+    "MIDDLE": "2",
+    "REAR": "3"
+  },
   "MaterialCollectionServantListViewObject.InitMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -11433,7 +11450,7 @@
     "BGM": "8",
     "LIMIT_MATERIAL": "9",
     "GRAIL_FRAGMENTS": "10",
-    "SHOP04": "11"
+    "SVT_COSTUME": "11"
   },
   "ServantOperationListViewManager.ModeKind": {
     "SELECT": "0",
@@ -11974,7 +11991,10 @@
     "COUNT_EQUAL_INDIVIDUALITY_PT_BACK": "164",
     "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_FRONT": "165",
     "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_CENTER": "166",
-    "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_BACK": "167"
+    "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_BACK": "167",
+    "CHECK_PRECEDING_ENEMY": "168",
+    "COUNT_HIGHER_REMAIN_TURN": "169",
+    "COUNT_LOWER_REMAIN_TURN": "170"
   },
   "ListViewSort.ExpUpDispType": {
     "EXP_UP": "0",
@@ -14166,7 +14186,9 @@
     "COUNT_STAR": "25",
     "TARGET_POSITION": "26",
     "COUNT_TARGET_BUFF_INDIVIDUALITY_SUM": "27",
-    "DEAD": "28"
+    "DEAD": "28",
+    "PRECEDING_ENEMY": "29",
+    "REMAIN_TURN": "30"
   },
   "UserPresentListViewManager.KIND": {
     "NORMAL": "0",
@@ -14726,7 +14748,7 @@
     "CANCEL_SHOP": "13",
     "ENTER_SPECIAL_ITEM_SHOP": "14",
     "ENTER_GRAIL_FRAGMENTS_SHOP": "15",
-    "ENTER_SHOP04_SHOP": "16"
+    "ENTER_SVT_COSTUME_SHOP": "16"
   },
   "ScriptBackLogListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -15040,7 +15062,7 @@
     "CANCEL_SHOP": "8192",
     "ENTER_SPECIAL_ITEM_SHOP": "16384",
     "ENTER_GRAIL_FRAGMENTS_SHOP": "32768",
-    "ENTER_SHOP04_SHOP": "65536"
+    "ENTER_SVT_COSTUME_SHOP": "65536"
   },
   "FavoriteChangeListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -16490,7 +16512,11 @@
     "isAroundAllyMaster": "34",
     "isAroundAllyServant": "35",
     "isMoveByMasterOnBlockShortestRouteEnemyAndMaster": "36",
-    "isDefenseAreaWithInEnemyAllBlock": "37"
+    "isDefenseAreaWithInEnemyAllBlock": "37",
+    "isMoveByDefenseAreaServant": "38",
+    "isMoveByDefenseAreaEnemy": "39",
+    "isAllDefenseAreaEnemyRouteBlock": "40",
+    "isComeBackSquare": "41"
   },
   "USRecord.FrameRate": {
     "_24": "0",
@@ -16724,7 +16750,17 @@
     "IS_TARGET_ALLY": "111",
     "IS_NOT_TARGET_ALLY": "112",
     "MOVE_BY_ON_DETOUR_ROUTE": "113",
-    "MOVE_BY_NOT_ON_DETOUR_ROUTE": "114"
+    "MOVE_BY_NOT_ON_DETOUR_ROUTE": "114",
+    "ACTION_TYPE_ADVANCE": "115",
+    "ACTION_TYPE_MIDDLE": "116",
+    "ACTION_TYPE_REAR": "117",
+    "IS_ALL_DEFENSE_AREA_ENEMY_ROUTE_BLOCK": "118",
+    "IS_NOT_ALL_DEFENSE_AREA_ENEMY_ROUTE_BLOCK": "119",
+    "IS_COME_BACK_SQUARE": "120",
+    "IS_NOT_COME_BACK_SQUARE": "121",
+    "MOVE_BY_USE_DRTOUR_TARGET_RANGE_APPROACH_DRTOUR": "122",
+    "MOVE_BY_USE_DRTOUR_TARGET_RANGE_LEAVE_DRTOUR": "123",
+    "MOVE_BY_USE_DRTOUR_TARGET_RANGE_NO_CHANGE_DRTOUR": "124"
   },
   "CombineHelpListViewObject.State": {
     "INIT": "0",
@@ -17489,6 +17525,10 @@
     "CANCEL": "0",
     "DECIDE": "1"
   },
+  "WarBoardPieceData.RoleType": {
+    "NONE": "0",
+    "DANGER": "1"
+  },
   "SvtClassAttri.TYPE": {
     "SABER": "1",
     "ARCHER": "2",
@@ -17755,7 +17795,11 @@
     "isAroundAllyMaster": "17179869184",
     "isAroundAllyServant": "34359738368",
     "isMoveByMasterOnBlockShortestRouteEnemyAndMaster": "68719476736",
-    "isDefenseAreaWithInEnemyAllBlock": "137438953472"
+    "isDefenseAreaWithInEnemyAllBlock": "137438953472",
+    "isMoveByDefenseAreaServant": "274877906944",
+    "isMoveByDefenseAreaEnemy": "549755813888",
+    "isAllDefenseAreaEnemyRouteBlock": "1099511627776",
+    "isComeBackSquare": "2199023255552"
   },
   "TimelineClip.BlendCurveMode": {
     "Auto": "0",
@@ -17911,7 +17955,7 @@
   "GuideEntity.GuideType": {
     "COMBINE": "1",
     "SHOP": "2",
-    "SHOP04": "3"
+    "SVT_COSTUME": "3"
   },
   "TrackBindingFlags": {
     "None": "0",
@@ -19166,7 +19210,8 @@
     "SVT_LEVEL_ID_NUM": "149",
     "LIMIT_COUNT_IMAGE_EQUAL": "150",
     "LIMIT_COUNT_IMAGE_ABOVE": "151",
-    "LIMIT_COUNT_IMAGE_BELOW": "152"
+    "LIMIT_COUNT_IMAGE_BELOW": "152",
+    "EVENT_TYPE_START_TIME_TO_END_DATE": "153"
   },
   "ServerSettingMenu.State": {
     "INIT": "0",

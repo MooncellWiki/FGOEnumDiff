@@ -1,4 +1,4 @@
-public enum CombineEntity.CombineType // TypeDefIndex: 6339
+public enum CombineEntity.CombineType // TypeDefIndex: 6344
 {
 	// Fields
 	public int value__; // 0x0

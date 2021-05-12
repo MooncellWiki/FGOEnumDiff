@@ -1,4 +1,4 @@
-public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 10892
+public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 10912
 {
 	// Fields
 	public int value__; // 0x0
@@ -40,4 +40,8 @@ public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 10892
 	public const WarBoardAIRoute.RouteData.Kind isAroundAllyServant = 35;
 	public const WarBoardAIRoute.RouteData.Kind isMoveByMasterOnBlockShortestRouteEnemyAndMaster = 36;
 	public const WarBoardAIRoute.RouteData.Kind isDefenseAreaWithInEnemyAllBlock = 37;
+	public const WarBoardAIRoute.RouteData.Kind isMoveByDefenseAreaServant = 38;
+	public const WarBoardAIRoute.RouteData.Kind isMoveByDefenseAreaEnemy = 39;
+	public const WarBoardAIRoute.RouteData.Kind isAllDefenseAreaEnemyRouteBlock = 40;
+	public const WarBoardAIRoute.RouteData.Kind isComeBackSquare = 41;
 }

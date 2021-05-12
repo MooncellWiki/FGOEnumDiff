@@ -1,4 +1,4 @@
-public enum MyRoomStateMaterial.STATE // TypeDefIndex: 9388
+public enum MyRoomStateMaterial.STATE // TypeDefIndex: 9406
 {
 	// Fields
 	public int value__; // 0x0

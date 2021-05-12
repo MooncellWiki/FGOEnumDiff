@@ -1,4 +1,4 @@
-public enum MyRoomHelpListViewObject.InitMode // TypeDefIndex: 9521
+public enum MyRoomHelpListViewObject.InitMode // TypeDefIndex: 9539
 {
 	// Fields
 	public int value__; // 0x0

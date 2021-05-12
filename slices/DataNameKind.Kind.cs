@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 5790
+public enum DataNameKind.Kind // TypeDefIndex: 5795
 {
 	// Fields
 	public int value__; // 0x0
@@ -328,25 +328,27 @@ public enum DataNameKind.Kind // TypeDefIndex: 5790
 	public const DataNameKind.Kind WARBOARD_RATING_BASE = 323;
 	public const DataNameKind.Kind WARBOARD_RATING_OFFSET = 324;
 	public const DataNameKind.Kind WARBOARD_ITEM = 325;
-	public const DataNameKind.Kind WARBOARD_QUEST = 326;
-	public const DataNameKind.Kind WARBOARD_DATA = 327;
-	public const DataNameKind.Kind WARBOARD_INDIVIDUALITY_CLASS = 328;
-	public const DataNameKind.Kind WARBOARD_ACTION_TREND_COND = 329;
-	public const DataNameKind.Kind EVENT_PANEL_MAP = 330;
-	public const DataNameKind.Kind EVENT_PANEL_MAP_DETAIL = 331;
-	public const DataNameKind.Kind EVENT_PANEL_SPOT = 332;
-	public const DataNameKind.Kind EVENT_PANEL_SCAN = 333;
-	public const DataNameKind.Kind COMMON_CONSUME = 334;
-	public const DataNameKind.Kind USER_EVENT_MAP = 335;
-	public const DataNameKind.Kind USER_EVENT_SPOT = 336;
-	public const DataNameKind.Kind WAR_GROUP = 337;
-	public const DataNameKind.Kind SERVANT_LIMIT_IMAGE = 338;
-	public const DataNameKind.Kind FRIENDSHIP_QUEST_DIALOG_INFO = 339;
-	public const DataNameKind.Kind QUEST_RESTRICTION_INFO = 340;
-	public const DataNameKind.Kind ASSIST = 341;
-	public const DataNameKind.Kind WARBOARD_EFFECT = 342;
-	public const DataNameKind.Kind WARBOARD_ONBOARD_SKILL = 343;
-	public const DataNameKind.Kind BEFORE_BIRTH_DAY = 344;
-	public const DataNameKind.Kind LOGIN_QUEST = 345;
-	public const DataNameKind.Kind EVENT_COMBINE_COSTUME = 346;
+	public const DataNameKind.Kind WARBOARD_TREASURE = 326;
+	public const DataNameKind.Kind WARBOARD_QUEST = 327;
+	public const DataNameKind.Kind WARBOARD_DATA = 328;
+	public const DataNameKind.Kind WARBOARD_INDIVIDUALITY_CLASS = 329;
+	public const DataNameKind.Kind WARBOARD_ACTION_TREND_COND = 330;
+	public const DataNameKind.Kind EVENT_PANEL_MAP = 331;
+	public const DataNameKind.Kind EVENT_PANEL_MAP_DETAIL = 332;
+	public const DataNameKind.Kind EVENT_PANEL_SPOT = 333;
+	public const DataNameKind.Kind EVENT_PANEL_SCAN = 334;
+	public const DataNameKind.Kind COMMON_CONSUME = 335;
+	public const DataNameKind.Kind USER_EVENT_MAP = 336;
+	public const DataNameKind.Kind USER_EVENT_SPOT = 337;
+	public const DataNameKind.Kind WAR_GROUP = 338;
+	public const DataNameKind.Kind SERVANT_LIMIT_IMAGE = 339;
+	public const DataNameKind.Kind FRIENDSHIP_QUEST_DIALOG_INFO = 340;
+	public const DataNameKind.Kind QUEST_RESTRICTION_INFO = 341;
+	public const DataNameKind.Kind ASSIST = 342;
+	public const DataNameKind.Kind WARBOARD_EFFECT = 343;
+	public const DataNameKind.Kind WARBOARD_ONBOARD_SKILL = 344;
+	public const DataNameKind.Kind BEFORE_BIRTH_DAY = 345;
+	public const DataNameKind.Kind LOGIN_QUEST = 346;
+	public const DataNameKind.Kind EVENT_COMBINE_COSTUME = 347;
+	public const DataNameKind.Kind WARBOARD_STAGE_PIECE_DETAIL = 348;
 }

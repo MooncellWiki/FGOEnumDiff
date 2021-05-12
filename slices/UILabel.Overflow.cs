@@ -1,4 +1,4 @@
-public enum UILabel.Overflow // TypeDefIndex: 11331
+public enum UILabel.Overflow // TypeDefIndex: 11363
 {
 	// Fields
 	public int value__; // 0x0

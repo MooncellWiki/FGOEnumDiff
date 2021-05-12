@@ -1,4 +1,4 @@
-private enum ShopHelpListViewObject.State // TypeDefIndex: 9842
+private enum ShopHelpListViewObject.State // TypeDefIndex: 9860
 {
 	// Fields
 	public int value__; // 0x0

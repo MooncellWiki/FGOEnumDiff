@@ -1,4 +1,4 @@
-public enum TblFriendEntity.Flag // TypeDefIndex: 6892
+public enum TblFriendEntity.Flag // TypeDefIndex: 6895
 {
 	// Fields
 	public int value__; // 0x0

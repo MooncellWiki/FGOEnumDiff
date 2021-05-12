@@ -1,4 +1,4 @@
-public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 9880
+public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 9898
 {
 	// Fields
 	public int value__; // 0x0
@@ -17,6 +17,6 @@ public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 9880
 	public const ShopTopItemInfo.ItemKind SHOP_BUY_RARE_PRI = 13;
 	public const ShopTopItemInfo.ItemKind SHOP_BUY_SPECIAL_ITEM = 14;
 	public const ShopTopItemInfo.ItemKind SHOP_GRAIL_FRAGMENTS = 15;
-	public const ShopTopItemInfo.ItemKind SHOP_BUY_SHOP04 = 16;
+	public const ShopTopItemInfo.ItemKind SHOP_BUY_SVT_COSTUME = 16;
 	public const ShopTopItemInfo.ItemKind SHOP_BLANK = 17;
 }

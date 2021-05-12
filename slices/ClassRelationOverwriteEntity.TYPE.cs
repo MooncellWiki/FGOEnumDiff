@@ -1,4 +1,4 @@
-public enum ClassRelationOverwriteEntity.TYPE // TypeDefIndex: 6332
+public enum ClassRelationOverwriteEntity.TYPE // TypeDefIndex: 6337
 {
 	// Fields
 	public int value__; // 0x0

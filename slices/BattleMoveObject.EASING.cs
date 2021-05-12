@@ -1,4 +1,4 @@
-public enum BattleMoveObject.EASING // TypeDefIndex: 8314
+public enum BattleMoveObject.EASING // TypeDefIndex: 8332
 {
 	// Fields
 	public int value__; // 0x0

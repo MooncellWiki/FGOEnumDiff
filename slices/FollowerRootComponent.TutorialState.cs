@@ -1,4 +1,4 @@
-protected enum FollowerRootComponent.TutorialState // TypeDefIndex: 9165
+protected enum FollowerRootComponent.TutorialState // TypeDefIndex: 9183
 {
 	// Fields
 	public int value__; // 0x0

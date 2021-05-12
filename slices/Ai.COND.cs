@@ -1,4 +1,4 @@
-public enum Ai.COND // TypeDefIndex: 5743
+public enum Ai.COND // TypeDefIndex: 5748
 {
 	// Fields
 	public int value__; // 0x0
@@ -130,4 +130,7 @@ public enum Ai.COND // TypeDefIndex: 5743
 	public const Ai.COND COUNT_EQUAL_INDIVIDUALITY_OPPONENT_FRONT = 165;
 	public const Ai.COND COUNT_EQUAL_INDIVIDUALITY_OPPONENT_CENTER = 166;
 	public const Ai.COND COUNT_EQUAL_INDIVIDUALITY_OPPONENT_BACK = 167;
+	public const Ai.COND CHECK_PRECEDING_ENEMY = 168;
+	public const Ai.COND COUNT_HIGHER_REMAIN_TURN = 169;
+	public const Ai.COND COUNT_LOWER_REMAIN_TURN = 170;
 }

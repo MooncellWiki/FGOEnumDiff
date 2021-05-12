@@ -1,4 +1,4 @@
-public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 7075
+public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 7079
 {
 	// Fields
 	public int value__; // 0x0
@@ -116,4 +116,14 @@ public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 70
 	public const WarBoardActionTrendConditionEntity.ConditionType IS_NOT_TARGET_ALLY = 112;
 	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_ON_DETOUR_ROUTE = 113;
 	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_NOT_ON_DETOUR_ROUTE = 114;
+	public const WarBoardActionTrendConditionEntity.ConditionType ACTION_TYPE_ADVANCE = 115;
+	public const WarBoardActionTrendConditionEntity.ConditionType ACTION_TYPE_MIDDLE = 116;
+	public const WarBoardActionTrendConditionEntity.ConditionType ACTION_TYPE_REAR = 117;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_ALL_DEFENSE_AREA_ENEMY_ROUTE_BLOCK = 118;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_NOT_ALL_DEFENSE_AREA_ENEMY_ROUTE_BLOCK = 119;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_COME_BACK_SQUARE = 120;
+	public const WarBoardActionTrendConditionEntity.ConditionType IS_NOT_COME_BACK_SQUARE = 121;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_USE_DRTOUR_TARGET_RANGE_APPROACH_DRTOUR = 122;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_USE_DRTOUR_TARGET_RANGE_LEAVE_DRTOUR = 123;
+	public const WarBoardActionTrendConditionEntity.ConditionType MOVE_BY_USE_DRTOUR_TARGET_RANGE_NO_CHANGE_DRTOUR = 124;
 }

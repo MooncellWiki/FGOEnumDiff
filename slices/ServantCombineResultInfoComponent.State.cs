@@ -1,4 +1,4 @@
-protected enum ServantCombineResultInfoComponent.State // TypeDefIndex: 8896
+protected enum ServantCombineResultInfoComponent.State // TypeDefIndex: 8914
 {
 	// Fields
 	public int value__; // 0x0

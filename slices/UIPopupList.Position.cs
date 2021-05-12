@@ -1,4 +1,4 @@
-public enum UIPopupList.Position // TypeDefIndex: 11205
+public enum UIPopupList.Position // TypeDefIndex: 11237
 {
 	// Fields
 	public int value__; // 0x0

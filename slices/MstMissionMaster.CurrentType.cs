@@ -1,4 +1,4 @@
-public enum MstMissionMaster.CurrentType // TypeDefIndex: 6664
+public enum MstMissionMaster.CurrentType // TypeDefIndex: 6667
 {
 	// Fields
 	public int value__; // 0x0

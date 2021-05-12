@@ -1,4 +1,4 @@
-public enum WarBoardTacticalTrendEntity.Type // TypeDefIndex: 7125
+public enum WarBoardTacticalTrendEntity.Type // TypeDefIndex: 7134
 {
 	// Fields
 	public int value__; // 0x0
