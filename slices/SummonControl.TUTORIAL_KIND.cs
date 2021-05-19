@@ -1,4 +1,4 @@
-public enum SummonControl.TUTORIAL_KIND // TypeDefIndex: 9935
+public enum SummonControl.TUTORIAL_KIND // TypeDefIndex: 9936
 {
 	// Fields
 	public int value__; // 0x0

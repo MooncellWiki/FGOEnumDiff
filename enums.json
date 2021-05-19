@@ -5814,7 +5814,8 @@
   },
   "UserShopFlag.FlagKind": {
     "RECEIVED_SHOP_ITEM": "1",
-    "USED_ADD_BUFF_ITEM": "2"
+    "USED_ADD_BUFF_ITEM": "2",
+    "RETURN_EXCHANGE_ITEM": "3"
   },
   "CombineRootComponent.CombineTutorialProgress": {
     "TOP_SVT_COMBINE": "0",
@@ -14344,7 +14345,8 @@
   },
   "UserShopFlag.Flag": {
     "RECEIVED_SHOP_ITEM": "2",
-    "USED_ADD_BUFF_ITEM": "4"
+    "USED_ADD_BUFF_ITEM": "4",
+    "RETURN_EXCHANGE_ITEM": "8"
   },
   "RefreshProperties": {
     "All": "1",

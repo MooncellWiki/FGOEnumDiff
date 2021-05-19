@@ -1,4 +1,4 @@
-protected enum ServerSettingMenu.State // TypeDefIndex: 10779
+protected enum ServerSettingMenu.State // TypeDefIndex: 10780
 {
 	// Fields
 	public int value__; // 0x0

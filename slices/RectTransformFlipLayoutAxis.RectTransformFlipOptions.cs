@@ -1,4 +1,4 @@
-public enum RectTransformFlipLayoutAxis.RectTransformFlipOptions // TypeDefIndex: 11913
+public enum RectTransformFlipLayoutAxis.RectTransformFlipOptions // TypeDefIndex: 11914
 {
 	// Fields
 	public int value__; // 0x0

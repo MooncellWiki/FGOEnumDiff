@@ -1,4 +1,4 @@
-public enum UIWidget.AspectRatioSource // TypeDefIndex: 11324
+public enum UIWidget.AspectRatioSource // TypeDefIndex: 11325
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ScrollArrowComponent.DirectionType // TypeDefIndex: 10224
+public enum ScrollArrowComponent.DirectionType // TypeDefIndex: 10225
 {
 	// Fields
 	public int value__; // 0x0
