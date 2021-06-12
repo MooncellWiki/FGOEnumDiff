@@ -1,4 +1,4 @@
-public enum LightType // TypeDefIndex: 2175
+public enum LightType // TypeDefIndex: 2176
 {
 	// Fields
 	public int value__; // 0x0

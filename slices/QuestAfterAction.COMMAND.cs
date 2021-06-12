@@ -1,4 +1,4 @@
-public enum QuestAfterAction.COMMAND // TypeDefIndex: 10282
+public enum QuestAfterAction.COMMAND // TypeDefIndex: 10299
 {
 	// Fields
 	public int value__; // 0x0
@@ -18,6 +18,10 @@ public enum QuestAfterAction.COMMAND // TypeDefIndex: 10282
 	public const QuestAfterAction.COMMAND CAM_MV_GIMMICK = 302;
 	public const QuestAfterAction.COMMAND CAM_MV_COORD = 303;
 	public const QuestAfterAction.COMMAND CAM_ZOOM = 304;
+	public const QuestAfterAction.COMMAND CAM_MV_ZOOM_SPOT = 305;
+	public const QuestAfterAction.COMMAND CAM_MV_ZOOM_ROAD = 306;
+	public const QuestAfterAction.COMMAND CAM_MV_ZOOM_GIMMICK = 307;
+	public const QuestAfterAction.COMMAND CAM_MV_ZOOM_COORD = 308;
 	public const QuestAfterAction.COMMAND GIMMICK_HIDE = 400;
 	public const QuestAfterAction.COMMAND GIMMICK_DISP = 401;
 	public const QuestAfterAction.COMMAND GIMMICK_HIDE_QUICK = 402;

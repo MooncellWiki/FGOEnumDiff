@@ -1,4 +1,4 @@
-public enum TypeOfTransition // TypeDefIndex: 3392
+public enum TypeOfTransition // TypeDefIndex: 3393
 {
 	// Fields
 	public int value__; // 0x0

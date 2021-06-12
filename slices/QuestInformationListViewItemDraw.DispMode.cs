@@ -1,4 +1,4 @@
-public enum QuestInformationListViewItemDraw.DispMode // TypeDefIndex: 10353
+public enum QuestInformationListViewItemDraw.DispMode // TypeDefIndex: 10370
 {
 	// Fields
 	public int value__; // 0x0

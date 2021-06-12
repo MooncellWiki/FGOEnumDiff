@@ -1,4 +1,4 @@
-public enum ScriptBranchListViewItem.BranchType // TypeDefIndex: 10700
+public enum ScriptBranchListViewItem.BranchType // TypeDefIndex: 10717
 {
 	// Fields
 	public int value__; // 0x0
@@ -10,4 +10,6 @@ public enum ScriptBranchListViewItem.BranchType // TypeDefIndex: 10700
 	public const ScriptBranchListViewItem.BranchType Revival = 4;
 	public const ScriptBranchListViewItem.BranchType HaveServantEquip = 5;
 	public const ScriptBranchListViewItem.BranchType NotHaveServantEquip = 6;
+	public const ScriptBranchListViewItem.BranchType RouteSelect = 7;
+	public const ScriptBranchListViewItem.BranchType NotRouteSelect = 8;
 }

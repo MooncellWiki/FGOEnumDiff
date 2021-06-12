@@ -1,4 +1,4 @@
-public enum PartyServantListViewManager.ResultKind // TypeDefIndex: 9727
+public enum PartyServantListViewManager.ResultKind // TypeDefIndex: 9744
 {
 	// Fields
 	public int value__; // 0x0

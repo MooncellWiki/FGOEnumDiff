@@ -1,4 +1,4 @@
-public enum TargetValueOptions // TypeDefIndex: 3282
+public enum TargetValueOptions // TypeDefIndex: 3283
 {
 	// Fields
 	public int value__; // 0x0

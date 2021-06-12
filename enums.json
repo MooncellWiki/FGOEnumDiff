@@ -17,21 +17,6 @@
     "SceneByPath": "4",
     "SceneByGameObject": "5"
   },
-  "InvGameItem.Quality": {
-    "Broken": "0",
-    "Cursed": "1",
-    "Damaged": "2",
-    "Worn": "3",
-    "Sturdy": "4",
-    "Polished": "5",
-    "Improved": "6",
-    "Crafted": "7",
-    "Superior": "8",
-    "Enchanted": "9",
-    "Epic": "10",
-    "Legendary": "11",
-    "_LastDoNotUse": "12"
-  },
   "BoostItemListViewObject.State": {
     "INIT": "0",
     "IDLE": "1",
@@ -792,7 +777,8 @@
     "PLAY_SHIFTGAUGECHANGE_SERVANT": "28",
     "SET_TIMEACCELERATION_DIFFERENT": "29",
     "FORCE_RESET_TIMEACCELERATION": "30",
-    "PREV_TACTICAL": "31"
+    "PREV_TACTICAL": "31",
+    "LOSS_COMMAND_SPELL": "32"
   },
   "TextEditor.Direction": {
     "Forward": "0",
@@ -1295,6 +1281,10 @@
     "SERVANT_EQUIP": "1",
     "WAREHOUSE_SERVANT": "2",
     "WAREHOUSE_SERVANT_EQUIP": "3"
+  },
+  "ScriptManager.SCENE_MODE": {
+    "DEFAULT": "0",
+    "FULLSCREEN_IMAGE_DEVICE_WIDTH": "1"
   },
   "CombineCommandCodeListViewManager.ModeKind": {
     "NORMAL": "0",
@@ -4412,6 +4402,12 @@
     "VALID": "2",
     "INPUT": "3"
   },
+  "EventInfoChronologyDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "CLOSE": "3"
+  },
   "QuestEntity.enType": {
     "MAIN": "1",
     "FREE": "2",
@@ -7337,7 +7333,9 @@
     "DAMAGE_NP_INDIVIDUAL_SUM": "121",
     "DAMAGE_VALUE_SAFE": "122",
     "MOVE_STATE": "124",
-    "CHANGE_BGM_COSTUME": "125"
+    "CHANGE_BGM_COSTUME": "125",
+    "FUNC_126": "126",
+    "FUNC_127": "127"
   },
   "SkillUpResultWindowComponent.State": {
     "INIT": "0"
@@ -8882,7 +8880,9 @@
     "ParamAddOpIndividuality": "70",
     "ParamAddFieldIndividuality": "71",
     "ParamAddValue": "72",
-    "MultipleGainStar": "73"
+    "MultipleGainStar": "73",
+    "NoCheckIndividualityIfNotUnit": "74",
+    "ForcedEffectSpeedOne": "75"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",
@@ -10067,17 +10067,6 @@
     "Utf8": "0",
     "Sjis": "1"
   },
-  "InvBaseItem.Slot": {
-    "None": "0",
-    "Weapon": "1",
-    "Shield": "2",
-    "Body": "3",
-    "Shoulders": "4",
-    "Bracers": "5",
-    "Boots": "6",
-    "Trinket": "7",
-    "_LastDoNotUse": "8"
-  },
   "ShakeType": {
     "None": "0",
     "Position": "1",
@@ -11183,7 +11172,8 @@
     "SPECIAL_INVINCIBLE": "157",
     "PREVENT_DEATH_BY_DAMAGE": "158",
     "COMMANDCODEATTACK_AFTER_FUNCTION": "159",
-    "ATTACK_BEFORE_FUNCTION": "160"
+    "ATTACK_BEFORE_FUNCTION": "160",
+    "DONOT_SKILL_SELECT": "161"
   },
   "EventDetailEntity.EventGaugeType": {
     "NONE": "1",
@@ -11421,18 +11411,6 @@
     "NONE": "0",
     "MAIN": "1",
     "SIZEOF": "2"
-  },
-  "InvStat.Identifier": {
-    "Strength": "0",
-    "Constitution": "1",
-    "Agility": "2",
-    "Intelligence": "3",
-    "Damage": "4",
-    "Crit": "5",
-    "Armor": "6",
-    "Health": "7",
-    "Mana": "8",
-    "Other": "9"
   },
   "VRTextureUsage": {
     "None": "0",
@@ -11995,7 +11973,10 @@
     "COUNT_EQUAL_INDIVIDUALITY_OPPONENT_BACK": "167",
     "CHECK_PRECEDING_ENEMY": "168",
     "COUNT_HIGHER_REMAIN_TURN": "169",
-    "COUNT_LOWER_REMAIN_TURN": "170"
+    "COUNT_LOWER_REMAIN_TURN": "170",
+    "COUNT_HIGHER_AI_171": "171",
+    "COUNT_LOWER_AI_172": "172",
+    "COUNT_EQUAL_AI_173": "173"
   },
   "ListViewSort.ExpUpDispType": {
     "EXP_UP": "0",
@@ -12353,7 +12334,9 @@
     "QuestNotClear": "3",
     "Revival": "4",
     "HaveServantEquip": "5",
-    "NotHaveServantEquip": "6"
+    "NotHaveServantEquip": "6",
+    "RouteSelect": "7",
+    "NotRouteSelect": "8"
   },
   "MethodImplAttributes": {
     "CodeTypeMask": "3",
@@ -13340,7 +13323,8 @@
     "SPECIAL_INVINCIBLE": "95",
     "PREVENT_DEATH_BY_DAMAGE": "96",
     "FUNCTION_COMMANDCODEATTACK_AFTER": "97",
-    "FUNCTION_ATTACK_BEFORE": "98"
+    "FUNCTION_ATTACK_BEFORE": "98",
+    "DONOT_SKILL_SELECT": "99"
   },
   "EventTriggerType": {
     "PointerEnter": "0",
@@ -14158,6 +14142,17 @@
     "SERVANT_FORMATION": "2",
     "SERVANT_LIST": "3"
   },
+  "BattleCommandSealStatus.Status": {
+    "DONOT_ACT_BY_SLEEP": "0",
+    "DONOT_ACT_BY_OTHER_DEBUFF": "1",
+    "NO_FUNC_HEROINE": "2",
+    "NO_FUNC": "3",
+    "DONOT_NOBLE": "4",
+    "SHORTAGE_CRITICAL_STAR": "5",
+    "DONOT_NOBLE_COND_MISMATCH": "6",
+    "DONOT_ACT_WITH_TYPE_SP": "7",
+    "NONE": "2147483647"
+  },
   "ConditionsInformation.PARAMATER": {
     "NONE": "0",
     "TURN": "1",
@@ -14189,7 +14184,8 @@
     "COUNT_TARGET_BUFF_INDIVIDUALITY_SUM": "27",
     "DEAD": "28",
     "PRECEDING_ENEMY": "29",
-    "REMAIN_TURN": "30"
+    "REMAIN_TURN": "30",
+    "AVALON_145566": "31"
   },
   "UserPresentListViewManager.KIND": {
     "NORMAL": "0",
@@ -16085,6 +16081,10 @@
     "CAM_MV_GIMMICK": "302",
     "CAM_MV_COORD": "303",
     "CAM_ZOOM": "304",
+    "CAM_MV_ZOOM_SPOT": "305",
+    "CAM_MV_ZOOM_ROAD": "306",
+    "CAM_MV_ZOOM_GIMMICK": "307",
+    "CAM_MV_ZOOM_COORD": "308",
     "GIMMICK_HIDE": "400",
     "GIMMICK_DISP": "401",
     "GIMMICK_HIDE_QUICK": "402",
@@ -17091,10 +17091,6 @@
     "GameTime": "1",
     "UnscaledGameTime": "2",
     "Manual": "3"
-  },
-  "InvStat.Modifier": {
-    "Added": "0",
-    "Percent": "1"
   },
   "TutorialFlag.EventId": {
     "NULL": "-1",
@@ -19451,7 +19447,8 @@
     "MODIFY": "3"
   },
   "NpcFollowerEntity.Flag": {
-    "RECOMMENDED_ICON": "1"
+    "RECOMMENDED_ICON": "1",
+    "IS_MY_SVT_OR_NPC": "2"
   },
   "FGOPlayStarDirection.DirectionType": {
     "Refresh": "0",

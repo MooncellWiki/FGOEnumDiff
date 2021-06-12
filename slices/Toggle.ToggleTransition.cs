@@ -1,4 +1,4 @@
-public enum Toggle.ToggleTransition // TypeDefIndex: 3056
+public enum Toggle.ToggleTransition // TypeDefIndex: 3057
 {
 	// Fields
 	public int value__; // 0x0

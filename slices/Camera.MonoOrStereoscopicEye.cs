@@ -1,4 +1,4 @@
-public enum Camera.MonoOrStereoscopicEye // TypeDefIndex: 2118
+public enum Camera.MonoOrStereoscopicEye // TypeDefIndex: 2119
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum MetapsAnalyticsScript.DismissReason // TypeDefIndex: 3965
+public enum MetapsAnalyticsScript.DismissReason // TypeDefIndex: 3966
 {
 	// Fields
 	public int value__; // 0x0

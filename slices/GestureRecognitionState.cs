@@ -1,4 +1,4 @@
-public enum GestureRecognitionState // TypeDefIndex: 3851
+public enum GestureRecognitionState // TypeDefIndex: 3852
 {
 	// Fields
 	public int value__; // 0x0

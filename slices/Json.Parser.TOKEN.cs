@@ -1,4 +1,4 @@
-private enum Json.Parser.TOKEN // TypeDefIndex: 6063
+private enum Json.Parser.TOKEN // TypeDefIndex: 6069
 {
 	// Fields
 	public int value__; // 0x0

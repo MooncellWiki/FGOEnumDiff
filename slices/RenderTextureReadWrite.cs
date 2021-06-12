@@ -1,4 +1,4 @@
-public enum RenderTextureReadWrite // TypeDefIndex: 2192
+public enum RenderTextureReadWrite // TypeDefIndex: 2193
 {
 	// Fields
 	public int value__; // 0x0

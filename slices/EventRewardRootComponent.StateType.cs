@@ -1,4 +1,4 @@
-public enum EventRewardRootComponent.StateType // TypeDefIndex: 9118
+public enum EventRewardRootComponent.StateType // TypeDefIndex: 9135
 {
 	// Fields
 	public int value__; // 0x0

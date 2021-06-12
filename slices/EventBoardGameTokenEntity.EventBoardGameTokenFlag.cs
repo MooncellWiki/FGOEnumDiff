@@ -1,4 +1,4 @@
-public enum EventBoardGameTokenEntity.EventBoardGameTokenFlag // TypeDefIndex: 6415
+public enum EventBoardGameTokenEntity.EventBoardGameTokenFlag // TypeDefIndex: 6421
 {
 	// Fields
 	public int value__; // 0x0

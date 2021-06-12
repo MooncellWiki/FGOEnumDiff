@@ -1,4 +1,4 @@
-public enum USRecord.FrameRate // TypeDefIndex: 3503
+public enum USRecord.FrameRate // TypeDefIndex: 3504
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FunctionCategoryEntity.GroupType // TypeDefIndex: 6611
+public enum FunctionCategoryEntity.GroupType // TypeDefIndex: 6617
 {
 	// Fields
 	public int value__; // 0x0

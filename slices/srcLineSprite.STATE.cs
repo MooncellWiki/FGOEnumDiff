@@ -1,4 +1,4 @@
-public enum srcLineSprite.STATE // TypeDefIndex: 10570
+public enum srcLineSprite.STATE // TypeDefIndex: 10587
 {
 	// Fields
 	public int value__; // 0x0

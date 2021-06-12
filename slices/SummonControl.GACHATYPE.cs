@@ -1,4 +1,4 @@
-public enum SummonControl.GACHATYPE // TypeDefIndex: 9937
+public enum SummonControl.GACHATYPE // TypeDefIndex: 9954
 {
 	// Fields
 	public int value__; // 0x0

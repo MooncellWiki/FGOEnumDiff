@@ -1,4 +1,4 @@
-private enum ServantCombineControl.ConductionType // TypeDefIndex: 8911
+private enum ServantCombineControl.ConductionType // TypeDefIndex: 8928
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum TimelineAsset.DurationMode // TypeDefIndex: 3297
+public enum TimelineAsset.DurationMode // TypeDefIndex: 3298
 {
 	// Fields
 	public int value__; // 0x0

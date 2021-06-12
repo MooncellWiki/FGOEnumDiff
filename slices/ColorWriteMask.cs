@@ -1,4 +1,4 @@
-public enum ColorWriteMask // TypeDefIndex: 2204
+public enum ColorWriteMask // TypeDefIndex: 2205
 {
 	// Fields
 	public int value__; // 0x0

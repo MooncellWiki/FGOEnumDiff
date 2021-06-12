@@ -1,4 +1,4 @@
-public enum CombineServantListViewManager.InitMode // TypeDefIndex: 8940
+public enum CombineServantListViewManager.InitMode // TypeDefIndex: 8957
 {
 	// Fields
 	public int value__; // 0x0

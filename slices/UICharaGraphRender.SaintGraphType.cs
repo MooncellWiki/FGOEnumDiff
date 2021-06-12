@@ -1,4 +1,4 @@
-public enum UICharaGraphRender.SaintGraphType // TypeDefIndex: 7337
+public enum UICharaGraphRender.SaintGraphType // TypeDefIndex: 7345
 {
 	// Fields
 	public int value__; // 0x0

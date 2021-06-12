@@ -1,4 +1,4 @@
-public enum SceneList.Type // TypeDefIndex: 5867
+public enum SceneList.Type // TypeDefIndex: 5873
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum DirectorWrapMode // TypeDefIndex: 2507
+public enum DirectorWrapMode // TypeDefIndex: 2508
 {
 	// Fields
 	public int value__; // 0x0

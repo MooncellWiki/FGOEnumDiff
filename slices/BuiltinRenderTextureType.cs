@@ -1,4 +1,4 @@
-public enum BuiltinRenderTextureType // TypeDefIndex: 2209
+public enum BuiltinRenderTextureType // TypeDefIndex: 2210
 {
 	// Fields
 	public int value__; // 0x0

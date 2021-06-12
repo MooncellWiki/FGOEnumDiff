@@ -1,4 +1,4 @@
-public enum FuncList.COND // TypeDefIndex: 5822
+public enum FuncList.COND // TypeDefIndex: 5828
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum Restriction.Type // TypeDefIndex: 5862
+public enum Restriction.Type // TypeDefIndex: 5868
 {
 	// Fields
 	public int value__; // 0x0

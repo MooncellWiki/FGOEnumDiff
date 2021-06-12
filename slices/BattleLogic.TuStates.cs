@@ -1,4 +1,4 @@
-public enum BattleLogic.TuStates // TypeDefIndex: 8462
+public enum BattleLogic.TuStates // TypeDefIndex: 8475
 {
 	// Fields
 	public int value__; // 0x0

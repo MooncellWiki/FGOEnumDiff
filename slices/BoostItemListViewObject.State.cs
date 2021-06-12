@@ -1,4 +1,4 @@
-protected enum BoostItemListViewObject.State // TypeDefIndex: 9567
+protected enum BoostItemListViewObject.State // TypeDefIndex: 9584
 {
 	// Fields
 	public int value__; // 0x0

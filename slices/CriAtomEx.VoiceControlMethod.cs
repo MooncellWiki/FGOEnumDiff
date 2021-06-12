@@ -1,4 +1,4 @@
-public enum CriAtomEx.VoiceControlMethod // TypeDefIndex: 3589
+public enum CriAtomEx.VoiceControlMethod // TypeDefIndex: 3590
 {
 	// Fields
 	public int value__; // 0x0

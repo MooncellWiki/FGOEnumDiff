@@ -1,4 +1,4 @@
-internal enum DeflateFlavor // TypeDefIndex: 4041
+internal enum DeflateFlavor // TypeDefIndex: 4042
 {
 	// Fields
 	public int value__; // 0x0

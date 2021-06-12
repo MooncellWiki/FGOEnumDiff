@@ -1,4 +1,4 @@
-public enum Assert.AssertType // TypeDefIndex: 11565
+public enum Assert.AssertType // TypeDefIndex: 11545
 {
 	// Fields
 	public int value__; // 0x0

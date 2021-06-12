@@ -1,4 +1,4 @@
-public enum Bloom.BloomScreenBlendMode // TypeDefIndex: 3978
+public enum Bloom.BloomScreenBlendMode // TypeDefIndex: 3979
 {
 	// Fields
 	public int value__; // 0x0

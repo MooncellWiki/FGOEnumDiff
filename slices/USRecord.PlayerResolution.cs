@@ -1,4 +1,4 @@
-public enum USRecord.PlayerResolution // TypeDefIndex: 3502
+public enum USRecord.PlayerResolution // TypeDefIndex: 3503
 {
 	// Fields
 	public int value__; // 0x0

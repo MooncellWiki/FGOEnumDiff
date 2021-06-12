@@ -1,4 +1,4 @@
-public enum FGOPerformance.Effect // TypeDefIndex: 7538
+public enum FGOPerformance.Effect // TypeDefIndex: 7546
 {
 	// Fields
 	public int value__; // 0x0
@@ -34,4 +34,5 @@ public enum FGOPerformance.Effect // TypeDefIndex: 7538
 	public const FGOPerformance.Effect SET_TIMEACCELERATION_DIFFERENT = 29;
 	public const FGOPerformance.Effect FORCE_RESET_TIMEACCELERATION = 30;
 	public const FGOPerformance.Effect PREV_TACTICAL = 31;
+	public const FGOPerformance.Effect LOSS_COMMAND_SPELL = 32;
 }

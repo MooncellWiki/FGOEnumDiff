@@ -1,4 +1,4 @@
-public enum DepthTextureMode // TypeDefIndex: 2181
+public enum DepthTextureMode // TypeDefIndex: 2182
 {
 	// Fields
 	public int value__; // 0x0

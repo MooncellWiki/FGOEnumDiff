@@ -1,4 +1,4 @@
-public enum BoxGachaEntity.Flag // TypeDefIndex: 6321
+public enum BoxGachaEntity.Flag // TypeDefIndex: 6327
 {
 	// Fields
 	public int value__; // 0x0

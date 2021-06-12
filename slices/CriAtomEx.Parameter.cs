@@ -1,4 +1,4 @@
-public enum CriAtomEx.Parameter // TypeDefIndex: 3590
+public enum CriAtomEx.Parameter // TypeDefIndex: 3591
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ConditionsInformation.PARAMATER // TypeDefIndex: 8436
+public enum ConditionsInformation.PARAMATER // TypeDefIndex: 8449
 {
 	// Fields
 	public int value__; // 0x0
@@ -33,4 +33,5 @@ public enum ConditionsInformation.PARAMATER // TypeDefIndex: 8436
 	public const ConditionsInformation.PARAMATER DEAD = 28;
 	public const ConditionsInformation.PARAMATER PRECEDING_ENEMY = 29;
 	public const ConditionsInformation.PARAMATER REMAIN_TURN = 30;
+	public const ConditionsInformation.PARAMATER AVALON_145566 = 31;
 }

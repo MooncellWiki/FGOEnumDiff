@@ -1,4 +1,4 @@
-public enum ServantClassCompatibilityIconComponent.DispMode // TypeDefIndex: 6079
+public enum ServantClassCompatibilityIconComponent.DispMode // TypeDefIndex: 6085
 {
 	// Fields
 	public int value__; // 0x0

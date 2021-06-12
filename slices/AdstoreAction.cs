@@ -1,4 +1,4 @@
-public enum AdstoreAction // TypeDefIndex: 5745
+public enum AdstoreAction // TypeDefIndex: 5751
 {
 	// Fields
 	public int value__; // 0x0

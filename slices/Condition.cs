@@ -1,4 +1,4 @@
-internal enum Condition // TypeDefIndex: 3947
+internal enum Condition // TypeDefIndex: 3948
 {
 	// Fields
 	public int value__; // 0x0

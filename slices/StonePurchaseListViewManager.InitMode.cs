@@ -1,4 +1,4 @@
-public enum StonePurchaseListViewManager.InitMode // TypeDefIndex: 5492
+public enum StonePurchaseListViewManager.InitMode // TypeDefIndex: 5498
 {
 	// Fields
 	public int value__; // 0x0

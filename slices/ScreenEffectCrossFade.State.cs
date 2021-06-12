@@ -1,4 +1,4 @@
-private enum ScreenEffectCrossFade.State // TypeDefIndex: 4019
+private enum ScreenEffectCrossFade.State // TypeDefIndex: 4020
 {
 	// Fields
 	public int value__; // 0x0

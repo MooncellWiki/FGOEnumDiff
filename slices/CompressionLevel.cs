@@ -1,4 +1,4 @@
-public enum CompressionLevel // TypeDefIndex: 4055
+public enum CompressionLevel // TypeDefIndex: 4056
 {
 	// Fields
 	public int value__; // 0x0

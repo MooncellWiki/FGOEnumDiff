@@ -1,4 +1,4 @@
-private enum BattleServantConfConponent.TAB // TypeDefIndex: 8666
+private enum BattleServantConfConponent.TAB // TypeDefIndex: 8683
 {
 	// Fields
 	public int value__; // 0x0

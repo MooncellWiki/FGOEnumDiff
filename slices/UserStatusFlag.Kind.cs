@@ -1,4 +1,4 @@
-public enum UserStatusFlag.Kind // TypeDefIndex: 5906
+public enum UserStatusFlag.Kind // TypeDefIndex: 5912
 {
 	// Fields
 	public int value__; // 0x0

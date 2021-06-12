@@ -1,4 +1,4 @@
-public enum RaceResultEffectParam.ParamIndex // TypeDefIndex: 7260
+public enum RaceResultEffectParam.ParamIndex // TypeDefIndex: 7267
 {
 	// Fields
 	public int value__; // 0x0
