@@ -1,4 +1,4 @@
-private enum SupportSelectConfirmDeckMenu.State // TypeDefIndex: 10004
+private enum SupportSelectConfirmDeckMenu.State // TypeDefIndex: 10006
 {
 	// Fields
 	public int value__; // 0x0

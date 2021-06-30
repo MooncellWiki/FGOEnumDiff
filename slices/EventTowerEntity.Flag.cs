@@ -1,4 +1,4 @@
-public enum EventTowerEntity.Flag // TypeDefIndex: 6583
+public enum EventTowerEntity.Flag // TypeDefIndex: 6584
 {
 	// Fields
 	public int value__; // 0x0

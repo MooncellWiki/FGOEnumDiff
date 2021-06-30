@@ -1,4 +1,4 @@
-protected enum SpendLimitMenu.State // TypeDefIndex: 5491
+protected enum SpendLimitMenu.State // TypeDefIndex: 5492
 {
 	// Fields
 	public int value__; // 0x0

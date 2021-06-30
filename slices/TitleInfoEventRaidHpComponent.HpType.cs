@@ -1,4 +1,4 @@
-public enum TitleInfoEventRaidHpComponent.HpType // TypeDefIndex: 5547
+public enum TitleInfoEventRaidHpComponent.HpType // TypeDefIndex: 5548
 {
 	// Fields
 	public int value__; // 0x0

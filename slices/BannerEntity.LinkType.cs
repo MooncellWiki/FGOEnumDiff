@@ -1,4 +1,4 @@
-public enum BannerEntity.LinkType // TypeDefIndex: 6300
+public enum BannerEntity.LinkType // TypeDefIndex: 6301
 {
 	// Fields
 	public int value__; // 0x0

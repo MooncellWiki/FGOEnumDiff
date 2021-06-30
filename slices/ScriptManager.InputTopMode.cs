@@ -1,4 +1,4 @@
-protected enum ScriptManager.InputTopMode // TypeDefIndex: 7953
+protected enum ScriptManager.InputTopMode // TypeDefIndex: 7954
 {
 	// Fields
 	public int value__; // 0x0

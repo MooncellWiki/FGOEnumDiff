@@ -1,4 +1,4 @@
-public enum MissionNotifyComponent.STATE // TypeDefIndex: 5277
+public enum MissionNotifyComponent.STATE // TypeDefIndex: 5278
 {
 	// Fields
 	public int value__; // 0x0

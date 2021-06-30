@@ -9860,6 +9860,31 @@
     "RunAndSave": "3",
     "ReflectionOnly": "6"
   },
+  "GamePurchase.Type": {
+    "ALL": "0",
+    "NONE": "0",
+    "ITEM": "1",
+    "EQUIP": "2",
+    "FRIEND_GACHA": "3",
+    "SERVANT": "4",
+    "SET_ITEM": "5",
+    "QUEST": "6",
+    "EVENT_SHOP": "7",
+    "EVENT_SVT_GET": "8",
+    "MANA_SHOP": "9",
+    "STORAGE_SVT": "10",
+    "STORAGE_SVTEQUIP": "11",
+    "BGM": "12",
+    "COSTUME_RELEASE": "14",
+    "BGM_RELEASE": "15",
+    "LOTTERY_SHOP": "16",
+    "EVENT_FACTORY": "17",
+    "ITEM_AS_PRESENT": "18",
+    "COMMAND_CODE": "19",
+    "GIFT": "20",
+    "EVENT_SVT_JOIN": "21",
+    "ASSIST": "22"
+  },
   "CombineRootComponent.State": {
     "INIT": "0",
     "INIT_TOP": "1",
@@ -12659,31 +12684,6 @@
   "SetTargetObjectMatrix.MaterialType": {
     "ShareMaterial": "0",
     "NormalMaterial": "1"
-  },
-  "Purchase.Type": {
-    "ALL": "0",
-    "NONE": "0",
-    "ITEM": "1",
-    "EQUIP": "2",
-    "FRIEND_GACHA": "3",
-    "SERVANT": "4",
-    "SET_ITEM": "5",
-    "QUEST": "6",
-    "EVENT_SHOP": "7",
-    "EVENT_SVT_GET": "8",
-    "MANA_SHOP": "9",
-    "STORAGE_SVT": "10",
-    "STORAGE_SVTEQUIP": "11",
-    "BGM": "12",
-    "COSTUME_RELEASE": "14",
-    "BGM_RELEASE": "15",
-    "LOTTERY_SHOP": "16",
-    "EVENT_FACTORY": "17",
-    "ITEM_AS_PRESENT": "18",
-    "COMMAND_CODE": "19",
-    "GIFT": "20",
-    "EVENT_SVT_JOIN": "21",
-    "ASSIST": "22"
   },
   "FollowerSelectItemListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -19209,7 +19209,9 @@
     "LIMIT_COUNT_IMAGE_EQUAL": "150",
     "LIMIT_COUNT_IMAGE_ABOVE": "151",
     "LIMIT_COUNT_IMAGE_BELOW": "152",
-    "EVENT_TYPE_START_TIME_TO_END_DATE": "153"
+    "EVENT_TYPE_START_TIME_TO_END_DATE": "153",
+    "EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID": "154",
+    "NOT_EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID": "155"
   },
   "ServerSettingMenu.State": {
     "INIT": "0",

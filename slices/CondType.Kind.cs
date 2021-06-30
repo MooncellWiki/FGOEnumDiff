@@ -1,4 +1,4 @@
-public enum CondType.Kind // TypeDefIndex: 5789
+public enum CondType.Kind // TypeDefIndex: 5790
 {
 	// Fields
 	public int value__; // 0x0
@@ -156,4 +156,6 @@ public enum CondType.Kind // TypeDefIndex: 5789
 	public const CondType.Kind LIMIT_COUNT_IMAGE_ABOVE = 151;
 	public const CondType.Kind LIMIT_COUNT_IMAGE_BELOW = 152;
 	public const CondType.Kind EVENT_TYPE_START_TIME_TO_END_DATE = 153;
+	public const CondType.Kind EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID = 154;
+	public const CondType.Kind NOT_EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID = 155;
 }

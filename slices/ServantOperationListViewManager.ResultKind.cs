@@ -1,4 +1,4 @@
-public enum ServantOperationListViewManager.ResultKind // TypeDefIndex: 9811
+public enum ServantOperationListViewManager.ResultKind // TypeDefIndex: 9813
 {
 	// Fields
 	public int value__; // 0x0

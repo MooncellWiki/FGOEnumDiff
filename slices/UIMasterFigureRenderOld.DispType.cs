@@ -1,4 +1,4 @@
-public enum UIMasterFigureRenderOld.DispType // TypeDefIndex: 7369
+public enum UIMasterFigureRenderOld.DispType // TypeDefIndex: 7370
 {
 	// Fields
 	public int value__; // 0x0

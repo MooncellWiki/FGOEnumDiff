@@ -1,4 +1,4 @@
-protected enum WebConnectMenu.State // TypeDefIndex: 10824
+protected enum WebConnectMenu.State // TypeDefIndex: 10826
 {
 	// Fields
 	public int value__; // 0x0

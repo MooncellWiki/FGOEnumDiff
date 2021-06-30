@@ -1,4 +1,4 @@
-public enum QuestPhaseDetailAddEntity.OverwriteType // TypeDefIndex: 6727
+public enum QuestPhaseDetailAddEntity.OverwriteType // TypeDefIndex: 6728
 {
 	// Fields
 	public int value__; // 0x0

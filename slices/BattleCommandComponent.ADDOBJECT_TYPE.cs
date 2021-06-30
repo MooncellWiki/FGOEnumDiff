@@ -1,4 +1,4 @@
-public enum BattleCommandComponent.ADDOBJECT_TYPE // TypeDefIndex: 8418
+public enum BattleCommandComponent.ADDOBJECT_TYPE // TypeDefIndex: 8420
 {
 	// Fields
 	public int value__; // 0x0

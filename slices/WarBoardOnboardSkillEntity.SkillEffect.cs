@@ -1,4 +1,4 @@
-public enum WarBoardOnboardSkillEntity.SkillEffect // TypeDefIndex: 7107
+public enum WarBoardOnboardSkillEntity.SkillEffect // TypeDefIndex: 7108
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-protected enum ScriptConnectListViewObject.State // TypeDefIndex: 10744
+protected enum ScriptConnectListViewObject.State // TypeDefIndex: 10746
 {
 	// Fields
 	public int value__; // 0x0

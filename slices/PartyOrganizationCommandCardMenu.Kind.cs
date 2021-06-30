@@ -1,4 +1,4 @@
-public enum PartyOrganizationCommandCardMenu.Kind // TypeDefIndex: 9650
+public enum PartyOrganizationCommandCardMenu.Kind // TypeDefIndex: 9652
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum USFGOCheckPlayerTypeFlip.FGOFlipPlayerType // TypeDefIndex: 7644
+public enum USFGOCheckPlayerTypeFlip.FGOFlipPlayerType // TypeDefIndex: 7645
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum TitleInfoControl.SuperBossAnimeState // TypeDefIndex: 5592
+private enum TitleInfoControl.SuperBossAnimeState // TypeDefIndex: 5593
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WarEntity.Flag // TypeDefIndex: 7145
+public enum WarEntity.Flag // TypeDefIndex: 7146
 {
 	// Fields
 	public int value__; // 0x0

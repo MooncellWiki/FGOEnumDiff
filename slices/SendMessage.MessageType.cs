@@ -1,4 +1,4 @@
-public enum SendMessage.MessageType // TypeDefIndex: 11980
+public enum SendMessage.MessageType // TypeDefIndex: 11982
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BoardMessageEntity.ReferenceType // TypeDefIndex: 6315
+public enum BoardMessageEntity.ReferenceType // TypeDefIndex: 6316
 {
 	// Fields
 	public int value__; // 0x0

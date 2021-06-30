@@ -1,4 +1,4 @@
-public enum TerminalSceneComponent.TUTORIAL_KIND // TypeDefIndex: 8102
+public enum TerminalSceneComponent.TUTORIAL_KIND // TypeDefIndex: 8104
 {
 	// Fields
 	public int value__; // 0x0

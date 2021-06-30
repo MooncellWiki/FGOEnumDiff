@@ -1,4 +1,4 @@
-private enum QuestInformationComponent.TabStatus // TypeDefIndex: 10360
+private enum QuestInformationComponent.TabStatus // TypeDefIndex: 10362
 {
 	// Fields
 	public int value__; // 0x0

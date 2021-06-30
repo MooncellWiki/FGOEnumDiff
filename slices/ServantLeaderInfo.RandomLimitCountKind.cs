@@ -1,4 +1,4 @@
-private enum ServantLeaderInfo.RandomLimitCountKind // TypeDefIndex: 7164
+private enum ServantLeaderInfo.RandomLimitCountKind // TypeDefIndex: 7165
 {
 	// Fields
 	public int value__; // 0x0

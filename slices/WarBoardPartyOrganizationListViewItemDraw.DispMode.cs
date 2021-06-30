@@ -1,4 +1,4 @@
-public enum WarBoardPartyOrganizationListViewItemDraw.DispMode // TypeDefIndex: 11065
+public enum WarBoardPartyOrganizationListViewItemDraw.DispMode // TypeDefIndex: 11067
 {
 	// Fields
 	public int value__; // 0x0
