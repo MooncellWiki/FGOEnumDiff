@@ -1,4 +1,4 @@
-public enum BindableSupport // TypeDefIndex: 1193
+public enum BindableSupport // TypeDefIndex: 1192
 {
 	// Fields
 	public int value__; // 0x0

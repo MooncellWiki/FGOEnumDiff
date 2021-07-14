@@ -1,4 +1,4 @@
-public enum DecompressionMethods // TypeDefIndex: 1535
+public enum DecompressionMethods // TypeDefIndex: 1534
 {
 	// Fields
 	public int value__; // 0x0

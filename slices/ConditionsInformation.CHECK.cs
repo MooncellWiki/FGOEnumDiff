@@ -1,4 +1,4 @@
-public enum ConditionsInformation.CHECK // TypeDefIndex: 8453
+public enum ConditionsInformation.CHECK // TypeDefIndex: 8808
 {
 	// Fields
 	public int value__; // 0x0

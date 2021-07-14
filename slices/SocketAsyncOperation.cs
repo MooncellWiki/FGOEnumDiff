@@ -1,4 +1,4 @@
-public enum SocketAsyncOperation // TypeDefIndex: 1501
+public enum SocketAsyncOperation // TypeDefIndex: 1500
 {
 	// Fields
 	public int value__; // 0x0

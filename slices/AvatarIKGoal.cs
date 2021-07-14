@@ -1,4 +1,4 @@
-public enum AvatarIKGoal // TypeDefIndex: 2695
+public enum AvatarIKGoal // TypeDefIndex: 2711
 {
 	// Fields
 	public int value__; // 0x0

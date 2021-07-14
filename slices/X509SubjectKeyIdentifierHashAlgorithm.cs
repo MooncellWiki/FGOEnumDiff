@@ -1,4 +1,4 @@
-public enum X509SubjectKeyIdentifierHashAlgorithm // TypeDefIndex: 1686
+public enum X509SubjectKeyIdentifierHashAlgorithm // TypeDefIndex: 1685
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum X509RevocationMode // TypeDefIndex: 1683
+public enum X509RevocationMode // TypeDefIndex: 1682
 {
 	// Fields
 	public int value__; // 0x0

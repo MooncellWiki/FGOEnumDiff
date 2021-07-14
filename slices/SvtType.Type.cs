@@ -1,4 +1,4 @@
-public enum SvtType.Type // TypeDefIndex: 5897
+public enum SvtType.Type // TypeDefIndex: 6210
 {
 	// Fields
 	public int value__; // 0x0

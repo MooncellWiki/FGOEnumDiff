@@ -1,4 +1,4 @@
-public enum IMECompositionMode // TypeDefIndex: 2230
+public enum IMECompositionMode // TypeDefIndex: 2232
 {
 	// Fields
 	public int value__; // 0x0

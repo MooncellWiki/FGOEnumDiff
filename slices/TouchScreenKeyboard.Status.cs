@@ -1,4 +1,4 @@
-public enum TouchScreenKeyboard.Status // TypeDefIndex: 2227
+public enum TouchScreenKeyboard.Status // TypeDefIndex: 2229
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FigureViewListViewManager.InitMode // TypeDefIndex: 10682
+public enum FigureViewListViewManager.InitMode // TypeDefIndex: 11065
 {
 	// Fields
 	public int value__; // 0x0

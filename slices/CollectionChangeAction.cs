@@ -1,4 +1,4 @@
-public enum CollectionChangeAction // TypeDefIndex: 1200
+public enum CollectionChangeAction // TypeDefIndex: 1199
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum QueryTriggerInteraction // TypeDefIndex: 2624
+public enum QueryTriggerInteraction // TypeDefIndex: 2641
 {
 	// Fields
 	public int value__; // 0x0

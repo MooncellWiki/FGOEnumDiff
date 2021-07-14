@@ -1,4 +1,4 @@
-public enum TypeInferenceRules // TypeDefIndex: 2564
+public enum TypeInferenceRules // TypeDefIndex: 2567
 {
 	// Fields
 	public int value__; // 0x0

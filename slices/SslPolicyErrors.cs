@@ -1,4 +1,4 @@
-public enum SslPolicyErrors // TypeDefIndex: 1476
+public enum SslPolicyErrors // TypeDefIndex: 1475
 {
 	// Fields
 	public int value__; // 0x0

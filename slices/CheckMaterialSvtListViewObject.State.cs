@@ -1,4 +1,4 @@
-private enum CheckMaterialSvtListViewObject.State // TypeDefIndex: 8923
+private enum CheckMaterialSvtListViewObject.State // TypeDefIndex: 9294
 {
 	// Fields
 	public int value__; // 0x0

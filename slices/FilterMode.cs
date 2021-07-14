@@ -1,4 +1,4 @@
-public enum FilterMode // TypeDefIndex: 2186
+public enum FilterMode // TypeDefIndex: 2188
 {
 	// Fields
 	public int value__; // 0x0

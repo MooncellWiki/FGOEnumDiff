@@ -1,4 +1,4 @@
-public enum IPStatus // TypeDefIndex: 1376
+public enum IPStatus // TypeDefIndex: 1375
 {
 	// Fields
 	public int value__; // 0x0

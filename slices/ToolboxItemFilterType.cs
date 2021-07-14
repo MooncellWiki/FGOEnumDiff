@@ -1,4 +1,4 @@
-public enum ToolboxItemFilterType // TypeDefIndex: 1301
+public enum ToolboxItemFilterType // TypeDefIndex: 1300
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ShakeType // TypeDefIndex: 3384
+public enum ShakeType // TypeDefIndex: 3690
 {
 	// Fields
 	public int value__; // 0x0

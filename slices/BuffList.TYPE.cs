@@ -1,4 +1,4 @@
-public enum BuffList.TYPE // TypeDefIndex: 5772
+public enum BuffList.TYPE // TypeDefIndex: 6084
 {
 	// Fields
 	public int value__; // 0x0
@@ -149,4 +149,5 @@ public enum BuffList.TYPE // TypeDefIndex: 5772
 	public const BuffList.TYPE COMMANDCODEATTACK_AFTER_FUNCTION = 159;
 	public const BuffList.TYPE ATTACK_BEFORE_FUNCTION = 160;
 	public const BuffList.TYPE DONOT_SKILL_SELECT = 161;
+	public const BuffList.TYPE INVISIBLE_BATTLE_CHARA = 163;
 }

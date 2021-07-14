@@ -1,4 +1,4 @@
-public enum UISystemProfilerApi.SampleType // TypeDefIndex: 2825
+public enum UISystemProfilerApi.SampleType // TypeDefIndex: 2841
 {
 	// Fields
 	public int value__; // 0x0

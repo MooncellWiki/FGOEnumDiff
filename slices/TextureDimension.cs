@@ -1,4 +1,4 @@
-public enum TextureDimension // TypeDefIndex: 2217
+public enum TextureDimension // TypeDefIndex: 2219
 {
 	// Fields
 	public int value__; // 0x0

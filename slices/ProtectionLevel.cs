@@ -1,4 +1,4 @@
-public enum ProtectionLevel // TypeDefIndex: 1475
+public enum ProtectionLevel // TypeDefIndex: 1474
 {
 	// Fields
 	public int value__; // 0x0

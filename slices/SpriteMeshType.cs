@@ -1,4 +1,4 @@
-public enum SpriteMeshType // TypeDefIndex: 2583
+public enum SpriteMeshType // TypeDefIndex: 2586
 {
 	// Fields
 	public int value__; // 0x0

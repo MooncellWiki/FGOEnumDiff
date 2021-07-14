@@ -1,4 +1,4 @@
-private enum Fsm.EditorFlags // TypeDefIndex: 3258
+private enum Fsm.EditorFlags // TypeDefIndex: 3355
 {
 	// Fields
 	public int value__; // 0x0

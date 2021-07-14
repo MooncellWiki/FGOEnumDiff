@@ -1,4 +1,4 @@
-public enum ManagerConfigCheck.Kind // TypeDefIndex: 7570
+public enum ManagerConfigCheck.Kind // TypeDefIndex: 7911
 {
 	// Fields
 	public int value__; // 0x0

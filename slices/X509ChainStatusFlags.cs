@@ -10,7 +10,7 @@ internal enum X509ChainStatusFlags // TypeDefIndex: 154
 	public const X509ChainStatusFlags PartialChain = 65536;
 	public const X509ChainStatusFlags UntrustedRoot = 32;
 }
-public enum X509ChainStatusFlags // TypeDefIndex: 1672
+public enum X509ChainStatusFlags // TypeDefIndex: 1671
 {
 	// Fields
 	public int value__; // 0x0

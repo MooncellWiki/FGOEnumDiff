@@ -1,4 +1,4 @@
-public enum StonePurchaseMenu.Result // TypeDefIndex: 5505
+public enum StonePurchaseMenu.Result // TypeDefIndex: 5816
 {
 	// Fields
 	public int value__; // 0x0

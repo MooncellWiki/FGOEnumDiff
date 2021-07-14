@@ -1,4 +1,4 @@
-public enum EventTutorialMaster.OpenType // TypeDefIndex: 6597
+public enum EventTutorialMaster.OpenType // TypeDefIndex: 6928
 {
 	// Fields
 	public int value__; // 0x0
@@ -70,4 +70,5 @@ public enum EventTutorialMaster.OpenType // TypeDefIndex: 6597
 	public const EventTutorialMaster.OpenType LOGIN_BONUS_CLOSED = 66;
 	public const EventTutorialMaster.OpenType OPEN_SPECIFIC_QUEST = 67;
 	public const EventTutorialMaster.OpenType ON_PUSH_SVT_SELECT = 68;
+	public const EventTutorialMaster.OpenType ON_NP_COMBINE_SVT_SELECT = 69;
 }

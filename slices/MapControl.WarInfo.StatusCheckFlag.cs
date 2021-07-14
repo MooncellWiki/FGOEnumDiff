@@ -1,4 +1,4 @@
-public enum MapControl.WarInfo.StatusCheckFlag // TypeDefIndex: 10278
+public enum MapControl.WarInfo.StatusCheckFlag // TypeDefIndex: 10650
 {
 	// Fields
 	public int value__; // 0x0

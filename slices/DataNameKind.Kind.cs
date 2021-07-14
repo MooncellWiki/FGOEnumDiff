@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 5802
+public enum DataNameKind.Kind // TypeDefIndex: 6115
 {
 	// Fields
 	public int value__; // 0x0
@@ -351,4 +351,5 @@ public enum DataNameKind.Kind // TypeDefIndex: 5802
 	public const DataNameKind.Kind LOGIN_QUEST = 346;
 	public const DataNameKind.Kind EVENT_COMBINE_COSTUME = 347;
 	public const DataNameKind.Kind WARBOARD_STAGE_PIECE_DETAIL = 348;
+	public const DataNameKind.Kind SERVANT_TREASURE_DEVICE_ADD = 349;
 }

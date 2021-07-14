@@ -1,4 +1,4 @@
-public enum FingerGestures.SwipeDirection // TypeDefIndex: 3887
+public enum FingerGestures.SwipeDirection // TypeDefIndex: 4216
 {
 	// Fields
 	public int value__; // 0x0

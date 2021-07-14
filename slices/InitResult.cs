@@ -1,4 +1,4 @@
-public enum InitResult // TypeDefIndex: 3129
+public enum InitResult // TypeDefIndex: 3226
 {
 	// Fields
 	public int value__; // 0x0

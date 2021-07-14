@@ -1,4 +1,4 @@
-public enum TimelineClip.BlendCurveMode // TypeDefIndex: 3311
+public enum TimelineClip.BlendCurveMode // TypeDefIndex: 3617
 {
 	// Fields
 	public int value__; // 0x0

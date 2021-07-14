@@ -1,4 +1,4 @@
-private enum AutomaticSaleDlgComponent.FlagKind // TypeDefIndex: 9931
+private enum AutomaticSaleDlgComponent.FlagKind // TypeDefIndex: 10303
 {
 	// Fields
 	public int value__; // 0x0

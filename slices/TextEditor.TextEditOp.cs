@@ -1,4 +1,4 @@
-private enum TextEditor.TextEditOp // TypeDefIndex: 2771
+private enum TextEditor.TextEditOp // TypeDefIndex: 2787
 {
 	// Fields
 	public int value__; // 0x0

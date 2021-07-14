@@ -1,4 +1,4 @@
-public enum ParticleSystemCullingMode // TypeDefIndex: 2791
+public enum ParticleSystemCullingMode // TypeDefIndex: 2807
 {
 	// Fields
 	public int value__; // 0x0

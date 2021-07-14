@@ -1,4 +1,4 @@
-public enum ParticleSystemRenderMode // TypeDefIndex: 2785
+public enum ParticleSystemRenderMode // TypeDefIndex: 2801
 {
 	// Fields
 	public int value__; // 0x0

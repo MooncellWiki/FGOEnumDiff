@@ -27,7 +27,7 @@ internal enum MonoIOError // TypeDefIndex: 298
 	public const MonoIOError ERROR_FILENAME_EXCED_RANGE = 206;
 	public const MonoIOError ERROR_ENCRYPTION_FAILED = 6000;
 }
-internal enum MonoIOError // TypeDefIndex: 1342
+internal enum MonoIOError // TypeDefIndex: 1341
 {
 	// Fields
 	public int value__; // 0x0

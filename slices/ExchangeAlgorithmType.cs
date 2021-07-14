@@ -1,4 +1,4 @@
-public enum ExchangeAlgorithmType // TypeDefIndex: 1649
+public enum ExchangeAlgorithmType // TypeDefIndex: 1648
 {
 	// Fields
 	public int value__; // 0x0

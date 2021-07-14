@@ -1,4 +1,4 @@
-public enum SecurityProtocolType // TypeDefIndex: 1613
+public enum SecurityProtocolType // TypeDefIndex: 1612
 {
 	// Fields
 	public int value__; // 0x0

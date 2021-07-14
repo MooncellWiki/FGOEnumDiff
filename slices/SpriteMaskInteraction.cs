@@ -1,4 +1,4 @@
-public enum SpriteMaskInteraction // TypeDefIndex: 2581
+public enum SpriteMaskInteraction // TypeDefIndex: 2584
 {
 	// Fields
 	public int value__; // 0x0

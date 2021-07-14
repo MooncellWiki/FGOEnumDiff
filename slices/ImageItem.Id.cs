@@ -1,4 +1,4 @@
-public enum ImageItem.Id // TypeDefIndex: 5841
+public enum ImageItem.Id // TypeDefIndex: 6154
 {
 	// Fields
 	public int value__; // 0x0

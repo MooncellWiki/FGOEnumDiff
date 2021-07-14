@@ -1,4 +1,4 @@
-public enum HttpStatusCode // TypeDefIndex: 1583
+public enum HttpStatusCode // TypeDefIndex: 1582
 {
 	// Fields
 	public int value__; // 0x0

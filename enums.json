@@ -1,4 +1,11 @@
 {
+  "SubscriptionPeriodUnit": {
+    "Day": "0",
+    "Month": "1",
+    "Week": "2",
+    "Year": "3",
+    "NotAvailable": "4"
+  },
   "USFGOTargetEffectSwitchEvent.SwitchType": {
     "SwitchActive": "0",
     "SwitchParticle": "1"
@@ -153,6 +160,12 @@
     "Points": "3",
     "Picas": "4"
   },
+  "DPIListViewObject.State": {
+    "INIT": "0",
+    "IDLE": "1",
+    "MOVE": "2",
+    "INPUT": "3"
+  },
   "AssemblyHashAlgorithm": {
     "None": "0",
     "MD5": "32771",
@@ -270,6 +283,11 @@
     "Authenticode": "6",
     "Pkcs12": "3"
   },
+  "GooglePlayStoreImpl.AsyncRequestStatus": {
+    "Pending": "0",
+    "Failed": "1",
+    "Succeed": "2"
+  },
   "PartyOrganizationConfirmCostumeMenu.State": {
     "INIT": "0",
     "OPEN": "1",
@@ -375,6 +393,12 @@
     "Decide": "1",
     "Close": "2"
   },
+  "PayoutType": {
+    "Other": "0",
+    "Currency": "1",
+    "Item": "2",
+    "Resource": "3"
+  },
   "ScrPlayerStatus.enSpell": {
     "Zero": "0",
     "One": "1",
@@ -394,6 +418,10 @@
     "HIGHER": "2",
     "LOWER": "3",
     "TOTAL_COUNT": "4"
+  },
+  "FakeStore.DialogType": {
+    "Purchase": "0",
+    "RetrieveProducts": "1"
   },
   "SummonConfirmDlgComponent.State": {
     "INIT": "0",
@@ -807,6 +835,12 @@
     "Init": "1",
     "BoxGachaReset": "2"
   },
+  "ProductCatalogPayout.ProductCatalogPayoutType": {
+    "Other": "0",
+    "Currency": "1",
+    "Item": "2",
+    "Resource": "3"
+  },
   "TransportType": {
     "Udp": "1",
     "Connectionless": "1",
@@ -851,6 +885,16 @@
     "INPUT": "2",
     "SELECTED": "3",
     "CLOSE": "4"
+  },
+  "AnalyticsResult": {
+    "Ok": "0",
+    "NotInitialized": "1",
+    "AnalyticsDisabled": "2",
+    "TooManyItems": "3",
+    "SizeLimitReached": "4",
+    "TooManyRequests": "5",
+    "InvalidData": "6",
+    "UnsupportedPlatform": "7"
   },
   "CharaGraphListMenu.TabKind": {
     "SERVANT": "0",
@@ -2036,6 +2080,12 @@
     "AvailabilityUnavailableUpdateRequired": "5",
     "AvailabilityUnavailableUpdating": "6",
     "AvailabilityUnavailableOther": "7"
+  },
+  "AppleStoreProductType": {
+    "NonConsumable": "0",
+    "Consumable": "1",
+    "NonRenewingSubscription": "2",
+    "AutoRenewingSubscription": "3"
   },
   "DeflateFlavor": {
     "Store": "0",
@@ -4091,6 +4141,16 @@
     "Vertical": "1",
     "Upgraded": "2"
   },
+  "PurchaseFailureReason": {
+    "PurchasingUnavailable": "0",
+    "ExistingPurchasePending": "1",
+    "ProductUnavailable": "2",
+    "SignatureInvalid": "3",
+    "UserCancelled": "4",
+    "PaymentDeclined": "5",
+    "DuplicateTransaction": "6",
+    "Unknown": "7"
+  },
   "UICharaGraphRender.Kind": {
     "NONE": "-1",
     "SERVANT": "0",
@@ -4116,6 +4176,42 @@
     "INVALID": "1",
     "VALID": "2",
     "INPUT": "3"
+  },
+  "StoreSpecificPurchaseErrorCode": {
+    "SKErrorUnknown": "0",
+    "SKErrorClientInvalid": "1",
+    "SKErrorPaymentCancelled": "2",
+    "SKErrorPaymentInvalid": "3",
+    "SKErrorPaymentNotAllowed": "4",
+    "SKErrorStoreProductNotAvailable": "5",
+    "SKErrorCloudServicePermissionDenied": "6",
+    "SKErrorCloudServiceNetworkConnectionFailed": "7",
+    "SKErrorCloudServiceRevoked": "8",
+    "BILLING_RESPONSE_RESULT_OK": "9",
+    "BILLING_RESPONSE_RESULT_USER_CANCELED": "10",
+    "BILLING_RESPONSE_RESULT_SERVICE_UNAVAILABLE": "11",
+    "BILLING_RESPONSE_RESULT_BILLING_UNAVAILABLE": "12",
+    "BILLING_RESPONSE_RESULT_ITEM_UNAVAILABLE": "13",
+    "BILLING_RESPONSE_RESULT_DEVELOPER_ERROR": "14",
+    "BILLING_RESPONSE_RESULT_ERROR": "15",
+    "BILLING_RESPONSE_RESULT_ITEM_ALREADY_OWNED": "16",
+    "BILLING_RESPONSE_RESULT_ITEM_NOT_OWNED": "17",
+    "IABHELPER_ERROR_BASE": "18",
+    "IABHELPER_REMOTE_EXCEPTION": "19",
+    "IABHELPER_BAD_RESPONSE": "20",
+    "IABHELPER_VERIFICATION_FAILED": "21",
+    "IABHELPER_SEND_INTENT_FAILED": "22",
+    "IABHELPER_USER_CANCELLED": "23",
+    "IABHELPER_UNKNOWN_PURCHASE_RESPONSE": "24",
+    "IABHELPER_MISSING_TOKEN": "25",
+    "IABHELPER_UNKNOWN_ERROR": "26",
+    "IABHELPER_SUBSCRIPTIONS_NOT_AVAILABLE": "27",
+    "IABHELPER_INVALID_CONSUMPTION": "28",
+    "Amazon_ALREADY_PURCHASED": "29",
+    "Amazon_FAILED": "30",
+    "Amazon_INVALID_SKU": "31",
+    "Amazon_NOT_SUPPORTED": "32",
+    "Unknown": "33"
   },
   "InputField.CharacterValidation": {
     "None": "0",
@@ -4689,7 +4785,9 @@
     "SUCCESS": "1",
     "WAIT": "2",
     "FAIL": "3",
-    "SUSPEND": "4"
+    "SUSPEND": "4",
+    "INIT_ERROR": "5",
+    "DUPLICATE_TRANSACTION": "6"
   },
   "ScrPlayerStatus.MstMissionState": {
     "Weekly": "0",
@@ -4818,6 +4916,11 @@
     "INVALID": "1",
     "VALID": "2",
     "INPUT": "3"
+  },
+  "FakeStoreUIMode": {
+    "Default": "0",
+    "StandardUser": "1",
+    "DeveloperUser": "2"
   },
   "CompareFunction": {
     "Disabled": "0",
@@ -5605,7 +5708,8 @@
     "BEFORE_BIRTH_DAY": "345",
     "LOGIN_QUEST": "346",
     "EVENT_COMBINE_COSTUME": "347",
-    "WARBOARD_STAGE_PIECE_DETAIL": "348"
+    "WARBOARD_STAGE_PIECE_DETAIL": "348",
+    "SERVANT_TREASURE_DEVICE_ADD": "349"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -5667,16 +5771,6 @@
     "CANCER": "1",
     "SERVANT": "2",
     "COMMAND_CODE": "3"
-  },
-  "JsonType": {
-    "None": "0",
-    "Object": "1",
-    "Array": "2",
-    "String": "3",
-    "Int": "4",
-    "Long": "5",
-    "Double": "6",
-    "Boolean": "7"
   },
   "PartyOrganizationChangeObject.ResultKind": {
     "NONE": "0",
@@ -7401,6 +7495,11 @@
     "Tls": "192",
     "Default": "240"
   },
+  "GoogleBillingConnectionState": {
+    "Disconnected": "0",
+    "Connecting": "1",
+    "Connected": "2"
+  },
   "ShopTopListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -7553,6 +7652,12 @@
     "None": "0",
     "Execution": "1",
     "Security": "2"
+  },
+  "GooglePlayStoreProrationMode": {
+    "Unknown": "0",
+    "ImmediateWithTimeProration": "1",
+    "ImmediateAndChargeProratedPrice": "2",
+    "ImmediateWithoutProration": "3"
   },
   "SkillEntity.CutinCameraSide": {
     "ENEMY_ALL": "0",
@@ -7885,7 +7990,10 @@
     "LOAD_TARGETACTOR": "1",
     "LOAD_REPLACE": "2",
     "PT_STEPOUT": "3",
-    "LOAD_PT": "4"
+    "LOAD_PT": "4",
+    "LOAD_FIELD_CALL": "5",
+    "BEFORE_FIELD_CALL_EFFECT": "6",
+    "AFTER_FIELD_CALL_EFFECT": "7"
   },
   "GraphicsDeviceType": {
     "OpenGL2": "0",
@@ -8297,27 +8405,6 @@
     "VALID": "1",
     "INPUT": "2"
   },
-  "ParserToken": {
-    "None": "65536",
-    "Number": "65537",
-    "True": "65538",
-    "False": "65539",
-    "Null": "65540",
-    "CharSeq": "65541",
-    "Char": "65542",
-    "Text": "65543",
-    "Object": "65544",
-    "ObjectPrime": "65545",
-    "Pair": "65546",
-    "PairRest": "65547",
-    "Array": "65548",
-    "ArrayPrime": "65549",
-    "Value": "65550",
-    "ValueRest": "65551",
-    "String": "65552",
-    "End": "65553",
-    "Epsilon": "65554"
-  },
   "CharaGraphListMenu.ModeKind": {
     "STATUS": "0",
     "LOCK": "1",
@@ -8480,6 +8567,11 @@
     "LandscapeRight": "4",
     "AutoRotation": "5",
     "Landscape": "3"
+  },
+  "Result": {
+    "True": "0",
+    "False": "1",
+    "Unsupported": "2"
   },
   "EndrolRootComponent.textType": {
     "NONE": "0",
@@ -8882,7 +8974,9 @@
     "ParamAddValue": "72",
     "MultipleGainStar": "73",
     "NoCheckIndividualityIfNotUnit": "74",
-    "ForcedEffectSpeedOne": "75"
+    "ForcedEffectSpeedOne": "75",
+    "SetLimitCount": "76",
+    "CheckEnemyFieldSpace": "77"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",
@@ -9735,6 +9829,11 @@
     "VERTICAL_IMAGE": "3",
     "HORIZONTAL_IMAGE": "4"
   },
+  "CuriousFuncEffectTiming": {
+    "BEFORE_CURIOUS_FUNC": "0",
+    "JUST_CURIOUS_FUNC": "1",
+    "AFTER_CURIOUS_FUNC": "2"
+  },
   "MetapsAnalyticsScript.DismissReason": {
     "BackButton": "0",
     "CloseButton": "1",
@@ -10002,7 +10101,8 @@
     "SERVANT_PROFILE_EVENT_JOIN": "28",
     "BATTLE_USE_CONTINUE_ITEM_REQUEST_SAVE": "29",
     "BATTLE_USE_ITEM_REQUEST": "30",
-    "SUM": "31"
+    "UNCONFIRMED_PAYMENT": "31",
+    "SUM": "32"
   },
   "iTween.NamedValueColor": {
     "_Color": "0",
@@ -10597,6 +10697,11 @@
     "Zero": "0",
     "Positive": "1"
   },
+  "Purchase.State": {
+    "UnspecifiedState": "0",
+    "Purchased": "1",
+    "Pending": "2"
+  },
   "QuestEntity.Flag": {
     "NONE": "1",
     "NO_BATTLE": "2",
@@ -10831,13 +10936,6 @@
     "_4": "4",
     "COMPLETE": "4"
   },
-  "Condition": {
-    "InArray": "0",
-    "InObject": "1",
-    "NotAProperty": "2",
-    "Property": "3",
-    "Value": "4"
-  },
   "ParticleSystemGradientMode": {
     "Color": "0",
     "Gradient": "1",
@@ -10898,6 +10996,11 @@
     "Varpop": "26",
     "Varpush": "27",
     "Popref_popi_pop1": "28"
+  },
+  "InitializationFailureReason": {
+    "PurchasingUnavailable": "0",
+    "NoProductsAvailable": "1",
+    "AppNotKnown": "2"
   },
   "RegexOptions": {
     "None": "0",
@@ -11013,6 +11116,10 @@
     "RT_ANICURSOR": "21",
     "RT_ANIICON": "22",
     "RT_HTML": "23"
+  },
+  "DPIListViewMenu.State": {
+    "INIT": "0",
+    "INPUT": "1"
   },
   "FGOActorVoiceDesignate.CheckType": {
     "None": "0",
@@ -11198,7 +11305,8 @@
     "PREVENT_DEATH_BY_DAMAGE": "158",
     "COMMANDCODEATTACK_AFTER_FUNCTION": "159",
     "ATTACK_BEFORE_FUNCTION": "160",
-    "DONOT_SKILL_SELECT": "161"
+    "DONOT_SKILL_SELECT": "161",
+    "INVISIBLE_BATTLE_CHARA": "163"
   },
   "EventDetailEntity.EventGaugeType": {
     "NONE": "1",
@@ -12592,6 +12700,12 @@
     "MATERIAL_SELECT": "3",
     "COMMAND_CODE_SELECT": "4"
   },
+  "DPIListViewObject.InitMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
+  },
   "FtpWebRequest.RequestState": {
     "Before": "0",
     "Scheduled": "1",
@@ -13422,6 +13536,40 @@
     "QUESTION": "98",
     "NONE": "99"
   },
+  "TranslationLocale": {
+    "zh_TW": "0",
+    "cs_CZ": "1",
+    "da_DK": "2",
+    "nl_NL": "3",
+    "en_US": "4",
+    "fr_FR": "5",
+    "fi_FI": "6",
+    "de_DE": "7",
+    "iw_IL": "8",
+    "hi_IN": "9",
+    "it_IT": "10",
+    "ja_JP": "11",
+    "ko_KR": "12",
+    "no_NO": "13",
+    "pl_PL": "14",
+    "pt_PT": "15",
+    "ru_RU": "16",
+    "es_ES": "17",
+    "sv_SE": "18",
+    "zh_CN": "19",
+    "en_AU": "20",
+    "en_CA": "21",
+    "en_GB": "22",
+    "fr_CA": "23",
+    "el_GR": "24",
+    "id_ID": "25",
+    "ms_MY": "26",
+    "pt_BR": "27",
+    "es_MX": "28",
+    "th_TH": "29",
+    "tr_TR": "30",
+    "vi_VN": "31"
+  },
   "UICamera.ClickNotification": {
     "None": "0",
     "Always": "1",
@@ -14091,6 +14239,21 @@
     "Reserved3": "16384",
     "Reserved4": "32768"
   },
+  "PurchaseBehaviour.Result": {
+    "NONE": "0",
+    "BUSY": "1",
+    "SUCCESS": "2",
+    "SUCCESS_WITHOUT_NOTICE": "3",
+    "WAIT": "4",
+    "CANCEL": "5",
+    "ERROR": "6",
+    "SUSPEND": "7",
+    "BLOCK": "8",
+    "LIMIT_OVER": "9",
+    "INIT_ERROR": "10",
+    "PRODUCT_NOT_AVAILABLE": "11",
+    "DUPLICATE_TRANSACTION": "12"
+  },
   "BattleServantData.DEADTYPE": {
     "NORMAL": "0",
     "ESCAPE": "1",
@@ -14441,6 +14604,18 @@
     "OTHER": "2",
     "ALL": "3"
   },
+  "AppStore": {
+    "NotSpecified": "0",
+    "GooglePlay": "1",
+    "AmazonAppStore": "2",
+    "SamsungApps": "3",
+    "UDP": "4",
+    "MacAppStore": "5",
+    "AppleAppStore": "6",
+    "WinRT": "7",
+    "FacebookStore": "8",
+    "fake": "9"
+  },
   "GridLayoutGroup.Constraint": {
     "Flexible": "0",
     "FixedColumnCount": "1",
@@ -14571,6 +14746,11 @@
     "COORDINATES": "11",
     "EFFECT_CHANGE_BLACK_MARK": "12",
     "QUEST_BOARD_SECTION_IMAGE": "13"
+  },
+  "SamsungAppsMode": {
+    "Production": "0",
+    "AlwaysSucceed": "1",
+    "AlwaysFail": "2"
   },
   "ServantSellConfirmMenu.Kind": {
     "SELECT_SERVANT": "0",
@@ -15587,13 +15767,19 @@
     "WAR_BOARD_MAP_SETUP": "65",
     "LOGIN_BONUS_CLOSED": "66",
     "OPEN_SPECIFIC_QUEST": "67",
-    "ON_PUSH_SVT_SELECT": "68"
+    "ON_PUSH_SVT_SELECT": "68",
+    "ON_NP_COMBINE_SVT_SELECT": "69"
   },
   "QuestRewardTokenAction.STATE": {
     "NONE": "0",
     "PLAY": "1",
     "TOUCH_WAIT": "2",
     "SIZEOF": "3"
+  },
+  "ProductType": {
+    "Consumable": "0",
+    "NonConsumable": "1",
+    "Subscription": "2"
   },
   "PartyListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -15636,6 +15822,10 @@
     "INPUT": "2",
     "SELECTED": "3",
     "CLOSE": "4"
+  },
+  "IAPButton.ButtonType": {
+    "Purchase": "0",
+    "Restore": "1"
   },
   "ServantFrameShortDlgComponent.resultClicked": {
     "POWERUP": "0",
@@ -16764,6 +16954,10 @@
     "MOVE_BY_USE_DRTOUR_TARGET_RANGE_LEAVE_DRTOUR": "123",
     "MOVE_BY_USE_DRTOUR_TARGET_RANGE_NO_CHANGE_DRTOUR": "124"
   },
+  "DPIListViewManager.InitMode": {
+    "NONE": "0",
+    "INPUT": "1"
+  },
   "CombineHelpListViewObject.State": {
     "INIT": "0",
     "IDLE": "1",
@@ -17075,7 +17269,9 @@
     "PT_SELF_ANOTHER_LAST": "24",
     "COMMAND_TYPE_SELF_TREASURE_DEVICE": "25",
     "FIELD_OTHER": "26",
-    "ENEMY_ONE_NO_TARGET_NO_ACTION": "27"
+    "ENEMY_ONE_NO_TARGET_NO_ACTION": "27",
+    "PT_ONE_HP_LOWEST_VALUE": "28",
+    "PT_ONE_HP_LOWEST_RATE": "29"
   },
   "FileOptions": {
     "None": "0",
@@ -17237,6 +17433,12 @@
     "IDLE": "1",
     "MOVE": "2",
     "INPUT": "3"
+  },
+  "DeviceType": {
+    "Unknown": "0",
+    "Handheld": "1",
+    "Console": "2",
+    "Desktop": "3"
   },
   "EquipGraphListMenu.ModeKind": {
     "STATUS": "0",
@@ -17640,6 +17842,10 @@
     "Left": "0",
     "Right": "1"
   },
+  "ScriptActionSetRenderTextureComponent.RenderTextureType": {
+    "RenderTarget": "0",
+    "Capture": "1"
+  },
   "CheckMaterialSvtListViewObject.InitMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -17808,6 +18014,10 @@
     "Right": "1",
     "Middle": "2"
   },
+  "PurchaseProcessingResult": {
+    "Complete": "0",
+    "Pending": "1"
+  },
   "ComInterfaceType": {
     "InterfaceIsDual": "0",
     "InterfaceIsIUnknown": "1",
@@ -17873,6 +18083,13 @@
     "AU_GAMES": "1",
     "GOOGLE_PLAY": "2",
     "APP_STORE": "3"
+  },
+  "PurchaseLogic.PurchaseAvailablilty": {
+    "UNKNOWN": "0",
+    "AVAILABLE_FOR_PURCHASE": "1",
+    "BANK_UNAVAILABLE": "2",
+    "MONTHLY_LIMIT_OVER": "3",
+    "BANK_STATUS_RESULT_ERROR": "4"
   },
   "BindingFlags": {
     "Default": "0",
@@ -18110,6 +18327,20 @@
     "Left": "0",
     "Right": "1",
     "Mono": "2"
+  },
+  "BillingResponseCode": {
+    "ServiceTimeout": "-3",
+    "FeatureNotSupported": "-2",
+    "ServiceDisconnected": "-1",
+    "Ok": "0",
+    "UserCancelled": "1",
+    "ServiceUnavailable": "2",
+    "BillingUnavailable": "3",
+    "ItemUnavailable": "4",
+    "DeveloperError": "5",
+    "Error": "6",
+    "ItemAlreadyOwned": "7",
+    "ItemNotOwned": "8"
   },
   "OperationalStatus": {
     "Up": "1",
@@ -18572,20 +18803,6 @@
     "DontSave": "52",
     "HideAndDontSave": "61"
   },
-  "JsonToken": {
-    "None": "0",
-    "ObjectStart": "1",
-    "PropertyName": "2",
-    "ObjectEnd": "3",
-    "ArrayStart": "4",
-    "ArrayEnd": "5",
-    "Int": "6",
-    "Long": "7",
-    "Double": "8",
-    "String": "9",
-    "Boolean": "10",
-    "Null": "11"
-  },
   "RenderBufferLoadAction": {
     "Load": "0",
     "Clear": "1",
@@ -18764,6 +18981,10 @@
     "Writer": "0",
     "Reader": "1",
     "Undefined": "2"
+  },
+  "FGOSpecifiedBattleStartVoice.TYPE": {
+    "CHECK": "0",
+    "PLAY": "1"
   },
   "DeckListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -18964,6 +19185,12 @@
     "TypesAlways": "1",
     "XsdString": "2"
   },
+  "DPIListViewItemDraw.DispMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
+  },
   "UnicodeCategory": {
     "UppercaseLetter": "0",
     "LowercaseLetter": "1",
@@ -19054,6 +19281,9 @@
     "Direct": "0",
     "Indirect": "1",
     "Stylus": "2"
+  },
+  "SkillLvMaster.AddInvokeSkillActorType": {
+    "FIELD": "1"
   },
   "CondType.Kind": {
     "NONE": "0",
@@ -19450,7 +19680,8 @@
   },
   "NpcFollowerEntity.Flag": {
     "RECOMMENDED_ICON": "1",
-    "IS_MY_SVT_OR_NPC": "2"
+    "IS_MY_SVT_OR_NPC": "2",
+    "FIXED_NPC": "4"
   },
   "FGOPlayStarDirection.DirectionType": {
     "Refresh": "0",

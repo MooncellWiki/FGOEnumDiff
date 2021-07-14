@@ -1,4 +1,4 @@
-public enum ServantCostumeListViewObject.InitMode // TypeDefIndex: 8991
+public enum ServantCostumeListViewObject.InitMode // TypeDefIndex: 9362
 {
 	// Fields
 	public int value__; // 0x0

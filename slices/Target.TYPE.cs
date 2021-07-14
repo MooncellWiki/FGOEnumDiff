@@ -1,4 +1,4 @@
-public enum Target.TYPE // TypeDefIndex: 5902
+public enum Target.TYPE // TypeDefIndex: 6215
 {
 	// Fields
 	public int value__; // 0x0
@@ -30,4 +30,6 @@ public enum Target.TYPE // TypeDefIndex: 5902
 	public const Target.TYPE COMMAND_TYPE_SELF_TREASURE_DEVICE = 25;
 	public const Target.TYPE FIELD_OTHER = 26;
 	public const Target.TYPE ENEMY_ONE_NO_TARGET_NO_ACTION = 27;
+	public const Target.TYPE PT_ONE_HP_LOWEST_VALUE = 28;
+	public const Target.TYPE PT_ONE_HP_LOWEST_RATE = 29;
 }

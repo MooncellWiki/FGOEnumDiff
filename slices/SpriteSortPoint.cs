@@ -1,4 +1,4 @@
-public enum SpriteSortPoint // TypeDefIndex: 2585
+public enum SpriteSortPoint // TypeDefIndex: 2588
 {
 	// Fields
 	public int value__; // 0x0

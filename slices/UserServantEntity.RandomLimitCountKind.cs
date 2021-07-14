@@ -1,4 +1,4 @@
-private enum UserServantEntity.RandomLimitCountKind // TypeDefIndex: 7042
+private enum UserServantEntity.RandomLimitCountKind // TypeDefIndex: 7376
 {
 	// Fields
 	public int value__; // 0x0

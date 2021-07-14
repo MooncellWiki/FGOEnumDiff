@@ -1,4 +1,4 @@
-public enum ForceMode2D // TypeDefIndex: 2799
+public enum ForceMode2D // TypeDefIndex: 2815
 {
 	// Fields
 	public int value__; // 0x0

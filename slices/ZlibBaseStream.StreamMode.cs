@@ -1,4 +1,4 @@
-internal enum ZlibBaseStream.StreamMode // TypeDefIndex: 4066
+internal enum ZlibBaseStream.StreamMode // TypeDefIndex: 4376
 {
 	// Fields
 	public int value__; // 0x0

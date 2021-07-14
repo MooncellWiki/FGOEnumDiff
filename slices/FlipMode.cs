@@ -1,4 +1,4 @@
-public enum FlipMode // TypeDefIndex: 5820
+public enum FlipMode // TypeDefIndex: 6133
 {
 	// Fields
 	public int value__; // 0x0

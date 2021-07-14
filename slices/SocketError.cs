@@ -1,4 +1,4 @@
-public enum SocketError // TypeDefIndex: 1502
+public enum SocketError // TypeDefIndex: 1501
 {
 	// Fields
 	public int value__; // 0x0

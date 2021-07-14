@@ -1,4 +1,4 @@
-public enum PartyOrganizationChangeObject.ResultKind // TypeDefIndex: 9648
+public enum PartyOrganizationChangeObject.ResultKind // TypeDefIndex: 10020
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum Slider.Direction // TypeDefIndex: 3049
+public enum Slider.Direction // TypeDefIndex: 3141
 {
 	// Fields
 	public int value__; // 0x0

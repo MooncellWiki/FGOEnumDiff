@@ -1,4 +1,4 @@
-public enum CriManaMovieMaterial.MaxFrameDrop // TypeDefIndex: 3743
+public enum CriManaMovieMaterial.MaxFrameDrop // TypeDefIndex: 4072
 {
 	// Fields
 	public int value__; // 0x0

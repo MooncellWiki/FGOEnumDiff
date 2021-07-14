@@ -1,4 +1,4 @@
-public enum AudioType // TypeDefIndex: 2106
+public enum AudioType // TypeDefIndex: 2108
 {
 	// Fields
 	public int value__; // 0x0

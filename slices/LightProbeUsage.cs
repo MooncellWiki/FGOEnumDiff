@@ -1,4 +1,4 @@
-public enum LightProbeUsage // TypeDefIndex: 2216
+public enum LightProbeUsage // TypeDefIndex: 2218
 {
 	// Fields
 	public int value__; // 0x0

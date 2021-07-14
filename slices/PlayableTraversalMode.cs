@@ -1,4 +1,4 @@
-public enum PlayableTraversalMode // TypeDefIndex: 2515
+public enum PlayableTraversalMode // TypeDefIndex: 2518
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum Process.AsyncModes // TypeDefIndex: 1328
+private enum Process.AsyncModes // TypeDefIndex: 1327
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum ChunkStream.State // TypeDefIndex: 1522
+private enum ChunkStream.State // TypeDefIndex: 1521
 {
 	// Fields
 	public int value__; // 0x0

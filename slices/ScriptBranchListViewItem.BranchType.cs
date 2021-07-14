@@ -1,4 +1,4 @@
-public enum ScriptBranchListViewItem.BranchType // TypeDefIndex: 10719
+public enum ScriptBranchListViewItem.BranchType // TypeDefIndex: 11102
 {
 	// Fields
 	public int value__; // 0x0

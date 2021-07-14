@@ -1,4 +1,4 @@
-public enum X509FindType // TypeDefIndex: 1677
+public enum X509FindType // TypeDefIndex: 1676
 {
 	// Fields
 	public int value__; // 0x0

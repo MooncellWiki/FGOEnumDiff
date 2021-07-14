@@ -1,4 +1,4 @@
-public enum SocketOptionName // TypeDefIndex: 1508
+public enum SocketOptionName // TypeDefIndex: 1507
 {
 	// Fields
 	public int value__; // 0x0

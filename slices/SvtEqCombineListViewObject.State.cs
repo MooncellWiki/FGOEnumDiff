@@ -1,4 +1,4 @@
-protected enum SvtEqCombineListViewObject.State // TypeDefIndex: 9012
+protected enum SvtEqCombineListViewObject.State // TypeDefIndex: 9383
 {
 	// Fields
 	public int value__; // 0x0
