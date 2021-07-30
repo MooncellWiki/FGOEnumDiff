@@ -1,4 +1,4 @@
-public enum QuestAfterAction.COMMAND_TYPE // TypeDefIndex: 10674
+public enum QuestAfterAction.COMMAND_TYPE // TypeDefIndex: 10746
 {
 	// Fields
 	public int value__; // 0x0

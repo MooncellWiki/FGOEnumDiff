@@ -1,4 +1,4 @@
-private enum MyRoomControl.MENUTYPE // TypeDefIndex: 9774
+private enum MyRoomControl.MENUTYPE // TypeDefIndex: 9824
 {
 	// Fields
 	public int value__; // 0x0
@@ -19,4 +19,5 @@ private enum MyRoomControl.MENUTYPE // TypeDefIndex: 9774
 	public const MyRoomControl.MENUTYPE MATERIAL_EVENT_QUEST = 14;
 	public const MyRoomControl.MENUTYPE MATERIAL_SERVANT = 15;
 	public const MyRoomControl.MENUTYPE MATERIAL_MAIN_INTERLUDE = 16;
+	public const MyRoomControl.MENUTYPE SERVANT_COIN = 17;
 }

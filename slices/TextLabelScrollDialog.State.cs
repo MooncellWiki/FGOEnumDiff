@@ -1,4 +1,4 @@
-protected enum TextLabelScrollDialog.State // TypeDefIndex: 6003
+protected enum TextLabelScrollDialog.State // TypeDefIndex: 6014
 {
 	// Fields
 	public int value__; // 0x0

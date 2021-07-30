@@ -1,4 +1,4 @@
-public enum EquipGraphListViewManager.ResultKind // TypeDefIndex: 5462
+public enum EquipGraphListViewManager.ResultKind // TypeDefIndex: 5463
 {
 	// Fields
 	public int value__; // 0x0

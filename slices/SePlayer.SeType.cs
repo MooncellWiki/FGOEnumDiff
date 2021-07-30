@@ -1,4 +1,4 @@
-public enum SePlayer.SeType // TypeDefIndex: 6522
+public enum SePlayer.SeType // TypeDefIndex: 6536
 {
 	// Fields
 	public int value__; // 0x0

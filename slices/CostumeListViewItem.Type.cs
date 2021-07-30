@@ -1,4 +1,4 @@
-public enum CostumeListViewItem.Type // TypeDefIndex: 9310
+public enum CostumeListViewItem.Type // TypeDefIndex: 9359
 {
 	// Fields
 	public int value__; // 0x0

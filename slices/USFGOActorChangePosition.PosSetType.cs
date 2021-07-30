@@ -1,4 +1,4 @@
-public enum USFGOActorChangePosition.PosSetType // TypeDefIndex: 7967
+public enum USFGOActorChangePosition.PosSetType // TypeDefIndex: 8007
 {
 	// Fields
 	public int value__; // 0x0

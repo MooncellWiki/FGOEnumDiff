@@ -1,4 +1,4 @@
-public enum iTweenFsmAction.AxisRestriction // TypeDefIndex: 12181
+public enum iTweenFsmAction.AxisRestriction // TypeDefIndex: 12253
 {
 	// Fields
 	public int value__; // 0x0

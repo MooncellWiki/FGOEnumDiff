@@ -1,4 +1,4 @@
-public enum SelectMyServantOrNpcDialog.ResultClicked // TypeDefIndex: 10134
+public enum SelectMyServantOrNpcDialog.ResultClicked // TypeDefIndex: 10205
 {
 	// Fields
 	public int value__; // 0x0

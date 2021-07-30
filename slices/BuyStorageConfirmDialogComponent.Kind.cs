@@ -1,4 +1,4 @@
-public enum BuyStorageConfirmDialogComponent.Kind // TypeDefIndex: 10169
+public enum BuyStorageConfirmDialogComponent.Kind // TypeDefIndex: 10240
 {
 	// Fields
 	public int value__; // 0x0

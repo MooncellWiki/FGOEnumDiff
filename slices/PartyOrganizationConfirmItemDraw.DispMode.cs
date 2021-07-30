@@ -1,4 +1,4 @@
-public enum PartyOrganizationConfirmItemDraw.DispMode // TypeDefIndex: 10044
+public enum PartyOrganizationConfirmItemDraw.DispMode // TypeDefIndex: 10115
 {
 	// Fields
 	public int value__; // 0x0

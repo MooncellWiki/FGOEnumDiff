@@ -1,4 +1,4 @@
-public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9262
+public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9309
 {
 	// Fields
 	public int value__; // 0x0
@@ -24,4 +24,8 @@ public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9262
 	public const CombineResultEffectComponent.Kind SPECIAL_ASCENSION = 19;
 	public const CombineResultEffectComponent.Kind COMMAND_CARD_EXCEED = 20;
 	public const CombineResultEffectComponent.Kind SKILL_RANKUP_DUMMY = 21;
+	public const CombineResultEffectComponent.Kind LV_EXCEED_HEROINE = 22;
+	public const CombineResultEffectComponent.Kind FRIENDSHIP_EXCEED_HEROINE = 23;
+	public const CombineResultEffectComponent.Kind SVT_COMBINE_LIMIT = 24;
+	public const CombineResultEffectComponent.Kind APPEND_SKILL = 25;
 }

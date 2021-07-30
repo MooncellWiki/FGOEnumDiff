@@ -1,4 +1,4 @@
-private enum UserServantCollectionEntity.SVT_COMMON_KIND // TypeDefIndex: 7365
+private enum UserServantCollectionEntity.SVT_COMMON_KIND // TypeDefIndex: 7401
 {
 	// Fields
 	public int value__; // 0x0

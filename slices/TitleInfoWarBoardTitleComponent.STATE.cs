@@ -1,4 +1,4 @@
-public enum TitleInfoWarBoardTitleComponent.STATE // TypeDefIndex: 5896
+public enum TitleInfoWarBoardTitleComponent.STATE // TypeDefIndex: 5906
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UICamera.ClickNotification // TypeDefIndex: 7620
+public enum UICamera.ClickNotification // TypeDefIndex: 7659
 {
 	// Fields
 	public int value__; // 0x0

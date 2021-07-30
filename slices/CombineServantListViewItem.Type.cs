@@ -1,4 +1,4 @@
-public enum CombineServantListViewItem.Type // TypeDefIndex: 9326
+public enum CombineServantListViewItem.Type // TypeDefIndex: 9375
 {
 	// Fields
 	public int value__; // 0x0
@@ -13,5 +13,6 @@ public enum CombineServantListViewItem.Type // TypeDefIndex: 9326
 	public const CombineServantListViewItem.Type FRIENDSHIP_EXCEED_BASE = 8;
 	public const CombineServantListViewItem.Type SPECIAL_ASCENSION_BASE = 9;
 	public const CombineServantListViewItem.Type COMMAND_CARD_EXCEED_BASE = 10;
-	public const CombineServantListViewItem.Type SUM = 11;
+	public const CombineServantListViewItem.Type APPEND_SKILL_BASE = 11;
+	public const CombineServantListViewItem.Type SUM = 12;
 }

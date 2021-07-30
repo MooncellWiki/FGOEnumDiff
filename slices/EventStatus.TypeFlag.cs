@@ -1,4 +1,4 @@
-public enum EventStatus.TypeFlag // TypeDefIndex: 6128
+public enum EventStatus.TypeFlag // TypeDefIndex: 6139
 {
 	// Fields
 	public int value__; // 0x0

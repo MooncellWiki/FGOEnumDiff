@@ -1,4 +1,4 @@
-public enum DatFileName.FILE_NAME // TypeDefIndex: 6117
+public enum DatFileName.FILE_NAME // TypeDefIndex: 6128
 {
 	// Fields
 	public int value__; // 0x0
@@ -34,5 +34,6 @@ public enum DatFileName.FILE_NAME // TypeDefIndex: 6117
 	public const DatFileName.FILE_NAME BATTLE_USE_CONTINUE_ITEM_REQUEST_SAVE = 29;
 	public const DatFileName.FILE_NAME BATTLE_USE_ITEM_REQUEST = 30;
 	public const DatFileName.FILE_NAME UNCONFIRMED_PAYMENT = 31;
-	public const DatFileName.FILE_NAME SUM = 32;
+	public const DatFileName.FILE_NAME SERVANT_CHARA_GRAPH_EX_OPEN = 32;
+	public const DatFileName.FILE_NAME SUM = 33;
 }

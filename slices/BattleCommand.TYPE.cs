@@ -1,4 +1,4 @@
-public enum BattleCommand.TYPE // TypeDefIndex: 6080
+public enum BattleCommand.TYPE // TypeDefIndex: 6091
 {
 	// Fields
 	public int value__; // 0x0

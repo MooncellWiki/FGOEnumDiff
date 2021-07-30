@@ -1,4 +1,4 @@
-public enum BattleLogicFunctionProcess.FuncInvalidType // TypeDefIndex: 8904
+public enum BattleLogicFunctionProcess.FuncInvalidType // TypeDefIndex: 8947
 {
 	// Fields
 	public int value__; // 0x0

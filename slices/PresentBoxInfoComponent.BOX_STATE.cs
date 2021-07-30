@@ -1,4 +1,4 @@
-private enum PresentBoxInfoComponent.BOX_STATE // TypeDefIndex: 9538
+private enum PresentBoxInfoComponent.BOX_STATE // TypeDefIndex: 9587
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FollowerSelectItemListViewManager.ResultKind // TypeDefIndex: 9580
+public enum FollowerSelectItemListViewManager.ResultKind // TypeDefIndex: 9629
 {
 	// Fields
 	public int value__; // 0x0
@@ -10,4 +10,9 @@ public enum FollowerSelectItemListViewManager.ResultKind // TypeDefIndex: 9580
 	public const FollowerSelectItemListViewManager.ResultKind SUPPORT_INFO = 5;
 	public const FollowerSelectItemListViewManager.ResultKind SERVANT_EQUIP_STATUS = 6;
 	public const FollowerSelectItemListViewManager.ResultKind REFRESH = 7;
+	public const FollowerSelectItemListViewManager.ResultKind SERVANT_APPEND_SKILL1_STATUS = 8;
+	public const FollowerSelectItemListViewManager.ResultKind SERVANT_APPEND_SKILL2_STATUS = 9;
+	public const FollowerSelectItemListViewManager.ResultKind SERVANT_APPEND_SKILL3_STATUS = 10;
+	public const FollowerSelectItemListViewManager.ResultKind SERVANT_APPEND_SKILL4_STATUS = 11;
+	public const FollowerSelectItemListViewManager.ResultKind SERVANT_APPEND_SKILL5_STATUS = 12;
 }

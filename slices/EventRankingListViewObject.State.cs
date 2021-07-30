@@ -1,4 +1,4 @@
-protected enum EventRankingListViewObject.State // TypeDefIndex: 9487
+protected enum EventRankingListViewObject.State // TypeDefIndex: 9536
 {
 	// Fields
 	public int value__; // 0x0

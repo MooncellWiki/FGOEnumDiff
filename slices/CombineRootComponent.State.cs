@@ -1,4 +1,4 @@
-public enum CombineRootComponent.State // TypeDefIndex: 9171
+public enum CombineRootComponent.State // TypeDefIndex: 9217
 {
 	// Fields
 	public int value__; // 0x0
@@ -16,4 +16,5 @@ public enum CombineRootComponent.State // TypeDefIndex: 9171
 	public const CombineRootComponent.State NP_COMBINE = 11;
 	public const CombineRootComponent.State FRIENDSHIP = 12;
 	public const CombineRootComponent.State COMMAND_CARD_EXCEED = 13;
+	public const CombineRootComponent.State APPEND_SKILL = 14;
 }

@@ -1,4 +1,4 @@
-public enum CombineHelpListViewManager.ItemKind // TypeDefIndex: 9245
+public enum CombineHelpListViewManager.ItemKind // TypeDefIndex: 9291
 {
 	// Fields
 	public int value__; // 0x0
@@ -13,5 +13,6 @@ public enum CombineHelpListViewManager.ItemKind // TypeDefIndex: 9245
 	public const CombineHelpListViewManager.ItemKind COMBINE_FRIENDSHIP_EXCEED = 9;
 	public const CombineHelpListViewManager.ItemKind COMBINE_SPECIAL_ASCENSION = 10;
 	public const CombineHelpListViewManager.ItemKind COMBINE_CMD_CARD_EXCEED = 11;
-	public const CombineHelpListViewManager.ItemKind COMBINE_BLANK = 12;
+	public const CombineHelpListViewManager.ItemKind COMBINE_APPEND_SKILL = 12;
+	public const CombineHelpListViewManager.ItemKind COMBINE_BLANK = 13;
 }

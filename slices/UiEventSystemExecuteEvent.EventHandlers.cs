@@ -1,4 +1,4 @@
-public enum UiEventSystemExecuteEvent.EventHandlers // TypeDefIndex: 12567
+public enum UiEventSystemExecuteEvent.EventHandlers // TypeDefIndex: 12639
 {
 	// Fields
 	public int value__; // 0x0

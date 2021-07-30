@@ -1,4 +1,4 @@
-public enum CostSpriteListManager.ListType // TypeDefIndex: 11022
+public enum CostSpriteListManager.ListType // TypeDefIndex: 11094
 {
 	// Fields
 	public int value__; // 0x0

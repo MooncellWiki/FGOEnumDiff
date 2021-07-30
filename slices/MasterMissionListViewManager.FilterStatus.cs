@@ -1,4 +1,4 @@
-public enum MasterMissionListViewManager.FilterStatus // TypeDefIndex: 5561
+public enum MasterMissionListViewManager.FilterStatus // TypeDefIndex: 5568
 {
 	// Fields
 	public int value__; // 0x0

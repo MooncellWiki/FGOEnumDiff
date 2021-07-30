@@ -1,4 +1,4 @@
-protected enum AvalonSceneManager.ChangeType // TypeDefIndex: 6433
+protected enum AvalonSceneManager.ChangeType // TypeDefIndex: 6446
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-protected enum PresentSelectableBulkItemConfirmDlg.State // TypeDefIndex: 5992
+protected enum PresentSelectableBulkItemConfirmDlg.State // TypeDefIndex: 6003
 {
 	// Fields
 	public int value__; // 0x0

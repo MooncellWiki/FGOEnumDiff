@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6567
+public enum DataVals.TYPE // TypeDefIndex: 6582
 {
 	// Fields
 	public int value__; // 0x0
@@ -80,4 +80,7 @@ public enum DataVals.TYPE // TypeDefIndex: 6567
 	public const DataVals.TYPE ForcedEffectSpeedOne = 75;
 	public const DataVals.TYPE SetLimitCount = 76;
 	public const DataVals.TYPE CheckEnemyFieldSpace = 77;
+	public const DataVals.TYPE TriggeredFuncPosition = 78;
+	public const DataVals.TYPE DamageCount = 79;
+	public const DataVals.TYPE DamageRates = 80;
 }

@@ -1,4 +1,4 @@
-protected enum SoundPlayerListViewObject.State // TypeDefIndex: 9908
+protected enum SoundPlayerListViewObject.State // TypeDefIndex: 9979
 {
 	// Fields
 	public int value__; // 0x0

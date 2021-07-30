@@ -1,4 +1,4 @@
-public enum ScriptSceneType.Kind // TypeDefIndex: 6189
+public enum ScriptSceneType.Kind // TypeDefIndex: 6200
 {
 	// Fields
 	public int value__; // 0x0

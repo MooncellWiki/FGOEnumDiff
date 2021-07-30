@@ -1,4 +1,4 @@
-public enum SkillLvMaster.AddInvokeSkillActorType // TypeDefIndex: 7211
+public enum SkillLvMaster.AddInvokeSkillActorType // TypeDefIndex: 7237
 {
 	// Fields
 	public int value__; // 0x0

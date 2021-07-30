@@ -1,4 +1,4 @@
-public enum MaskFade.Kind // TypeDefIndex: 5549
+public enum MaskFade.Kind // TypeDefIndex: 5556
 {
 	// Fields
 	public int value__; // 0x0

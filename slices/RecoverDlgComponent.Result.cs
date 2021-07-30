@@ -1,4 +1,4 @@
-public enum RecoverDlgComponent.Result // TypeDefIndex: 5629
+public enum RecoverDlgComponent.Result // TypeDefIndex: 5636
 {
 	// Fields
 	public int value__; // 0x0

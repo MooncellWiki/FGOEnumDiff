@@ -1,4 +1,4 @@
-public enum BattleEffectControl.ID // TypeDefIndex: 8658
+public enum BattleEffectControl.ID // TypeDefIndex: 8700
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-protected enum ScriptManager.PlaySpeed // TypeDefIndex: 8300
+protected enum ScriptManager.PlaySpeed // TypeDefIndex: 8342
 {
 	// Fields
 	public int value__; // 0x0

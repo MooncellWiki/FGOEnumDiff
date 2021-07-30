@@ -1,4 +1,4 @@
-public enum ScriptCharaData.State // TypeDefIndex: 8279
+public enum ScriptCharaData.State // TypeDefIndex: 8321
 {
 	// Fields
 	public int value__; // 0x0

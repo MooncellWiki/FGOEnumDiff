@@ -1,4 +1,4 @@
-public enum UnloadSceneAsynch.SceneReferenceOptions // TypeDefIndex: 12391
+public enum UnloadSceneAsynch.SceneReferenceOptions // TypeDefIndex: 12463
 {
 	// Fields
 	public int value__; // 0x0

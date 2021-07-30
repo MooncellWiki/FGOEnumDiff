@@ -1,4 +1,4 @@
-protected enum SoundPlayerMenu.State // TypeDefIndex: 9910
+protected enum SoundPlayerMenu.State // TypeDefIndex: 9981
 {
 	// Fields
 	public int value__; // 0x0

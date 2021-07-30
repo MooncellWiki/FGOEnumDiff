@@ -1,4 +1,4 @@
-public enum ServantStatusCharaGraphListViewObject.InitMode // TypeDefIndex: 5710
+public enum ServantStatusCharaGraphListViewObject.InitMode // TypeDefIndex: 5718
 {
 	// Fields
 	public int value__; // 0x0
@@ -12,4 +12,5 @@ public enum ServantStatusCharaGraphListViewObject.InitMode // TypeDefIndex: 5710
 	public const ServantStatusCharaGraphListViewObject.InitMode VIEWER = 7;
 	public const ServantStatusCharaGraphListViewObject.InitMode VIEWER_HIDE_FRAME = 8;
 	public const ServantStatusCharaGraphListViewObject.InitMode VIEWER_FADEOUT_FRAME = 9;
+	public const ServantStatusCharaGraphListViewObject.InitMode VIEWER_EX = 10;
 }

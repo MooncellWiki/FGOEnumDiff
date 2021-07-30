@@ -1,4 +1,4 @@
-public enum SampleEventListViewItemDraw.DispMode // TypeDefIndex: 11238
+public enum SampleEventListViewItemDraw.DispMode // TypeDefIndex: 11310
 {
 	// Fields
 	public int value__; // 0x0
