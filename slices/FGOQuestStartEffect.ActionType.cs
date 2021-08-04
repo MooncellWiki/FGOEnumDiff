@@ -1,4 +1,4 @@
-public enum FGOQuestStartEffect.ActionType // TypeDefIndex: 7929
+public enum FGOQuestStartEffect.ActionType // TypeDefIndex: 7937
 {
 	// Fields
 	public int value__; // 0x0

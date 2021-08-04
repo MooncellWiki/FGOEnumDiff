@@ -1,4 +1,4 @@
-public enum DeviceType // TypeDefIndex: 2423
+public enum DeviceType // TypeDefIndex: 2424
 {
 	// Fields
 	public int value__; // 0x0

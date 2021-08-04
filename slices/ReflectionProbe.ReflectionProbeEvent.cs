@@ -1,4 +1,4 @@
-public enum ReflectionProbe.ReflectionProbeEvent // TypeDefIndex: 2403
+public enum ReflectionProbe.ReflectionProbeEvent // TypeDefIndex: 2404
 {
 	// Fields
 	public int value__; // 0x0

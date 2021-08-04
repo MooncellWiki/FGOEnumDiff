@@ -1,4 +1,4 @@
-public enum Loglevels // TypeDefIndex: 4420
+public enum Loglevels // TypeDefIndex: 4421
 {
 	// Fields
 	public byte value__; // 0x0

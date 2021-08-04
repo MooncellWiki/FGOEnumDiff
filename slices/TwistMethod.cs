@@ -1,4 +1,4 @@
-public enum TwistMethod // TypeDefIndex: 4237
+public enum TwistMethod // TypeDefIndex: 4238
 {
 	// Fields
 	public int value__; // 0x0

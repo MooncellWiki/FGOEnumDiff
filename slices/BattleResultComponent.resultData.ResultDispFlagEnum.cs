@@ -1,4 +1,4 @@
-public enum BattleResultComponent.resultData.ResultDispFlagEnum // TypeDefIndex: 9142
+public enum BattleResultComponent.resultData.ResultDispFlagEnum // TypeDefIndex: 9185
 {
 	// Fields
 	public int value__; // 0x0

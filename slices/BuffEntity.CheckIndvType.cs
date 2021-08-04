@@ -1,4 +1,4 @@
-public enum BuffEntity.CheckIndvType // TypeDefIndex: 6679
+public enum BuffEntity.CheckIndvType // TypeDefIndex: 6683
 {
 	// Fields
 	public int value__; // 0x0

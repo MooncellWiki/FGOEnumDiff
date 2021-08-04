@@ -704,6 +704,10 @@
     "EXIT": "7",
     "RETRY": "8"
   },
+  "ChrDirectionalLight.MaterialType": {
+    "ShareMaterial": "0",
+    "NormalMaterial": "1"
+  },
   "StoreName": {
     "AddressBook": "1",
     "AuthRoot": "2",
@@ -1355,6 +1359,16 @@
     "EnableJITcompileOptimizer": "16384",
     "EnableJITcompileTracking": "32768"
   },
+  "BattleSyncTransformComponent.SyncTargetType": {
+    "None": "0",
+    "POS": "1",
+    "ROTATION": "2",
+    "POS_ROTATION": "3",
+    "SCALE": "4",
+    "POS_SCALE": "5",
+    "ROTATION_SCALE": "6",
+    "ALL": "7"
+  },
   "LeaseState": {
     "Null": "0",
     "Initial": "1",
@@ -1673,6 +1687,11 @@
     "ENTER": "3",
     "EXIT": "4",
     "MODIFY": "5"
+  },
+  "BattlePerformanceDefenceTarget.MoveToPositionType": {
+    "TACTICAL_PHASE": "0",
+    "COMMAND_CARD": "1",
+    "BATTLE_PHASE": "2"
   },
   "PartyOrganizationRootComponent.TutorialMode": {
     "NONE": "0",
@@ -4631,6 +4650,9 @@
     "IsTrue": "0",
     "IsFalse": "1"
   },
+  "ShowDefenceTargetAddBuffEffect.AddType": {
+    "NoblePhantasm": "0"
+  },
   "ForceMode": {
     "Force": "0",
     "Acceleration": "5",
@@ -5741,16 +5763,18 @@
     "EVENT_COMBINE_COSTUME": "348",
     "WARBOARD_STAGE_PIECE_DETAIL": "349",
     "SERVANT_TREASURE_DEVICE_ADD": "350",
-    "SERVANT_LEVEL_DETAIL": "351",
-    "GACHA_APPEND": "352",
-    "USER_GACHA_DRAW_LOG": "353",
-    "SERVANT_APPEND_PASSIVE_SKILL": "354",
-    "USER_SERVANT_APPEND_PASSIVE_SKILL": "355",
-    "USER_SERVANT_APPEND_PASSIVE_SKILL_LV": "356",
-    "SVT_APPEND_PASSIVE_SKILL_UNLOCK": "357",
-    "COMBINE_APPEND_PASSIVE_SKILL": "358",
-    "SVT_COIN": "359",
-    "USER_SVT_COIN": "360"
+    "SKILL_ADD": "351",
+    "SERVANT_LEVEL_DETAIL": "352",
+    "GACHA_APPEND": "353",
+    "USER_GACHA_DRAW_LOG": "354",
+    "SERVANT_APPEND_PASSIVE_SKILL": "355",
+    "USER_SERVANT_APPEND_PASSIVE_SKILL": "356",
+    "USER_SERVANT_APPEND_PASSIVE_SKILL_LV": "357",
+    "SVT_APPEND_PASSIVE_SKILL_UNLOCK": "358",
+    "COMBINE_APPEND_PASSIVE_SKILL": "359",
+    "SVT_COIN": "360",
+    "USER_SVT_COIN": "361",
+    "SERVANT_ADD": "362"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -6008,7 +6032,9 @@
     "NOT_ENTRY_BANNER_ACTIVE": "4096",
     "SHOP": "8192",
     "BLACK_MARK_WITH_CLEAR": "16384",
-    "DISP_FIRST_QUEST": "32768"
+    "DISP_FIRST_QUEST": "32768",
+    "EFFECT_DISAPPEAR_BANNER": "65536",
+    "WHITE_MARK_WITH_CLEAR": "131072"
   },
   "ServantSortSelectMenu.Kind": {
     "SERVANT_COMBINE_BASE_SELECT": "0",
@@ -7472,7 +7498,8 @@
     "MOVE_STATE": "124",
     "CHANGE_BGM_COSTUME": "125",
     "FUNC_126": "126",
-    "FUNC_127": "127"
+    "FUNC_127": "127",
+    "UPDATE_ENTRY_POSITIONS": "128"
   },
   "SkillUpResultWindowComponent.State": {
     "INIT": "0"
@@ -8040,7 +8067,8 @@
     "LOAD_PT": "4",
     "LOAD_FIELD_CALL": "5",
     "BEFORE_FIELD_CALL_EFFECT": "6",
-    "AFTER_FIELD_CALL_EFFECT": "7"
+    "AFTER_FIELD_CALL_EFFECT": "7",
+    "DISPLAY_DEFENCE_TARGET": "8"
   },
   "GraphicsDeviceType": {
     "OpenGL2": "0",
@@ -9037,7 +9065,9 @@
     "CheckEnemyFieldSpace": "77",
     "TriggeredFuncPosition": "78",
     "DamageCount": "79",
-    "DamageRates": "80"
+    "DamageRates": "80",
+    "OnPositions": "81",
+    "OffPositions": "82"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",
@@ -11378,7 +11408,8 @@
     "COMMANDCODEATTACK_AFTER_FUNCTION": "159",
     "ATTACK_BEFORE_FUNCTION": "160",
     "DONOT_SKILL_SELECT": "161",
-    "INVISIBLE_BATTLE_CHARA": "163"
+    "INVISIBLE_BATTLE_CHARA": "163",
+    "BUFF_RATE": "162"
   },
   "EventDetailEntity.EventGaugeType": {
     "NONE": "1",
@@ -12256,6 +12287,9 @@
     "Done": "2",
     "Error": "3"
   },
+  "ScriptReplaceString.Index": {
+    "USER_NAME": "1"
+  },
   "MapCondEntity.ChangeType": {
     "BUTTON_DISPLAY": "1",
     "CHANGE_MAP_IMAGE": "2",
@@ -12767,7 +12801,8 @@
     "APRIL_FOOL_CANCEL": "8",
     "CHOICE": "16",
     "NO_PERIOD": "32",
-    "COND_JOIN": "64"
+    "COND_JOIN": "64",
+    "ADD_FRIENDSHIP_HEROINE": "128"
   },
   "StateInfoIndex": {
     "CurrentState": "0",
@@ -13170,6 +13205,11 @@
     "ONE": "0",
     "PINGPONG": "1"
   },
+  "NetworkReachability": {
+    "NotReachable": "0",
+    "ReachableViaCarrierDataNetwork": "1",
+    "ReachableViaLocalAreaNetwork": "2"
+  },
   "UiEventSystemExecuteEvent.EventHandlers": {
     "Submit": "0",
     "beginDrag": "1",
@@ -13557,7 +13597,8 @@
     "PREVENT_DEATH_BY_DAMAGE": "96",
     "FUNCTION_COMMANDCODEATTACK_AFTER": "97",
     "FUNCTION_ATTACK_BEFORE": "98",
-    "DONOT_SKILL_SELECT": "99"
+    "DONOT_SKILL_SELECT": "99",
+    "BUFF_RATE": "100"
   },
   "EventTriggerType": {
     "PointerEnter": "0",
@@ -13870,7 +13911,8 @@
     "APRIL_FOOL_CANCEL": "3",
     "CHOICE": "4",
     "NO_PERIOD": "5",
-    "COND_JOIN": "6"
+    "COND_JOIN": "6",
+    "ADD_FRIENDSHIP_HEROINE": "7"
   },
   "BattleServantHeadUpComponent.MODE": {
     "NONE": "0",
@@ -15451,6 +15493,10 @@
     "NONE": "0",
     "MAIN": "1",
     "SIZEOF": "2"
+  },
+  "ChrRenderMatrix.MaterialType": {
+    "ShareMaterial": "0",
+    "NormalMaterial": "1"
   },
   "RewardType.Type": {
     "GIFT": "1",
@@ -18283,6 +18329,11 @@
   "EventPointGroupAddEntity.OverwriteType": {
     "ICON": "1"
   },
+  "BattleSyncTransformComponent.SyncParamType": {
+    "POSITION": "1",
+    "ROTATION": "2",
+    "SCALE": "4"
+  },
   "ParticleSystemForceFieldShape": {
     "Sphere": "0",
     "Hemisphere": "1",
@@ -18334,6 +18385,10 @@
     "NONE": "0",
     "LOADING": "1",
     "LOADED": "2"
+  },
+  "clsQuestCheck.PresentMessageType": {
+    "NONE": "0",
+    "ADD_FRIENDPOINT_SUMMON": "1"
   },
   "USFGOChrBulrEvent.MODE": {
     "BULR_VALID": "0",

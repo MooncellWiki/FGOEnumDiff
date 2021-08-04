@@ -1,4 +1,4 @@
-public enum VoiceCondType.Type // TypeDefIndex: 6244
+public enum VoiceCondType.Type // TypeDefIndex: 6248
 {
 	// Fields
 	public int value__; // 0x0

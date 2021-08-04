@@ -1,4 +1,4 @@
-public enum FGOFieldLogic.PROC // TypeDefIndex: 7903
+public enum FGOFieldLogic.PROC // TypeDefIndex: 7911
 {
 	// Fields
 	public int value__; // 0x0
@@ -10,4 +10,5 @@ public enum FGOFieldLogic.PROC // TypeDefIndex: 7903
 	public const FGOFieldLogic.PROC LOAD_FIELD_CALL = 5;
 	public const FGOFieldLogic.PROC BEFORE_FIELD_CALL_EFFECT = 6;
 	public const FGOFieldLogic.PROC AFTER_FIELD_CALL_EFFECT = 7;
+	public const FGOFieldLogic.PROC DISPLAY_DEFENCE_TARGET = 8;
 }

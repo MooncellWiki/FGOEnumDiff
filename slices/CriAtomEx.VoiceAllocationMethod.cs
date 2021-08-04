@@ -1,4 +1,4 @@
-public enum CriAtomEx.VoiceAllocationMethod // TypeDefIndex: 3915
+public enum CriAtomEx.VoiceAllocationMethod // TypeDefIndex: 3916
 {
 	// Fields
 	public int value__; // 0x0

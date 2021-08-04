@@ -1,4 +1,4 @@
-public enum BuffList.ACTION // TypeDefIndex: 6097
+public enum BuffList.ACTION // TypeDefIndex: 6101
 {
 	// Fields
 	public int value__; // 0x0
@@ -102,4 +102,5 @@ public enum BuffList.ACTION // TypeDefIndex: 6097
 	public const BuffList.ACTION FUNCTION_COMMANDCODEATTACK_AFTER = 97;
 	public const BuffList.ACTION FUNCTION_ATTACK_BEFORE = 98;
 	public const BuffList.ACTION DONOT_SKILL_SELECT = 99;
+	public const BuffList.ACTION BUFF_RATE = 100;
 }

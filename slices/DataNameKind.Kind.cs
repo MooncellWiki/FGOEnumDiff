@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6126
+public enum DataNameKind.Kind // TypeDefIndex: 6130
 {
 	// Fields
 	public int value__; // 0x0
@@ -353,14 +353,16 @@ public enum DataNameKind.Kind // TypeDefIndex: 6126
 	public const DataNameKind.Kind EVENT_COMBINE_COSTUME = 348;
 	public const DataNameKind.Kind WARBOARD_STAGE_PIECE_DETAIL = 349;
 	public const DataNameKind.Kind SERVANT_TREASURE_DEVICE_ADD = 350;
-	public const DataNameKind.Kind SERVANT_LEVEL_DETAIL = 351;
-	public const DataNameKind.Kind GACHA_APPEND = 352;
-	public const DataNameKind.Kind USER_GACHA_DRAW_LOG = 353;
-	public const DataNameKind.Kind SERVANT_APPEND_PASSIVE_SKILL = 354;
-	public const DataNameKind.Kind USER_SERVANT_APPEND_PASSIVE_SKILL = 355;
-	public const DataNameKind.Kind USER_SERVANT_APPEND_PASSIVE_SKILL_LV = 356;
-	public const DataNameKind.Kind SVT_APPEND_PASSIVE_SKILL_UNLOCK = 357;
-	public const DataNameKind.Kind COMBINE_APPEND_PASSIVE_SKILL = 358;
-	public const DataNameKind.Kind SVT_COIN = 359;
-	public const DataNameKind.Kind USER_SVT_COIN = 360;
+	public const DataNameKind.Kind SKILL_ADD = 351;
+	public const DataNameKind.Kind SERVANT_LEVEL_DETAIL = 352;
+	public const DataNameKind.Kind GACHA_APPEND = 353;
+	public const DataNameKind.Kind USER_GACHA_DRAW_LOG = 354;
+	public const DataNameKind.Kind SERVANT_APPEND_PASSIVE_SKILL = 355;
+	public const DataNameKind.Kind USER_SERVANT_APPEND_PASSIVE_SKILL = 356;
+	public const DataNameKind.Kind USER_SERVANT_APPEND_PASSIVE_SKILL_LV = 357;
+	public const DataNameKind.Kind SVT_APPEND_PASSIVE_SKILL_UNLOCK = 358;
+	public const DataNameKind.Kind COMBINE_APPEND_PASSIVE_SKILL = 359;
+	public const DataNameKind.Kind SVT_COIN = 360;
+	public const DataNameKind.Kind USER_SVT_COIN = 361;
+	public const DataNameKind.Kind SERVANT_ADD = 362;
 }

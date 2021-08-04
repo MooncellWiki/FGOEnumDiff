@@ -1,4 +1,4 @@
-public enum Bloom.LensFlareStyle // TypeDefIndex: 4288
+public enum Bloom.LensFlareStyle // TypeDefIndex: 4289
 {
 	// Fields
 	public int value__; // 0x0

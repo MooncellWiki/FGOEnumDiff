@@ -1,4 +1,4 @@
-public enum FuncList.TYPE // TypeDefIndex: 6152
+public enum FuncList.TYPE // TypeDefIndex: 6156
 {
 	// Fields
 	public int value__; // 0x0
@@ -91,4 +91,5 @@ public enum FuncList.TYPE // TypeDefIndex: 6152
 	public const FuncList.TYPE CHANGE_BGM_COSTUME = 125;
 	public const FuncList.TYPE FUNC_126 = 126;
 	public const FuncList.TYPE FUNC_127 = 127;
+	public const FuncList.TYPE UPDATE_ENTRY_POSITIONS = 128;
 }

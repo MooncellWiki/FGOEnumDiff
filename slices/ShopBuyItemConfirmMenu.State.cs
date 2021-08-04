@@ -1,4 +1,4 @@
-private enum ShopBuyItemConfirmMenu.State // TypeDefIndex: 10292
+private enum ShopBuyItemConfirmMenu.State // TypeDefIndex: 10335
 {
 	// Fields
 	public int value__; // 0x0

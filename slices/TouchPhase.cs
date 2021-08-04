@@ -1,4 +1,4 @@
-public enum TouchPhase // TypeDefIndex: 2231
+public enum TouchPhase // TypeDefIndex: 2232
 {
 	// Fields
 	public int value__; // 0x0

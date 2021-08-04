@@ -1,4 +1,4 @@
-public enum RectTransform.Edge // TypeDefIndex: 2577
+public enum RectTransform.Edge // TypeDefIndex: 2578
 {
 	// Fields
 	public int value__; // 0x0

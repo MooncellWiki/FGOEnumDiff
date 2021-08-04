@@ -1,4 +1,4 @@
-public enum ShadowResolution // TypeDefIndex: 2182
+public enum ShadowResolution // TypeDefIndex: 2183
 {
 	// Fields
 	public int value__; // 0x0

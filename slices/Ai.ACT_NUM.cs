@@ -1,4 +1,4 @@
-public enum Ai.ACT_NUM // TypeDefIndex: 6079
+public enum Ai.ACT_NUM // TypeDefIndex: 6083
 {
 	// Fields
 	public int value__; // 0x0

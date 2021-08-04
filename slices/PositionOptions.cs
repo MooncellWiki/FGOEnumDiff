@@ -1,4 +1,4 @@
-public enum PositionOptions // TypeDefIndex: 3379
+public enum PositionOptions // TypeDefIndex: 3380
 {
 	// Fields
 	public int value__; // 0x0

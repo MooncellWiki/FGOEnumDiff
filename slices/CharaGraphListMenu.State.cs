@@ -1,4 +1,4 @@
-protected enum CharaGraphListMenu.State // TypeDefIndex: 10222
+protected enum CharaGraphListMenu.State // TypeDefIndex: 10265
 {
 	// Fields
 	public int value__; // 0x0

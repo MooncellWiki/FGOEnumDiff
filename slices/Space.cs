@@ -1,4 +1,4 @@
-public enum Space // TypeDefIndex: 2111
+public enum Space // TypeDefIndex: 2112
 {
 	// Fields
 	public int value__; // 0x0

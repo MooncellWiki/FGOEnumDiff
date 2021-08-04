@@ -1,4 +1,4 @@
-private enum CriManaMixerBehaviour.ClipState // TypeDefIndex: 4091
+private enum CriManaMixerBehaviour.ClipState // TypeDefIndex: 4092
 {
 	// Fields
 	public int value__; // 0x0

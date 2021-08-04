@@ -1,4 +1,4 @@
-public enum USFGOChrColorChangeEvent.ChangeTarget // TypeDefIndex: 8032
+public enum USFGOChrColorChangeEvent.ChangeTarget // TypeDefIndex: 8046
 {
 	// Fields
 	public int value__; // 0x0

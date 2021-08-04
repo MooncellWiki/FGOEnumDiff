@@ -1,4 +1,4 @@
-public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9309
+public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9352
 {
 	// Fields
 	public int value__; // 0x0

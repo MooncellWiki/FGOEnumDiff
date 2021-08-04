@@ -1,4 +1,4 @@
-public enum ScriptBackLogListViewItemDraw.DispMode // TypeDefIndex: 8312
+public enum ScriptBackLogListViewItemDraw.DispMode // TypeDefIndex: 8327
 {
 	// Fields
 	public int value__; // 0x0

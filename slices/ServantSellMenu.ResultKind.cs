@@ -1,4 +1,4 @@
-public enum ServantSellMenu.ResultKind // TypeDefIndex: 10288
+public enum ServantSellMenu.ResultKind // TypeDefIndex: 10331
 {
 	// Fields
 	public int value__; // 0x0

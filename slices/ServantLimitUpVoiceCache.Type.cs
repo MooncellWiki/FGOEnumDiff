@@ -1,4 +1,4 @@
-public enum ServantLimitUpVoiceCache.Type // TypeDefIndex: 5664
+public enum ServantLimitUpVoiceCache.Type // TypeDefIndex: 5668
 {
 	// Fields
 	public int value__; // 0x0

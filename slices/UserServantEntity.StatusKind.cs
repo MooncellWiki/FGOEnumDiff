@@ -1,4 +1,4 @@
-public enum UserServantEntity.StatusKind // TypeDefIndex: 7410
+public enum UserServantEntity.StatusKind // TypeDefIndex: 7418
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,4 +9,5 @@ public enum UserServantEntity.StatusKind // TypeDefIndex: 7410
 	public const UserServantEntity.StatusKind CHOICE = 4;
 	public const UserServantEntity.StatusKind NO_PERIOD = 5;
 	public const UserServantEntity.StatusKind COND_JOIN = 6;
+	public const UserServantEntity.StatusKind ADD_FRIENDSHIP_HEROINE = 7;
 }

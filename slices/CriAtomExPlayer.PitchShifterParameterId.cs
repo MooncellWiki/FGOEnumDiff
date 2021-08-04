@@ -1,4 +1,4 @@
-public enum CriAtomExPlayer.PitchShifterParameterId // TypeDefIndex: 4002
+public enum CriAtomExPlayer.PitchShifterParameterId // TypeDefIndex: 4003
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UserServantEntity.StatusFlag // TypeDefIndex: 7411
+public enum UserServantEntity.StatusFlag // TypeDefIndex: 7419
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,4 +9,5 @@ public enum UserServantEntity.StatusFlag // TypeDefIndex: 7411
 	public const UserServantEntity.StatusFlag CHOICE = 16;
 	public const UserServantEntity.StatusFlag NO_PERIOD = 32;
 	public const UserServantEntity.StatusFlag COND_JOIN = 64;
+	public const UserServantEntity.StatusFlag ADD_FRIENDSHIP_HEROINE = 128;
 }

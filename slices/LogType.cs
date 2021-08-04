@@ -1,4 +1,4 @@
-public enum LogType // TypeDefIndex: 2113
+public enum LogType // TypeDefIndex: 2114
 {
 	// Fields
 	public int value__; // 0x0

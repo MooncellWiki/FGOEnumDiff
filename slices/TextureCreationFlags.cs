@@ -1,4 +1,4 @@
-public enum TextureCreationFlags // TypeDefIndex: 2197
+public enum TextureCreationFlags // TypeDefIndex: 2198
 {
 	// Fields
 	public int value__; // 0x0

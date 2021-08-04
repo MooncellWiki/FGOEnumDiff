@@ -1,4 +1,4 @@
-public enum CombineCommandCodeListViewItemDraw.DispMode // TypeDefIndex: 9239
+public enum CombineCommandCodeListViewItemDraw.DispMode // TypeDefIndex: 9282
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ParticleSystemStopBehavior // TypeDefIndex: 2805
+public enum ParticleSystemStopBehavior // TypeDefIndex: 2806
 {
 	// Fields
 	public int value__; // 0x0

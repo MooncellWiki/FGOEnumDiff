@@ -1,4 +1,4 @@
-public enum DeckSelectMenu.ResultKind // TypeDefIndex: 10050
+public enum DeckSelectMenu.ResultKind // TypeDefIndex: 10093
 {
 	// Fields
 	public int value__; // 0x0

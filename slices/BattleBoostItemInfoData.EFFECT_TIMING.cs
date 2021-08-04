@@ -1,4 +1,4 @@
-public enum BattleBoostItemInfoData.EFFECT_TIMING // TypeDefIndex: 8633
+public enum BattleBoostItemInfoData.EFFECT_TIMING // TypeDefIndex: 8656
 {
 	// Fields
 	public int value__; // 0x0

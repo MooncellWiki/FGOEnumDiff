@@ -1,4 +1,4 @@
-public enum ServantScriptEntity.OffsetKind // TypeDefIndex: 7196
+public enum ServantScriptEntity.OffsetKind // TypeDefIndex: 7202
 {
 	// Fields
 	public int value__; // 0x0

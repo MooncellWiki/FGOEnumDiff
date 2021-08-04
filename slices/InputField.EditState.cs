@@ -1,4 +1,4 @@
-protected enum InputField.EditState // TypeDefIndex: 3114
+protected enum InputField.EditState // TypeDefIndex: 3115
 {
 	// Fields
 	public int value__; // 0x0

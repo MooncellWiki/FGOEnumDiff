@@ -1,4 +1,4 @@
-public enum NotifyCollectionChangedAction // TypeDefIndex: 4425
+public enum NotifyCollectionChangedAction // TypeDefIndex: 4426
 {
 	// Fields
 	public int value__; // 0x0

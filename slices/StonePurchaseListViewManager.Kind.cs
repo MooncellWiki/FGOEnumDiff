@@ -1,4 +1,4 @@
-public enum StonePurchaseListViewManager.Kind // TypeDefIndex: 5819
+public enum StonePurchaseListViewManager.Kind // TypeDefIndex: 5823
 {
 	// Fields
 	public int value__; // 0x0

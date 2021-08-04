@@ -1,4 +1,4 @@
-public enum AnimatorUpdateMode // TypeDefIndex: 2714
+public enum AnimatorUpdateMode // TypeDefIndex: 2715
 {
 	// Fields
 	public int value__; // 0x0

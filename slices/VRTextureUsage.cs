@@ -1,4 +1,4 @@
-public enum VRTextureUsage // TypeDefIndex: 2193
+public enum VRTextureUsage // TypeDefIndex: 2194
 {
 	// Fields
 	public int value__; // 0x0

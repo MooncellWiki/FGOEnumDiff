@@ -1,4 +1,4 @@
-private enum GZipOutputStream.OutputState // TypeDefIndex: 3746
+private enum GZipOutputStream.OutputState // TypeDefIndex: 3747
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum Image.FillMethod // TypeDefIndex: 3100
+public enum Image.FillMethod // TypeDefIndex: 3101
 {
 	// Fields
 	public int value__; // 0x0

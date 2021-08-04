@@ -1,4 +1,4 @@
-protected enum ItemDetailInfoComponent.State // TypeDefIndex: 9735
+protected enum ItemDetailInfoComponent.State // TypeDefIndex: 9778
 {
 	// Fields
 	public int value__; // 0x0

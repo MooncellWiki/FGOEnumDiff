@@ -1,4 +1,4 @@
-public enum UIScriptChara.ChangeKind // TypeDefIndex: 8395
+public enum UIScriptChara.ChangeKind // TypeDefIndex: 8413
 {
 	// Fields
 	public int value__; // 0x0

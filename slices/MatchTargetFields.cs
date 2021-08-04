@@ -1,4 +1,4 @@
-public enum MatchTargetFields // TypeDefIndex: 3632
+public enum MatchTargetFields // TypeDefIndex: 3633
 {
 	// Fields
 	public int value__; // 0x0
