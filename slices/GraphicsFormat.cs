@@ -92,12 +92,12 @@ public enum GraphicsFormat // TypeDefIndex: 2200
 	public const GraphicsFormat D32_SFloat = 93;
 	public const GraphicsFormat D32_SFloat_S8_Uint = 94;
 	public const GraphicsFormat S8_Uint = 95;
-	[ObsoleteAttribute] // RVA: 0x473498 Offset: 0x473498 VA: 0x473498
-	[EditorBrowsableAttribute] // RVA: 0x473498 Offset: 0x473498 VA: 0x473498
+	[ObsoleteAttribute] // RVA: 0x474840 Offset: 0x474840 VA: 0x474840
+	[EditorBrowsableAttribute] // RVA: 0x474840 Offset: 0x474840 VA: 0x474840
 	public const GraphicsFormat RGB_DXT1_SRGB = 96;
 	public const GraphicsFormat RGBA_DXT1_SRGB = 96;
-	[ObsoleteAttribute] // RVA: 0x4734E8 Offset: 0x4734E8 VA: 0x4734E8
-	[EditorBrowsableAttribute] // RVA: 0x4734E8 Offset: 0x4734E8 VA: 0x4734E8
+	[ObsoleteAttribute] // RVA: 0x474890 Offset: 0x474890 VA: 0x474890
+	[EditorBrowsableAttribute] // RVA: 0x474890 Offset: 0x474890 VA: 0x474890
 	public const GraphicsFormat RGB_DXT1_UNorm = 97;
 	public const GraphicsFormat RGBA_DXT1_UNorm = 97;
 	public const GraphicsFormat RGBA_DXT3_SRGB = 98;

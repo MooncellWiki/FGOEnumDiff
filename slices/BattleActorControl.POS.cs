@@ -1,4 +1,4 @@
-public enum BattleActorControl.POS // TypeDefIndex: 9055
+public enum BattleActorControl.POS // TypeDefIndex: 9056
 {
 	// Fields
 	public int value__; // 0x0

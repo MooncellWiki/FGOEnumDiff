@@ -1,4 +1,4 @@
-protected enum SupportSelectRootComponent.State // TypeDefIndex: 10529
+protected enum SupportSelectRootComponent.State // TypeDefIndex: 10531
 {
 	// Fields
 	public int value__; // 0x0

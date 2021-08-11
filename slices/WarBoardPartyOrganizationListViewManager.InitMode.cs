@@ -1,4 +1,4 @@
-public enum WarBoardPartyOrganizationListViewManager.InitMode // TypeDefIndex: 11575
+public enum WarBoardPartyOrganizationListViewManager.InitMode // TypeDefIndex: 11577
 {
 	// Fields
 	public int value__; // 0x0

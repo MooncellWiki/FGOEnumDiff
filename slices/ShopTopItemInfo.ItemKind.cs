@@ -1,4 +1,4 @@
-public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 10404
+public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 10406
 {
 	// Fields
 	public int value__; // 0x0

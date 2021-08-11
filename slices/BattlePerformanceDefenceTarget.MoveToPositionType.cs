@@ -1,4 +1,4 @@
-public enum BattlePerformanceDefenceTarget.MoveToPositionType // TypeDefIndex: 9097
+public enum BattlePerformanceDefenceTarget.MoveToPositionType // TypeDefIndex: 9098
 {
 	// Fields
 	public int value__; // 0x0

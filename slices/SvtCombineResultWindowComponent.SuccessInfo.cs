@@ -1,4 +1,4 @@
-protected enum SvtCombineResultWindowComponent.SuccessInfo // TypeDefIndex: 9371
+protected enum SvtCombineResultWindowComponent.SuccessInfo // TypeDefIndex: 9373
 {
 	// Fields
 	public int value__; // 0x0

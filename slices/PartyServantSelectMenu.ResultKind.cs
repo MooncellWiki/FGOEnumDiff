@@ -1,4 +1,4 @@
-public enum PartyServantSelectMenu.ResultKind // TypeDefIndex: 10240
+public enum PartyServantSelectMenu.ResultKind // TypeDefIndex: 10242
 {
 	// Fields
 	public int value__; // 0x0

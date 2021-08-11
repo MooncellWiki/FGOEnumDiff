@@ -1,4 +1,4 @@
-public enum SlideFadeObject.SLIDE_STATE // TypeDefIndex: 10736
+public enum SlideFadeObject.SLIDE_STATE // TypeDefIndex: 10738
 {
 	// Fields
 	public int value__; // 0x0

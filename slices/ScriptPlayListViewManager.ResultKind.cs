@@ -1,4 +1,4 @@
-public enum ScriptPlayListViewManager.ResultKind // TypeDefIndex: 11280
+public enum ScriptPlayListViewManager.ResultKind // TypeDefIndex: 11282
 {
 	// Fields
 	public int value__; // 0x0

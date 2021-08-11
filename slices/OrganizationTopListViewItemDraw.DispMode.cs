@@ -1,4 +1,4 @@
-public enum OrganizationTopListViewItemDraw.DispMode // TypeDefIndex: 10050
+public enum OrganizationTopListViewItemDraw.DispMode // TypeDefIndex: 10052
 {
 	// Fields
 	public int value__; // 0x0
