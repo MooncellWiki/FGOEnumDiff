@@ -1,4 +1,4 @@
-public enum IntOperator.Operation // TypeDefIndex: 12297
+public enum IntOperator.Operation // TypeDefIndex: 12298
 {
 	// Fields
 	public int value__; // 0x0

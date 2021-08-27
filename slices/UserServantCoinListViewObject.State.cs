@@ -1,4 +1,4 @@
-protected enum UserServantCoinListViewObject.State // TypeDefIndex: 9999
+protected enum UserServantCoinListViewObject.State // TypeDefIndex: 10000
 {
 	// Fields
 	public int value__; // 0x0

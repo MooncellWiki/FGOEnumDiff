@@ -1,4 +1,4 @@
-public enum WarBoardPieceData.RoleType // TypeDefIndex: 11495
+public enum WarBoardPieceData.RoleType // TypeDefIndex: 11496
 {
 	// Fields
 	public int value__; // 0x0

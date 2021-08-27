@@ -1,4 +1,4 @@
-public enum WarBoardAIRoute.DistanceType // TypeDefIndex: 11437
+public enum WarBoardAIRoute.DistanceType // TypeDefIndex: 11438
 {
 	// Fields
 	public int value__; // 0x0

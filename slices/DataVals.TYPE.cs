@@ -87,4 +87,5 @@ public enum DataVals.TYPE // TypeDefIndex: 6586
 	public const DataVals.TYPE OffPositions = 82;
 	public const DataVals.TYPE TargetIndiv = 83;
 	public const DataVals.TYPE IncludeIgnoreIndividuality = 84;
+	public const DataVals.TYPE EvenIfWinDie = 85;
 }

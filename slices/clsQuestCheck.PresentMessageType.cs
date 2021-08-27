@@ -1,4 +1,4 @@
-private enum clsQuestCheck.PresentMessageType // TypeDefIndex: 10586
+private enum clsQuestCheck.PresentMessageType // TypeDefIndex: 10587
 {
 	// Fields
 	public int value__; // 0x0

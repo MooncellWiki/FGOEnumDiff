@@ -1,4 +1,4 @@
-public enum QuaternionBaseAction.everyFrameOptions // TypeDefIndex: 12423
+public enum QuaternionBaseAction.everyFrameOptions // TypeDefIndex: 12424
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattlePerformanceTurnSituationComponent.ComponentType // TypeDefIndex: 9121
+public enum BattlePerformanceTurnSituationComponent.ComponentType // TypeDefIndex: 9122
 {
 	// Fields
 	public int value__; // 0x0

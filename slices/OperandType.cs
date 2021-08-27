@@ -8,7 +8,7 @@ public enum OperandType // TypeDefIndex: 352
 	public const OperandType InlineI8 = 3;
 	public const OperandType InlineMethod = 4;
 	public const OperandType InlineNone = 5;
-	[ObsoleteAttribute] // RVA: 0x461B34 Offset: 0x461B34 VA: 0x461B34
+	[ObsoleteAttribute] // RVA: 0x461D6C Offset: 0x461D6C VA: 0x461D6C
 	public const OperandType InlinePhi = 6;
 	public const OperandType InlineR = 7;
 	public const OperandType InlineSig = 9;

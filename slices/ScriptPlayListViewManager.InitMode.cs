@@ -1,4 +1,4 @@
-public enum ScriptPlayListViewManager.InitMode // TypeDefIndex: 11281
+public enum ScriptPlayListViewManager.InitMode // TypeDefIndex: 11282
 {
 	// Fields
 	public int value__; // 0x0

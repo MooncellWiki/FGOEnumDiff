@@ -1,4 +1,4 @@
-protected enum DebugListViewObject.State // TypeDefIndex: 11157
+protected enum DebugListViewObject.State // TypeDefIndex: 11158
 {
 	// Fields
 	public int value__; // 0x0

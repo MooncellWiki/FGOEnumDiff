@@ -9069,7 +9069,8 @@
     "OnPositions": "81",
     "OffPositions": "82",
     "TargetIndiv": "83",
-    "IncludeIgnoreIndividuality": "84"
+    "IncludeIgnoreIndividuality": "84",
+    "EvenIfWinDie": "85"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",

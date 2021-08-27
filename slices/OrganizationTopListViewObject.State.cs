@@ -1,4 +1,4 @@
-protected enum OrganizationTopListViewObject.State // TypeDefIndex: 10059
+protected enum OrganizationTopListViewObject.State // TypeDefIndex: 10060
 {
 	// Fields
 	public int value__; // 0x0
