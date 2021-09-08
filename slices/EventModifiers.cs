@@ -1,4 +1,4 @@
-public enum EventModifiers // TypeDefIndex: 2754
+public enum EventModifiers // TypeDefIndex: 2745
 {
 	// Fields
 	public int value__; // 0x0

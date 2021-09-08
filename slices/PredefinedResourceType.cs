@@ -1,4 +1,4 @@
-internal enum PredefinedResourceType // TypeDefIndex: 437
+internal enum PredefinedResourceType // TypeDefIndex: 428
 {
 	// Fields
 	public int value__; // 0x0

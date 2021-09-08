@@ -1,4 +1,4 @@
-protected enum ServantStatusCharaGraphListViewObject.State // TypeDefIndex: 5723
+protected enum ServantStatusCharaGraphListViewObject.State // TypeDefIndex: 5717
 {
 	// Fields
 	public int value__; // 0x0

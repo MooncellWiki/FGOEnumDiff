@@ -1,4 +1,4 @@
-public enum EventRewardRootComponent.StateType // TypeDefIndex: 9603
+public enum EventRewardRootComponent.StateType // TypeDefIndex: 9620
 {
 	// Fields
 	public int value__; // 0x0
@@ -13,4 +13,5 @@ public enum EventRewardRootComponent.StateType // TypeDefIndex: 9603
 	public const EventRewardRootComponent.StateType EVENT_TOWER = 8;
 	public const EventRewardRootComponent.StateType RECOVERY_FATIGUE = 9;
 	public const EventRewardRootComponent.StateType EVENT_BOARD_GAME_TOKEN = 10;
+	public const EventRewardRootComponent.StateType EVENT_TREASURE = 11;
 }

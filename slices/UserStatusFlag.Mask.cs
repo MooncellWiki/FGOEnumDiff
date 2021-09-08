@@ -1,4 +1,4 @@
-public enum UserStatusFlag.Mask // TypeDefIndex: 6242
+public enum UserStatusFlag.Mask // TypeDefIndex: 6237
 {
 	// Fields
 	public int value__; // 0x0

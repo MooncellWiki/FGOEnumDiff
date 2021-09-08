@@ -1,4 +1,4 @@
-internal enum ClientCertificateType // TypeDefIndex: 1934
+internal enum ClientCertificateType // TypeDefIndex: 1924
 {
 	// Fields
 	public int value__; // 0x0

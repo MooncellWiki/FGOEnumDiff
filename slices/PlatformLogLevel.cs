@@ -1,4 +1,4 @@
-internal enum PlatformLogLevel // TypeDefIndex: 2946
+internal enum PlatformLogLevel // TypeDefIndex: 2932
 {
 	// Fields
 	public int value__; // 0x0

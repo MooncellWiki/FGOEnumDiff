@@ -1,4 +1,4 @@
-public enum ScrTerminalListTop.AdditionalDlgMessage.TYPE // TypeDefIndex: 10948
+public enum ScrTerminalListTop.AdditionalDlgMessage.TYPE // TypeDefIndex: 11000
 {
 	// Fields
 	public int value__; // 0x0
@@ -7,4 +7,5 @@ public enum ScrTerminalListTop.AdditionalDlgMessage.TYPE // TypeDefIndex: 10948
 	public const ScrTerminalListTop.AdditionalDlgMessage.TYPE SERVANT_MATERIAL = 2;
 	public const ScrTerminalListTop.AdditionalDlgMessage.TYPE SERVANT_COSTUME = 3;
 	public const ScrTerminalListTop.AdditionalDlgMessage.TYPE QUEST_STORY = 4;
+	public const ScrTerminalListTop.AdditionalDlgMessage.TYPE SERVANT_MATERIAL_SG = 5;
 }

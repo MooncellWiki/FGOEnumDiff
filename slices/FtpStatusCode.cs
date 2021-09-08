@@ -1,4 +1,4 @@
-public enum FtpStatusCode // TypeDefIndex: 1563
+public enum FtpStatusCode // TypeDefIndex: 1553
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ListViewSort.ScaleType // TypeDefIndex: 7711
+public enum ListViewSort.ScaleType // TypeDefIndex: 7721
 {
 	// Fields
 	public int value__; // 0x0

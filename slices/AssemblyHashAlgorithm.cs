@@ -1,4 +1,4 @@
-public enum AssemblyHashAlgorithm // TypeDefIndex: 240
+public enum AssemblyHashAlgorithm // TypeDefIndex: 231
 {
 	// Fields
 	public int value__; // 0x0

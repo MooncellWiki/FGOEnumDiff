@@ -1,4 +1,4 @@
-public enum PropertyBinding.UpdateCondition // TypeDefIndex: 11822
+public enum PropertyBinding.UpdateCondition // TypeDefIndex: 11875
 {
 	// Fields
 	public int value__; // 0x0

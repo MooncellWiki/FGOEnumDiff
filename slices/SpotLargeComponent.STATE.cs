@@ -1,4 +1,4 @@
-public enum SpotLargeComponent.STATE // TypeDefIndex: 11078
+public enum SpotLargeComponent.STATE // TypeDefIndex: 11131
 {
 	// Fields
 	public int value__; // 0x0

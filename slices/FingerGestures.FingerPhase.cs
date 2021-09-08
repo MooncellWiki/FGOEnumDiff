@@ -1,4 +1,4 @@
-public enum FingerGestures.FingerPhase // TypeDefIndex: 4209
+public enum FingerGestures.FingerPhase // TypeDefIndex: 4196
 {
 	// Fields
 	public int value__; // 0x0

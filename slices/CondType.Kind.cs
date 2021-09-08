@@ -1,4 +1,4 @@
-public enum CondType.Kind // TypeDefIndex: 6117
+public enum CondType.Kind // TypeDefIndex: 6111
 {
 	// Fields
 	public int value__; // 0x0

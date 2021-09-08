@@ -1,4 +1,4 @@
-internal enum OpCode // TypeDefIndex: 1706
+internal enum OpCode // TypeDefIndex: 1696
 {
 	// Fields
 	public ushort value__; // 0x0

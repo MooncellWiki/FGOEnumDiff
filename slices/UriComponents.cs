@@ -1,4 +1,4 @@
-public enum UriComponents // TypeDefIndex: 1768
+public enum UriComponents // TypeDefIndex: 1758
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventServantFatigueListViewItemDraw.DispMode // TypeDefIndex: 9641
+public enum EventServantFatigueListViewItemDraw.DispMode // TypeDefIndex: 9666
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ConditionsInformation.TARGET // TypeDefIndex: 8881
+public enum ConditionsInformation.TARGET // TypeDefIndex: 8897
 {
 	// Fields
 	public int value__; // 0x0

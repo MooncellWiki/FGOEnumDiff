@@ -1,4 +1,4 @@
-public enum SpritePackingMode // TypeDefIndex: 2588
+public enum SpritePackingMode // TypeDefIndex: 2579
 {
 	// Fields
 	public int value__; // 0x0

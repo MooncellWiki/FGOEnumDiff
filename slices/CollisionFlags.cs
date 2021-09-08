@@ -1,4 +1,4 @@
-public enum CollisionFlags // TypeDefIndex: 2641
+public enum CollisionFlags // TypeDefIndex: 2632
 {
 	// Fields
 	public int value__; // 0x0

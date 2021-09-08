@@ -1,4 +1,4 @@
-public enum UserItemListViewItemDraw.DispMode // TypeDefIndex: 9785
+public enum UserItemListViewItemDraw.DispMode // TypeDefIndex: 9823
 {
 	// Fields
 	public int value__; // 0x0

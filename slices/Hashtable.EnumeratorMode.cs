@@ -1,4 +1,4 @@
-private enum Hashtable.EnumeratorMode // TypeDefIndex: 219
+private enum Hashtable.EnumeratorMode // TypeDefIndex: 210
 {
 	// Fields
 	public int value__; // 0x0

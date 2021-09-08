@@ -1,4 +1,4 @@
-private enum TextEditor.Direction // TypeDefIndex: 2787
+private enum TextEditor.Direction // TypeDefIndex: 2778
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-internal enum ObjectRecordStatus // TypeDefIndex: 683
+internal enum ObjectRecordStatus // TypeDefIndex: 674
 {
 	// Fields
 	public byte value__; // 0x0

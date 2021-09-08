@@ -1,4 +1,4 @@
-public enum FGOCheckBattleFaze.FAZE // TypeDefIndex: 7893
+public enum FGOCheckBattleFaze.FAZE // TypeDefIndex: 7903
 {
 	// Fields
 	public int value__; // 0x0

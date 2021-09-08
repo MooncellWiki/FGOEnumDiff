@@ -1,4 +1,4 @@
-public enum BattleActionData.BuffData.BuffProcType // TypeDefIndex: 8591
+public enum BattleActionData.BuffData.BuffProcType // TypeDefIndex: 8604
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattlePerformance.BattleUIPanel // TypeDefIndex: 8432
+public enum BattlePerformance.BattleUIPanel // TypeDefIndex: 8445
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum AssistEffectConfirmDialog.State // TypeDefIndex: 5330
+private enum AssistEffectConfirmDialog.State // TypeDefIndex: 5317
 {
 	// Fields
 	public int value__; // 0x0

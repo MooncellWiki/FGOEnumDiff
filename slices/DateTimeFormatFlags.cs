@@ -1,4 +1,4 @@
-internal enum DateTimeFormatFlags // TypeDefIndex: 261
+internal enum DateTimeFormatFlags // TypeDefIndex: 252
 {
 	// Fields
 	public int value__; // 0x0

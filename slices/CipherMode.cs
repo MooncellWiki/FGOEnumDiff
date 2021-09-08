@@ -1,4 +1,4 @@
-public enum CipherMode // TypeDefIndex: 714
+public enum CipherMode // TypeDefIndex: 705
 {
 	// Fields
 	public int value__; // 0x0

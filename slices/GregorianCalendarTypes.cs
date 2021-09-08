@@ -1,4 +1,4 @@
-public enum GregorianCalendarTypes // TypeDefIndex: 266
+public enum GregorianCalendarTypes // TypeDefIndex: 257
 {
 	// Fields
 	public int value__; // 0x0

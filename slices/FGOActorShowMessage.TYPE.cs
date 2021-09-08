@@ -1,4 +1,4 @@
-public enum FGOActorShowMessage.TYPE // TypeDefIndex: 7854
+public enum FGOActorShowMessage.TYPE // TypeDefIndex: 7864
 {
 	// Fields
 	public int value__; // 0x0

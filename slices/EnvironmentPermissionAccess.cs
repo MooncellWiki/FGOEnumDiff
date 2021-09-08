@@ -1,4 +1,4 @@
-public enum EnvironmentPermissionAccess // TypeDefIndex: 798
+public enum EnvironmentPermissionAccess // TypeDefIndex: 789
 {
 	// Fields
 	public int value__; // 0x0

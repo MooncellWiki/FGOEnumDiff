@@ -1,4 +1,4 @@
-public enum SuffixOrigin // TypeDefIndex: 1441
+public enum SuffixOrigin // TypeDefIndex: 1431
 {
 	// Fields
 	public int value__; // 0x0

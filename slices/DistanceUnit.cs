@@ -1,4 +1,4 @@
-public enum DistanceUnit // TypeDefIndex: 4218
+public enum DistanceUnit // TypeDefIndex: 4205
 {
 	// Fields
 	public int value__; // 0x0

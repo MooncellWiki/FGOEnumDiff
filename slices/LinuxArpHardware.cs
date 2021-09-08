@@ -1,4 +1,4 @@
-internal enum LinuxArpHardware // TypeDefIndex: 1405
+internal enum LinuxArpHardware // TypeDefIndex: 1395
 {
 	// Fields
 	public int value__; // 0x0

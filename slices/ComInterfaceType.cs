@@ -1,4 +1,4 @@
-public enum ComInterfaceType // TypeDefIndex: 466
+public enum ComInterfaceType // TypeDefIndex: 457
 {
 	// Fields
 	public int value__; // 0x0

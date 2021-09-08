@@ -1,4 +1,4 @@
-public enum BattleData.WinResult // TypeDefIndex: 8693
+public enum BattleData.WinResult // TypeDefIndex: 8706
 {
 	// Fields
 	public int value__; // 0x0

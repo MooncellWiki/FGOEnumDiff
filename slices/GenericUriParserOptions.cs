@@ -1,4 +1,4 @@
-public enum GenericUriParserOptions // TypeDefIndex: 1759
+public enum GenericUriParserOptions // TypeDefIndex: 1749
 {
 	// Fields
 	public int value__; // 0x0

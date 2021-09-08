@@ -1,4 +1,4 @@
-public enum CriAtomEx.SoundRendererType // TypeDefIndex: 3915
+public enum CriAtomEx.SoundRendererType // TypeDefIndex: 3902
 {
 	// Fields
 	public int value__; // 0x0

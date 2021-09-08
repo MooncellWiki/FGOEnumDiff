@@ -1,4 +1,4 @@
-public enum PKCS12.DeriveBytes.Purpose // TypeDefIndex: 1845
+public enum PKCS12.DeriveBytes.Purpose // TypeDefIndex: 1835
 {
 	// Fields
 	public int value__; // 0x0

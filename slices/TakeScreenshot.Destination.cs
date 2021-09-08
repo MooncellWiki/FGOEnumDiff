@@ -1,4 +1,4 @@
-public enum TakeScreenshot.Destination // TypeDefIndex: 12649
+public enum TakeScreenshot.Destination // TypeDefIndex: 12702
 {
 	// Fields
 	public int value__; // 0x0

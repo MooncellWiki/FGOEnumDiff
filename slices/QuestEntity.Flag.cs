@@ -1,4 +1,4 @@
-public enum QuestEntity.Flag // TypeDefIndex: 7077
+public enum QuestEntity.Flag // TypeDefIndex: 7073
 {
 	// Fields
 	public long value__; // 0x0

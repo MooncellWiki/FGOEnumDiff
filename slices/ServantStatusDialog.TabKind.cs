@@ -1,4 +1,4 @@
-protected enum ServantStatusDialog.TabKind // TypeDefIndex: 5734
+public enum ServantStatusDialog.TabKind // TypeDefIndex: 5728
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EquipGraphServantItemDraw.DispMode // TypeDefIndex: 5473
+public enum EquipGraphServantItemDraw.DispMode // TypeDefIndex: 5463
 {
 	// Fields
 	public int value__; // 0x0

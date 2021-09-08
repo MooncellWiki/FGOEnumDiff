@@ -1,4 +1,4 @@
-public enum ListViewSort.SortKind // TypeDefIndex: 7704
+public enum ListViewSort.SortKind // TypeDefIndex: 7714
 {
 	// Fields
 	public int value__; // 0x0
@@ -29,4 +29,5 @@ public enum ListViewSort.SortKind // TypeDefIndex: 7704
 	public const ListViewSort.SortKind EVENT_ORDER = 24;
 	public const ListViewSort.SortKind RECOVERY_FATIGUE = 25;
 	public const ListViewSort.SortKind SERVANT_NAME = 26;
+	public const ListViewSort.SortKind DISP_NO = 27;
 }

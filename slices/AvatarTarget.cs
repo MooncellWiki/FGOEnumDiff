@@ -1,4 +1,4 @@
-public enum AvatarTarget // TypeDefIndex: 2711
+public enum AvatarTarget // TypeDefIndex: 2702
 {
 	// Fields
 	public int value__; // 0x0

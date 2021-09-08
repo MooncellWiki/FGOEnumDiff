@@ -1,4 +1,4 @@
-private enum BattleInformationComponent.TYPEOVER // TypeDefIndex: 9083
+private enum BattleInformationComponent.TYPEOVER // TypeDefIndex: 9099
 {
 	// Fields
 	public int value__; // 0x0

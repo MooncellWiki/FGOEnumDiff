@@ -1,4 +1,4 @@
-public enum FriendStatus.Kind // TypeDefIndex: 6154
+public enum FriendStatus.Kind // TypeDefIndex: 6148
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum PartyServantSelectMenu.TutorialMode // TypeDefIndex: 10241
+public enum PartyServantSelectMenu.TutorialMode // TypeDefIndex: 10278
 {
 	// Fields
 	public int value__; // 0x0

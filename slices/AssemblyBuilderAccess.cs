@@ -1,4 +1,4 @@
-public enum AssemblyBuilderAccess // TypeDefIndex: 327
+public enum AssemblyBuilderAccess // TypeDefIndex: 318
 {
 	// Fields
 	public int value__; // 0x0

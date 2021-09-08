@@ -1,4 +1,4 @@
-public enum Purchase.State // TypeDefIndex: 11703
+public enum Purchase.State // TypeDefIndex: 11756
 {
 	// Fields
 	public int value__; // 0x0

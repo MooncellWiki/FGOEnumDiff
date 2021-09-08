@@ -1,4 +1,4 @@
-public enum CursorLockMode // TypeDefIndex: 2137
+public enum CursorLockMode // TypeDefIndex: 2128
 {
 	// Fields
 	public int value__; // 0x0

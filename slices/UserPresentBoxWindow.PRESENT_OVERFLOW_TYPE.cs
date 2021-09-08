@@ -1,4 +1,4 @@
-private enum UserPresentBoxWindow.PRESENT_OVERFLOW_TYPE // TypeDefIndex: 6026
+private enum UserPresentBoxWindow.PRESENT_OVERFLOW_TYPE // TypeDefIndex: 6020
 {
 	// Fields
 	public int value__; // 0x0

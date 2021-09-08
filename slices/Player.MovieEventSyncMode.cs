@@ -1,4 +1,4 @@
-public enum Player.MovieEventSyncMode // TypeDefIndex: 4098
+public enum Player.MovieEventSyncMode // TypeDefIndex: 4085
 {
 	// Fields
 	public int value__; // 0x0

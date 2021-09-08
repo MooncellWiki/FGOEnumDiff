@@ -1,4 +1,4 @@
-public enum PrincipalPolicy // TypeDefIndex: 865
+public enum PrincipalPolicy // TypeDefIndex: 856
 {
 	// Fields
 	public int value__; // 0x0

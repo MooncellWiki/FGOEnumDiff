@@ -1,4 +1,4 @@
-public enum TypeCode // TypeDefIndex: 1063
+public enum TypeCode // TypeDefIndex: 1053
 {
 	// Fields
 	public int value__; // 0x0

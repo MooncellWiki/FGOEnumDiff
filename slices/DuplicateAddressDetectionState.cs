@@ -1,4 +1,4 @@
-public enum DuplicateAddressDetectionState // TypeDefIndex: 1346
+public enum DuplicateAddressDetectionState // TypeDefIndex: 1336
 {
 	// Fields
 	public int value__; // 0x0

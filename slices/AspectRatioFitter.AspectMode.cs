@@ -1,4 +1,4 @@
-public enum AspectRatioFitter.AspectMode // TypeDefIndex: 3159
+public enum AspectRatioFitter.AspectMode // TypeDefIndex: 3146
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum PlatformID // TypeDefIndex: 1044
+public enum PlatformID // TypeDefIndex: 1034
 {
 	// Fields
 	public int value__; // 0x0

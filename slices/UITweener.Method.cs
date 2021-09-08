@@ -1,4 +1,4 @@
-public enum UITweener.Method // TypeDefIndex: 11872
+public enum UITweener.Method // TypeDefIndex: 11925
 {
 	// Fields
 	public int value__; // 0x0

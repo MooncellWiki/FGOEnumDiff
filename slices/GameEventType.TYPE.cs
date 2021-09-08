@@ -1,4 +1,4 @@
-public enum GameEventType.TYPE // TypeDefIndex: 6159
+public enum GameEventType.TYPE // TypeDefIndex: 6153
 {
 	// Fields
 	public int value__; // 0x0
@@ -25,4 +25,5 @@ public enum GameEventType.TYPE // TypeDefIndex: 6159
 	public const GameEventType.TYPE LOCATION_CAMPAIGN = 20;
 	public const GameEventType.TYPE WAR_BOARD = 22;
 	public const GameEventType.TYPE COMBINE_COSUTUME_ITEM = 23;
+	public const GameEventType.TYPE TREASURE_BOX = 24;
 }

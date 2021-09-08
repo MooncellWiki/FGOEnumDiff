@@ -1,4 +1,4 @@
-public enum IconLabelInfo.IconKind // TypeDefIndex: 6391
+public enum IconLabelInfo.IconKind // TypeDefIndex: 6386
 {
 	// Fields
 	public int value__; // 0x0
@@ -59,4 +59,5 @@ public enum IconLabelInfo.IconKind // TypeDefIndex: 6391
 	public const IconLabelInfo.IconKind LIMIT_COUNT2 = 54;
 	public const IconLabelInfo.IconKind FOLLOWER_FRIEND_POINT = 55;
 	public const IconLabelInfo.IconKind NOT_HAVING_SHOP_ITEM_RECEIVE = 56;
+	public const IconLabelInfo.IconKind DISP_NO = 57;
 }

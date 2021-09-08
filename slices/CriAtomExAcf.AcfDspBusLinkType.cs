@@ -1,4 +1,4 @@
-public enum CriAtomExAcf.AcfDspBusLinkType // TypeDefIndex: 3972
+public enum CriAtomExAcf.AcfDspBusLinkType // TypeDefIndex: 3959
 {
 	// Fields
 	public uint value__; // 0x0

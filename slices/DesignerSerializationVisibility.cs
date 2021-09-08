@@ -1,4 +1,4 @@
-public enum DesignerSerializationVisibility // TypeDefIndex: 1218
+public enum DesignerSerializationVisibility // TypeDefIndex: 1208
 {
 	// Fields
 	public int value__; // 0x0

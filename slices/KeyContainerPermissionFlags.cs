@@ -1,4 +1,4 @@
-public enum KeyContainerPermissionFlags // TypeDefIndex: 813
+public enum KeyContainerPermissionFlags // TypeDefIndex: 804
 {
 	// Fields
 	public int value__; // 0x0

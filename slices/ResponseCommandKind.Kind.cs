@@ -1,4 +1,4 @@
-public enum ResponseCommandKind.Kind // TypeDefIndex: 6195
+public enum ResponseCommandKind.Kind // TypeDefIndex: 6189
 {
 	// Fields
 	public int value__; // 0x0
@@ -107,4 +107,5 @@ public enum ResponseCommandKind.Kind // TypeDefIndex: 6195
 	public const ResponseCommandKind.Kind CHECK_DATE_VERSION = 102;
 	public const ResponseCommandKind.Kind BATTLE_USE_ITEM = 103;
 	public const ResponseCommandKind.Kind COMBINE_APPEND_PASSIVE_SKILL = 104;
+	public const ResponseCommandKind.Kind TREASURE_BOX_DRAW = 105;
 }

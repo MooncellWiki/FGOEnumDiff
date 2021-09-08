@@ -1,4 +1,4 @@
-public enum LoadHint // TypeDefIndex: 453
+public enum LoadHint // TypeDefIndex: 444
 {
 	// Fields
 	public int value__; // 0x0

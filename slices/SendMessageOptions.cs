@@ -1,4 +1,4 @@
-public enum SendMessageOptions // TypeDefIndex: 2110
+public enum SendMessageOptions // TypeDefIndex: 2101
 {
 	// Fields
 	public int value__; // 0x0

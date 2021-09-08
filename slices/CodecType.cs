@@ -1,4 +1,4 @@
-public enum CodecType // TypeDefIndex: 4061
+public enum CodecType // TypeDefIndex: 4048
 {
 	// Fields
 	public int value__; // 0x0
