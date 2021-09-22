@@ -1,4 +1,4 @@
-public enum UserPresentListViewObject.InitMode // TypeDefIndex: 6051
+public enum UserPresentListViewObject.InitMode // TypeDefIndex: 6052
 {
 	// Fields
 	public int value__; // 0x0

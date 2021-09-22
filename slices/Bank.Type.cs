@@ -1,4 +1,4 @@
-public enum Bank.Type // TypeDefIndex: 6087
+public enum Bank.Type // TypeDefIndex: 6088
 {
 	// Fields
 	public int value__; // 0x0

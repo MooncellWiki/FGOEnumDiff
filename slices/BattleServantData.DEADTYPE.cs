@@ -1,4 +1,4 @@
-public enum BattleServantData.DEADTYPE // TypeDefIndex: 8825
+public enum BattleServantData.DEADTYPE // TypeDefIndex: 8826
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-protected enum FriendOperationItemListViewObject.State // TypeDefIndex: 9735
+protected enum FriendOperationItemListViewObject.State // TypeDefIndex: 9736
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SvtEqCombineListViewItemDraw.DispMode // TypeDefIndex: 9486
+public enum SvtEqCombineListViewItemDraw.DispMode // TypeDefIndex: 9487
 {
 	// Fields
 	public int value__; // 0x0

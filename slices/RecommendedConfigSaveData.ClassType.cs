@@ -1,4 +1,4 @@
-public enum RecommendedConfigSaveData.ClassType // TypeDefIndex: 9330
+public enum RecommendedConfigSaveData.ClassType // TypeDefIndex: 9331
 {
 	// Fields
 	public int value__; // 0x0

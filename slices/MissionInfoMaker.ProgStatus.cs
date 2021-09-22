@@ -1,4 +1,4 @@
-public enum MissionInfoMaker.ProgStatus // TypeDefIndex: 5576
+public enum MissionInfoMaker.ProgStatus // TypeDefIndex: 5577
 {
 	// Fields
 	public int value__; // 0x0

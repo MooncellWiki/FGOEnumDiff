@@ -1,4 +1,4 @@
-private enum BattleServantHeadUpComponent.MODE // TypeDefIndex: 9160
+private enum BattleServantHeadUpComponent.MODE // TypeDefIndex: 9161
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum QuestPhaseRewardComponent.STATE // TypeDefIndex: 5625
+public enum QuestPhaseRewardComponent.STATE // TypeDefIndex: 5626
 {
 	// Fields
 	public int value__; // 0x0

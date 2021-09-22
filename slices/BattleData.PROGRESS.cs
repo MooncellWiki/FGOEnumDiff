@@ -1,4 +1,4 @@
-public enum BattleData.PROGRESS // TypeDefIndex: 8710
+public enum BattleData.PROGRESS // TypeDefIndex: 8711
 {
 	// Fields
 	public int value__; // 0x0
