@@ -1,4 +1,4 @@
-public enum SecurityZone // TypeDefIndex: 892
+public enum SecurityZone // TypeDefIndex: 901
 {
 	// Fields
 	public int value__; // 0x0

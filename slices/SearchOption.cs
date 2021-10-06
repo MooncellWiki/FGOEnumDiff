@@ -1,4 +1,4 @@
-public enum SearchOption // TypeDefIndex: 293
+public enum SearchOption // TypeDefIndex: 302
 {
 	// Fields
 	public int value__; // 0x0

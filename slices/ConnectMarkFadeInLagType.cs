@@ -1,4 +1,4 @@
-public enum ConnectMarkFadeInLagType // TypeDefIndex: 6116
+public enum ConnectMarkFadeInLagType // TypeDefIndex: 6173
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum KeyCode // TypeDefIndex: 2232
+public enum KeyCode // TypeDefIndex: 2241
 {
 	// Fields
 	public int value__; // 0x0

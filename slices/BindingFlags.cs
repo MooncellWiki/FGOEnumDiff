@@ -1,4 +1,4 @@
-public enum BindingFlags // TypeDefIndex: 371
+public enum BindingFlags // TypeDefIndex: 380
 {
 	// Fields
 	public int value__; // 0x0

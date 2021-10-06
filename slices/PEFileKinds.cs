@@ -1,4 +1,4 @@
-public enum PEFileKinds // TypeDefIndex: 344
+public enum PEFileKinds // TypeDefIndex: 353
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CriAtomEx.CueType // TypeDefIndex: 3915
+public enum CriAtomEx.CueType // TypeDefIndex: 3972
 {
 	// Fields
 	public int value__; // 0x0

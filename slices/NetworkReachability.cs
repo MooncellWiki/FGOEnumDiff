@@ -1,4 +1,4 @@
-public enum NetworkReachability // TypeDefIndex: 2084
+public enum NetworkReachability // TypeDefIndex: 2093
 {
 	// Fields
 	public int value__; // 0x0

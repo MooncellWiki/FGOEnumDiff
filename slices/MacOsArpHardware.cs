@@ -1,4 +1,4 @@
-internal enum MacOsArpHardware // TypeDefIndex: 1402
+internal enum MacOsArpHardware // TypeDefIndex: 1412
 {
 	// Fields
 	public int value__; // 0x0

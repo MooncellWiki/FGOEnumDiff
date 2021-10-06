@@ -366,6 +366,10 @@
   "MaterialCostumeServantSortSelectMenu.Kind": {
     "SERVANT_COSTUME": "0"
   },
+  "VariantExtension.KeyOptions": {
+    "UseObjectKeys": "0",
+    "UseStringKeys": "1"
+  },
   "MemberTypes": {
     "Constructor": "1",
     "Event": "2",
@@ -4732,6 +4736,12 @@
     "FRIEND_HISTORY": "0",
     "BLACKLIST": "1"
   },
+  "CombineLimitUpWarningDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "CLOSE": "3"
+  },
   "PresentSelectableBulkItemConfirmDlg.State": {
     "INIT": "0",
     "OPEN": "1",
@@ -5842,6 +5852,11 @@
   "MapControl.MapGimmickInfo.DispType": {
     "None": "0",
     "Normal": "1"
+  },
+  "FutureStatus": {
+    "Complete": "0",
+    "Pending": "1",
+    "Invalid": "2"
   },
   "SummonEffectComponent.CardType": {
     "OTHER": "0",
@@ -10241,7 +10256,9 @@
     "UNCONFIRMED_PAYMENT": "31",
     "SERVANT_CHARA_GRAPH_EX_OPEN": "32",
     "QUEST_HINT_DIALOG_OPEN_SAVE": "33",
-    "SUM": "34"
+    "LAST_USED_DECK_NUMBER_SAVE": "34",
+    "MATERIAL_BRANCH_ROUTE_SAVE": "35",
+    "SUM": "36"
   },
   "iTween.NamedValueColor": {
     "_Color": "0",
@@ -12390,7 +12407,8 @@
     "GIMMICK": "128",
     "BOOST_SKILL": "256",
     "ASSIST": "512",
-    "FIELDAI_ENTRY": "1024"
+    "FIELDAI_ENTRY": "1024",
+    "PRECHECK_END_BATTLE": "2048"
   },
   "CodecType": {
     "Unknown": "0",
@@ -13157,11 +13175,6 @@
     "WireSphere": "2",
     "WireCube": "3"
   },
-  "StackTraceLogType": {
-    "None": "0",
-    "ScriptOnly": "1",
-    "Full": "2"
-  },
   "PartyOrganizationConfirmMenu.Kind": {
     "NONE": "0",
     "BOOST_ITEM_USE": "1"
@@ -13894,7 +13907,8 @@
     "FIELD": "2",
     "MOTION": "3",
     "ENEMY_MASTER": "4",
-    "LOAD_IMMEDIATE_ENTRY_SERVANT": "5"
+    "LOAD_IMMEDIATE_ENTRY_SERVANT": "5",
+    "WAIT_COND": "6"
   },
   "CombineCommandCodeListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -14433,6 +14447,18 @@
     "DRY": "7",
     "DONE": "8",
     "BAD": "9"
+  },
+  "Variant.Type": {
+    "Null": "0",
+    "Int64": "1",
+    "Double": "2",
+    "Bool": "3",
+    "StaticString": "4",
+    "MutableString": "5",
+    "Vector": "6",
+    "Map": "7",
+    "StaticBlob": "8",
+    "MutableBlob": "9"
   },
   "MaterialCollectionServantSortSelectMenu.Kind": {
     "SERVANT": "0",
@@ -17395,6 +17421,15 @@
     "COMMAND_CODE": "2",
     "SELL": "3"
   },
+  "RegistryValueKind": {
+    "Unknown": "0",
+    "String": "1",
+    "ExpandString": "2",
+    "Binary": "3",
+    "DWord": "4",
+    "MultiString": "7",
+    "QWord": "11"
+  },
   "MouseEventType": {
     "OnMouseEnter": "0",
     "OnMouseOver": "1",
@@ -17612,6 +17647,11 @@
   "BannerAddEntity.DispType": {
     "EVENT_BANNER": "1",
     "EVENT_SHOP_BANNER": "2"
+  },
+  "EnvironmentVariableTarget": {
+    "Process": "0",
+    "User": "1",
+    "Machine": "2"
   },
   "EventScriptEntity.PlayType": {
     "RACE_WIN": "1",
@@ -18923,7 +18963,8 @@
     "CHECK_REMAIN_BATTLE_END_WAVE": "44",
     "BOOST_SKILL": "45",
     "ASSIST": "46",
-    "FIELDAI_ENTRY": "47"
+    "FIELDAI_ENTRY": "47",
+    "PRECHECK_ENDBATTLE": "48"
   },
   "FollowerSelectItemListViewManager.InitMode": {
     "NONE": "0",
@@ -18935,6 +18976,15 @@
   "UITable.Direction": {
     "Down": "0",
     "Up": "1"
+  },
+  "RegistryHive": {
+    "ClassesRoot": "-2147483648",
+    "CurrentConfig": "-2147483643",
+    "CurrentUser": "-2147483647",
+    "DynData": "-2147483642",
+    "LocalMachine": "-2147483646",
+    "PerformanceData": "-2147483644",
+    "Users": "-2147483645"
   },
   "EventPointItemListViewObject.InitMode": {
     "INVISIBLE": "0",

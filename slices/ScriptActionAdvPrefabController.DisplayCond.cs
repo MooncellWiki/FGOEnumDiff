@@ -1,4 +1,4 @@
-public enum ScriptActionAdvPrefabController.DisplayCond // TypeDefIndex: 8318
+public enum ScriptActionAdvPrefabController.DisplayCond // TypeDefIndex: 8384
 {
 	// Fields
 	public int value__; // 0x0

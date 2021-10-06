@@ -1,4 +1,4 @@
-public enum StringSplitOptions // TypeDefIndex: 1045
+public enum StringSplitOptions // TypeDefIndex: 1055
 {
 	// Fields
 	public int value__; // 0x0

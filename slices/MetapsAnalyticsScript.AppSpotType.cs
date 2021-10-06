@@ -1,4 +1,4 @@
-public enum MetapsAnalyticsScript.AppSpotType // TypeDefIndex: 4251
+public enum MetapsAnalyticsScript.AppSpotType // TypeDefIndex: 4308
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum TextureWrapMode // TypeDefIndex: 2181
+public enum TextureWrapMode // TypeDefIndex: 2190
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CutInType // TypeDefIndex: 6123
+public enum CutInType // TypeDefIndex: 6180
 {
 	// Fields
 	public int value__; // 0x0

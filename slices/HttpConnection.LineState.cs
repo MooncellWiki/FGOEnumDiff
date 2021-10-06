@@ -1,4 +1,4 @@
-private enum HttpConnection.LineState // TypeDefIndex: 1561
+private enum HttpConnection.LineState // TypeDefIndex: 1571
 {
 	// Fields
 	public int value__; // 0x0

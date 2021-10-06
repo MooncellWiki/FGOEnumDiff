@@ -1,4 +1,4 @@
-public enum ScaleOptions // TypeDefIndex: 3366
+public enum ScaleOptions // TypeDefIndex: 3423
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum PartyListViewItem.MenuKind // TypeDefIndex: 10155
+public enum PartyListViewItem.MenuKind // TypeDefIndex: 10230
 {
 	// Fields
 	public int value__; // 0x0

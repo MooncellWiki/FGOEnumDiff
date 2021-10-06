@@ -1,4 +1,4 @@
-public enum FuncList.TYPE // TypeDefIndex: 6151
+public enum FuncList.TYPE // TypeDefIndex: 6208
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum PlayMode // TypeDefIndex: 2730
+public enum PlayMode // TypeDefIndex: 2739
 {
 	// Fields
 	public int value__; // 0x0

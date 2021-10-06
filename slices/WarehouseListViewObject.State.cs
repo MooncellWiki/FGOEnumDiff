@@ -1,4 +1,4 @@
-protected enum WarehouseListViewObject.State // TypeDefIndex: 11723
+protected enum WarehouseListViewObject.State // TypeDefIndex: 11796
 {
 	// Fields
 	public int value__; // 0x0

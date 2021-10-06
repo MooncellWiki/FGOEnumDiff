@@ -1,4 +1,4 @@
-public enum ReflectionProbeUsage // TypeDefIndex: 2208
+public enum ReflectionProbeUsage // TypeDefIndex: 2217
 {
 	// Fields
 	public int value__; // 0x0

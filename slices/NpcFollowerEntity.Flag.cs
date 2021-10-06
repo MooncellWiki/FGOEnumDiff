@@ -1,4 +1,4 @@
-private enum NpcFollowerEntity.Flag // TypeDefIndex: 7038
+private enum NpcFollowerEntity.Flag // TypeDefIndex: 7100
 {
 	// Fields
 	public int value__; // 0x0

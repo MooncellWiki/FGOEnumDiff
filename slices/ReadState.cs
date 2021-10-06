@@ -1,4 +1,4 @@
-internal enum ReadState // TypeDefIndex: 1616
+internal enum ReadState // TypeDefIndex: 1626
 {
 	// Fields
 	public int value__; // 0x0

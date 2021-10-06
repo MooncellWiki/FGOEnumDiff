@@ -1,4 +1,4 @@
-public enum TBTwistToRotate.RotationAxis // TypeDefIndex: 4245
+public enum TBTwistToRotate.RotationAxis // TypeDefIndex: 4302
 {
 	// Fields
 	public int value__; // 0x0

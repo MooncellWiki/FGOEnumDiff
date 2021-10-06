@@ -1,4 +1,4 @@
-public enum PortableExecutableKinds // TypeDefIndex: 413
+public enum PortableExecutableKinds // TypeDefIndex: 422
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-internal enum Position // TypeDefIndex: 1698
+internal enum Position // TypeDefIndex: 1708
 {
 	// Fields
 	public ushort value__; // 0x0

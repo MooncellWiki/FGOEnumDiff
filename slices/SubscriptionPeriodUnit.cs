@@ -1,4 +1,4 @@
-public enum SubscriptionPeriodUnit // TypeDefIndex: 3528
+public enum SubscriptionPeriodUnit // TypeDefIndex: 3585
 {
 	// Fields
 	public int value__; // 0x0

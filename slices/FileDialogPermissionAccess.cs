@@ -1,4 +1,4 @@
-public enum FileDialogPermissionAccess // TypeDefIndex: 791
+public enum FileDialogPermissionAccess // TypeDefIndex: 800
 {
 	// Fields
 	public int value__; // 0x0

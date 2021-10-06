@@ -1,4 +1,4 @@
-public enum Axis // TypeDefIndex: 2720
+public enum Axis // TypeDefIndex: 2729
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UITable.Sorting // TypeDefIndex: 11841
+public enum UITable.Sorting // TypeDefIndex: 11914
 {
 	// Fields
 	public int value__; // 0x0

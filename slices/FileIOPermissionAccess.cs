@@ -1,4 +1,4 @@
-public enum FileIOPermissionAccess // TypeDefIndex: 793
+public enum FileIOPermissionAccess // TypeDefIndex: 802
 {
 	// Fields
 	public int value__; // 0x0

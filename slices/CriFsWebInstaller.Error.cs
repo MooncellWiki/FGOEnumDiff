@@ -1,4 +1,4 @@
-public enum CriFsWebInstaller.Error // TypeDefIndex: 4044
+public enum CriFsWebInstaller.Error // TypeDefIndex: 4101
 {
 	// Fields
 	public int value__; // 0x0

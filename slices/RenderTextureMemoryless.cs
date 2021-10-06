@@ -1,4 +1,4 @@
-public enum RenderTextureMemoryless // TypeDefIndex: 2188
+public enum RenderTextureMemoryless // TypeDefIndex: 2197
 {
 	// Fields
 	public int value__; // 0x0

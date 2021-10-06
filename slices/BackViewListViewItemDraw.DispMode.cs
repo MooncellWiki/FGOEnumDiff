@@ -1,4 +1,4 @@
-public enum BackViewListViewItemDraw.DispMode // TypeDefIndex: 11187
+public enum BackViewListViewItemDraw.DispMode // TypeDefIndex: 11260
 {
 	// Fields
 	public int value__; // 0x0

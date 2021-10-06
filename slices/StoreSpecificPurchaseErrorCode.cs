@@ -1,4 +1,4 @@
-public enum StoreSpecificPurchaseErrorCode // TypeDefIndex: 3525
+public enum StoreSpecificPurchaseErrorCode // TypeDefIndex: 3582
 {
 	// Fields
 	public int value__; // 0x0

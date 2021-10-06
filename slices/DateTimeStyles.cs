@@ -1,4 +1,4 @@
-public enum DateTimeStyles // TypeDefIndex: 254
+public enum DateTimeStyles // TypeDefIndex: 263
 {
 	// Fields
 	public int value__; // 0x0

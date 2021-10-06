@@ -1,4 +1,4 @@
-public enum PresentBoxNotificationListViewManager.Kind // TypeDefIndex: 5614
+public enum PresentBoxNotificationListViewManager.Kind // TypeDefIndex: 5671
 {
 	// Fields
 	public int value__; // 0x0

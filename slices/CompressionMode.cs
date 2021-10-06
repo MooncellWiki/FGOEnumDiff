@@ -1,11 +1,11 @@
-public enum CompressionMode // TypeDefIndex: 1324
+public enum CompressionMode // TypeDefIndex: 1334
 {
 	// Fields
 	public int value__; // 0x0
 	public const CompressionMode Decompress = 0;
 	public const CompressionMode Compress = 1;
 }
-public enum CompressionMode // TypeDefIndex: 4356
+public enum CompressionMode // TypeDefIndex: 4413
 {
 	// Fields
 	public int value__; // 0x0

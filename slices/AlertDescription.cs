@@ -1,4 +1,4 @@
-internal enum AlertDescription // TypeDefIndex: 1884
+internal enum AlertDescription // TypeDefIndex: 1894
 {
 	// Fields
 	public byte value__; // 0x0

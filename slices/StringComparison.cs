@@ -1,4 +1,4 @@
-public enum StringComparison // TypeDefIndex: 1044
+public enum StringComparison // TypeDefIndex: 1054
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SamsungAppsMode // TypeDefIndex: 3461
+public enum SamsungAppsMode // TypeDefIndex: 3518
 {
 	// Fields
 	public int value__; // 0x0

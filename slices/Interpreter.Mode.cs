@@ -1,4 +1,4 @@
-private enum Interpreter.Mode // TypeDefIndex: 1718
+private enum Interpreter.Mode // TypeDefIndex: 1728
 {
 	// Fields
 	public int value__; // 0x0

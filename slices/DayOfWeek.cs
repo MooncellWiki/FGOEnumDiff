@@ -1,4 +1,4 @@
-public enum DayOfWeek // TypeDefIndex: 979
+public enum DayOfWeek // TypeDefIndex: 988
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ShaderCutoutDisplayProgress.DisplayStartPosition // TypeDefIndex: 8584
+public enum ShaderCutoutDisplayProgress.DisplayStartPosition // TypeDefIndex: 8651
 {
 	// Fields
 	public int value__; // 0x0

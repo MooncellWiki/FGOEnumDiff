@@ -1,4 +1,4 @@
-public enum CollisionType // TypeDefIndex: 3261
+public enum CollisionType // TypeDefIndex: 3318
 {
 	// Fields
 	public int value__; // 0x0

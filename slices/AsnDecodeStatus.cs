@@ -1,4 +1,4 @@
-internal enum AsnDecodeStatus // TypeDefIndex: 1677
+internal enum AsnDecodeStatus // TypeDefIndex: 1687
 {
 	// Fields
 	public int value__; // 0x0

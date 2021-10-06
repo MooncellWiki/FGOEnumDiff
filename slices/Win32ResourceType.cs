@@ -1,4 +1,4 @@
-internal enum Win32ResourceType // TypeDefIndex: 436
+internal enum Win32ResourceType // TypeDefIndex: 445
 {
 	// Fields
 	public int value__; // 0x0

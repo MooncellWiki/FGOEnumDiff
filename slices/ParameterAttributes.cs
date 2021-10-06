@@ -1,4 +1,4 @@
-public enum ParameterAttributes // TypeDefIndex: 409
+public enum ParameterAttributes // TypeDefIndex: 418
 {
 	// Fields
 	public int value__; // 0x0

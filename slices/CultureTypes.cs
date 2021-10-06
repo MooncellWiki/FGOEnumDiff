@@ -1,4 +1,4 @@
-public enum CultureTypes // TypeDefIndex: 251
+public enum CultureTypes // TypeDefIndex: 260
 {
 	// Fields
 	public int value__; // 0x0

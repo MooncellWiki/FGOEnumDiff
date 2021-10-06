@@ -1,4 +1,4 @@
-public enum ParticleSystemForceFieldShape // TypeDefIndex: 2800
+public enum ParticleSystemForceFieldShape // TypeDefIndex: 2809
 {
 	// Fields
 	public int value__; // 0x0

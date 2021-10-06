@@ -1,4 +1,4 @@
-public enum X509NameType // TypeDefIndex: 1670
+public enum X509NameType // TypeDefIndex: 1680
 {
 	// Fields
 	public int value__; // 0x0

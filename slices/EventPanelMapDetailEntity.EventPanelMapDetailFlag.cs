@@ -1,4 +1,4 @@
-public enum EventPanelMapDetailEntity.EventPanelMapDetailFlag // TypeDefIndex: 6852
+public enum EventPanelMapDetailEntity.EventPanelMapDetailFlag // TypeDefIndex: 6914
 {
 	// Fields
 	public int value__; // 0x0

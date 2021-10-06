@@ -1,4 +1,4 @@
-public enum AssemblyNameFlags // TypeDefIndex: 365
+public enum AssemblyNameFlags // TypeDefIndex: 374
 {
 	// Fields
 	public int value__; // 0x0

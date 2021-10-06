@@ -1,4 +1,4 @@
-public enum PointerEventData.FramePressState // TypeDefIndex: 3039
+public enum PointerEventData.FramePressState // TypeDefIndex: 3055
 {
 	// Fields
 	public int value__; // 0x0

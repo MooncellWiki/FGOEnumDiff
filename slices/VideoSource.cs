@@ -1,4 +1,4 @@
-public enum VideoSource // TypeDefIndex: 2865
+public enum VideoSource // TypeDefIndex: 2874
 {
 	// Fields
 	public int value__; // 0x0

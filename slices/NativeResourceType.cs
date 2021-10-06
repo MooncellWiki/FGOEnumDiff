@@ -1,4 +1,4 @@
-internal enum NativeResourceType // TypeDefIndex: 313
+internal enum NativeResourceType // TypeDefIndex: 322
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UriIdnScope // TypeDefIndex: 1762
+public enum UriIdnScope // TypeDefIndex: 1772
 {
 	// Fields
 	public int value__; // 0x0

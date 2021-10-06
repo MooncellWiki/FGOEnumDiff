@@ -1,4 +1,4 @@
-public enum RegistryPermissionAccess // TypeDefIndex: 809
+public enum RegistryPermissionAccess // TypeDefIndex: 818
 {
 	// Fields
 	public int value__; // 0x0

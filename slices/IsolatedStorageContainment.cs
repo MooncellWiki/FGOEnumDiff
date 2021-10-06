@@ -1,4 +1,4 @@
-public enum IsolatedStorageContainment // TypeDefIndex: 797
+public enum IsolatedStorageContainment // TypeDefIndex: 806
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CallingConvention // TypeDefIndex: 452
+public enum CallingConvention // TypeDefIndex: 461
 {
 	// Fields
 	public int value__; // 0x0

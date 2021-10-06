@@ -1,4 +1,4 @@
-public enum Gender.Type // TypeDefIndex: 6158
+public enum Gender.Type // TypeDefIndex: 6215
 {
 	// Fields
 	public int value__; // 0x0

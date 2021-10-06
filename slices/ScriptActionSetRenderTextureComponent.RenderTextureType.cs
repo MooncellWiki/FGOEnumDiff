@@ -1,4 +1,4 @@
-public enum ScriptActionSetRenderTextureComponent.RenderTextureType // TypeDefIndex: 8334
+public enum ScriptActionSetRenderTextureComponent.RenderTextureType // TypeDefIndex: 8400
 {
 	// Fields
 	public int value__; // 0x0

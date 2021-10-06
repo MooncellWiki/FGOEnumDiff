@@ -1,4 +1,4 @@
-public enum BattleData.PROGRESS // TypeDefIndex: 8711
+public enum BattleData.PROGRESS // TypeDefIndex: 8781
 {
 	// Fields
 	public int value__; // 0x0
@@ -13,4 +13,5 @@ public enum BattleData.PROGRESS // TypeDefIndex: 8711
 	public const BattleData.PROGRESS BOOST_SKILL = 256;
 	public const BattleData.PROGRESS ASSIST = 512;
 	public const BattleData.PROGRESS FIELDAI_ENTRY = 1024;
+	public const BattleData.PROGRESS PRECHECK_END_BATTLE = 2048;
 }

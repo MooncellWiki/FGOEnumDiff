@@ -1,4 +1,4 @@
-private enum ScriptManager.PresentMessageType // TypeDefIndex: 8368
+private enum ScriptManager.PresentMessageType // TypeDefIndex: 8434
 {
 	// Fields
 	public int value__; // 0x0

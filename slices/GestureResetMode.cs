@@ -1,4 +1,4 @@
-public enum GestureResetMode // TypeDefIndex: 4170
+public enum GestureResetMode // TypeDefIndex: 4227
 {
 	// Fields
 	public int value__; // 0x0

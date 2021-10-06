@@ -1,4 +1,4 @@
-public enum EventRewardSceneEntity.Flag // TypeDefIndex: 6905
+public enum EventRewardSceneEntity.Flag // TypeDefIndex: 6967
 {
 	// Fields
 	public int value__; // 0x0

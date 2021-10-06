@@ -1,4 +1,4 @@
-public enum FakeStoreUIMode // TypeDefIndex: 3542
+public enum FakeStoreUIMode // TypeDefIndex: 3599
 {
 	// Fields
 	public int value__; // 0x0

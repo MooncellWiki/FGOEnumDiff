@@ -1,4 +1,4 @@
-private enum HTTPConnection.RetryCauses // TypeDefIndex: 4385
+private enum HTTPConnection.RetryCauses // TypeDefIndex: 4442
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum TcpClient.Properties // TypeDefIndex: 1502
+private enum TcpClient.Properties // TypeDefIndex: 1512
 {
 	// Fields
 	public uint value__; // 0x0
@@ -9,7 +9,7 @@ private enum TcpClient.Properties // TypeDefIndex: 1502
 	public const TcpClient.Properties SendBufferSize = 16;
 	public const TcpClient.Properties SendTimeout = 32;
 }
-private enum TcpClient.Properties // TypeDefIndex: 4417
+private enum TcpClient.Properties // TypeDefIndex: 4474
 {
 	// Fields
 	public uint value__; // 0x0

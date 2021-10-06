@@ -1,4 +1,4 @@
-public enum ColorSpace // TypeDefIndex: 2178
+public enum ColorSpace // TypeDefIndex: 2187
 {
 	// Fields
 	public int value__; // 0x0

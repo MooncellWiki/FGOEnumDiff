@@ -1,4 +1,4 @@
-public enum TBOrbit.PanMode // TypeDefIndex: 4233
+public enum TBOrbit.PanMode // TypeDefIndex: 4290
 {
 	// Fields
 	public int value__; // 0x0
