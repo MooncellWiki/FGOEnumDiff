@@ -1,4 +1,4 @@
-public enum MaterialCostumeMenu.TabKind // TypeDefIndex: 9950
+public enum MaterialCostumeMenu.TabKind // TypeDefIndex: 9961
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ManagerConfigCheck.Kind // TypeDefIndex: 8037
+public enum ManagerConfigCheck.Kind // TypeDefIndex: 8046
 {
 	// Fields
 	public int value__; // 0x0

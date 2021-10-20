@@ -1,4 +1,4 @@
-public enum ServantAnimationOverwriteEntity.ApplyType // TypeDefIndex: 7191
+public enum ServantAnimationOverwriteEntity.ApplyType // TypeDefIndex: 7195
 {
 	// Fields
 	public int value__; // 0x0

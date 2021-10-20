@@ -1,4 +1,4 @@
-public enum ServantSellConfirmMenu.Kind // TypeDefIndex: 10445
+public enum ServantSellConfirmMenu.Kind // TypeDefIndex: 10456
 {
 	// Fields
 	public int value__; // 0x0

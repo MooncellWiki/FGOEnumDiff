@@ -1,4 +1,4 @@
-private enum EventRewardRootComponent.VoiceIndexEnum // TypeDefIndex: 9696
+private enum EventRewardRootComponent.VoiceIndexEnum // TypeDefIndex: 9707
 {
 	// Fields
 	public int value__; // 0x0

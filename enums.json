@@ -5796,7 +5796,9 @@
     "TREASURE_BOX_GIFT": "364",
     "TREASURE_BOX_TALK": "365",
     "USER_SERVANT_VOICE_PLAYED": "366",
-    "UPDATE_PROFILE_DIALOG_INFO": "367"
+    "UPDATE_PROFILE_DIALOG_INFO": "367",
+    "SVT_MATERIAL_TD": "368",
+    "BATTLE_MASTER_IMAGE": "369"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -6014,7 +6016,8 @@
   "ServantCheckEquipListViewItem.WarningType": {
     "EQUIP": "0",
     "COMBINE": "1",
-    "SSRARE": "2"
+    "SSRARE": "2",
+    "MATERIAL_TD": "3"
   },
   "MapControl.QuestInfo.DispType": {
     "None": "0",
@@ -7806,6 +7809,11 @@
     "VALID": "2",
     "INPUT": "3"
   },
+  "ScriptManager.MenuRouteInfo.RouteType": {
+    "NONE": "0",
+    "BAD": "1",
+    "TRUE": "2"
+  },
   "QuestRewardBoxAction.BOX_TYPE": {
     "NORMAL": "0",
     "SILVER": "1",
@@ -8416,7 +8424,8 @@
     "SVT_EQUIP_MATERIAL": "8",
     "ENEMY_COLLECTION_DETAIL": "9",
     "ALL": "10",
-    "COMMAND_CODE": "11"
+    "COMMAND_CODE": "11",
+    "SVT_MATERIAL_TD": "12"
   },
   "SlideFadeObject.SLIDE_STATE": {
     "NONE": "0",
@@ -12323,7 +12332,9 @@
     "COUNT_HIGHER_AI_171": "171",
     "COUNT_LOWER_AI_172": "172",
     "COUNT_EQUAL_AI_173": "173",
-    "CHECK_AI_174": "174"
+    "CHECK_AI_174": "174",
+    "CHECK_SELF_NPTURN_HIGHER": "175",
+    "CHECK_SELF_NPTURN_LOWER": "176"
   },
   "ListViewSort.ExpUpDispType": {
     "EXP_UP": "0",

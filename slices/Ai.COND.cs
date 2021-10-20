@@ -1,4 +1,4 @@
-public enum Ai.COND // TypeDefIndex: 6134
+public enum Ai.COND // TypeDefIndex: 6135
 {
 	// Fields
 	public int value__; // 0x0
@@ -137,4 +137,6 @@ public enum Ai.COND // TypeDefIndex: 6134
 	public const Ai.COND COUNT_LOWER_AI_172 = 172;
 	public const Ai.COND COUNT_EQUAL_AI_173 = 173;
 	public const Ai.COND CHECK_AI_174 = 174;
+	public const Ai.COND CHECK_SELF_NPTURN_HIGHER = 175;
+	public const Ai.COND CHECK_SELF_NPTURN_LOWER = 176;
 }

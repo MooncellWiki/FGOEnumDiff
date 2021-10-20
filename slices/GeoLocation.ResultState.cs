@@ -1,4 +1,4 @@
-public enum GeoLocation.ResultState // TypeDefIndex: 6534
+public enum GeoLocation.ResultState // TypeDefIndex: 6536
 {
 	// Fields
 	public int value__; // 0x0

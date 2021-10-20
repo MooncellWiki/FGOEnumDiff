@@ -1,4 +1,4 @@
-public enum PayType.Type // TypeDefIndex: 6238
+public enum PayType.Type // TypeDefIndex: 6239
 {
 	// Fields
 	public int value__; // 0x0

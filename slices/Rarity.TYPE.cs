@@ -1,4 +1,4 @@
-public enum Rarity.TYPE // TypeDefIndex: 6242
+public enum Rarity.TYPE // TypeDefIndex: 6243
 {
 	// Fields
 	public int value__; // 0x0

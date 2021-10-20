@@ -1,4 +1,4 @@
-public enum SvtType.Type // TypeDefIndex: 6278
+public enum SvtType.Type // TypeDefIndex: 6279
 {
 	// Fields
 	public int value__; // 0x0
@@ -13,4 +13,5 @@ public enum SvtType.Type // TypeDefIndex: 6278
 	public const SvtType.Type ENEMY_COLLECTION_DETAIL = 9;
 	public const SvtType.Type ALL = 10;
 	public const SvtType.Type COMMAND_CODE = 11;
+	public const SvtType.Type SVT_MATERIAL_TD = 12;
 }

@@ -1,4 +1,4 @@
-private enum ServantSellConfirmListViewObject.State // TypeDefIndex: 10443
+private enum ServantSellConfirmListViewObject.State // TypeDefIndex: 10454
 {
 	// Fields
 	public int value__; // 0x0

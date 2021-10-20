@@ -1,4 +1,4 @@
-protected enum ReceiptViewMenu.State // TypeDefIndex: 11336
+protected enum ReceiptViewMenu.State // TypeDefIndex: 11347
 {
 	// Fields
 	public int value__; // 0x0

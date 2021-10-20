@@ -1,4 +1,4 @@
-private enum SoundTestMenu.PrefixList // TypeDefIndex: 11452
+private enum SoundTestMenu.PrefixList // TypeDefIndex: 11463
 {
 	// Fields
 	public int value__; // 0x0

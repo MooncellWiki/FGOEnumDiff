@@ -1,4 +1,4 @@
-protected enum RecommenededConfigDialog.State // TypeDefIndex: 9479
+protected enum RecommenededConfigDialog.State // TypeDefIndex: 9490
 {
 	// Fields
 	public int value__; // 0x0

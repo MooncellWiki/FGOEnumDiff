@@ -1,4 +1,4 @@
-public enum EventRaceBoostEffect.BoostColor // TypeDefIndex: 10832
+public enum EventRaceBoostEffect.BoostColor // TypeDefIndex: 10843
 {
 	// Fields
 	public int value__; // 0x0

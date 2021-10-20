@@ -1,4 +1,4 @@
-public enum ServantCostumeListViewManager.ResultKind // TypeDefIndex: 9546
+public enum ServantCostumeListViewManager.ResultKind // TypeDefIndex: 9557
 {
 	// Fields
 	public int value__; // 0x0

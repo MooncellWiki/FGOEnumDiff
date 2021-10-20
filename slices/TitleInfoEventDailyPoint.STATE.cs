@@ -1,4 +1,4 @@
-private enum TitleInfoEventDailyPoint.STATE // TypeDefIndex: 5896
+private enum TitleInfoEventDailyPoint.STATE // TypeDefIndex: 5897
 {
 	// Fields
 	public int value__; // 0x0

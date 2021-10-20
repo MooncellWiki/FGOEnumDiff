@@ -1,4 +1,4 @@
-public enum SummonEffectComponent.NoticeEffect // TypeDefIndex: 10574
+public enum SummonEffectComponent.NoticeEffect // TypeDefIndex: 10585
 {
 	// Fields
 	public int value__; // 0x0

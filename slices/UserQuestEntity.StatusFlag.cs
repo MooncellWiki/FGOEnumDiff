@@ -1,4 +1,4 @@
-public enum UserQuestEntity.StatusFlag // TypeDefIndex: 7465
+public enum UserQuestEntity.StatusFlag // TypeDefIndex: 7471
 {
 	// Fields
 	public int value__; // 0x0

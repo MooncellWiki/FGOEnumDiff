@@ -1,4 +1,4 @@
-protected enum CombineListViewObject.State // TypeDefIndex: 9344
+protected enum CombineListViewObject.State // TypeDefIndex: 9355
 {
 	// Fields
 	public int value__; // 0x0

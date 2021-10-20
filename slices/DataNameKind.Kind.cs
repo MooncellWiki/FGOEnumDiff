@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6182
+public enum DataNameKind.Kind // TypeDefIndex: 6183
 {
 	// Fields
 	public int value__; // 0x0
@@ -370,4 +370,6 @@ public enum DataNameKind.Kind // TypeDefIndex: 6182
 	public const DataNameKind.Kind TREASURE_BOX_TALK = 365;
 	public const DataNameKind.Kind USER_SERVANT_VOICE_PLAYED = 366;
 	public const DataNameKind.Kind UPDATE_PROFILE_DIALOG_INFO = 367;
+	public const DataNameKind.Kind SVT_MATERIAL_TD = 368;
+	public const DataNameKind.Kind BATTLE_MASTER_IMAGE = 369;
 }

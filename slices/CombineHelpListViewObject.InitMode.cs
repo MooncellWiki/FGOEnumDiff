@@ -1,4 +1,4 @@
-public enum CombineHelpListViewObject.InitMode // TypeDefIndex: 9430
+public enum CombineHelpListViewObject.InitMode // TypeDefIndex: 9441
 {
 	// Fields
 	public int value__; // 0x0
