@@ -1,4 +1,4 @@
-public enum WarBoardStageLayoutEntity.Type // TypeDefIndex: 7588
+public enum WarBoardStageLayoutEntity.Type // TypeDefIndex: 7589
 {
 	// Fields
 	public int value__; // 0x0

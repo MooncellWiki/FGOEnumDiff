@@ -1,4 +1,4 @@
-public enum FGOActorMotion.MOTION // TypeDefIndex: 7922
+public enum FGOActorMotion.MOTION // TypeDefIndex: 7923
 {
 	// Fields
 	public int value__; // 0x0

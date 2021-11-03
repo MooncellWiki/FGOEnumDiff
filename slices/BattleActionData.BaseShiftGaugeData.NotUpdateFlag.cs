@@ -1,4 +1,4 @@
-public enum BattleActionData.BaseShiftGaugeData.NotUpdateFlag // TypeDefIndex: 8694
+public enum BattleActionData.BaseShiftGaugeData.NotUpdateFlag // TypeDefIndex: 8695
 {
 	// Fields
 	public int value__; // 0x0

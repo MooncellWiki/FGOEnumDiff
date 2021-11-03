@@ -1,4 +1,4 @@
-public enum PurchaseLogic.PurchaseAvailablilty // TypeDefIndex: 6573
+public enum PurchaseLogic.PurchaseAvailablilty // TypeDefIndex: 6572
 {
 	// Fields
 	public int value__; // 0x0

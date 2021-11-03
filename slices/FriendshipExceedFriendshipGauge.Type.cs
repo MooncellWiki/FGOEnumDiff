@@ -1,4 +1,4 @@
-public enum FriendshipExceedFriendshipGauge.Type // TypeDefIndex: 9423
+public enum FriendshipExceedFriendshipGauge.Type // TypeDefIndex: 9424
 {
 	// Fields
 	public int value__; // 0x0

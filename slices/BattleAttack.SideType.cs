@@ -1,4 +1,4 @@
-public enum BattleAttack.SideType // TypeDefIndex: 8742
+public enum BattleAttack.SideType // TypeDefIndex: 8743
 {
 	// Fields
 	public int value__; // 0x0

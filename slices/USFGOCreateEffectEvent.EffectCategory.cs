@@ -1,4 +1,4 @@
-public enum USFGOCreateEffectEvent.EffectCategory // TypeDefIndex: 8141
+public enum USFGOCreateEffectEvent.EffectCategory // TypeDefIndex: 8142
 {
 	// Fields
 	public int value__; // 0x0

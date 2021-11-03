@@ -1,4 +1,4 @@
-private enum AppendSkillCombineControl.STATUS // TypeDefIndex: 9337
+private enum AppendSkillCombineControl.STATUS // TypeDefIndex: 9338
 {
 	// Fields
 	public int value__; // 0x0

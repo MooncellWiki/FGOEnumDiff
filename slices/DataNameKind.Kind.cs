@@ -372,4 +372,5 @@ public enum DataNameKind.Kind // TypeDefIndex: 6183
 	public const DataNameKind.Kind UPDATE_PROFILE_DIALOG_INFO = 367;
 	public const DataNameKind.Kind SVT_MATERIAL_TD = 368;
 	public const DataNameKind.Kind BATTLE_MASTER_IMAGE = 369;
+	public const DataNameKind.Kind USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG = 370;
 }

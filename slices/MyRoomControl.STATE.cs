@@ -1,4 +1,4 @@
-public enum MyRoomControl.STATE // TypeDefIndex: 9996
+public enum MyRoomControl.STATE // TypeDefIndex: 9997
 {
 	// Fields
 	public int value__; // 0x0

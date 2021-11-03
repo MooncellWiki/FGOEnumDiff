@@ -1,4 +1,4 @@
-public enum QuestInformationListViewManager.Kind // TypeDefIndex: 11004
+public enum QuestInformationListViewManager.Kind // TypeDefIndex: 11010
 {
 	// Fields
 	public int value__; // 0x0

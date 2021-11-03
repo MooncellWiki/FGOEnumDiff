@@ -1,4 +1,4 @@
-private enum EventPointRewardDialog.State // TypeDefIndex: 9692
+private enum EventPointRewardDialog.State // TypeDefIndex: 9693
 {
 	// Fields
 	public int value__; // 0x0

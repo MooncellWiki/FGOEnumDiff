@@ -1,4 +1,4 @@
-public enum SpotEntity.FlagKind // TypeDefIndex: 7318
+public enum SpotEntity.FlagKind // TypeDefIndex: 7317
 {
 	// Fields
 	public int value__; // 0x0

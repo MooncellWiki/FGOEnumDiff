@@ -30,4 +30,5 @@ public enum CombineAdjustTarget.TYPE // TypeDefIndex: 6168
 	public const CombineAdjustTarget.TYPE DAILY_DROP_UP = 26;
 	public const CombineAdjustTarget.TYPE EXCHANGE_SVT_COMBINE_EXP = 27;
 	public const CombineAdjustTarget.TYPE QUEST_USE_CONTINUE_ITEM = 28;
+	public const CombineAdjustTarget.TYPE FRIEND_POINT_GACHA_FREE_DRAW_NUM = 29;
 }

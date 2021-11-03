@@ -5798,7 +5798,8 @@
     "USER_SERVANT_VOICE_PLAYED": "366",
     "UPDATE_PROFILE_DIALOG_INFO": "367",
     "SVT_MATERIAL_TD": "368",
-    "BATTLE_MASTER_IMAGE": "369"
+    "BATTLE_MASTER_IMAGE": "369",
+    "USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG": "370"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -9471,7 +9472,8 @@
     "QUEST_AP_FIRST_TIME": "25",
     "DAILY_DROP_UP": "26",
     "EXCHANGE_SVT_COMBINE_EXP": "27",
-    "QUEST_USE_CONTINUE_ITEM": "28"
+    "QUEST_USE_CONTINUE_ITEM": "28",
+    "FRIEND_POINT_GACHA_FREE_DRAW_NUM": "29"
   },
   "TakeScreenshot.Destination": {
     "MyPictures": "0",

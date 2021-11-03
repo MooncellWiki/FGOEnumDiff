@@ -1,4 +1,4 @@
-public enum USFGOChangeShaderProperty.PropertyType // TypeDefIndex: 8124
+public enum USFGOChangeShaderProperty.PropertyType // TypeDefIndex: 8125
 {
 	// Fields
 	public int value__; // 0x0
