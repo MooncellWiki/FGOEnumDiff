@@ -1,4 +1,4 @@
-public enum ServantOperationManager.Kind // TypeDefIndex: 10437
+public enum ServantOperationManager.Kind // TypeDefIndex: 10460
 {
 	// Fields
 	public int value__; // 0x0

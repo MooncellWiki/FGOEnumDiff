@@ -1,4 +1,4 @@
-public enum DeckListViewManager.ResultKind // TypeDefIndex: 10211
+public enum DeckListViewManager.ResultKind // TypeDefIndex: 10234
 {
 	// Fields
 	public int value__; // 0x0

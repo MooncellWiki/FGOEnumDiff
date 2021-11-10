@@ -1,4 +1,4 @@
-public enum FrameData.EvaluationType // TypeDefIndex: 2506
+public enum FrameData.EvaluationType // TypeDefIndex: 2507
 {
 	// Fields
 	public int value__; // 0x0

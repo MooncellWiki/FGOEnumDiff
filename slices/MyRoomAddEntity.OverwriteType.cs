@@ -1,4 +1,4 @@
-public enum MyRoomAddEntity.OverwriteType // TypeDefIndex: 7095
+public enum MyRoomAddEntity.OverwriteType // TypeDefIndex: 7099
 {
 	// Fields
 	public int value__; // 0x0

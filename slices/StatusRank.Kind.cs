@@ -1,4 +1,4 @@
-public enum StatusRank.Kind // TypeDefIndex: 6266
+public enum StatusRank.Kind // TypeDefIndex: 6267
 {
 	// Fields
 	public int value__; // 0x0

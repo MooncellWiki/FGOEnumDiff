@@ -1,4 +1,4 @@
-public enum BattleLogicTarget.Position // TypeDefIndex: 9104
+public enum BattleLogicTarget.Position // TypeDefIndex: 9122
 {
 	// Fields
 	public int value__; // 0x0

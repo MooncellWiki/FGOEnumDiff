@@ -1,4 +1,4 @@
-public enum StatisticsQueryFlags // TypeDefIndex: 5331
+public enum StatisticsQueryFlags // TypeDefIndex: 5332
 {
 	// Fields
 	public byte value__; // 0x0

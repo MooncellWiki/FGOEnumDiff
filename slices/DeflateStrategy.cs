@@ -1,4 +1,4 @@
-public enum DeflateStrategy // TypeDefIndex: 3774
+public enum DeflateStrategy // TypeDefIndex: 3775
 {
 	// Fields
 	public int value__; // 0x0

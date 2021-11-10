@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6640
+public enum DataVals.TYPE // TypeDefIndex: 6642
 {
 	// Fields
 	public int value__; // 0x0
@@ -88,4 +88,5 @@ public enum DataVals.TYPE // TypeDefIndex: 6640
 	public const DataVals.TYPE TargetIndiv = 83;
 	public const DataVals.TYPE IncludeIgnoreIndividuality = 84;
 	public const DataVals.TYPE EvenIfWinDie = 85;
+	public const DataVals.TYPE CallSvtEffectId = 86;
 }

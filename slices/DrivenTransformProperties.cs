@@ -1,4 +1,4 @@
-public enum DrivenTransformProperties // TypeDefIndex: 2575
+public enum DrivenTransformProperties // TypeDefIndex: 2576
 {
 	// Fields
 	public int value__; // 0x0

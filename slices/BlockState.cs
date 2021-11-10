@@ -1,4 +1,4 @@
-internal enum BlockState // TypeDefIndex: 4396
+internal enum BlockState // TypeDefIndex: 4397
 {
 	// Fields
 	public int value__; // 0x0

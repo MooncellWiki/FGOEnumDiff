@@ -1,4 +1,4 @@
-protected enum PartyOrganizationConfirmDeckMenu.State // TypeDefIndex: 10283
+protected enum PartyOrganizationConfirmDeckMenu.State // TypeDefIndex: 10306
 {
 	// Fields
 	public int value__; // 0x0

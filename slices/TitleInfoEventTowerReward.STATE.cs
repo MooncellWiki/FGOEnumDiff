@@ -1,4 +1,4 @@
-private enum TitleInfoEventTowerReward.STATE // TypeDefIndex: 5945
+private enum TitleInfoEventTowerReward.STATE // TypeDefIndex: 5946
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum USFGOObjectFlip.FGOFlipTarget // TypeDefIndex: 8152
+public enum USFGOObjectFlip.FGOFlipTarget // TypeDefIndex: 8159
 {
 	// Fields
 	public int value__; // 0x0

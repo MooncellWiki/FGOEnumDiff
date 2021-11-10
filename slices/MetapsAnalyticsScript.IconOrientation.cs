@@ -1,4 +1,4 @@
-public enum MetapsAnalyticsScript.IconOrientation // TypeDefIndex: 4309
+public enum MetapsAnalyticsScript.IconOrientation // TypeDefIndex: 4310
 {
 	// Fields
 	public int value__; // 0x0

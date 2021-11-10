@@ -1,4 +1,4 @@
-private enum CriFsLoadFileRequest.Phase // TypeDefIndex: 4089
+private enum CriFsLoadFileRequest.Phase // TypeDefIndex: 4090
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum USRecord.Upscaling // TypeDefIndex: 3856
+public enum USRecord.Upscaling // TypeDefIndex: 3857
 {
 	// Fields
 	public int value__; // 0x0

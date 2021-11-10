@@ -1,4 +1,4 @@
-internal enum FrameData.Flags // TypeDefIndex: 2505
+internal enum FrameData.Flags // TypeDefIndex: 2506
 {
 	// Fields
 	public int value__; // 0x0

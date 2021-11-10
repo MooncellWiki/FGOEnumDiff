@@ -1,4 +1,4 @@
-public enum DebugDrawShape.ShapeType // TypeDefIndex: 12241
+public enum DebugDrawShape.ShapeType // TypeDefIndex: 12264
 {
 	// Fields
 	public int value__; // 0x0

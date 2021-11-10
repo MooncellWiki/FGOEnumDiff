@@ -6047,6 +6047,11 @@
     "COSTUME_RELEASE": "1",
     "COSTUME_CHANGE": "2"
   },
+  "BattleDataDefine.RaidType": {
+    "NONE": "0",
+    "RAID": "1",
+    "SUPER_BOSS": "2"
+  },
   "X509IncludeOption": {
     "None": "0",
     "ExcludeRoot": "1",
@@ -7626,6 +7631,9 @@
     "ContainedInAnotherAssembly": "2",
     "ContainedInManifestFile": "4"
   },
+  "CommonMotionSkip.State": {
+    "SKIPPING": "1"
+  },
   "AddressFamily": {
     "Unknown": "-1",
     "Unspecified": "0",
@@ -8795,7 +8803,10 @@
     "ATTACK": "1",
     "DEFENCE": "2",
     "STATUS_EFFECT": "3",
-    "OTHER": "4"
+    "OTHER": "4",
+    "ATTACK_DEBUFF": "5",
+    "DEFENCE_DEBUFF": "6",
+    "STATUS_EFFECT_DEBUFF": "7"
   },
   "EventRankingListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -9117,7 +9128,8 @@
     "OffPositions": "82",
     "TargetIndiv": "83",
     "IncludeIgnoreIndividuality": "84",
-    "EvenIfWinDie": "85"
+    "EvenIfWinDie": "85",
+    "CallSvtEffectId": "86"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",
@@ -14134,6 +14146,12 @@
     "SceneOffsetEditor": "5",
     "SceneOffsetLegacyEditor": "6"
   },
+  "FullScreenMode": {
+    "ExclusiveFullScreen": "0",
+    "FullScreenWindow": "1",
+    "MaximizedWindow": "2",
+    "Windowed": "3"
+  },
   "EventDetailEntity.FlagKind": {
     "TYPE_POINT": "0",
     "TYPE_EXCHANGE_SHOP": "1",
@@ -15896,6 +15914,10 @@
     "position": "5",
     "value": "6",
     "look": "7"
+  },
+  "FunctionCategoryEntity.FuncCategoryFlag": {
+    "SVT_EQUIP_FILTER": "0",
+    "COMMAND_CODE_FILTER": "1"
   },
   "QuestInformationComponent.DisplayScene": {
     "NONE": "0",
@@ -19962,6 +19984,10 @@
     "Top": "2",
     "Left": "3"
   },
+  "FunctionCategoryEntity.Flag": {
+    "SVT_EQUIP_FILTER": "1",
+    "COMMAND_CODE_FILTER": "2"
+  },
   "PEFileKinds": {
     "Dll": "1",
     "ConsoleApplication": "2",
@@ -20028,6 +20054,10 @@
     "RECOVER": "2",
     "MAX_ACT": "3",
     "NO_INFO": "4"
+  },
+  "ResolutionManager.ResolutionType": {
+    "NORMAL": "0",
+    "LOW": "1"
   },
   "CursorLockMode": {
     "None": "0",

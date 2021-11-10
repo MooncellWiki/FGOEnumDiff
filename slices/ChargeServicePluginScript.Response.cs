@@ -1,4 +1,4 @@
-public enum ChargeServicePluginScript.Response // TypeDefIndex: 3930
+public enum ChargeServicePluginScript.Response // TypeDefIndex: 3931
 {
 	// Fields
 	public int value__; // 0x0

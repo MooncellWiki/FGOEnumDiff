@@ -1,4 +1,4 @@
-protected enum TermsOfUseMenu.State // TypeDefIndex: 11530
+protected enum TermsOfUseMenu.State // TypeDefIndex: 11553
 {
 	// Fields
 	public int value__; // 0x0

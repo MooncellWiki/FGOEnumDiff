@@ -1,4 +1,4 @@
-public enum Target.TYPE // TypeDefIndex: 6284
+public enum Target.TYPE // TypeDefIndex: 6285
 {
 	// Fields
 	public int value__; // 0x0

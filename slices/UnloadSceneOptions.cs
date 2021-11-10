@@ -1,4 +1,4 @@
-public enum UnloadSceneOptions // TypeDefIndex: 2563
+public enum UnloadSceneOptions // TypeDefIndex: 2564
 {
 	// Fields
 	public int value__; // 0x0

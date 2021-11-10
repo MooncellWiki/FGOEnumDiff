@@ -1,4 +1,4 @@
-public enum EventTriggerType // TypeDefIndex: 3043
+public enum EventTriggerType // TypeDefIndex: 3044
 {
 	// Fields
 	public int value__; // 0x0

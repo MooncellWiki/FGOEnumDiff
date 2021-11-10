@@ -1,4 +1,4 @@
-public enum TitleInfoEventTimeImgListComponent.TimeState // TypeDefIndex: 5933
+public enum TitleInfoEventTimeImgListComponent.TimeState // TypeDefIndex: 5934
 {
 	// Fields
 	public int value__; // 0x0

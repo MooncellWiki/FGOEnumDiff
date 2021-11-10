@@ -1,4 +1,4 @@
-public enum StateLog.LogType // TypeDefIndex: 8084
+public enum StateLog.LogType // TypeDefIndex: 8091
 {
 	// Fields
 	public int value__; // 0x0

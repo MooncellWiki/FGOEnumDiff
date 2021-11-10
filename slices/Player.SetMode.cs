@@ -1,4 +1,4 @@
-public enum Player.SetMode // TypeDefIndex: 4141
+public enum Player.SetMode // TypeDefIndex: 4142
 {
 	// Fields
 	public int value__; // 0x0

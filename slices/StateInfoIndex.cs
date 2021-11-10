@@ -1,4 +1,4 @@
-internal enum StateInfoIndex // TypeDefIndex: 2713
+internal enum StateInfoIndex // TypeDefIndex: 2714
 {
 	// Fields
 	public int value__; // 0x0

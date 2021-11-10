@@ -1,4 +1,4 @@
-protected enum FakeStore.DialogType // TypeDefIndex: 3601
+protected enum FakeStore.DialogType // TypeDefIndex: 3602
 {
 	// Fields
 	public int value__; // 0x0
