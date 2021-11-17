@@ -1,4 +1,4 @@
-public enum DatFileName.FILE_NAME // TypeDefIndex: 6186
+public enum DatFileName.FILE_NAME // TypeDefIndex: 6177
 {
 	// Fields
 	public int value__; // 0x0
@@ -38,5 +38,6 @@ public enum DatFileName.FILE_NAME // TypeDefIndex: 6186
 	public const DatFileName.FILE_NAME QUEST_HINT_DIALOG_OPEN_SAVE = 33;
 	public const DatFileName.FILE_NAME LAST_USED_DECK_NUMBER_SAVE = 34;
 	public const DatFileName.FILE_NAME MATERIAL_BRANCH_ROUTE_SAVE = 35;
-	public const DatFileName.FILE_NAME SUM = 36;
+	public const DatFileName.FILE_NAME CLEAR_RANDOM_MISSION_SAVE = 36;
+	public const DatFileName.FILE_NAME SUM = 37;
 }

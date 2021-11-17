@@ -1,4 +1,4 @@
-public enum WindowsAccountType // TypeDefIndex: 867
+public enum WindowsAccountType // TypeDefIndex: 858
 {
 	// Fields
 	public int value__; // 0x0

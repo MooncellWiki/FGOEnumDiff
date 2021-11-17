@@ -1,4 +1,4 @@
-public enum SummonInfoControl.SummonState // TypeDefIndex: 10618
+public enum SummonInfoControl.SummonState // TypeDefIndex: 10640
 {
 	// Fields
 	public int value__; // 0x0

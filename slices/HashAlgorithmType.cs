@@ -1,4 +1,4 @@
-public enum HashAlgorithmType // TypeDefIndex: 1649
+public enum HashAlgorithmType // TypeDefIndex: 1639
 {
 	// Fields
 	public int value__; // 0x0
@@ -6,7 +6,7 @@ public enum HashAlgorithmType // TypeDefIndex: 1649
 	public const HashAlgorithmType Md5 = 32771;
 	public const HashAlgorithmType Sha1 = 32772;
 }
-public enum HashAlgorithmType // TypeDefIndex: 1909
+public enum HashAlgorithmType // TypeDefIndex: 1899
 {
 	// Fields
 	public int value__; // 0x0

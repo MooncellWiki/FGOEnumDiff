@@ -1,4 +1,4 @@
-public enum NetBiosNodeType // TypeDefIndex: 1417
+public enum NetBiosNodeType // TypeDefIndex: 1407
 {
 	// Fields
 	public int value__; // 0x0

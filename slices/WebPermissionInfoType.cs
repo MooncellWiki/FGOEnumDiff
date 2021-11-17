@@ -1,4 +1,4 @@
-internal enum WebPermissionInfoType // TypeDefIndex: 1635
+internal enum WebPermissionInfoType // TypeDefIndex: 1625
 {
 	// Fields
 	public int value__; // 0x0

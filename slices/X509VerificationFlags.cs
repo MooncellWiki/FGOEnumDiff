@@ -1,4 +1,4 @@
-public enum X509VerificationFlags // TypeDefIndex: 1686
+public enum X509VerificationFlags // TypeDefIndex: 1676
 {
 	// Fields
 	public int value__; // 0x0

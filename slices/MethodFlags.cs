@@ -1,4 +1,4 @@
-internal enum MethodFlags // TypeDefIndex: 650
+internal enum MethodFlags // TypeDefIndex: 641
 {
 	// Fields
 	public int value__; // 0x0

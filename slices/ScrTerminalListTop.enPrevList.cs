@@ -1,4 +1,4 @@
-public enum ScrTerminalListTop.enPrevList // TypeDefIndex: 11113
+public enum ScrTerminalListTop.enPrevList // TypeDefIndex: 11140
 {
 	// Fields
 	public int value__; // 0x0

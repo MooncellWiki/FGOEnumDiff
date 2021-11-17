@@ -1,4 +1,4 @@
-private enum SimpleCollator.ExtenderType // TypeDefIndex: 116
+private enum SimpleCollator.ExtenderType // TypeDefIndex: 107
 {
 	// Fields
 	public int value__; // 0x0

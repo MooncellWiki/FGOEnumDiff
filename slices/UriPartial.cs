@@ -1,4 +1,4 @@
-public enum UriPartial // TypeDefIndex: 1775
+public enum UriPartial // TypeDefIndex: 1765
 {
 	// Fields
 	public int value__; // 0x0

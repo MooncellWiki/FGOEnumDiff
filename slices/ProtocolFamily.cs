@@ -1,4 +1,4 @@
-public enum ProtocolFamily // TypeDefIndex: 1487
+public enum ProtocolFamily // TypeDefIndex: 1477
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventRewardSceneEntity.eventType // TypeDefIndex: 6970
+public enum EventRewardSceneEntity.eventType // TypeDefIndex: 6968
 {
 	// Fields
 	public int value__; // 0x0
@@ -12,4 +12,5 @@ public enum EventRewardSceneEntity.eventType // TypeDefIndex: 6970
 	public const EventRewardSceneEntity.eventType FATIGUE_RECOVERY = 8;
 	public const EventRewardSceneEntity.eventType EVENT_BOARD_GAME_TOKEN = 9;
 	public const EventRewardSceneEntity.eventType TREASURE_BOX = 10;
+	public const EventRewardSceneEntity.eventType RANDOM_MISSION = 11;
 }

@@ -1,4 +1,4 @@
-public enum EventRaceBoostEffect.BoostGrade // TypeDefIndex: 10868
+public enum EventRaceBoostEffect.BoostGrade // TypeDefIndex: 10894
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum VoiceClosedType.Type // TypeDefIndex: 6301
+public enum VoiceClosedType.Type // TypeDefIndex: 6292
 {
 	// Fields
 	public int value__; // 0x0

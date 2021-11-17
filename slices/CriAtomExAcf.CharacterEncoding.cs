@@ -1,4 +1,4 @@
-public enum CriAtomExAcf.CharacterEncoding // TypeDefIndex: 4024
+public enum CriAtomExAcf.CharacterEncoding // TypeDefIndex: 4008
 {
 	// Fields
 	public uint value__; // 0x0

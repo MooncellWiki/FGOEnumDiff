@@ -1,4 +1,4 @@
-public enum BattleWindowComponent.ACTIONTYPE // TypeDefIndex: 8610
+public enum BattleWindowComponent.ACTIONTYPE // TypeDefIndex: 8623
 {
 	// Fields
 	public int value__; // 0x0

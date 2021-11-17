@@ -1,4 +1,4 @@
-public enum FormatterTypeStyle // TypeDefIndex: 665
+public enum FormatterTypeStyle // TypeDefIndex: 656
 {
 	// Fields
 	public int value__; // 0x0

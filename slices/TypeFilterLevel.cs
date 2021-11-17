@@ -1,4 +1,4 @@
-public enum TypeFilterLevel // TypeDefIndex: 666
+public enum TypeFilterLevel // TypeDefIndex: 657
 {
 	// Fields
 	public int value__; // 0x0

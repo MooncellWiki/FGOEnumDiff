@@ -1,4 +1,4 @@
-internal enum TypeTag // TypeDefIndex: 649
+internal enum TypeTag // TypeDefIndex: 640
 {
 	// Fields
 	public byte value__; // 0x0

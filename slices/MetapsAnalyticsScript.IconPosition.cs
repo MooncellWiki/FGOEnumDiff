@@ -1,4 +1,4 @@
-public enum MetapsAnalyticsScript.IconPosition // TypeDefIndex: 4311
+public enum MetapsAnalyticsScript.IconPosition // TypeDefIndex: 4295
 {
 	// Fields
 	public int value__; // 0x0

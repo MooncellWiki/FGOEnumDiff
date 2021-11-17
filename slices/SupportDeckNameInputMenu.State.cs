@@ -1,4 +1,4 @@
-protected enum SupportDeckNameInputMenu.State // TypeDefIndex: 10652
+protected enum SupportDeckNameInputMenu.State // TypeDefIndex: 10674
 {
 	// Fields
 	public int value__; // 0x0

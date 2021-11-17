@@ -1,4 +1,4 @@
-public enum ResourceAttributes // TypeDefIndex: 426
+public enum ResourceAttributes // TypeDefIndex: 417
 {
 	// Fields
 	public int value__; // 0x0

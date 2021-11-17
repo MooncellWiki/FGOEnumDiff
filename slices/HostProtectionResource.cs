@@ -1,4 +1,4 @@
-public enum HostProtectionResource // TypeDefIndex: 803
+public enum HostProtectionResource // TypeDefIndex: 794
 {
 	// Fields
 	public int value__; // 0x0

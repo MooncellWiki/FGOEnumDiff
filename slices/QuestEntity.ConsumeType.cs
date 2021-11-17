@@ -1,4 +1,4 @@
-public enum QuestEntity.ConsumeType // TypeDefIndex: 7145
+public enum QuestEntity.ConsumeType // TypeDefIndex: 7143
 {
 	// Fields
 	public int value__; // 0x0

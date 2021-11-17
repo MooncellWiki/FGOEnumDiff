@@ -1,4 +1,4 @@
-public enum CspProviderFlags // TypeDefIndex: 724
+public enum CspProviderFlags // TypeDefIndex: 715
 {
 	// Fields
 	public int value__; // 0x0

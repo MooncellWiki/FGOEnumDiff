@@ -1,4 +1,4 @@
-private enum CheckMaterialSvtListViewItem.ServantAttributeKind // TypeDefIndex: 9502
+private enum CheckMaterialSvtListViewItem.ServantAttributeKind // TypeDefIndex: 9515
 {
 	// Fields
 	public int value__; // 0x0

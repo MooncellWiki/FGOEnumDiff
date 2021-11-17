@@ -1,4 +1,4 @@
-internal enum VariantExtension.KeyOptions // TypeDefIndex: 3267
+internal enum VariantExtension.KeyOptions // TypeDefIndex: 3253
 {
 	// Fields
 	public int value__; // 0x0

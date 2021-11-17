@@ -1,4 +1,4 @@
-public enum NetworkAccess // TypeDefIndex: 1605
+public enum NetworkAccess // TypeDefIndex: 1595
 {
 	// Fields
 	public int value__; // 0x0

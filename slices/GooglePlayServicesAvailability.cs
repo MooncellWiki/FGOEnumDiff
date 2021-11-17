@@ -1,4 +1,4 @@
-internal enum GooglePlayServicesAvailability // TypeDefIndex: 3230
+internal enum GooglePlayServicesAvailability // TypeDefIndex: 3217
 {
 	// Fields
 	public int value__; // 0x0

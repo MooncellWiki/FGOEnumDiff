@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6184
+public enum DataNameKind.Kind // TypeDefIndex: 6175
 {
 	// Fields
 	public int value__; // 0x0
@@ -373,4 +373,8 @@ public enum DataNameKind.Kind // TypeDefIndex: 6184
 	public const DataNameKind.Kind SVT_MATERIAL_TD = 368;
 	public const DataNameKind.Kind BATTLE_MASTER_IMAGE = 369;
 	public const DataNameKind.Kind USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG = 370;
+	public const DataNameKind.Kind USER_EVENT_RANDOM_MISSION = 371;
+	public const DataNameKind.Kind EVENT_PROGRESS_VALUE = 372;
+	public const DataNameKind.Kind SVT_MULTI_PORTRAIT = 373;
+	public const DataNameKind.Kind EVENT_RANDOM_MISSION = 374;
 }

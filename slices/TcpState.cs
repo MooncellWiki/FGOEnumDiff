@@ -1,4 +1,4 @@
-public enum TcpState // TypeDefIndex: 1444
+public enum TcpState // TypeDefIndex: 1434
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum X509IncludeOption // TypeDefIndex: 1677
+public enum X509IncludeOption // TypeDefIndex: 1667
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum AnimatorCullingMode // TypeDefIndex: 2715
+public enum AnimatorCullingMode // TypeDefIndex: 2706
 {
 	// Fields
 	public int value__; // 0x0

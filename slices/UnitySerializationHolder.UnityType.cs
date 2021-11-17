@@ -1,4 +1,4 @@
-private enum UnitySerializationHolder.UnityType // TypeDefIndex: 1069
+private enum UnitySerializationHolder.UnityType // TypeDefIndex: 1059
 {
 	// Fields
 	public byte value__; // 0x0

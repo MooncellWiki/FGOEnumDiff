@@ -1,4 +1,4 @@
-public enum BackViewListViewObject.InitMode // TypeDefIndex: 11307
+public enum BackViewListViewObject.InitMode // TypeDefIndex: 11333
 {
 	// Fields
 	public int value__; // 0x0

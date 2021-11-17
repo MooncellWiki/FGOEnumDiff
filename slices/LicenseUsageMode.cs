@@ -1,4 +1,4 @@
-public enum LicenseUsageMode // TypeDefIndex: 1265
+public enum LicenseUsageMode // TypeDefIndex: 1255
 {
 	// Fields
 	public int value__; // 0x0

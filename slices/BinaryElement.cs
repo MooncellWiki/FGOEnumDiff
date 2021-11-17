@@ -1,4 +1,4 @@
-internal enum BinaryElement // TypeDefIndex: 648
+internal enum BinaryElement // TypeDefIndex: 639
 {
 	// Fields
 	public byte value__; // 0x0

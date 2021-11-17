@@ -1,4 +1,4 @@
-public enum FriendOperationItemListViewManager.InitMode // TypeDefIndex: 9839
+public enum FriendOperationItemListViewManager.InitMode // TypeDefIndex: 9860
 {
 	// Fields
 	public int value__; // 0x0

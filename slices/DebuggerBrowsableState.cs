@@ -1,4 +1,4 @@
-public enum DebuggerBrowsableState // TypeDefIndex: 247
+public enum DebuggerBrowsableState // TypeDefIndex: 238
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ProcessorArchitecture // TypeDefIndex: 423
+public enum ProcessorArchitecture // TypeDefIndex: 414
 {
 	// Fields
 	public int value__; // 0x0

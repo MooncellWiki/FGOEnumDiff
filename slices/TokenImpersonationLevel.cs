@@ -1,4 +1,4 @@
-public enum TokenImpersonationLevel // TypeDefIndex: 866
+public enum TokenImpersonationLevel // TypeDefIndex: 857
 {
 	// Fields
 	public int value__; // 0x0

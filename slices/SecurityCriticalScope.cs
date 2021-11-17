@@ -1,4 +1,4 @@
-public enum SecurityCriticalScope // TypeDefIndex: 888
+public enum SecurityCriticalScope // TypeDefIndex: 879
 {
 	// Fields
 	public int value__; // 0x0

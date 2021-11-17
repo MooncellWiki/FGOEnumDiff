@@ -1,4 +1,4 @@
-public enum ContinuousGesturePhase // TypeDefIndex: 4218
+public enum ContinuousGesturePhase // TypeDefIndex: 4202
 {
 	// Fields
 	public int value__; // 0x0

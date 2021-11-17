@@ -1,4 +1,4 @@
-public enum MissionType.Type // TypeDefIndex: 6236
+public enum MissionType.Type // TypeDefIndex: 6227
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,4 +9,5 @@ public enum MissionType.Type // TypeDefIndex: 6236
 	public const MissionType.Type EXTRA = 4;
 	public const MissionType.Type LIMITED = 5;
 	public const MissionType.Type COMPLETE = 6;
+	public const MissionType.Type RANDOM = 7;
 }

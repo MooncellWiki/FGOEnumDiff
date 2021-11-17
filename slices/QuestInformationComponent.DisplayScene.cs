@@ -1,4 +1,4 @@
-public enum QuestInformationComponent.DisplayScene // TypeDefIndex: 11020
+public enum QuestInformationComponent.DisplayScene // TypeDefIndex: 11047
 {
 	// Fields
 	public int value__; // 0x0

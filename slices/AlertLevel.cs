@@ -1,4 +1,4 @@
-internal enum AlertLevel // TypeDefIndex: 1893
+internal enum AlertLevel // TypeDefIndex: 1883
 {
 	// Fields
 	public byte value__; // 0x0

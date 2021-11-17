@@ -1,4 +1,4 @@
-public enum CompareOptions // TypeDefIndex: 258
+public enum CompareOptions // TypeDefIndex: 249
 {
 	// Fields
 	public int value__; // 0x0

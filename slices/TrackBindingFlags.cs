@@ -1,4 +1,4 @@
-public enum TrackBindingFlags // TypeDefIndex: 3655
+public enum TrackBindingFlags // TypeDefIndex: 3638
 {
 	// Fields
 	public int value__; // 0x0

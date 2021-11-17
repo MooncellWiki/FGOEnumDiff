@@ -1,4 +1,4 @@
-private enum SortedList.EnumeratorMode<TKey, TValue> // TypeDefIndex: 1147
+private enum SortedList.EnumeratorMode<TKey, TValue> // TypeDefIndex: 1137
 {
 	// Fields
 	public int value__; // 0x0

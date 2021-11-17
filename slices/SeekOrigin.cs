@@ -1,4 +1,4 @@
-public enum SeekOrigin // TypeDefIndex: 304
+public enum SeekOrigin // TypeDefIndex: 295
 {
 	// Fields
 	public int value__; // 0x0

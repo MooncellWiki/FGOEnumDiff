@@ -1,4 +1,4 @@
-public enum DataManager.UpdateMasterDataResult // TypeDefIndex: 6630
+public enum DataManager.UpdateMasterDataResult // TypeDefIndex: 6623
 {
 	// Fields
 	public int value__; // 0x0

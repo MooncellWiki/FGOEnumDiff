@@ -1,4 +1,4 @@
-public enum EventAttributes // TypeDefIndex: 386
+public enum EventAttributes // TypeDefIndex: 377
 {
 	// Fields
 	public int value__; // 0x0

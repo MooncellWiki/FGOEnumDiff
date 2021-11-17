@@ -1,4 +1,4 @@
-public enum CondType.Kind // TypeDefIndex: 6171
+public enum CondType.Kind // TypeDefIndex: 6162
 {
 	// Fields
 	public int value__; // 0x0
@@ -158,4 +158,11 @@ public enum CondType.Kind // TypeDefIndex: 6171
 	public const CondType.Kind EVENT_TYPE_START_TIME_TO_END_DATE = 153;
 	public const CondType.Kind EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID = 154;
 	public const CondType.Kind NOT_EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID = 155;
+	public const CondType.Kind LIMITED_PERIOD_VOICE_CHANGE_TYPE_ON = 156;
+	public const CondType.Kind START_RANDOM_MISSION = 157;
+	public const CondType.Kind RANDOM_MISSION_CLEAR_NUM = 158;
+	public const CondType.Kind PROGRESS_VALUE_EQUAL = 159;
+	public const CondType.Kind PROGRESS_VALUE_ABOVE = 160;
+	public const CondType.Kind PROGRESS_VALUE_BELOW = 161;
+	public const CondType.Kind RANDOM_MISSION_TOTAL_CLEAR_NUM = 162;
 }

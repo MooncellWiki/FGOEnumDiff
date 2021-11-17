@@ -1,4 +1,4 @@
-public enum TransmitFileOptions // TypeDefIndex: 1514
+public enum TransmitFileOptions // TypeDefIndex: 1504
 {
 	// Fields
 	public int value__; // 0x0

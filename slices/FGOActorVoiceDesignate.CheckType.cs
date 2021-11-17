@@ -1,4 +1,4 @@
-public enum FGOActorVoiceDesignate.CheckType // TypeDefIndex: 7957
+public enum FGOActorVoiceDesignate.CheckType // TypeDefIndex: 7962
 {
 	// Fields
 	public int value__; // 0x0

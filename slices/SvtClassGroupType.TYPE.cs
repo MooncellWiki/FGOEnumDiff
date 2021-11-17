@@ -1,4 +1,4 @@
-public enum SvtClassGroupType.TYPE // TypeDefIndex: 6278
+public enum SvtClassGroupType.TYPE // TypeDefIndex: 6269
 {
 	// Fields
 	public int value__; // 0x0

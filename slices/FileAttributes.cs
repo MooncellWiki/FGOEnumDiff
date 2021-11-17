@@ -1,4 +1,4 @@
-public enum FileAttributes // TypeDefIndex: 282
+public enum FileAttributes // TypeDefIndex: 273
 {
 	// Fields
 	public int value__; // 0x0

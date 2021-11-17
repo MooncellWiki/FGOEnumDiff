@@ -1,4 +1,4 @@
-public enum IOControlCode // TypeDefIndex: 1480
+public enum IOControlCode // TypeDefIndex: 1470
 {
 	// Fields
 	public long value__; // 0x0

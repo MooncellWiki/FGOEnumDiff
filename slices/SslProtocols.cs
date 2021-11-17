@@ -1,4 +1,4 @@
-public enum SslProtocols // TypeDefIndex: 1650
+public enum SslProtocols // TypeDefIndex: 1640
 {
 	// Fields
 	public int value__; // 0x0

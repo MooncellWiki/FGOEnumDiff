@@ -1218,7 +1218,8 @@
     "EVENT_TOWER": "8",
     "RECOVERY_FATIGUE": "9",
     "EVENT_BOARD_GAME_TOKEN": "10",
-    "EVENT_TREASURE": "11"
+    "EVENT_TREASURE": "11",
+    "EVENT_RANDOM": "12"
   },
   "WarBoardTreasureListComponent.DialogType": {
     "AcquiredDialog": "0",
@@ -4284,6 +4285,13 @@
     "Blend": "0",
     "Additive": "1"
   },
+  "EventRandomMissionListViewManager.FilterStatus": {
+    "INIT": "0",
+    "CLEAR": "1",
+    "PROGRESS": "2",
+    "NOTOPEN": "3",
+    "ACHIVE": "4"
+  },
   "AlertLevel": {
     "Warning": "1",
     "Fatal": "2"
@@ -4730,7 +4738,8 @@
     "EQUIP_STORAGE": "12",
     "HELP": "13",
     "GRAIL_FRAGMENTS": "14",
-    "SVT_COSTUME": "15"
+    "SVT_COSTUME": "15",
+    "START_UP_SUMMON": "16"
   },
   "BlacklistRootComponent.MODE": {
     "FRIEND_HISTORY": "0",
@@ -5102,15 +5111,16 @@
     "SHOP_BUY_SERVANT_STORAGE": "6",
     "SHOP_BUY_SERVANT_EQUIP_STORAGE": "7",
     "SHOP_SELL_SERVANT": "8",
-    "SHOP_NOAH": "9",
-    "SHOP_BUY_ACCOUNT_ITEM": "10",
-    "SHOP_BUY_STONE_FRAGMENTS": "11",
-    "SHOP_BUY_ANONYMOUS": "12",
-    "SHOP_BUY_RARE_PRI": "13",
-    "SHOP_BUY_SPECIAL_ITEM": "14",
-    "SHOP_GRAIL_FRAGMENTS": "15",
-    "SHOP_BUY_SVT_COSTUME": "16",
-    "SHOP_BLANK": "17"
+    "SHOP_START_UP_SUMMON": "9",
+    "SHOP_NOAH": "10",
+    "SHOP_BUY_ACCOUNT_ITEM": "11",
+    "SHOP_BUY_STONE_FRAGMENTS": "12",
+    "SHOP_BUY_ANONYMOUS": "13",
+    "SHOP_BUY_RARE_PRI": "14",
+    "SHOP_BUY_SPECIAL_ITEM": "15",
+    "SHOP_GRAIL_FRAGMENTS": "16",
+    "SHOP_BUY_SVT_COSTUME": "17",
+    "SHOP_BLANK": "18"
   },
   "ServantStatusCharaGraphListViewManager.InitMode": {
     "NONE": "0",
@@ -5799,7 +5809,11 @@
     "UPDATE_PROFILE_DIALOG_INFO": "367",
     "SVT_MATERIAL_TD": "368",
     "BATTLE_MASTER_IMAGE": "369",
-    "USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG": "370"
+    "USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG": "370",
+    "USER_EVENT_RANDOM_MISSION": "371",
+    "EVENT_PROGRESS_VALUE": "372",
+    "SVT_MULTI_PORTRAIT": "373",
+    "EVENT_RANDOM_MISSION": "374"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -7308,7 +7322,8 @@
     "EQUIP_STORAGE": "11",
     "SPECIAL_ITEM": "12",
     "GRAIL_FRAGMENTS": "13",
-    "SVT_COSTUME": "14"
+    "SVT_COSTUME": "14",
+    "START_UP_SUMMON": "15"
   },
   "CombineServantListViewManager.ModeKind": {
     "NORMAL": "0",
@@ -8927,7 +8942,8 @@
     "CHECK_DATE_VERSION": "102",
     "BATTLE_USE_ITEM": "103",
     "COMBINE_APPEND_PASSIVE_SKILL": "104",
-    "TREASURE_BOX_DRAW": "105"
+    "TREASURE_BOX_DRAW": "105",
+    "EVENT_MISSION_RANDOM_CANCEL": "106"
   },
   "ServantEquipFramePurchaseConfirmMenu.Kind": {
     "FRAME": "0",
@@ -9437,6 +9453,10 @@
     "INPUT": "2",
     "CLOSE": "3"
   },
+  "UserEventRandomMissionEntity.Status": {
+    "NONE": "0",
+    "START": "1"
+  },
   "ServantStatusFlavorTextListViewObject.InitMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -9740,7 +9760,8 @@
     "SHOP_HELP_SPECIAL_ITEM_SHOP": "13",
     "SHOP_HELP_GRAIL_FRAGMENTS": "14",
     "SHOP_HELP_SVT_COSTUME": "15",
-    "SHOP_BLANK": "16"
+    "SHOP_HELP_START_UP_SUMMON": "16",
+    "SHOP_BLANK": "17"
   },
   "MyRoomListControl.ActionType": {
     "FSM": "0",
@@ -10281,7 +10302,8 @@
     "QUEST_HINT_DIALOG_OPEN_SAVE": "33",
     "LAST_USED_DECK_NUMBER_SAVE": "34",
     "MATERIAL_BRANCH_ROUTE_SAVE": "35",
-    "SUM": "36"
+    "CLEAR_RANDOM_MISSION_SAVE": "36",
+    "SUM": "37"
   },
   "iTween.NamedValueColor": {
     "_Color": "0",
@@ -10870,7 +10892,8 @@
     "DAILY": "3",
     "EXTRA": "4",
     "LIMITED": "5",
-    "COMPLETE": "6"
+    "COMPLETE": "6",
+    "RANDOM": "7"
   },
   "ParticleSystemRenderMode": {
     "Billboard": "0",
@@ -11677,6 +11700,14 @@
     "Current": "1",
     "End": "2"
   },
+  "EventInfoDetectiveRankControl.DetectiveRank": {
+    "RANK_E": "0",
+    "RANK_D": "1",
+    "RANK_C": "2",
+    "RANK_B": "3",
+    "RANK_A": "4",
+    "RANK_EX": "5"
+  },
   "NotifyCollectionChangedAction": {
     "Add": "0",
     "Remove": "1",
@@ -11764,7 +11795,8 @@
     "BGM": "8",
     "LIMIT_MATERIAL": "9",
     "GRAIL_FRAGMENTS": "10",
-    "SVT_COSTUME": "11"
+    "SVT_COSTUME": "11",
+    "START_UP_SUMMON": "12"
   },
   "ServantOperationListViewManager.ModeKind": {
     "SELECT": "0",
@@ -13033,6 +13065,15 @@
     "Plane": "4",
     "Quad": "5"
   },
+  "EventRandomMissionListViewManager.InitMode": {
+    "NONE": "0",
+    "INTO": "1",
+    "VALID": "2",
+    "INPUT": "3",
+    "ENTER": "4",
+    "EXIT": "5",
+    "MODIFY": "6"
+  },
   "PartyOrganizationListViewObject.State": {
     "INIT": "0",
     "IDLE": "1",
@@ -13199,6 +13240,11 @@
     "Cube": "1",
     "WireSphere": "2",
     "WireCube": "3"
+  },
+  "StackTraceLogType": {
+    "None": "0",
+    "ScriptOnly": "1",
+    "Full": "2"
   },
   "PartyOrganizationConfirmMenu.Kind": {
     "NONE": "0",
@@ -15203,7 +15249,8 @@
     "CANCEL_SHOP": "13",
     "ENTER_SPECIAL_ITEM_SHOP": "14",
     "ENTER_GRAIL_FRAGMENTS_SHOP": "15",
-    "ENTER_SVT_COSTUME_SHOP": "16"
+    "ENTER_SVT_COSTUME_SHOP": "16",
+    "ENTER_START_UP_SUMMON_SHOP": "17"
   },
   "ScriptBackLogListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -15531,7 +15578,8 @@
     "CANCEL_SHOP": "8192",
     "ENTER_SPECIAL_ITEM_SHOP": "16384",
     "ENTER_GRAIL_FRAGMENTS_SHOP": "32768",
-    "ENTER_SVT_COSTUME_SHOP": "65536"
+    "ENTER_SVT_COSTUME_SHOP": "65536",
+    "ENTER_START_UP_SUMMON_SHOP": "131072"
   },
   "FavoriteChangeListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -17456,15 +17504,6 @@
     "COMMAND_CODE": "2",
     "SELL": "3"
   },
-  "RegistryValueKind": {
-    "Unknown": "0",
-    "String": "1",
-    "ExpandString": "2",
-    "Binary": "3",
-    "DWord": "4",
-    "MultiString": "7",
-    "QWord": "11"
-  },
   "MouseEventType": {
     "OnMouseEnter": "0",
     "OnMouseOver": "1",
@@ -17682,11 +17721,6 @@
   "BannerAddEntity.DispType": {
     "EVENT_BANNER": "1",
     "EVENT_SHOP_BANNER": "2"
-  },
-  "EnvironmentVariableTarget": {
-    "Process": "0",
-    "User": "1",
-    "Machine": "2"
   },
   "EventScriptEntity.PlayType": {
     "RACE_WIN": "1",
@@ -18143,7 +18177,8 @@
     "EVENT_TOWER": "7",
     "FATIGUE_RECOVERY": "8",
     "EVENT_BOARD_GAME_TOKEN": "9",
-    "TREASURE_BOX": "10"
+    "TREASURE_BOX": "10",
+    "RANDOM_MISSION": "11"
   },
   "BuyStorageConfirmDialogComponent.NotificationType": {
     "NONE": "0",
@@ -19012,15 +19047,6 @@
     "Down": "0",
     "Up": "1"
   },
-  "RegistryHive": {
-    "ClassesRoot": "-2147483648",
-    "CurrentConfig": "-2147483643",
-    "CurrentUser": "-2147483647",
-    "DynData": "-2147483642",
-    "LocalMachine": "-2147483646",
-    "PerformanceData": "-2147483644",
-    "Users": "-2147483645"
-  },
   "EventPointItemListViewObject.InitMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -19508,10 +19534,18 @@
     "Period": "1",
     "Monthly": "2",
     "ExchangeServant": "3",
-    "PeriodAndMonthly": "4",
-    "PeriodAndExchangeServant": "5",
-    "MonthlyAndExchangeServant": "6",
-    "PeriodAndMonthlyAndExchangeServant": "7"
+    "StartUpSummon": "4",
+    "PeriodAndMonthly": "5",
+    "PeriodAndExchangeServant": "6",
+    "PeriodAndStartUpSummon": "7",
+    "MonthlyAndExchangeServant": "8",
+    "MonthlyAndStartUpSummon": "9",
+    "ExchangeServantAndStartUpSummon": "10",
+    "MonthlyAndExchangeServantAndStartUpSummon": "11",
+    "PeriodAndExchangeServantAndStartUpSummon": "12",
+    "PeriodAndMonthlyAndStartUpSummon": "13",
+    "PeriodAndMonthlyAndExchangeServant": "14",
+    "PeriodAndMonthlyAndExchangeServantAndSpecialSummonable": "15"
   },
   "ScriptBranchListViewManager.InitMode": {
     "NONE": "0",
@@ -19797,7 +19831,14 @@
     "LIMIT_COUNT_IMAGE_BELOW": "152",
     "EVENT_TYPE_START_TIME_TO_END_DATE": "153",
     "EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID": "154",
-    "NOT_EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID": "155"
+    "NOT_EXIST_BOX_GACHA_SCRIPT_REPLACE_GIFT_ID": "155",
+    "LIMITED_PERIOD_VOICE_CHANGE_TYPE_ON": "156",
+    "START_RANDOM_MISSION": "157",
+    "RANDOM_MISSION_CLEAR_NUM": "158",
+    "PROGRESS_VALUE_EQUAL": "159",
+    "PROGRESS_VALUE_ABOVE": "160",
+    "PROGRESS_VALUE_BELOW": "161",
+    "RANDOM_MISSION_TOTAL_CLEAR_NUM": "162"
   },
   "ServerSettingMenu.State": {
     "INIT": "0",

@@ -1,4 +1,4 @@
-public enum WindZoneMode // TypeDefIndex: 2883
+public enum WindZoneMode // TypeDefIndex: 2874
 {
 	// Fields
 	public int value__; // 0x0

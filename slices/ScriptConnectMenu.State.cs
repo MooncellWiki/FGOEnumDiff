@@ -1,4 +1,4 @@
-protected enum ScriptConnectMenu.State // TypeDefIndex: 11423
+protected enum ScriptConnectMenu.State // TypeDefIndex: 11452
 {
 	// Fields
 	public int value__; // 0x0

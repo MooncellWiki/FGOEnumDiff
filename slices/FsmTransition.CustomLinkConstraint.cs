@@ -1,4 +1,4 @@
-public enum FsmTransition.CustomLinkConstraint // TypeDefIndex: 3411
+public enum FsmTransition.CustomLinkConstraint // TypeDefIndex: 3394
 {
 	// Fields
 	public byte value__; // 0x0

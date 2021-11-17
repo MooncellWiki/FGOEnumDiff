@@ -1,4 +1,4 @@
-public enum ScriptSelectListViewManager.InitMode // TypeDefIndex: 8500
+public enum ScriptSelectListViewManager.InitMode // TypeDefIndex: 8513
 {
 	// Fields
 	public int value__; // 0x0

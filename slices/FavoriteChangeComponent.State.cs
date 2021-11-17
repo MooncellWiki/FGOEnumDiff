@@ -1,4 +1,4 @@
-protected enum FavoriteChangeComponent.State // TypeDefIndex: 9888
+protected enum FavoriteChangeComponent.State // TypeDefIndex: 9909
 {
 	// Fields
 	public int value__; // 0x0

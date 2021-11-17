@@ -1,4 +1,4 @@
-public enum ColorTween.ColorTweenMode // TypeDefIndex: 3071
+public enum ColorTween.ColorTweenMode // TypeDefIndex: 3059
 {
 	// Fields
 	public int value__; // 0x0

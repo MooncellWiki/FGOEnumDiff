@@ -1,4 +1,4 @@
-public enum OperatingSystemFamily // TypeDefIndex: 2424
+public enum OperatingSystemFamily // TypeDefIndex: 2415
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum PersistentListenerMode // TypeDefIndex: 2443
+public enum PersistentListenerMode // TypeDefIndex: 2434
 {
 	// Fields
 	public int value__; // 0x0

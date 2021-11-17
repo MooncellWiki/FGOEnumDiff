@@ -1,4 +1,4 @@
-public enum TBDragToMove.DragPlaneType // TypeDefIndex: 4297
+public enum TBDragToMove.DragPlaneType // TypeDefIndex: 4281
 {
 	// Fields
 	public int value__; // 0x0

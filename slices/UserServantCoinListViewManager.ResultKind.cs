@@ -1,4 +1,4 @@
-public enum UserServantCoinListViewManager.ResultKind // TypeDefIndex: 10144
+public enum UserServantCoinListViewManager.ResultKind // TypeDefIndex: 10166
 {
 	// Fields
 	public int value__; // 0x0
