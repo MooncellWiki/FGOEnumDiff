@@ -1,4 +1,4 @@
-protected enum ClassCompatibilityMenu.State // TypeDefIndex: 5398
+protected enum ClassCompatibilityMenu.State // TypeDefIndex: 5400
 {
 	// Fields
 	public int value__; // 0x0

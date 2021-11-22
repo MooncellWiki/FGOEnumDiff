@@ -1,4 +1,4 @@
-public enum CriManaMovieMaterial.RenderMode // TypeDefIndex: 4103
+public enum CriManaMovieMaterial.RenderMode // TypeDefIndex: 4105
 {
 	// Fields
 	public int value__; // 0x0

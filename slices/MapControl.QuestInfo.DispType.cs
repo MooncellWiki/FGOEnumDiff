@@ -1,4 +1,4 @@
-public enum MapControl.QuestInfo.DispType // TypeDefIndex: 10946
+public enum MapControl.QuestInfo.DispType // TypeDefIndex: 10952
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UIInput.OnReturnKey // TypeDefIndex: 12083
+public enum UIInput.OnReturnKey // TypeDefIndex: 12089
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CriFsInstaller.Status // TypeDefIndex: 4065
+public enum CriFsInstaller.Status // TypeDefIndex: 4067
 {
 	// Fields
 	public int value__; // 0x0

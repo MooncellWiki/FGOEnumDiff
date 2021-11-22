@@ -1,4 +1,4 @@
-private enum DropAutoSellDlgComponent.State // TypeDefIndex: 10271
+private enum DropAutoSellDlgComponent.State // TypeDefIndex: 10277
 {
 	// Fields
 	public int value__; // 0x0

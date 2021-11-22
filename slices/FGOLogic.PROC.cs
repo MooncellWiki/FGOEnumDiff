@@ -1,4 +1,4 @@
-public enum FGOLogic.PROC // TypeDefIndex: 8023
+public enum FGOLogic.PROC // TypeDefIndex: 8029
 {
 	// Fields
 	public int value__; // 0x0

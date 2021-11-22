@@ -1,4 +1,4 @@
-public enum CostumeListType.Flag // TypeDefIndex: 6169
+public enum CostumeListType.Flag // TypeDefIndex: 6171
 {
 	// Fields
 	public int value__; // 0x0

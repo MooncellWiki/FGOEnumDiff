@@ -1,4 +1,4 @@
-public enum BattleLogic.ClassRelationBuffShowState // TypeDefIndex: 9033
+public enum BattleLogic.ClassRelationBuffShowState // TypeDefIndex: 9039
 {
 	// Fields
 	public int value__; // 0x0

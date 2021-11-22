@@ -1,4 +1,4 @@
-public enum EventMissionItemListViewManager.InitMode // TypeDefIndex: 9673
+public enum EventMissionItemListViewManager.InitMode // TypeDefIndex: 9679
 {
 	// Fields
 	public int value__; // 0x0

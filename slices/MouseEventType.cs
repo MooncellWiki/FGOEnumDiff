@@ -1,4 +1,4 @@
-public enum MouseEventType // TypeDefIndex: 3307
+public enum MouseEventType // TypeDefIndex: 3309
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BaseDialog.MaskType // TypeDefIndex: 5368
+public enum BaseDialog.MaskType // TypeDefIndex: 5370
 {
 	// Fields
 	public int value__; // 0x0

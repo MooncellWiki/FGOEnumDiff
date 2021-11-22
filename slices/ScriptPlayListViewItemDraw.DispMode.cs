@@ -1,4 +1,4 @@
-public enum ScriptPlayListViewItemDraw.DispMode // TypeDefIndex: 11477
+public enum ScriptPlayListViewItemDraw.DispMode // TypeDefIndex: 11483
 {
 	// Fields
 	public int value__; // 0x0

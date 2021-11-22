@@ -1,4 +1,4 @@
-public enum Easing.EasingType // TypeDefIndex: 3713
+public enum Easing.EasingType // TypeDefIndex: 3715
 {
 	// Fields
 	public int value__; // 0x0

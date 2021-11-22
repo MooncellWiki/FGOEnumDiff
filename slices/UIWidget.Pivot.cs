@@ -1,4 +1,4 @@
-public enum UIWidget.Pivot // TypeDefIndex: 12046
+public enum UIWidget.Pivot // TypeDefIndex: 12052
 {
 	// Fields
 	public int value__; // 0x0

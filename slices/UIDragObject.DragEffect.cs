@@ -1,4 +1,4 @@
-public enum UIDragObject.DragEffect // TypeDefIndex: 11942
+public enum UIDragObject.DragEffect // TypeDefIndex: 11948
 {
 	// Fields
 	public int value__; // 0x0

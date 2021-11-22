@@ -1,4 +1,4 @@
-public enum CombineRootComponent.StateType // TypeDefIndex: 9397
+public enum CombineRootComponent.StateType // TypeDefIndex: 9403
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum UIScrollBar.Direction // TypeDefIndex: 11972
+private enum UIScrollBar.Direction // TypeDefIndex: 11978
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum NGUIText.Alignment // TypeDefIndex: 12014
+public enum NGUIText.Alignment // TypeDefIndex: 12020
 {
 	// Fields
 	public int value__; // 0x0

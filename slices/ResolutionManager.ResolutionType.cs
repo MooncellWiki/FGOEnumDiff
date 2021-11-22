@@ -1,4 +1,4 @@
-public enum ResolutionManager.ResolutionType // TypeDefIndex: 6579
+public enum ResolutionManager.ResolutionType // TypeDefIndex: 6585
 {
 	// Fields
 	public int value__; // 0x0

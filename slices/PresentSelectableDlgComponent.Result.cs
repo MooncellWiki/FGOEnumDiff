@@ -1,4 +1,4 @@
-public enum PresentSelectableDlgComponent.Result // TypeDefIndex: 6055
+public enum PresentSelectableDlgComponent.Result // TypeDefIndex: 6057
 {
 	// Fields
 	public int value__; // 0x0

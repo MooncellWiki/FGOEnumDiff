@@ -1,4 +1,4 @@
-public enum PointerEventData.InputButton // TypeDefIndex: 3043
+public enum PointerEventData.InputButton // TypeDefIndex: 3045
 {
 	// Fields
 	public int value__; // 0x0

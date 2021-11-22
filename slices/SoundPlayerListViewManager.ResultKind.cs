@@ -1,4 +1,4 @@
-public enum SoundPlayerListViewManager.ResultKind // TypeDefIndex: 10190
+public enum SoundPlayerListViewManager.ResultKind // TypeDefIndex: 10196
 {
 	// Fields
 	public int value__; // 0x0

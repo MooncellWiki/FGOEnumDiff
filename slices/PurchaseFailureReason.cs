@@ -1,4 +1,4 @@
-public enum PurchaseFailureReason // TypeDefIndex: 2986
+public enum PurchaseFailureReason // TypeDefIndex: 2988
 {
 	// Fields
 	public int value__; // 0x0

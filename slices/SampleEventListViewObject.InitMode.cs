@@ -1,4 +1,4 @@
-public enum SampleEventListViewObject.InitMode // TypeDefIndex: 11564
+public enum SampleEventListViewObject.InitMode // TypeDefIndex: 11570
 {
 	// Fields
 	public int value__; // 0x0
