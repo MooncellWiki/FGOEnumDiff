@@ -1,4 +1,4 @@
-public enum UIDragDropItem.Restriction // TypeDefIndex: 11943
+public enum UIDragDropItem.Restriction // TypeDefIndex: 11941
 {
 	// Fields
 	public int value__; // 0x0

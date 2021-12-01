@@ -1,4 +1,4 @@
-protected enum SelectMyServantOrNpcDialog.State // TypeDefIndex: 10426
+protected enum SelectMyServantOrNpcDialog.State // TypeDefIndex: 10424
 {
 	// Fields
 	public int value__; // 0x0

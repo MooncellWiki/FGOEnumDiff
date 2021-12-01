@@ -1,4 +1,4 @@
-public enum CriAtomExLatencyEstimator.Status // TypeDefIndex: 3987
+public enum CriAtomExLatencyEstimator.Status // TypeDefIndex: 3985
 {
 	// Fields
 	public int value__; // 0x0

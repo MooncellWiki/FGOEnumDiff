@@ -1,4 +1,4 @@
-public enum BoxGachaItemListViewItemDraw.DispMode // TypeDefIndex: 9666
+public enum BoxGachaItemListViewItemDraw.DispMode // TypeDefIndex: 9663
 {
 	// Fields
 	public int value__; // 0x0

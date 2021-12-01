@@ -1,4 +1,4 @@
-protected enum MissionListViewObject.State // TypeDefIndex: 5638
+protected enum MissionListViewObject.State // TypeDefIndex: 5636
 {
 	// Fields
 	public int value__; // 0x0

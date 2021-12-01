@@ -1,4 +1,4 @@
-public enum FingerHoverPhase // TypeDefIndex: 4230
+public enum FingerHoverPhase // TypeDefIndex: 4228
 {
 	// Fields
 	public int value__; // 0x0

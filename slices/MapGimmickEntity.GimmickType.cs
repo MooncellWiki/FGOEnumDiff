@@ -1,4 +1,4 @@
-public enum MapGimmickEntity.GimmickType // TypeDefIndex: 7090
+public enum MapGimmickEntity.GimmickType // TypeDefIndex: 7084
 {
 	// Fields
 	public int value__; // 0x0

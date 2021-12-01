@@ -1,4 +1,4 @@
-private enum BattlePerformanceEnemyMst.loadState // TypeDefIndex: 9246
+private enum BattlePerformanceEnemyMst.loadState // TypeDefIndex: 9243
 {
 	// Fields
 	public int value__; // 0x0

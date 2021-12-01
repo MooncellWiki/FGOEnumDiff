@@ -1,4 +1,4 @@
-public enum ScriptSceneType.Flag // TypeDefIndex: 6253
+public enum ScriptSceneType.Flag // TypeDefIndex: 6251
 {
 	// Fields
 	public int value__; // 0x0

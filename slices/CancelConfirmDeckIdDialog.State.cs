@@ -1,4 +1,4 @@
-private enum CancelConfirmDeckIdDialog.State // TypeDefIndex: 10664
+private enum CancelConfirmDeckIdDialog.State // TypeDefIndex: 10662
 {
 	// Fields
 	public int value__; // 0x0

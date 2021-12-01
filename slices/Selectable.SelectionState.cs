@@ -1,4 +1,4 @@
-protected enum Selectable.SelectionState // TypeDefIndex: 3133
+protected enum Selectable.SelectionState // TypeDefIndex: 3131
 {
 	// Fields
 	public int value__; // 0x0

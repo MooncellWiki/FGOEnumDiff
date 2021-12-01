@@ -1,4 +1,4 @@
-public enum ScrollRect.ScrollbarVisibility // TypeDefIndex: 3124
+public enum ScrollRect.ScrollbarVisibility // TypeDefIndex: 3122
 {
 	// Fields
 	public int value__; // 0x0

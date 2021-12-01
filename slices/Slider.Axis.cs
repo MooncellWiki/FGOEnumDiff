@@ -1,4 +1,4 @@
-private enum Slider.Axis // TypeDefIndex: 3138
+private enum Slider.Axis // TypeDefIndex: 3136
 {
 	// Fields
 	public int value__; // 0x0

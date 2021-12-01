@@ -1,4 +1,4 @@
-public enum ReceiptListViewManager.InitMode // TypeDefIndex: 11404
+public enum ReceiptListViewManager.InitMode // TypeDefIndex: 11402
 {
 	// Fields
 	public int value__; // 0x0

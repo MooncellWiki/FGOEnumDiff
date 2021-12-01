@@ -1,4 +1,4 @@
-public enum FsmEventTarget.EventTarget // TypeDefIndex: 3347
+public enum FsmEventTarget.EventTarget // TypeDefIndex: 3345
 {
 	// Fields
 	public int value__; // 0x0

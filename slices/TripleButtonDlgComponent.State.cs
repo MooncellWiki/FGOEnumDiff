@@ -1,4 +1,4 @@
-protected enum TripleButtonDlgComponent.State // TypeDefIndex: 6026
+protected enum TripleButtonDlgComponent.State // TypeDefIndex: 6024
 {
 	// Fields
 	public int value__; // 0x0

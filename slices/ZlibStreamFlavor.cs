@@ -1,4 +1,4 @@
-internal enum ZlibStreamFlavor // TypeDefIndex: 4406
+internal enum ZlibStreamFlavor // TypeDefIndex: 4404
 {
 	// Fields
 	public int value__; // 0x0
