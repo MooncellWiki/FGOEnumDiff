@@ -1,4 +1,4 @@
-public enum EventTutorialMaster.OpenType // TypeDefIndex: 7011
+public enum EventTutorialMaster.OpenType // TypeDefIndex: 7012
 {
 	// Fields
 	public int value__; // 0x0
@@ -72,4 +72,6 @@ public enum EventTutorialMaster.OpenType // TypeDefIndex: 7011
 	public const EventTutorialMaster.OpenType ON_PUSH_SVT_SELECT = 68;
 	public const EventTutorialMaster.OpenType ON_NP_COMBINE_SVT_SELECT = 69;
 	public const EventTutorialMaster.OpenType ON_APPEND_PASSIVE_SKILL_COMBINE = 70;
+	public const EventTutorialMaster.OpenType ON_PARTY_CONFIRM = 71;
+	public const EventTutorialMaster.OpenType BOX_GACHA_RESET = 72;
 }

@@ -1,4 +1,4 @@
-public enum DebugMenuComponent.TYPE // TypeDefIndex: 7688
+public enum DebugMenuComponent.TYPE // TypeDefIndex: 7689
 {
 	// Fields
 	public int value__; // 0x0

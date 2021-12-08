@@ -1,4 +1,4 @@
-protected enum PartyOrganizationRemoveSelectMenu.State // TypeDefIndex: 10385
+protected enum PartyOrganizationRemoveSelectMenu.State // TypeDefIndex: 10394
 {
 	// Fields
 	public int value__; // 0x0

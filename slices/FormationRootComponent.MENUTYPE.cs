@@ -1,4 +1,4 @@
-private enum FormationRootComponent.MENUTYPE // TypeDefIndex: 9853
+private enum FormationRootComponent.MENUTYPE // TypeDefIndex: 9861
 {
 	// Fields
 	public int value__; // 0x0

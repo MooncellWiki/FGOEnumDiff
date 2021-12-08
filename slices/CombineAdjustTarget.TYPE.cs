@@ -1,4 +1,4 @@
-public enum CombineAdjustTarget.TYPE // TypeDefIndex: 6160
+public enum CombineAdjustTarget.TYPE // TypeDefIndex: 6161
 {
 	// Fields
 	public int value__; // 0x0
@@ -31,4 +31,5 @@ public enum CombineAdjustTarget.TYPE // TypeDefIndex: 6160
 	public const CombineAdjustTarget.TYPE EXCHANGE_SVT_COMBINE_EXP = 27;
 	public const CombineAdjustTarget.TYPE QUEST_USE_CONTINUE_ITEM = 28;
 	public const CombineAdjustTarget.TYPE FRIEND_POINT_GACHA_FREE_DRAW_NUM = 29;
+	public const CombineAdjustTarget.TYPE QUEST_USE_FRIENDSHIP_UP_ITEM = 30;
 }

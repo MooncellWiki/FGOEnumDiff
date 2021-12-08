@@ -1,4 +1,4 @@
-protected enum DPIListViewObject.State // TypeDefIndex: 11383
+protected enum DPIListViewObject.State // TypeDefIndex: 11393
 {
 	// Fields
 	public int value__; // 0x0

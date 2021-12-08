@@ -1,4 +1,4 @@
-public enum UserEventRandomMissionEntity.Status // TypeDefIndex: 7430
+public enum UserEventRandomMissionEntity.Status // TypeDefIndex: 7431
 {
 	// Fields
 	public int value__; // 0x0

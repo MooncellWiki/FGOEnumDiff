@@ -1,4 +1,4 @@
-public enum CostumeReleaseType.Kind // TypeDefIndex: 6171
+public enum CostumeReleaseType.Kind // TypeDefIndex: 6172
 {
 	// Fields
 	public int value__; // 0x0

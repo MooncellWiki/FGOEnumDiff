@@ -1,4 +1,4 @@
-protected enum CommonMessageManager.State // TypeDefIndex: 8409
+protected enum CommonMessageManager.State // TypeDefIndex: 8412
 {
 	// Fields
 	public int value__; // 0x0

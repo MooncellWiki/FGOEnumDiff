@@ -1,4 +1,4 @@
-protected enum PresentBoxFilterSelectMenu.State // TypeDefIndex: 5716
+protected enum PresentBoxFilterSelectMenu.State // TypeDefIndex: 5717
 {
 	// Fields
 	public int value__; // 0x0

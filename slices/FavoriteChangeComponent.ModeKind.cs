@@ -1,4 +1,4 @@
-public enum FavoriteChangeComponent.ModeKind // TypeDefIndex: 9911
+public enum FavoriteChangeComponent.ModeKind // TypeDefIndex: 9919
 {
 	// Fields
 	public int value__; // 0x0

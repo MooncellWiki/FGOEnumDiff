@@ -1,4 +1,4 @@
-private enum ScriptBranchMenu.State // TypeDefIndex: 11438
+private enum ScriptBranchMenu.State // TypeDefIndex: 11448
 {
 	// Fields
 	public int value__; // 0x0

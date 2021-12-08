@@ -1,4 +1,4 @@
-public enum SendEventToFsm.Trigger // TypeDefIndex: 6461
+public enum SendEventToFsm.Trigger // TypeDefIndex: 6462
 {
 	// Fields
 	public int value__; // 0x0

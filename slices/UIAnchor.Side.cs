@@ -1,4 +1,4 @@
-public enum UIAnchor.Side // TypeDefIndex: 12078
+public enum UIAnchor.Side // TypeDefIndex: 12088
 {
 	// Fields
 	public int value__; // 0x0

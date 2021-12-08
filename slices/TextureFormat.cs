@@ -51,9 +51,9 @@ public enum TextureFormat // TypeDefIndex: 2183
 	public const TextureFormat ASTC_RGBA_8x8 = 57;
 	public const TextureFormat ASTC_RGBA_10x10 = 58;
 	public const TextureFormat ASTC_RGBA_12x12 = 59;
-	[ObsoleteAttribute] // RVA: 0x489208 Offset: 0x489208 VA: 0x489208
+	[ObsoleteAttribute] // RVA: 0x485048 Offset: 0x485048 VA: 0x485048
 	public const TextureFormat ETC_RGB4_3DS = 60;
-	[ObsoleteAttribute] // RVA: 0x48923C Offset: 0x48923C VA: 0x48923C
+	[ObsoleteAttribute] // RVA: 0x48507C Offset: 0x48507C VA: 0x48507C
 	public const TextureFormat ETC_RGBA8_3DS = 61;
 	public const TextureFormat RG16 = 62;
 	public const TextureFormat R8 = 63;

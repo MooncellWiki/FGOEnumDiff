@@ -1,4 +1,4 @@
-public enum ScriptTextListViewObject.InitMode // TypeDefIndex: 11501
+public enum ScriptTextListViewObject.InitMode // TypeDefIndex: 11511
 {
 	// Fields
 	public int value__; // 0x0

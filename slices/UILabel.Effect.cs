@@ -1,4 +1,4 @@
-public enum UILabel.Effect // TypeDefIndex: 12091
+public enum UILabel.Effect // TypeDefIndex: 12101
 {
 	// Fields
 	public int value__; // 0x0

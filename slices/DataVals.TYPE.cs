@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6635
+public enum DataVals.TYPE // TypeDefIndex: 6636
 {
 	// Fields
 	public int value__; // 0x0
@@ -89,4 +89,9 @@ public enum DataVals.TYPE // TypeDefIndex: 6635
 	public const DataVals.TYPE IncludeIgnoreIndividuality = 84;
 	public const DataVals.TYPE EvenIfWinDie = 85;
 	public const DataVals.TYPE CallSvtEffectId = 86;
+	public const DataVals.TYPE ForceAddState = 87;
+	public const DataVals.TYPE UnSubState = 88;
+	public const DataVals.TYPE ForceSubState = 89;
+	public const DataVals.TYPE IgnoreIndivUnreleaseable = 90;
+	public const DataVals.TYPE OnParty = 91;
 }

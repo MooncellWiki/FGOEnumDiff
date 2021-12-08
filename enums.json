@@ -2328,7 +2328,8 @@
     "DICE": "26",
     "CONTINUE_ITEM": "27",
     "EUQIP_SKILL_USE_ITEM": "28",
-    "SVT_COIN": "29"
+    "SVT_COIN": "29",
+    "FRIENDSHIP_UP_ITEM": "30"
   },
   "BlockState": {
     "NeedMore": "0",
@@ -9145,7 +9146,12 @@
     "TargetIndiv": "83",
     "IncludeIgnoreIndividuality": "84",
     "EvenIfWinDie": "85",
-    "CallSvtEffectId": "86"
+    "CallSvtEffectId": "86",
+    "ForceAddState": "87",
+    "UnSubState": "88",
+    "ForceSubState": "89",
+    "IgnoreIndivUnreleaseable": "90",
+    "OnParty": "91"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",
@@ -9505,7 +9511,8 @@
     "DAILY_DROP_UP": "26",
     "EXCHANGE_SVT_COMBINE_EXP": "27",
     "QUEST_USE_CONTINUE_ITEM": "28",
-    "FRIEND_POINT_GACHA_FREE_DRAW_NUM": "29"
+    "FRIEND_POINT_GACHA_FREE_DRAW_NUM": "29",
+    "QUEST_USE_FRIENDSHIP_UP_ITEM": "30"
   },
   "TakeScreenshot.Destination": {
     "MyPictures": "0",
@@ -16116,7 +16123,9 @@
     "OPEN_SPECIFIC_QUEST": "67",
     "ON_PUSH_SVT_SELECT": "68",
     "ON_NP_COMBINE_SVT_SELECT": "69",
-    "ON_APPEND_PASSIVE_SKILL_COMBINE": "70"
+    "ON_APPEND_PASSIVE_SKILL_COMBINE": "70",
+    "ON_PARTY_CONFIRM": "71",
+    "BOX_GACHA_RESET": "72"
   },
   "QuestRewardTokenAction.STATE": {
     "NONE": "0",
@@ -18893,7 +18902,10 @@
     "INVALID_HIDE": "32768",
     "IGNORE_INDIVIDUALITY": "65536",
     "FORCE_NOACT": "131072",
-    "NO_TARGET_NOACT": "262144"
+    "NO_TARGET_NOACT": "262144",
+    "UNSUBSTATE": "524288",
+    "IGNORE_INDIV_UNRELEASEABLE": "1048576",
+    "SKILL_ACTOR_NOT_IN_PARTY_NOACT": "2097152"
   },
   "MyRoomHelpListViewObject.State": {
     "INIT": "0",

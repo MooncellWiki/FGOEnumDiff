@@ -1,4 +1,4 @@
-public enum SoundPlayerListViewItem.OPEN_TYPE // TypeDefIndex: 10186
+public enum SoundPlayerListViewItem.OPEN_TYPE // TypeDefIndex: 10194
 {
 	// Fields
 	public int value__; // 0x0

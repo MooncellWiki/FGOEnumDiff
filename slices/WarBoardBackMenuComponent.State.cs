@@ -1,4 +1,4 @@
-protected enum WarBoardBackMenuComponent.State // TypeDefIndex: 11823
+protected enum WarBoardBackMenuComponent.State // TypeDefIndex: 11833
 {
 	// Fields
 	public int value__; // 0x0
