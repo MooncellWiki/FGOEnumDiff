@@ -1,4 +1,4 @@
-public enum IAPButton.ButtonType // TypeDefIndex: 4308
+public enum IAPButton.ButtonType // TypeDefIndex: 4310
 {
 	// Fields
 	public int value__; // 0x0

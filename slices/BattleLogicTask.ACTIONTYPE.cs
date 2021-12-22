@@ -1,4 +1,4 @@
-public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9148
+public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9230
 {
 	// Fields
 	public int value__; // 0x0
@@ -45,4 +45,13 @@ public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9148
 	public const BattleLogicTask.ACTIONTYPE ENEMY_MASTER_CUTIN = 40;
 	public const BattleLogicTask.ACTIONTYPE LOAD_IMMEDIATE_ENTRY_SERVANT = 41;
 	public const BattleLogicTask.ACTIONTYPE FIELDAI_ENTRY_UNIT = 42;
+	public const BattleLogicTask.ACTIONTYPE PLAY_FIELD_MOTION = 43;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_START_WAVE = 44;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_START_TURN = 45;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_ENTRY_UNIT = 46;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_REACT_DEAD = 47;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_START_PLAYERTURN = 48;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_END_PLAYERTURN = 49;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_START_ENEMYTURN = 50;
+	public const BattleLogicTask.ACTIONTYPE NPCAI_END_ENEMYTURN = 51;
 }

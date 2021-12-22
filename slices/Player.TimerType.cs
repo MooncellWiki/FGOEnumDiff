@@ -1,4 +1,4 @@
-public enum Player.TimerType // TypeDefIndex: 4129
+public enum Player.TimerType // TypeDefIndex: 4131
 {
 	// Fields
 	public int value__; // 0x0

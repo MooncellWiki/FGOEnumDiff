@@ -1,4 +1,4 @@
-public enum TerminalSceneComponent.QUIT_TYPE // TypeDefIndex: 8642
+public enum TerminalSceneComponent.QUIT_TYPE // TypeDefIndex: 8697
 {
 	// Fields
 	public int value__; // 0x0

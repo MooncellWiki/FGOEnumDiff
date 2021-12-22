@@ -1,4 +1,4 @@
-protected enum UserPresentBoxWindow.QUESTTYPE // TypeDefIndex: 6073
+protected enum UserPresentBoxWindow.QUESTTYPE // TypeDefIndex: 6078
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SupportServantSelectMenu.ModeKind // TypeDefIndex: 10772
+public enum SupportServantSelectMenu.ModeKind // TypeDefIndex: 10908
 {
 	// Fields
 	public int value__; // 0x0

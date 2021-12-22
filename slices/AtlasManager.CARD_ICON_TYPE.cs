@@ -1,4 +1,4 @@
-public enum AtlasManager.CARD_ICON_TYPE // TypeDefIndex: 6337
+public enum AtlasManager.CARD_ICON_TYPE // TypeDefIndex: 6343
 {
 	// Fields
 	public int value__; // 0x0

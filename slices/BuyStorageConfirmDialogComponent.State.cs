@@ -1,4 +1,4 @@
-private enum BuyStorageConfirmDialogComponent.State // TypeDefIndex: 10475
+private enum BuyStorageConfirmDialogComponent.State // TypeDefIndex: 10600
 {
 	// Fields
 	public int value__; // 0x0

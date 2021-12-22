@@ -1,4 +1,4 @@
-protected enum BoostSupportRequestMenu.State // TypeDefIndex: 5377
+protected enum BoostSupportRequestMenu.State // TypeDefIndex: 5379
 {
 	// Fields
 	public int value__; // 0x0

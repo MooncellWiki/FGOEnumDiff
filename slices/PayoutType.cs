@@ -1,4 +1,4 @@
-public enum PayoutType // TypeDefIndex: 2978
+public enum PayoutType // TypeDefIndex: 2980
 {
 	// Fields
 	public int value__; // 0x0

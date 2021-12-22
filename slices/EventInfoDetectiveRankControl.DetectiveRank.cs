@@ -1,4 +1,4 @@
-public enum EventInfoDetectiveRankControl.DetectiveRank // TypeDefIndex: 5535
+public enum EventInfoDetectiveRankControl.DetectiveRank // TypeDefIndex: 5539
 {
 	// Fields
 	public int value__; // 0x0

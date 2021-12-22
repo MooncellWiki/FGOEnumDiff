@@ -1,4 +1,4 @@
-public enum TitleInfoEventBulletinBoardComponent.DispType // TypeDefIndex: 5888
+public enum TitleInfoEventBulletinBoardComponent.DispType // TypeDefIndex: 5892
 {
 	// Fields
 	public int value__; // 0x0

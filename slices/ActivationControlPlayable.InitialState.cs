@@ -1,4 +1,4 @@
-private enum ActivationControlPlayable.InitialState // TypeDefIndex: 3687
+private enum ActivationControlPlayable.InitialState // TypeDefIndex: 3689
 {
 	// Fields
 	public int value__; // 0x0

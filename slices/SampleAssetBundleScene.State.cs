@@ -1,4 +1,4 @@
-protected enum SampleAssetBundleScene.State // TypeDefIndex: 11548
+protected enum SampleAssetBundleScene.State // TypeDefIndex: 11684
 {
 	// Fields
 	public int value__; // 0x0

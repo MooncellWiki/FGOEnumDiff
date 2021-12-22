@@ -1,4 +1,4 @@
-private enum TitleInfoEventFactory.EffectId // TypeDefIndex: 5899
+private enum TitleInfoEventFactory.EffectId // TypeDefIndex: 5903
 {
 	// Fields
 	public int value__; // 0x0

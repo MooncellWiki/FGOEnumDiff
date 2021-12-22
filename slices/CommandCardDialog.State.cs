@@ -1,4 +1,4 @@
-protected enum CommandCardDialog.State // TypeDefIndex: 9436
+protected enum CommandCardDialog.State // TypeDefIndex: 9559
 {
 	// Fields
 	public int value__; // 0x0

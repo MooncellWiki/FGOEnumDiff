@@ -1,4 +1,4 @@
-public enum AiLogic.PROC_STATE // TypeDefIndex: 9012
+public enum AiLogic.PROC_STATE // TypeDefIndex: 9080
 {
 	// Fields
 	public int value__; // 0x0
@@ -17,4 +17,5 @@ public enum AiLogic.PROC_STATE // TypeDefIndex: 9012
 	public const AiLogic.PROC_STATE TURN_PLAYER_END = 13;
 	public const AiLogic.PROC_STATE SHIFT_SERVANT_AFTER = 14;
 	public const AiLogic.PROC_STATE ENTRY_UNIT = 15;
+	public const AiLogic.PROC_STATE TURN_START_PREV = 16;
 }

@@ -1,4 +1,4 @@
-public enum SampleCardListViewItemDraw.DispMode // TypeDefIndex: 11560
+public enum SampleCardListViewItemDraw.DispMode // TypeDefIndex: 11696
 {
 	// Fields
 	public int value__; // 0x0

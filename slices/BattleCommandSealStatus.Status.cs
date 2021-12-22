@@ -1,4 +1,4 @@
-public enum BattleCommandSealStatus.Status // TypeDefIndex: 8998
+public enum BattleCommandSealStatus.Status // TypeDefIndex: 9066
 {
 	// Fields
 	public int value__; // 0x0

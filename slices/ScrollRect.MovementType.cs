@@ -1,4 +1,4 @@
-public enum ScrollRect.MovementType // TypeDefIndex: 3121
+public enum ScrollRect.MovementType // TypeDefIndex: 3123
 {
 	// Fields
 	public int value__; // 0x0

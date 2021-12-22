@@ -1,4 +1,4 @@
-public enum Custom2dSplineMesh.FlattenAxis // TypeDefIndex: 6606
+public enum Custom2dSplineMesh.FlattenAxis // TypeDefIndex: 6641
 {
 	// Fields
 	public int value__; // 0x0

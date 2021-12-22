@@ -1,4 +1,4 @@
-public enum AtlasManager.SkinType // TypeDefIndex: 6339
+public enum AtlasManager.SkinType // TypeDefIndex: 6345
 {
 	// Fields
 	public int value__; // 0x0

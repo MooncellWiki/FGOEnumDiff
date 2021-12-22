@@ -1,4 +1,4 @@
-public enum MaterialCollectionMenu.ResultKind // TypeDefIndex: 9998
+public enum MaterialCollectionMenu.ResultKind // TypeDefIndex: 10121
 {
 	// Fields
 	public int value__; // 0x0

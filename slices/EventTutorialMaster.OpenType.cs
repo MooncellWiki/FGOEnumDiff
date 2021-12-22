@@ -1,4 +1,4 @@
-public enum EventTutorialMaster.OpenType // TypeDefIndex: 7012
+public enum EventTutorialMaster.OpenType // TypeDefIndex: 7060
 {
 	// Fields
 	public int value__; // 0x0
@@ -74,4 +74,5 @@ public enum EventTutorialMaster.OpenType // TypeDefIndex: 7012
 	public const EventTutorialMaster.OpenType ON_APPEND_PASSIVE_SKILL_COMBINE = 70;
 	public const EventTutorialMaster.OpenType ON_PARTY_CONFIRM = 71;
 	public const EventTutorialMaster.OpenType BOX_GACHA_RESET = 72;
+	public const EventTutorialMaster.OpenType ON_COIN_ROOM = 73;
 }

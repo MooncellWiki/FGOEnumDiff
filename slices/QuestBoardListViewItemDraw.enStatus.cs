@@ -1,4 +1,4 @@
-public enum QuestBoardListViewItemDraw.enStatus // TypeDefIndex: 11036
+public enum QuestBoardListViewItemDraw.enStatus // TypeDefIndex: 11172
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,4 +8,5 @@ public enum QuestBoardListViewItemDraw.enStatus // TypeDefIndex: 11036
 	public const QuestBoardListViewItemDraw.enStatus enComplete = 3;
 	public const QuestBoardListViewItemDraw.enStatus enPickup = 4;
 	public const QuestBoardListViewItemDraw.enStatus enMAX = 5;
+	public const QuestBoardListViewItemDraw.enStatus enNotice = 6;
 }

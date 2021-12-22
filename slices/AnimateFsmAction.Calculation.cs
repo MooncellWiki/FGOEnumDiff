@@ -1,4 +1,4 @@
-public enum AnimateFsmAction.Calculation // TypeDefIndex: 12146
+public enum AnimateFsmAction.Calculation // TypeDefIndex: 12283
 {
 	// Fields
 	public int value__; // 0x0

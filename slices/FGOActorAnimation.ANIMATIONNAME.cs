@@ -1,4 +1,4 @@
-public enum FGOActorAnimation.ANIMATIONNAME // TypeDefIndex: 7906
+public enum FGOActorAnimation.ANIMATIONNAME // TypeDefIndex: 7954
 {
 	// Fields
 	public int value__; // 0x0

@@ -36,7 +36,8 @@
     "enClear": "2",
     "enComplete": "3",
     "enPickup": "4",
-    "enMAX": "5"
+    "enMAX": "5",
+    "enNotice": "6"
   },
   "Trigger2DType": {
     "OnTriggerEnter2D": "0",
@@ -521,6 +522,11 @@
     "NONE": "0",
     "ALIVE_ENEMY_ALLY": "1",
     "ALIVE_SELF": "2"
+  },
+  "CoinRoomEffectComponent.State": {
+    "INIT": "0",
+    "EFFECT": "1",
+    "CLOSE": "2"
   },
   "DebugListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -1614,6 +1620,9 @@
     "DomainMask": "3",
     "DisallowBindings": "4"
   },
+  "GachaEntity.FlagKind": {
+    "PC_MESSAGE": "1"
+  },
   "ChangeRendererMaterialColorEffect.RendererType": {
     "Renderer": "0",
     "ParticleSystemRenderer": "1",
@@ -1627,7 +1636,9 @@
     "PLAYER_POP_POINT": "2",
     "POP_PLAYER": "3",
     "PLAYER_TACTICAL": "4",
-    "ENEMY_TACTOCAL": "5"
+    "ENEMY_TACTOCAL": "5",
+    "NPC_BATTLE": "6",
+    "NPC_TACTICAL": "7"
   },
   "PartyOrganizationConfirmDeckMenu.Kind": {
     "CANCEL": "0",
@@ -1834,6 +1845,11 @@
     "INVALID": "1",
     "VALID": "2",
     "INPUT": "3"
+  },
+  "CoinRoomCoinListViewManager.ResultKind": {
+    "NONE": "0",
+    "ITEM_DETAIL": "1",
+    "SELECT_DETAIL": "2"
   },
   "BattleActionData.BuffData.UpdateBuffType": {
     "SKILL_RANK": "1"
@@ -2071,7 +2087,8 @@
     "TURN_PLAYER_START": "12",
     "TURN_PLAYER_END": "13",
     "SHIFT_SERVANT_AFTER": "14",
-    "ENTRY_UNIT": "15"
+    "ENTRY_UNIT": "15",
+    "TURN_START_PREV": "16"
   },
   "EventEntity.EventOpenType": {
     "ONCE": "1",
@@ -4740,7 +4757,8 @@
     "HELP": "13",
     "GRAIL_FRAGMENTS": "14",
     "SVT_COSTUME": "15",
-    "START_UP_SUMMON": "16"
+    "START_UP_SUMMON": "16",
+    "COIN_ROOM": "17"
   },
   "BlacklistRootComponent.MODE": {
     "FRIEND_HISTORY": "0",
@@ -5068,6 +5086,7 @@
     "GOLEM_SKILL_HELP": "45",
     "OVERWRITE_LIMIT_HELP": "46",
     "SPECIAL_ITEM_HELP": "47",
+    "COIN_ROOM": "57",
     "DECK2_1": "644"
   },
   "BoolOperator.Operation": {
@@ -5098,6 +5117,11 @@
     "MOVE": "2",
     "INPUT": "3"
   },
+  "BattleLogicNpcAi.NoblePhantasmActProc.ParamOrder": {
+    "ID": "0",
+    "LV": "1",
+    "CHANGE_NP": "2"
+  },
   "AiLogic.AiInfo.AITYPE": {
     "NONE": "0",
     "SERVANT": "1",
@@ -5121,7 +5145,8 @@
     "SHOP_BUY_SPECIAL_ITEM": "15",
     "SHOP_GRAIL_FRAGMENTS": "16",
     "SHOP_BUY_SVT_COSTUME": "17",
-    "SHOP_BLANK": "18"
+    "SHOP_COIN_ROOM": "18",
+    "SHOP_BLANK": "19"
   },
   "ServantStatusCharaGraphListViewManager.InitMode": {
     "NONE": "0",
@@ -5243,6 +5268,7 @@
     "Warehouse": "71",
     "EventReward": "72",
     "WarBoard": "80",
+    "CoinRoom": "90",
     "Empty": "1000",
     "SummonEffect": "1001"
   },
@@ -5814,7 +5840,9 @@
     "USER_EVENT_RANDOM_MISSION": "371",
     "EVENT_PROGRESS_VALUE": "372",
     "SVT_MULTI_PORTRAIT": "373",
-    "EVENT_RANDOM_MISSION": "374"
+    "EVENT_RANDOM_MISSION": "374",
+    "USER_GACHA_HISTORY": "375",
+    "USER_COIN_ROOM": "376"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -6090,7 +6118,8 @@
     "BLACK_MARK_WITH_CLEAR": "16384",
     "DISP_FIRST_QUEST": "32768",
     "EFFECT_DISAPPEAR_BANNER": "65536",
-    "WHITE_MARK_WITH_CLEAR": "131072"
+    "WHITE_MARK_WITH_CLEAR": "131072",
+    "WHITE_MARK_UNDER_BOARD": "262144"
   },
   "ServantSortSelectMenu.Kind": {
     "SERVANT_COMBINE_BASE_SELECT": "0",
@@ -7257,7 +7286,8 @@
     "DROP_ITEM": "4",
     "ON_DRESS": "5",
     "OFF_DRESS": "6",
-    "LOAD_CALL": "7"
+    "LOAD_CALL": "7",
+    "STOP_VOICE": "8"
   },
   "RegistryPermissionAccess": {
     "NoAccess": "0",
@@ -7435,7 +7465,8 @@
     "FRIEND_SUPPORT_INFO": "80",
     "MASTER_MISSION": "81",
     "WAREHOUSE": "82",
-    "MAIN_INTERLUDE": "83"
+    "MAIN_INTERLUDE": "83",
+    "COIN_ROOM": "84"
   },
   "UITable.Sorting": {
     "None": "0",
@@ -7776,6 +7807,12 @@
     "VALID": "2",
     "INPUT": "3"
   },
+  "CoinRoomSelectCoinComponent.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "CLOSE": "3"
+  },
   "SpawnerOverflowPolicy": {
     "Instantiate": "0",
     "Recycle": "1"
@@ -7873,6 +7910,16 @@
     "ReferenceUnsolved": "1",
     "ReferenceSolvingDelayed": "2",
     "ReferenceSolved": "3"
+  },
+  "CoinRoomCoinIconObject.InitMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3",
+    "MODIFY": "4",
+    "INTO": "5",
+    "ENTER": "6",
+    "EXIT": "7"
   },
   "AssistEffectConfirmDialog.State": {
     "INIT": "0",
@@ -8382,6 +8429,9 @@
     "INPUT": "2",
     "MODIFY": "3"
   },
+  "GachaEntity.Flag": {
+    "PC_MESSAGE": "2"
+  },
   "ScriptObjectListViewMenu.State": {
     "INIT": "0",
     "LOAD": "1",
@@ -8555,6 +8605,12 @@
     "NONE": "0",
     "VALID": "1",
     "INPUT": "2"
+  },
+  "CoinRoomCoinIconDraw.DispMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
   },
   "CharaGraphListMenu.ModeKind": {
     "STATUS": "0",
@@ -8944,7 +9000,8 @@
     "BATTLE_USE_ITEM": "103",
     "COMBINE_APPEND_PASSIVE_SKILL": "104",
     "TREASURE_BOX_DRAW": "105",
-    "EVENT_MISSION_RANDOM_CANCEL": "106"
+    "EVENT_MISSION_RANDOM_CANCEL": "106",
+    "COIN_ROOM": "107"
   },
   "ServantEquipFramePurchaseConfirmMenu.Kind": {
     "FRAME": "0",
@@ -8964,6 +9021,10 @@
     "None": "0",
     "Read": "1",
     "Ping": "4"
+  },
+  "SummonHistoryListViewItem.LayoutType": {
+    "Message": "0",
+    "Datetime": "1"
   },
   "EventRewardSceneEntity.RewardSceneFlag": {
     "IS_NPC_GUIDE": "1",
@@ -9198,6 +9259,13 @@
     "INVALID": "1",
     "VALID": "2",
     "INPUT": "3"
+  },
+  "CoinRoomSortSelectManager.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
   },
   "PresentBoxNotificationListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -9768,7 +9836,8 @@
     "SHOP_HELP_GRAIL_FRAGMENTS": "14",
     "SHOP_HELP_SVT_COSTUME": "15",
     "SHOP_HELP_START_UP_SUMMON": "16",
-    "SHOP_BLANK": "17"
+    "SHOP_HELP_COIN_ROOM": "17",
+    "SHOP_BLANK": "18"
   },
   "MyRoomListControl.ActionType": {
     "FSM": "0",
@@ -10743,6 +10812,9 @@
     "BOSSPOINT_WIN": "3",
     "SIZEOF": "4"
   },
+  "UserGachaEntity.StatusKind": {
+    "PC_END": "1"
+  },
   "LightProbeUsage": {
     "Off": "0",
     "BlendProbes": "1",
@@ -11053,7 +11125,10 @@
     "REACTION_WAVESTART": "-8",
     "MAXNP": "-9",
     "SHIFT_SARVANT_AFTER": "-10",
-    "USENP_TARGET": "-11"
+    "USENP_TARGET": "-11",
+    "REACTION_TURNSTART": "-12",
+    "REACTION_PLAYERACTIONSTART": "-13",
+    "REACTION_ENTRY_UNIT": "-14"
   },
   "ServantStatusDialog.TabKind": {
     "STATUS": "0",
@@ -11965,6 +12040,9 @@
     "StartTime": "28",
     "Priority": "31"
   },
+  "UserGachaEntity.Status": {
+    "PC_END": "2"
+  },
   "SoundTestMenu.SortType": {
     "CUE_NUM": "0",
     "ASCENDING_ORDER": "1",
@@ -12387,7 +12465,11 @@
     "COUNT_EQUAL_AI_173": "173",
     "CHECK_AI_174": "174",
     "CHECK_SELF_NPTURN_HIGHER": "175",
-    "CHECK_SELF_NPTURN_LOWER": "176"
+    "CHECK_SELF_NPTURN_LOWER": "176",
+    "CHECK_USE_SKILL_THISTURN": "177",
+    "COUNT_CHAIN_HIGHER": "178",
+    "COUNT_CHAIN_LOWER": "179",
+    "COUNT_CHAIN_EQUAL": "180"
   },
   "ListViewSort.ExpUpDispType": {
     "EXP_UP": "0",
@@ -13003,6 +13085,12 @@
   "CriFsInstaller.CopyPolicy": {
     "Always": "0"
   },
+  "CoinRoomCoinListViewManager.InitMode": {
+    "NONE": "0",
+    "VALID": "1",
+    "INPUT": "2",
+    "MODIFY": "3"
+  },
   "SvtAttri.TYPE": {
     "HUMAN": "1",
     "SKY": "2",
@@ -13223,6 +13311,10 @@
     "Object": "12",
     "Array": "13",
     "Enum": "14"
+  },
+  "CoinRoomRootComponent.State": {
+    "INIT": "0",
+    "SELECT_COIN": "1"
   },
   "EventMissionConditionEntity.Flag": {
     "NONE": "1",
@@ -13568,7 +13660,16 @@
     "CHANGE_APP": "39",
     "ENEMY_MASTER_CUTIN": "40",
     "LOAD_IMMEDIATE_ENTRY_SERVANT": "41",
-    "FIELDAI_ENTRY_UNIT": "42"
+    "FIELDAI_ENTRY_UNIT": "42",
+    "PLAY_FIELD_MOTION": "43",
+    "NPCAI_START_WAVE": "44",
+    "NPCAI_START_TURN": "45",
+    "NPCAI_ENTRY_UNIT": "46",
+    "NPCAI_REACT_DEAD": "47",
+    "NPCAI_START_PLAYERTURN": "48",
+    "NPCAI_END_PLAYERTURN": "49",
+    "NPCAI_START_ENEMYTURN": "50",
+    "NPCAI_END_ENEMYTURN": "51"
   },
   "FingerHoverPhase": {
     "None": "0",
@@ -13582,6 +13683,16 @@
   "DebugListViewMenu.State": {
     "INIT": "0",
     "INPUT": "1"
+  },
+  "BattleData.CHAIN_COUNT_TYPE": {
+    "ARTS": "1",
+    "BUSTER": "2",
+    "QUICK": "3",
+    "BRAVE": "4",
+    "BRAVE_AND_ARTS": "5",
+    "BRAVE_AND_BUSTER": "6",
+    "BRAVE_AND_QUICK": "7",
+    "TREASURE_DVC": "8"
   },
   "PackingSize": {
     "Unspecified": "0",
@@ -14149,7 +14260,14 @@
     "AFTER_SHIFTSERVANT": "57",
     "PLAYER_ATTACK_TERM": "58",
     "ENEMY_ATTACK_TERM": "59",
-    "LOGIC_TERM": "60"
+    "NPCAI_START_WAVE": "60",
+    "NPCAI_START_TURN": "61",
+    "NPCAI_ENTRY_UNIT": "62",
+    "NPCAI_START_PLAYERTURN": "63",
+    "NPCAI_END_PLAYERTURN": "64",
+    "NPCAI_START_ENEMYTURN": "65",
+    "NPCAI_END_ENEMYTURN": "66",
+    "LOGIC_TERM": "67"
   },
   "UserItemListViewManager.Type": {
     "STONE": "1",
@@ -14678,7 +14796,9 @@
     "PRECEDING_ENEMY": "29",
     "REMAIN_TURN": "30",
     "AVALON_145566": "31",
-    "CHECK_PARAMATER_32": "32"
+    "CHECK_PARAMATER_32": "32",
+    "CHAIN_COUNT": "33",
+    "CHECK_TARGET_SKILL_THISTURN": "34"
   },
   "UserPresentListViewManager.KIND": {
     "NORMAL": "0",
@@ -14711,6 +14831,11 @@
   "EventRewardRootComponent.VoiceIndexEnum": {
     "WELCOME": "0",
     "PURCHASE": "1"
+  },
+  "CoinConfirmDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "CLOSE": "2"
   },
   "AspectRatioFitter.AspectMode": {
     "None": "0",
@@ -15045,7 +15170,8 @@
   "TitleRootComponent.StoryProgress": {
     "NORMAL": "0",
     "EPIC_OF_REMNANT": "1",
-    "COSMOS_IN_THE_LOSTBELT": "2"
+    "COSMOS_IN_THE_LOSTBELT": "2",
+    "COSMOS_IN_THE_LOSTBELT_VER2": "3"
   },
   "PartyOrganizationConfirmMyServantMenu.Kind": {
     "START_RESTICTION_FIXED_MY_SERVANT_POSITION": "0",
@@ -15075,7 +15201,11 @@
     "MATERIAL_PARENT_WAR": "10",
     "COORDINATES": "11",
     "EFFECT_CHANGE_BLACK_MARK": "12",
-    "QUEST_BOARD_SECTION_IMAGE": "13"
+    "QUEST_BOARD_SECTION_IMAGE": "13",
+    "WAR_FORCE_DISP": "14",
+    "WAR_FORCE_HIDE": "15",
+    "START_TYPE": "16",
+    "NOTICE_DIALOG_TEXT": "17"
   },
   "SamsungAppsMode": {
     "Production": "0",
@@ -16125,7 +16255,8 @@
     "ON_NP_COMBINE_SVT_SELECT": "69",
     "ON_APPEND_PASSIVE_SKILL_COMBINE": "70",
     "ON_PARTY_CONFIRM": "71",
-    "BOX_GACHA_RESET": "72"
+    "BOX_GACHA_RESET": "72",
+    "ON_COIN_ROOM": "73"
   },
   "QuestRewardTokenAction.STATE": {
     "NONE": "0",
@@ -16382,6 +16513,11 @@
     "Unconstrained": "0",
     "MinSize": "1",
     "PreferredSize": "2"
+  },
+  "CoinConfirmSliderDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "CLOSE": "2"
   },
   "OpeningMovieMaster.SortType": {
     "ID": "0",
@@ -16768,6 +16904,10 @@
     "RANDOM_LIMIT_COUNT_SUPPORT": "10",
     "RANDOM_LIMIT_COUNT_SETTING": "11",
     "RANDOM_LIMIT_COUNT_MASK": "12"
+  },
+  "CoinRoomSortSelectManager.Kind": {
+    "COIN_ROOM_SORT": "0",
+    "COIN_ROOM_FILTER": "1"
   },
   "UIWidget.AspectRatioSource": {
     "Free": "0",
@@ -18001,6 +18141,12 @@
     "VALID": "1",
     "INPUT": "2"
   },
+  "CoinRoomCoinIconObject.State": {
+    "INIT": "0",
+    "IDLE": "1",
+    "MOVE": "2",
+    "INPUT": "3"
+  },
   "CompleteMissionComponent.Type": {
     "NONE": "-1",
     "COMPLETE": "0"
@@ -18116,6 +18262,13 @@
     "ENEMYSTAGE": "5",
     "REPLACE": "6",
     "NPSTAGE": "7"
+  },
+  "CoinBulkSelectDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
   },
   "IOControlCode": {
     "AbsorbRouterAlert": "2550136837",

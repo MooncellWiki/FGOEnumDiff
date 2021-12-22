@@ -1,4 +1,4 @@
-protected enum SummonLimitWarningDlgComponent.State // TypeDefIndex: 10659
+protected enum SummonLimitWarningDlgComponent.State // TypeDefIndex: 10795
 {
 	// Fields
 	public int value__; // 0x0

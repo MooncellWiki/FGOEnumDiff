@@ -1,4 +1,4 @@
-public enum TrackOffset // TypeDefIndex: 3662
+public enum TrackOffset // TypeDefIndex: 3664
 {
 	// Fields
 	public int value__; // 0x0

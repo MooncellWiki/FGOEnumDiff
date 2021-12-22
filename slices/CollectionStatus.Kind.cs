@@ -1,4 +1,4 @@
-public enum CollectionStatus.Kind // TypeDefIndex: 6159
+public enum CollectionStatus.Kind // TypeDefIndex: 6165
 {
 	// Fields
 	public int value__; // 0x0

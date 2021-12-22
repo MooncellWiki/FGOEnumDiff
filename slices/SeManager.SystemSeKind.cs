@@ -1,4 +1,4 @@
-public enum SeManager.SystemSeKind // TypeDefIndex: 6587
+public enum SeManager.SystemSeKind // TypeDefIndex: 6622
 {
 	// Fields
 	public int value__; // 0x0

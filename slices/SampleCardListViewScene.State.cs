@@ -1,4 +1,4 @@
-protected enum SampleCardListViewScene.State // TypeDefIndex: 11567
+protected enum SampleCardListViewScene.State // TypeDefIndex: 11703
 {
 	// Fields
 	public int value__; // 0x0

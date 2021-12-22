@@ -1,4 +1,4 @@
-public enum ConditionsInformation.PARAMATER // TypeDefIndex: 9020
+public enum ConditionsInformation.PARAMATER // TypeDefIndex: 9088
 {
 	// Fields
 	public int value__; // 0x0
@@ -35,4 +35,6 @@ public enum ConditionsInformation.PARAMATER // TypeDefIndex: 9020
 	public const ConditionsInformation.PARAMATER REMAIN_TURN = 30;
 	public const ConditionsInformation.PARAMATER AVALON_145566 = 31;
 	public const ConditionsInformation.PARAMATER CHECK_PARAMATER_32 = 32;
+	public const ConditionsInformation.PARAMATER CHAIN_COUNT = 33;
+	public const ConditionsInformation.PARAMATER CHECK_TARGET_SKILL_THISTURN = 34;
 }

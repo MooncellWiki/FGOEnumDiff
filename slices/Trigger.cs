@@ -1,4 +1,4 @@
-public enum Trigger // TypeDefIndex: 12008
+public enum Trigger // TypeDefIndex: 12145
 {
 	// Fields
 	public int value__; // 0x0

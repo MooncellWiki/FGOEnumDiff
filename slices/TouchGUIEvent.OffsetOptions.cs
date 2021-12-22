@@ -1,4 +1,4 @@
-public enum TouchGUIEvent.OffsetOptions // TypeDefIndex: 12865
+public enum TouchGUIEvent.OffsetOptions // TypeDefIndex: 13002
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BannerAddEntity.DispType // TypeDefIndex: 6702
+public enum BannerAddEntity.DispType // TypeDefIndex: 6750
 {
 	// Fields
 	public int value__; // 0x0

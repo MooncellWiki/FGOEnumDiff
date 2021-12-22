@@ -1,4 +1,4 @@
-public enum GraphicRaycaster.BlockingObjects // TypeDefIndex: 3086
+public enum GraphicRaycaster.BlockingObjects // TypeDefIndex: 3088
 {
 	// Fields
 	public int value__; // 0x0

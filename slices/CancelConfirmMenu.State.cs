@@ -1,4 +1,4 @@
-protected enum CancelConfirmMenu.State // TypeDefIndex: 10677
+protected enum CancelConfirmMenu.State // TypeDefIndex: 10813
 {
 	// Fields
 	public int value__; // 0x0

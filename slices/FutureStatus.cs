@@ -1,4 +1,4 @@
-internal enum FutureStatus // TypeDefIndex: 3247
+internal enum FutureStatus // TypeDefIndex: 3249
 {
 	// Fields
 	public int value__; // 0x0

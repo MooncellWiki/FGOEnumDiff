@@ -1,4 +1,4 @@
-public enum UserGameActRecoverMenu.Result // TypeDefIndex: 6045
+public enum UserGameActRecoverMenu.Result // TypeDefIndex: 6050
 {
 	// Fields
 	public int value__; // 0x0

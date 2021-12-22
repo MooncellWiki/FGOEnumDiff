@@ -1,4 +1,4 @@
-public enum WarEntity.Flag // TypeDefIndex: 7617
+public enum WarEntity.Flag // TypeDefIndex: 7664
 {
 	// Fields
 	public int value__; // 0x0
@@ -19,4 +19,5 @@ public enum WarEntity.Flag // TypeDefIndex: 7617
 	public const WarEntity.Flag DISP_FIRST_QUEST = 32768;
 	public const WarEntity.Flag EFFECT_DISAPPEAR_BANNER = 65536;
 	public const WarEntity.Flag WHITE_MARK_WITH_CLEAR = 131072;
+	public const WarEntity.Flag WHITE_MARK_UNDER_BOARD = 262144;
 }

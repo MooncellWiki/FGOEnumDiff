@@ -1,4 +1,4 @@
-public enum CriAtomExAcbLoader.Status // TypeDefIndex: 3995
+public enum CriAtomExAcbLoader.Status // TypeDefIndex: 3997
 {
 	// Fields
 	public int value__; // 0x0

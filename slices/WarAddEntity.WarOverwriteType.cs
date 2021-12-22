@@ -1,4 +1,4 @@
-public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7551
+public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7598
 {
 	// Fields
 	public int value__; // 0x0
@@ -15,4 +15,8 @@ public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7551
 	public const WarAddEntity.WarOverwriteType COORDINATES = 11;
 	public const WarAddEntity.WarOverwriteType EFFECT_CHANGE_BLACK_MARK = 12;
 	public const WarAddEntity.WarOverwriteType QUEST_BOARD_SECTION_IMAGE = 13;
+	public const WarAddEntity.WarOverwriteType WAR_FORCE_DISP = 14;
+	public const WarAddEntity.WarOverwriteType WAR_FORCE_HIDE = 15;
+	public const WarAddEntity.WarOverwriteType START_TYPE = 16;
+	public const WarAddEntity.WarOverwriteType NOTICE_DIALOG_TEXT = 17;
 }

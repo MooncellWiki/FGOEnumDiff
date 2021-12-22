@@ -1,4 +1,4 @@
-public enum PurchaseProcessingResult // TypeDefIndex: 2987
+public enum PurchaseProcessingResult // TypeDefIndex: 2989
 {
 	// Fields
 	public int value__; // 0x0

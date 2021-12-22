@@ -1,4 +1,4 @@
-public enum TutorialFlag.ImageId // TypeDefIndex: 6283
+public enum TutorialFlag.ImageId // TypeDefIndex: 6289
 {
 	// Fields
 	public int value__; // 0x0
@@ -38,5 +38,6 @@ public enum TutorialFlag.ImageId // TypeDefIndex: 6283
 	public const TutorialFlag.ImageId GOLEM_SKILL_HELP = 45;
 	public const TutorialFlag.ImageId OVERWRITE_LIMIT_HELP = 46;
 	public const TutorialFlag.ImageId SPECIAL_ITEM_HELP = 47;
+	public const TutorialFlag.ImageId COIN_ROOM = 57;
 	public const TutorialFlag.ImageId DECK2_1 = 644;
 }

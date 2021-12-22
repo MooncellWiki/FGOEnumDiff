@@ -1,4 +1,4 @@
-public enum UserServantCoinSortSelectMenu.Kind // TypeDefIndex: 10187
+public enum UserServantCoinSortSelectMenu.Kind // TypeDefIndex: 10312
 {
 	// Fields
 	public int value__; // 0x0

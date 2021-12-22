@@ -1,4 +1,4 @@
-public enum MultiplyTargetMatrix.MaterialType // TypeDefIndex: 9178
+public enum MultiplyTargetMatrix.MaterialType // TypeDefIndex: 9262
 {
 	// Fields
 	public int value__; // 0x0

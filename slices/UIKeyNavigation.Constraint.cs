@@ -1,4 +1,4 @@
-public enum UIKeyNavigation.Constraint // TypeDefIndex: 11970
+public enum UIKeyNavigation.Constraint // TypeDefIndex: 12107
 {
 	// Fields
 	public int value__; // 0x0

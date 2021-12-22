@@ -1,4 +1,4 @@
-public enum StandaloneInputModule.InputMode // TypeDefIndex: 3052
+public enum StandaloneInputModule.InputMode // TypeDefIndex: 3054
 {
 	// Fields
 	public int value__; // 0x0

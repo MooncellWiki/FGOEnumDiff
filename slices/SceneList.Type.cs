@@ -1,4 +1,4 @@
-public enum SceneList.Type // TypeDefIndex: 6248
+public enum SceneList.Type // TypeDefIndex: 6254
 {
 	// Fields
 	public int value__; // 0x0
@@ -26,6 +26,7 @@ public enum SceneList.Type // TypeDefIndex: 6248
 	public const SceneList.Type Warehouse = 71;
 	public const SceneList.Type EventReward = 72;
 	public const SceneList.Type WarBoard = 80;
+	public const SceneList.Type CoinRoom = 90;
 	public const SceneList.Type Empty = 1000;
 	public const SceneList.Type SummonEffect = 1001;
 }

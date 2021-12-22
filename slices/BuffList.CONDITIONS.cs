@@ -1,4 +1,4 @@
-public enum BuffList.CONDITIONS // TypeDefIndex: 6151
+public enum BuffList.CONDITIONS // TypeDefIndex: 6157
 {
 	// Fields
 	public int value__; // 0x0
