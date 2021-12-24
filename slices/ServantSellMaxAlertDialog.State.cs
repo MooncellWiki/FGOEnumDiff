@@ -1,4 +1,4 @@
-private enum ServantSellMaxAlertDialog.State // TypeDefIndex: 10645
+private enum ServantSellMaxAlertDialog.State // TypeDefIndex: 10648
 {
 	// Fields
 	public int value__; // 0x0

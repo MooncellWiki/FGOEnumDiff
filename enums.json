@@ -7627,6 +7627,11 @@
     "MainQuest": "0",
     "EventQuest": "1"
   },
+  "CoinRoomGaugeEffectComponent.State": {
+    "INIT": "0",
+    "PLAY": "1",
+    "END": "2"
+  },
   "MyRoomHelpListViewManager.InitMode": {
     "NONE": "0",
     "LOADING": "1",

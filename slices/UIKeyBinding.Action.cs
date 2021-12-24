@@ -1,4 +1,4 @@
-public enum UIKeyBinding.Action // TypeDefIndex: 12104
+public enum UIKeyBinding.Action // TypeDefIndex: 12107
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UIScrollView.ShowCondition // TypeDefIndex: 12127
+public enum UIScrollView.ShowCondition // TypeDefIndex: 12130
 {
 	// Fields
 	public int value__; // 0x0

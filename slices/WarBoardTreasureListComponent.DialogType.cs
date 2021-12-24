@@ -1,4 +1,4 @@
-public enum WarBoardTreasureListComponent.DialogType // TypeDefIndex: 11980
+public enum WarBoardTreasureListComponent.DialogType // TypeDefIndex: 11983
 {
 	// Fields
 	public int value__; // 0x0

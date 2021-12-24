@@ -1,4 +1,4 @@
-public enum BaseUpdateAction.UpdateType // TypeDefIndex: 12397
+public enum BaseUpdateAction.UpdateType // TypeDefIndex: 12400
 {
 	// Fields
 	public int value__; // 0x0

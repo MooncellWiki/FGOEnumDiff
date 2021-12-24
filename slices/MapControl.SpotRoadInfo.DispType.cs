@@ -1,4 +1,4 @@
-public enum MapControl.SpotRoadInfo.DispType // TypeDefIndex: 11102
+public enum MapControl.SpotRoadInfo.DispType // TypeDefIndex: 11105
 {
 	// Fields
 	public int value__; // 0x0

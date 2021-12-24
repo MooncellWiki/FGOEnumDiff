@@ -1,4 +1,4 @@
-public enum ServantSellConfirmListViewManager.InitMode // TypeDefIndex: 10636
+public enum ServantSellConfirmListViewManager.InitMode // TypeDefIndex: 10639
 {
 	// Fields
 	public int value__; // 0x0

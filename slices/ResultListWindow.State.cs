@@ -1,4 +1,4 @@
-private enum ResultListWindow.State // TypeDefIndex: 9840
+private enum ResultListWindow.State // TypeDefIndex: 9843
 {
 	// Fields
 	public int value__; // 0x0

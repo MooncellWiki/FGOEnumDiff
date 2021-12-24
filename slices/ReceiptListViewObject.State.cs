@@ -1,4 +1,4 @@
-protected enum ReceiptListViewObject.State // TypeDefIndex: 11554
+protected enum ReceiptListViewObject.State // TypeDefIndex: 11557
 {
 	// Fields
 	public int value__; // 0x0

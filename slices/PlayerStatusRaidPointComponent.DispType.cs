@@ -1,4 +1,4 @@
-public enum PlayerStatusRaidPointComponent.DispType // TypeDefIndex: 11129
+public enum PlayerStatusRaidPointComponent.DispType // TypeDefIndex: 11132
 {
 	// Fields
 	public int value__; // 0x0

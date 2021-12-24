@@ -1,4 +1,4 @@
-protected enum PartyOrganizationRootComponent.MenuMode // TypeDefIndex: 10526
+protected enum PartyOrganizationRootComponent.MenuMode // TypeDefIndex: 10529
 {
 	// Fields
 	public int value__; // 0x0
