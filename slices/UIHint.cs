@@ -1,4 +1,4 @@
-public enum UIHint // TypeDefIndex: 3311
+public enum UIHint // TypeDefIndex: 3298
 {
 	// Fields
 	public int value__; // 0x0

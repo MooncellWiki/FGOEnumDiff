@@ -1,4 +1,4 @@
-internal enum Mesh.InternalVertexChannelType // TypeDefIndex: 2242
+internal enum Mesh.InternalVertexChannelType // TypeDefIndex: 2240
 {
 	// Fields
 	public int value__; // 0x0

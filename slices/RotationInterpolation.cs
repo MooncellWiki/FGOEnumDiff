@@ -1,4 +1,4 @@
-public enum RotationInterpolation // TypeDefIndex: 3407
+public enum RotationInterpolation // TypeDefIndex: 3394
 {
 	// Fields
 	public int value__; // 0x0

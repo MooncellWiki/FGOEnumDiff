@@ -1,4 +1,4 @@
-private enum BattleServantParamComponent.WINDOW_MODE // TypeDefIndex: 9376
+private enum BattleServantParamComponent.WINDOW_MODE // TypeDefIndex: 9310
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SupportSelectMenu.ResultKind // TypeDefIndex: 10865
+public enum SupportSelectMenu.ResultKind // TypeDefIndex: 10802
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WarEntity.StartType // TypeDefIndex: 7665
+public enum WarEntity.StartType // TypeDefIndex: 7599
 {
 	// Fields
 	public int value__; // 0x0

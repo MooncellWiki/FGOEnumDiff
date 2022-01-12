@@ -1,4 +1,4 @@
-public enum ServantEquipFramePurchaseMenu.Result // TypeDefIndex: 5701
+public enum ServantEquipFramePurchaseMenu.Result // TypeDefIndex: 5635
 {
 	// Fields
 	public int value__; // 0x0

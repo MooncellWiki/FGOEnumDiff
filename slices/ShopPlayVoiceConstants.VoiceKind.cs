@@ -1,4 +1,4 @@
-protected enum ShopPlayVoiceConstants.VoiceKind // TypeDefIndex: 10704
+protected enum ShopPlayVoiceConstants.VoiceKind // TypeDefIndex: 10640
 {
 	// Fields
 	public int value__; // 0x0
@@ -19,4 +19,5 @@ protected enum ShopPlayVoiceConstants.VoiceKind // TypeDefIndex: 10704
 	public const ShopPlayVoiceConstants.VoiceKind ENTER_GRAIL_FRAGMENTS_SHOP = 15;
 	public const ShopPlayVoiceConstants.VoiceKind ENTER_SVT_COSTUME_SHOP = 16;
 	public const ShopPlayVoiceConstants.VoiceKind ENTER_START_UP_SUMMON_SHOP = 17;
+	public const ShopPlayVoiceConstants.VoiceKind ENTER_SHOP13_SHOP = 18;
 }

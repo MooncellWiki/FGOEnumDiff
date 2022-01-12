@@ -1,4 +1,4 @@
-private enum ServantStatusListViewItemDrawRandomLimitCountSupport.MaskType // TypeDefIndex: 5834
+private enum ServantStatusListViewItemDrawRandomLimitCountSupport.MaskType // TypeDefIndex: 5768
 {
 	// Fields
 	public int value__; // 0x0

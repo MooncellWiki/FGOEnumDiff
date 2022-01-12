@@ -1,4 +1,4 @@
-public enum UnityEventCallState // TypeDefIndex: 2443
+public enum UnityEventCallState // TypeDefIndex: 2441
 {
 	// Fields
 	public int value__; // 0x0

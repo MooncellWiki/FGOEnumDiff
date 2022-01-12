@@ -1094,14 +1094,6 @@
     "High": "2",
     "VeryHigh": "3"
   },
-  "MatchTargetFields": {
-    "PositionX": "1",
-    "PositionY": "2",
-    "PositionZ": "4",
-    "RotationX": "8",
-    "RotationY": "16",
-    "RotationZ": "32"
-  },
   "BattleData.TYPETURN": {
     "PLAYER": "1",
     "ENEMY": "2"
@@ -1119,11 +1111,6 @@
     "CompoAlphaFull": "1",
     "CompoAlpha3Step": "2",
     "CompoAlpha32Bit": "3"
-  },
-  "ActivationControlPlayable.InitialState": {
-    "Unset": "0",
-    "Active": "1",
-    "Inactive": "2"
   },
   "QuestRewardOrderGradeAction.STATE": {
     "NONE": "0",
@@ -2033,10 +2020,6 @@
     "ACB_ONLY": "0",
     "ALL": "1"
   },
-  "TimelineAsset.DurationMode": {
-    "BasedOnClips": "0",
-    "FixedLength": "1"
-  },
   "MyRoomStateMaterial.STATE": {
     "TOP": "0",
     "SERVANT": "1",
@@ -2346,7 +2329,8 @@
     "CONTINUE_ITEM": "27",
     "EUQIP_SKILL_USE_ITEM": "28",
     "SVT_COIN": "29",
-    "FRIENDSHIP_UP_ITEM": "30"
+    "FRIENDSHIP_UP_ITEM": "30",
+    "PP": "31"
   },
   "BlockState": {
     "NeedMore": "0",
@@ -4610,12 +4594,6 @@
     "Touch": "1",
     "Controller": "2"
   },
-  "ActivationTrack.PostPlaybackState": {
-    "Active": "0",
-    "Inactive": "1",
-    "Revert": "2",
-    "LeaveAsIs": "3"
-  },
   "AnimationList.NAME": {
     "attack_a": "0",
     "attack_b": "1",
@@ -4758,7 +4736,8 @@
     "GRAIL_FRAGMENTS": "14",
     "SVT_COSTUME": "15",
     "START_UP_SUMMON": "16",
-    "COIN_ROOM": "17"
+    "COIN_ROOM": "17",
+    "SHOP13": "18"
   },
   "BlacklistRootComponent.MODE": {
     "FRIEND_HISTORY": "0",
@@ -5146,7 +5125,8 @@
     "SHOP_GRAIL_FRAGMENTS": "16",
     "SHOP_BUY_SVT_COSTUME": "17",
     "SHOP_COIN_ROOM": "18",
-    "SHOP_BLANK": "19"
+    "SHOP13": "19",
+    "SHOP_BLANK": "20"
   },
   "ServantStatusCharaGraphListViewManager.InitMode": {
     "NONE": "0",
@@ -6043,7 +6023,8 @@
   "UserShopFlag.FlagKind": {
     "RECEIVED_SHOP_ITEM": "1",
     "USED_ADD_BUFF_ITEM": "2",
-    "RETURN_EXCHANGE_ITEM": "3"
+    "RETURN_EXCHANGE_ITEM": "3",
+    "RETURN_RARE_PRI_SHOP": "4"
   },
   "CombineRootComponent.CombineTutorialProgress": {
     "TOP_SVT_COMBINE": "0",
@@ -6801,6 +6782,7 @@
     "ResultOtherError": "7"
   },
   "CriAtomEx.PanType": {
+    "Unknown": "-1",
     "Pan3d": "0",
     "Pos3d": "1",
     "Auto": "2"
@@ -7216,7 +7198,8 @@
     "Fs": "2",
     "FsWeb": "3",
     "Mana": "4",
-    "Lips": "5"
+    "Lips": "5",
+    "Vip": "6"
   },
   "CommonConsumeEntity.CommonConsumeType": {
     "ITEM": "1"
@@ -7354,7 +7337,8 @@
     "SPECIAL_ITEM": "12",
     "GRAIL_FRAGMENTS": "13",
     "SVT_COSTUME": "14",
-    "START_UP_SUMMON": "15"
+    "START_UP_SUMMON": "15",
+    "SHOP13": "16"
   },
   "CombineServantListViewManager.ModeKind": {
     "NORMAL": "0",
@@ -7843,6 +7827,15 @@
     "ENEMY_ALL": "0",
     "PLAYER_ALL": "1",
     "FIELD_ALL": "2"
+  },
+  "CriAtomEx.Randomize3dCalcType": {
+    "None": "-1",
+    "Rectangle": "0",
+    "Cuboid": "1",
+    "Circle": "2",
+    "Cylinder": "3",
+    "Sphere": "4",
+    "List": "6"
   },
   "AlertDescription": {
     "CloseNotify": "0",
@@ -8537,15 +8530,6 @@
     "StdCall": "3",
     "ThisCall": "4",
     "FastCall": "5"
-  },
-  "ClipCaps": {
-    "None": "0",
-    "Looping": "1",
-    "Extrapolation": "2",
-    "ClipIn": "4",
-    "SpeedMultiplier": "8",
-    "Blending": "16",
-    "All": "-1"
   },
   "BattleEffectControl.ID": {
     "DAMAGE_NO": "0",
@@ -9842,7 +9826,8 @@
     "SHOP_HELP_SVT_COSTUME": "15",
     "SHOP_HELP_START_UP_SUMMON": "16",
     "SHOP_HELP_COIN_ROOM": "17",
-    "SHOP_BLANK": "18"
+    "SHOP_HELP_SHOP13": "18",
+    "SHOP_BLANK": "19"
   },
   "MyRoomListControl.ActionType": {
     "FSM": "0",
@@ -10950,6 +10935,10 @@
     "SELECTED": "3",
     "CLOSE": "4"
   },
+  "CriAtomEx.SpeakerSystem": {
+    "Surround_5_1": "0",
+    "Surround_7_1": "1"
+  },
   "Target.PlayerTypeFlag": {
     "NONE": "0",
     "PLAYER": "1",
@@ -11191,16 +11180,6 @@
   "NetworkAccess": {
     "Accept": "128",
     "Connect": "64"
-  },
-  "CriManaMixerBehaviour.MovieMixerState": {
-    "Preloading": "0",
-    "Ready": "1",
-    "Playing": "2",
-    "Stopping": "3",
-    "Stopped": "4",
-    "Seeking": "5",
-    "SeekStopping": "6",
-    "SeekStopped": "7"
   },
   "QuestBoardListViewManager.InitMode": {
     "NONE": "0",
@@ -11647,6 +11626,13 @@
     "ShadowServantAura": "2",
     "Find": "3"
   },
+  "AchievementExchangeConditionsDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
+  },
   "PartyOrganizationRestrictionHelpDialog.State": {
     "INIT": "0",
     "OPEN": "1",
@@ -11883,7 +11869,8 @@
     "LIMIT_MATERIAL": "9",
     "GRAIL_FRAGMENTS": "10",
     "SVT_COSTUME": "11",
-    "START_UP_SUMMON": "12"
+    "START_UP_SUMMON": "12",
+    "SHOP13": "13"
   },
   "ServantOperationListViewManager.ModeKind": {
     "SELECT": "0",
@@ -12660,12 +12647,6 @@
   "SeManager.SeType": {
     "RESIDENT_SE": "0",
     "SE": "1"
-  },
-  "CriManaMixerBehaviour.ClipState": {
-    "Idle": "0",
-    "Prepare": "1",
-    "Play": "2",
-    "Seek": "3"
   },
   "MoveDirection": {
     "Left": "0",
@@ -13920,6 +13901,13 @@
     "VALID": "2",
     "INPUT": "3"
   },
+  "CriAtomEx.Randomize3dParamType": {
+    "None": "0",
+    "Width": "1",
+    "Depth": "2",
+    "Height": "3",
+    "Radius": "4"
+  },
   "CRIMovieControl.Status": {
     "Closed": "0",
     "Opening": "1",
@@ -14313,15 +14301,6 @@
   "BgmEntity.Flag": {
     "IS_NOT_RELEASE": "1"
   },
-  "AppliedOffsetMode": {
-    "NoRootTransform": "0",
-    "TransformOffset": "1",
-    "SceneOffset": "2",
-    "TransformOffsetLegacy": "3",
-    "SceneOffsetLegacy": "4",
-    "SceneOffsetEditor": "5",
-    "SceneOffsetLegacyEditor": "6"
-  },
   "FullScreenMode": {
     "ExclusiveFullScreen": "0",
     "FullScreenWindow": "1",
@@ -14463,13 +14442,6 @@
     "SoundEffect": "2",
     "Speech": "3"
   },
-  "TimelineClip.ClipExtrapolation": {
-    "None": "0",
-    "Hold": "1",
-    "Loop": "2",
-    "PingPong": "3",
-    "Continue": "4"
-  },
   "SupportServantListViewObject.State": {
     "INIT": "0",
     "IDLE": "1",
@@ -14562,11 +14534,6 @@
     "Common": "3",
     "BattleCommon": "4",
     "Weapon": "5"
-  },
-  "DirectorWrapMode": {
-    "Hold": "0",
-    "Loop": "1",
-    "None": "2"
   },
   "EasingFunction.Ease": {
     "EaseInQuad": "0",
@@ -14896,6 +14863,11 @@
     "Xbox": "5",
     "MacOSX": "6"
   },
+  "CriAtomOutputDeviceObserver.OutputDeviceType": {
+    "BuiltinSpeaker": "0",
+    "WiredDevice": "1",
+    "WirelessDevice": "2"
+  },
   "ScriptTextListViewObject.InitMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -14965,7 +14937,8 @@
   "UserShopFlag.Flag": {
     "RECEIVED_SHOP_ITEM": "2",
     "USED_ADD_BUFF_ITEM": "4",
-    "RETURN_EXCHANGE_ITEM": "8"
+    "RETURN_EXCHANGE_ITEM": "8",
+    "RETURN_RARE_PRI_SHOP": "16"
   },
   "RefreshProperties": {
     "All": "1",
@@ -15392,7 +15365,8 @@
     "ENTER_SPECIAL_ITEM_SHOP": "14",
     "ENTER_GRAIL_FRAGMENTS_SHOP": "15",
     "ENTER_SVT_COSTUME_SHOP": "16",
-    "ENTER_START_UP_SUMMON_SHOP": "17"
+    "ENTER_START_UP_SUMMON_SHOP": "17",
+    "ENTER_SHOP13_SHOP": "18"
   },
   "ScriptBackLogListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -15721,7 +15695,8 @@
     "ENTER_SPECIAL_ITEM_SHOP": "16384",
     "ENTER_GRAIL_FRAGMENTS_SHOP": "32768",
     "ENTER_SVT_COSTUME_SHOP": "65536",
-    "ENTER_START_UP_SUMMON_SHOP": "131072"
+    "ENTER_START_UP_SUMMON_SHOP": "131072",
+    "ENTER_SHOP13_SHOP": "262144"
   },
   "FavoriteChangeListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -16161,6 +16136,12 @@
     "Custom": "5",
     "OnEnable": "6",
     "OnDisable": "7"
+  },
+  "CriAtomConfig.InGamePreviewSwitchMode": {
+    "Disable": "0",
+    "Enable": "1",
+    "FollowBuildSetting": "2",
+    "Default": "3"
   },
   "FrameData.Flags": {
     "Evaluate": "1",
@@ -16603,6 +16584,12 @@
     "NPC": "5",
     "SECRET": "6",
     "DATA_LOST": "7"
+  },
+  "clsQuestCheck.QUEST_START_EFFECT_SKIP": {
+    "NONE": "0",
+    "FIRST": "1",
+    "SECOND": "2",
+    "DESABLE": "3"
   },
   "BattleEffectUtility.EffectFolderType": {
     "COMMON": "1",
@@ -17485,10 +17472,6 @@
     "INPUT": "3",
     "MODIFY": "4"
   },
-  "PlayableTraversalMode": {
-    "Mix": "0",
-    "Passthrough": "1"
-  },
   "MapControl.SpotInfo.DispType": {
     "None": "0",
     "Normal": "1",
@@ -17505,11 +17488,6 @@
     "AbortRequested": "7",
     "TimedOut": "8",
     "Closed": "9"
-  },
-  "TrackOffset": {
-    "ApplyTransformOffsets": "0",
-    "ApplySceneOffsets": "1",
-    "Auto": "2"
   },
   "ShopEventListViewManager.Kind": {
     "NORMAL": "0"
@@ -17565,11 +17543,6 @@
     "ATTACK": "1",
     "DAMAGE": "2",
     "ATTACK_BEFORE": "3"
-  },
-  "ActivationControlPlayable.PostPlaybackState": {
-    "Active": "0",
-    "Inactive": "1",
-    "Revert": "2"
   },
   "AutomaticSaleDlgComponent.FlagKind": {
     "EXP_1": "0",
@@ -18530,10 +18503,6 @@
     "isAllDefenseAreaEnemyRouteBlock": "1099511627776",
     "isComeBackSquare": "2199023255552"
   },
-  "TimelineClip.BlendCurveMode": {
-    "Auto": "0",
-    "Manual": "1"
-  },
   "PointerEventData.InputButton": {
     "Left": "0",
     "Right": "1",
@@ -18547,6 +18516,10 @@
     "InterfaceIsDual": "0",
     "InterfaceIsIUnknown": "1",
     "InterfaceIsIDispatch": "2"
+  },
+  "CriAtomExTween.ParameterType": {
+    "Basic": "0",
+    "Aisac": "1"
   },
   "DeckListViewManager.ResultKind": {
     "CANCEL": "0",
@@ -18703,10 +18676,12 @@
     "SHOP": "2",
     "SVT_COSTUME": "3"
   },
-  "TrackBindingFlags": {
-    "None": "0",
-    "AllowCreateComponent": "1",
-    "All": "1"
+  "CriAtomExCategory.ReactStatus": {
+    "Stop": "0",
+    "FadeOut": "1",
+    "Hold": "2",
+    "FadeIn": "3",
+    "Error": "4"
   },
   "MapGimmickComponent.STATE": {
     "NONE": "0",
@@ -20274,10 +20249,6 @@
     "None": "0",
     "Locked": "1",
     "Confined": "2"
-  },
-  "FrameData.EvaluationType": {
-    "Evaluate": "0",
-    "Playback": "1"
   },
   "BuffList.INVOKE_COND_TYPE": {
     "INDIVIDUALITY": "0",

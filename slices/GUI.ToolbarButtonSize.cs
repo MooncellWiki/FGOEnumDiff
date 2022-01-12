@@ -1,4 +1,4 @@
-public enum GUI.ToolbarButtonSize // TypeDefIndex: 2748
+public enum GUI.ToolbarButtonSize // TypeDefIndex: 2735
 {
 	// Fields
 	public int value__; // 0x0

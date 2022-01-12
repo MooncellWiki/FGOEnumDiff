@@ -1,4 +1,4 @@
-public enum PartyOrganizationConfirmMyServantMenu.Kind // TypeDefIndex: 10478
+public enum PartyOrganizationConfirmMyServantMenu.Kind // TypeDefIndex: 10413
 {
 	// Fields
 	public int value__; // 0x0

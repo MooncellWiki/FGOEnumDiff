@@ -1,4 +1,4 @@
-protected enum CenterEffectDetailDialog.State // TypeDefIndex: 5391
+protected enum CenterEffectDetailDialog.State // TypeDefIndex: 5325
 {
 	// Fields
 	public int value__; // 0x0

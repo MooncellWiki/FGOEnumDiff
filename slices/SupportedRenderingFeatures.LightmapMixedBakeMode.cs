@@ -1,4 +1,4 @@
-public enum SupportedRenderingFeatures.LightmapMixedBakeMode // TypeDefIndex: 2548
+public enum SupportedRenderingFeatures.LightmapMixedBakeMode // TypeDefIndex: 2542
 {
 	// Fields
 	public int value__; // 0x0

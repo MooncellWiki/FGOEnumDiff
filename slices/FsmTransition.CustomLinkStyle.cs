@@ -1,4 +1,4 @@
-public enum FsmTransition.CustomLinkStyle // TypeDefIndex: 3395
+public enum FsmTransition.CustomLinkStyle // TypeDefIndex: 3382
 {
 	// Fields
 	public byte value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FollowerSelectItemListViewItemDraw.DispMode // TypeDefIndex: 9977
+public enum FollowerSelectItemListViewItemDraw.DispMode // TypeDefIndex: 9912
 {
 	// Fields
 	public int value__; // 0x0

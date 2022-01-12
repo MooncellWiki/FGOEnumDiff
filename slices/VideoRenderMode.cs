@@ -1,4 +1,4 @@
-public enum VideoRenderMode // TypeDefIndex: 2861
+public enum VideoRenderMode // TypeDefIndex: 2848
 {
 	// Fields
 	public int value__; // 0x0

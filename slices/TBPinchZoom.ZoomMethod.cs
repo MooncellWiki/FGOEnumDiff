@@ -1,4 +1,4 @@
-public enum TBPinchZoom.ZoomMethod // TypeDefIndex: 4281
+public enum TBPinchZoom.ZoomMethod // TypeDefIndex: 4212
 {
 	// Fields
 	public int value__; // 0x0

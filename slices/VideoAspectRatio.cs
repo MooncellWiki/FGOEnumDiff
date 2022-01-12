@@ -1,4 +1,4 @@
-public enum VideoAspectRatio // TypeDefIndex: 2863
+public enum VideoAspectRatio // TypeDefIndex: 2850
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum MissionListViewItemDraw.DispMode // TypeDefIndex: 5638
+public enum MissionListViewItemDraw.DispMode // TypeDefIndex: 5572
 {
 	// Fields
 	public int value__; // 0x0

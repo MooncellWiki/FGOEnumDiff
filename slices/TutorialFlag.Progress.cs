@@ -1,4 +1,4 @@
-public enum TutorialFlag.Progress // TypeDefIndex: 6285
+public enum TutorialFlag.Progress // TypeDefIndex: 6219
 {
 	// Fields
 	public int value__; // 0x0

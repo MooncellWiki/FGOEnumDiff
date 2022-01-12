@@ -1,4 +1,4 @@
-public enum ShopType.Type // TypeDefIndex: 6263
+public enum ShopType.Type // TypeDefIndex: 6197
 {
 	// Fields
 	public int value__; // 0x0
@@ -15,4 +15,5 @@ public enum ShopType.Type // TypeDefIndex: 6263
 	public const ShopType.Type GRAIL_FRAGMENTS = 10;
 	public const ShopType.Type SVT_COSTUME = 11;
 	public const ShopType.Type START_UP_SUMMON = 12;
+	public const ShopType.Type SHOP13 = 13;
 }

@@ -1,4 +1,4 @@
-public enum ShopTopListViewManager.Kind // TypeDefIndex: 10732
+public enum ShopTopListViewManager.Kind // TypeDefIndex: 10669
 {
 	// Fields
 	public int value__; // 0x0

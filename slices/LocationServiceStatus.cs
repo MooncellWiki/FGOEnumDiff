@@ -1,4 +1,4 @@
-public enum LocationServiceStatus // TypeDefIndex: 2230
+public enum LocationServiceStatus // TypeDefIndex: 2228
 {
 	// Fields
 	public int value__; // 0x0

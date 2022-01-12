@@ -1,4 +1,4 @@
-public enum BattleServantActionHistory.TYPE // TypeDefIndex: 9006
+public enum BattleServantActionHistory.TYPE // TypeDefIndex: 8940
 {
 	// Fields
 	public int value__; // 0x0

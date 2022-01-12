@@ -1,4 +1,4 @@
-public enum QuestGroupType.Type // TypeDefIndex: 6240
+public enum QuestGroupType.Type // TypeDefIndex: 6174
 {
 	// Fields
 	public int value__; // 0x0

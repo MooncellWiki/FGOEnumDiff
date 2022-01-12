@@ -1,4 +1,4 @@
-public enum RenderTextureFormat // TypeDefIndex: 2185
+public enum RenderTextureFormat // TypeDefIndex: 2184
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ProductCatalogPayout.ProductCatalogPayoutType // TypeDefIndex: 3556
+public enum ProductCatalogPayout.ProductCatalogPayoutType // TypeDefIndex: 3543
 {
 	// Fields
 	public int value__; // 0x0

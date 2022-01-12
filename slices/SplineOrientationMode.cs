@@ -1,4 +1,4 @@
-public enum SplineOrientationMode // TypeDefIndex: 3854
+public enum SplineOrientationMode // TypeDefIndex: 3762
 {
 	// Fields
 	public int value__; // 0x0

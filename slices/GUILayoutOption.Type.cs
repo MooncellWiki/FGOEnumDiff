@@ -1,4 +1,4 @@
-internal enum GUILayoutOption.Type // TypeDefIndex: 2756
+internal enum GUILayoutOption.Type // TypeDefIndex: 2743
 {
 	// Fields
 	public int value__; // 0x0

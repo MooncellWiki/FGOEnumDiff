@@ -1,4 +1,4 @@
-public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 7604
+public enum WarBoardActionTrendConditionEntity.ConditionType // TypeDefIndex: 7538
 {
 	// Fields
 	public int value__; // 0x0

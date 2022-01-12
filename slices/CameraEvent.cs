@@ -1,4 +1,4 @@
-public enum CameraEvent // TypeDefIndex: 2203
+public enum CameraEvent // TypeDefIndex: 2202
 {
 	// Fields
 	public int value__; // 0x0

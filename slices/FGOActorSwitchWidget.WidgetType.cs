@@ -1,4 +1,4 @@
-public enum FGOActorSwitchWidget.WidgetType // TypeDefIndex: 8006
+public enum FGOActorSwitchWidget.WidgetType // TypeDefIndex: 7940
 {
 	// Fields
 	public int value__; // 0x0

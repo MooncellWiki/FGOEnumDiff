@@ -1,4 +1,4 @@
-private enum CombineEffectComponent.CardColor // TypeDefIndex: 9512
+private enum CombineEffectComponent.CardColor // TypeDefIndex: 9446
 {
 	// Fields
 	public int value__; // 0x0

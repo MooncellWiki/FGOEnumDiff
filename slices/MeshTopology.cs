@@ -1,4 +1,4 @@
-public enum MeshTopology // TypeDefIndex: 2178
+public enum MeshTopology // TypeDefIndex: 2177
 {
 	// Fields
 	public int value__; // 0x0

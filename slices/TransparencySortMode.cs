@@ -1,4 +1,4 @@
-public enum TransparencySortMode // TypeDefIndex: 2170
+public enum TransparencySortMode // TypeDefIndex: 2169
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventInfoUIBase.SetType // TypeDefIndex: 5573
+public enum EventInfoUIBase.SetType // TypeDefIndex: 5507
 {
 	// Fields
 	public int value__; // 0x0

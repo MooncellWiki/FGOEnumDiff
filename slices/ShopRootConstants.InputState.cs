@@ -1,4 +1,4 @@
-public enum ShopRootConstants.InputState // TypeDefIndex: 10717
+public enum ShopRootConstants.InputState // TypeDefIndex: 10654
 {
 	// Fields
 	public int value__; // 0x0

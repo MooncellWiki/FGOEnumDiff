@@ -1,4 +1,4 @@
-public enum RigidbodyConstraints2D // TypeDefIndex: 2806
+public enum RigidbodyConstraints2D // TypeDefIndex: 2793
 {
 	// Fields
 	public int value__; // 0x0

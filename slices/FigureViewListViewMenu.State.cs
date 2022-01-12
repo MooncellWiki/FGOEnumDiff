@@ -1,4 +1,4 @@
-protected enum FigureViewListViewMenu.State // TypeDefIndex: 11540
+protected enum FigureViewListViewMenu.State // TypeDefIndex: 11479
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum EventInfoChronologyDialog.State // TypeDefIndex: 5522
+private enum EventInfoChronologyDialog.State // TypeDefIndex: 5456
 {
 	// Fields
 	public int value__; // 0x0

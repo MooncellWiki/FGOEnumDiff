@@ -1,4 +1,4 @@
-public enum CriFsBinder.Status // TypeDefIndex: 4070
+public enum CriFsBinder.Status // TypeDefIndex: 4000
 {
 	// Fields
 	public int value__; // 0x0

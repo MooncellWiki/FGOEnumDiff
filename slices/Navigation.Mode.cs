@@ -1,4 +1,4 @@
-public enum Navigation.Mode // TypeDefIndex: 3119
+public enum Navigation.Mode // TypeDefIndex: 3106
 {
 	// Fields
 	public int value__; // 0x0

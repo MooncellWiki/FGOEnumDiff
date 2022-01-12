@@ -1,4 +1,4 @@
-public enum CriDisposableObjectManager.ModuleType // TypeDefIndex: 4184
+public enum CriDisposableObjectManager.ModuleType // TypeDefIndex: 4116
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,4 +8,5 @@ public enum CriDisposableObjectManager.ModuleType // TypeDefIndex: 4184
 	public const CriDisposableObjectManager.ModuleType FsWeb = 3;
 	public const CriDisposableObjectManager.ModuleType Mana = 4;
 	public const CriDisposableObjectManager.ModuleType Lips = 5;
+	public const CriDisposableObjectManager.ModuleType Vip = 6;
 }

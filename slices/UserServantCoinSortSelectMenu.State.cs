@@ -1,4 +1,4 @@
-protected enum UserServantCoinSortSelectMenu.State // TypeDefIndex: 10316
+protected enum UserServantCoinSortSelectMenu.State // TypeDefIndex: 10251
 {
 	// Fields
 	public int value__; // 0x0

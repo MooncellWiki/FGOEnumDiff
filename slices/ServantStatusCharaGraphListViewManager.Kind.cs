@@ -1,4 +1,4 @@
-public enum ServantStatusCharaGraphListViewManager.Kind // TypeDefIndex: 5768
+public enum ServantStatusCharaGraphListViewManager.Kind // TypeDefIndex: 5702
 {
 	// Fields
 	public int value__; // 0x0

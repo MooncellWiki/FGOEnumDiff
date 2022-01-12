@@ -1,4 +1,4 @@
-public enum EventCombineEntity.CalcType // TypeDefIndex: 6909
+public enum EventCombineEntity.CalcType // TypeDefIndex: 6843
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FsmLogType // TypeDefIndex: 3391
+public enum FsmLogType // TypeDefIndex: 3378
 {
 	// Fields
 	public int value__; // 0x0

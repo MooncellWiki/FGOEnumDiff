@@ -1,4 +1,4 @@
-internal enum AnimationEventSource // TypeDefIndex: 2729
+internal enum AnimationEventSource // TypeDefIndex: 2718
 {
 	// Fields
 	public int value__; // 0x0

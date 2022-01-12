@@ -1,4 +1,4 @@
-public enum MouseButton // TypeDefIndex: 3312
+public enum MouseButton // TypeDefIndex: 3299
 {
 	// Fields
 	public int value__; // 0x0

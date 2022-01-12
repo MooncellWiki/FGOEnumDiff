@@ -1,4 +1,4 @@
-public enum RenderMode // TypeDefIndex: 2830
+public enum RenderMode // TypeDefIndex: 2817
 {
 	// Fields
 	public int value__; // 0x0
