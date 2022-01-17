@@ -1,4 +1,4 @@
-public enum PropertyTypeInfo // TypeDefIndex: 3744
+public enum PropertyTypeInfo // TypeDefIndex: 3742
 {
 	// Fields
 	public int value__; // 0x0

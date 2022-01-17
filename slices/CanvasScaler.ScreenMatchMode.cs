@@ -1,4 +1,4 @@
-public enum CanvasScaler.ScreenMatchMode // TypeDefIndex: 3143
+public enum CanvasScaler.ScreenMatchMode // TypeDefIndex: 3141
 {
 	// Fields
 	public int value__; // 0x0

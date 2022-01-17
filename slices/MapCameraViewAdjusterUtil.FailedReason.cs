@@ -1,4 +1,4 @@
-public enum MapCameraViewAdjusterUtil.FailedReason // TypeDefIndex: 6328
+public enum MapCameraViewAdjusterUtil.FailedReason // TypeDefIndex: 6326
 {
 	// Fields
 	public int value__; // 0x0

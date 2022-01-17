@@ -1,4 +1,4 @@
-protected enum SkillUpResultWindowComponent.State // TypeDefIndex: 9575
+protected enum SkillUpResultWindowComponent.State // TypeDefIndex: 9573
 {
 	// Fields
 	public int value__; // 0x0

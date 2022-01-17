@@ -1,4 +1,4 @@
-private enum DigestUtilities.DigestAlgorithm // TypeDefIndex: 5180
+private enum DigestUtilities.DigestAlgorithm // TypeDefIndex: 5178
 {
 	// Fields
 	public int value__; // 0x0

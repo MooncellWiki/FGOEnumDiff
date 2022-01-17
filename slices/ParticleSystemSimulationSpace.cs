@@ -1,4 +1,4 @@
-public enum ParticleSystemSimulationSpace // TypeDefIndex: 2784
+public enum ParticleSystemSimulationSpace // TypeDefIndex: 2782
 {
 	// Fields
 	public int value__; // 0x0

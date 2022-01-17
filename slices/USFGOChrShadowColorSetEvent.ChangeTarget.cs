@@ -1,4 +1,4 @@
-public enum USFGOChrShadowColorSetEvent.ChangeTarget // TypeDefIndex: 8144
+public enum USFGOChrShadowColorSetEvent.ChangeTarget // TypeDefIndex: 8142
 {
 	// Fields
 	public int value__; // 0x0

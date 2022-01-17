@@ -1,4 +1,4 @@
-public enum ContentSizeFitter.FitMode // TypeDefIndex: 3146
+public enum ContentSizeFitter.FitMode // TypeDefIndex: 3144
 {
 	// Fields
 	public int value__; // 0x0

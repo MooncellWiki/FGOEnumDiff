@@ -1,4 +1,4 @@
-public enum ResponseCommandKind.Kind // TypeDefIndex: 6181
+public enum ResponseCommandKind.Kind // TypeDefIndex: 6179
 {
 	// Fields
 	public int value__; // 0x0

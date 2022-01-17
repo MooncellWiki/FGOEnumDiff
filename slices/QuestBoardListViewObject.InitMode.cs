@@ -1,4 +1,4 @@
-public enum QuestBoardListViewObject.InitMode // TypeDefIndex: 11134
+public enum QuestBoardListViewObject.InitMode // TypeDefIndex: 11132
 {
 	// Fields
 	public int value__; // 0x0

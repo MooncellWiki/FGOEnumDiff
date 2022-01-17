@@ -1,4 +1,4 @@
-public enum LayoutOption.LayoutOptionType // TypeDefIndex: 3338
+public enum LayoutOption.LayoutOptionType // TypeDefIndex: 3336
 {
 	// Fields
 	public int value__; // 0x0

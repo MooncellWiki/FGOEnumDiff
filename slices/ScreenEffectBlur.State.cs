@@ -1,4 +1,4 @@
-private enum ScreenEffectBlur.State // TypeDefIndex: 4292
+private enum ScreenEffectBlur.State // TypeDefIndex: 4290
 {
 	// Fields
 	public int value__; // 0x0

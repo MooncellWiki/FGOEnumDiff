@@ -1,4 +1,4 @@
-public enum UIMasterFullFigureRender.DispType // TypeDefIndex: 7832
+public enum UIMasterFullFigureRender.DispType // TypeDefIndex: 7830
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ChangeRendererMaterialColorEffect.RendererType // TypeDefIndex: 8975
+public enum ChangeRendererMaterialColorEffect.RendererType // TypeDefIndex: 8973
 {
 	// Fields
 	public int value__; // 0x0

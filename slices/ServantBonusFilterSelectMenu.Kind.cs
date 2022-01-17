@@ -1,4 +1,4 @@
-public enum ServantBonusFilterSelectMenu.Kind // TypeDefIndex: 5663
+public enum ServantBonusFilterSelectMenu.Kind // TypeDefIndex: 5661
 {
 	// Fields
 	public int value__; // 0x0

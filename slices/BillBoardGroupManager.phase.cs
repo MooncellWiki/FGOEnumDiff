@@ -1,4 +1,4 @@
-private enum BillBoardGroupManager.phase // TypeDefIndex: 6350
+private enum BillBoardGroupManager.phase // TypeDefIndex: 6348
 {
 	// Fields
 	public int value__; // 0x0

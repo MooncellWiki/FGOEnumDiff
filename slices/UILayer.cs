@@ -1,4 +1,4 @@
-public enum UILayer // TypeDefIndex: 3740
+public enum UILayer // TypeDefIndex: 3738
 {
 	// Fields
 	public int value__; // 0x0

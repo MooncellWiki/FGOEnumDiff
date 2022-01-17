@@ -1,4 +1,4 @@
-public enum TerminalSceneComponent.STATE // TypeDefIndex: 8630
+public enum TerminalSceneComponent.STATE // TypeDefIndex: 8628
 {
 	// Fields
 	public int value__; // 0x0

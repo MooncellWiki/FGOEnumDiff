@@ -1,4 +1,4 @@
-internal enum UnityWebRequest.UnityWebRequestError // TypeDefIndex: 2588
+internal enum UnityWebRequest.UnityWebRequestError // TypeDefIndex: 2586
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum MyRoomControl.MENUTYPE // TypeDefIndex: 10113
+private enum MyRoomControl.MENUTYPE // TypeDefIndex: 10111
 {
 	// Fields
 	public int value__; // 0x0

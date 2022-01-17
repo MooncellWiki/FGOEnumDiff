@@ -1,4 +1,4 @@
-public enum CommandSpellWindowComponent.MODE // TypeDefIndex: 9336
+public enum CommandSpellWindowComponent.MODE // TypeDefIndex: 9334
 {
 	// Fields
 	public int value__; // 0x0

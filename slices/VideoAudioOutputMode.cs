@@ -1,4 +1,4 @@
-public enum VideoAudioOutputMode // TypeDefIndex: 2854
+public enum VideoAudioOutputMode // TypeDefIndex: 2852
 {
 	// Fields
 	public int value__; // 0x0

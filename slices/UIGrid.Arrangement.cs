@@ -1,4 +1,4 @@
-public enum UIGrid.Arrangement // TypeDefIndex: 12042
+public enum UIGrid.Arrangement // TypeDefIndex: 12040
 {
 	// Fields
 	public int value__; // 0x0

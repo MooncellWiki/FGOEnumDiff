@@ -1,4 +1,4 @@
-private enum BattleLogicNpcAi.NoblePhantasmActProc.ParamOrder // TypeDefIndex: 9153
+private enum BattleLogicNpcAi.NoblePhantasmActProc.ParamOrder // TypeDefIndex: 9151
 {
 	// Fields
 	public int value__; // 0x0

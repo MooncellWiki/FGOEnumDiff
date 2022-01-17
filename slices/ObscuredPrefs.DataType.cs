@@ -1,4 +1,4 @@
-internal enum ObscuredPrefs.DataType // TypeDefIndex: 5276
+internal enum ObscuredPrefs.DataType // TypeDefIndex: 5274
 {
 	// Fields
 	public byte value__; // 0x0

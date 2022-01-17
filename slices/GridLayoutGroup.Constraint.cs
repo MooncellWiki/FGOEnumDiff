@@ -1,4 +1,4 @@
-public enum GridLayoutGroup.Constraint // TypeDefIndex: 3150
+public enum GridLayoutGroup.Constraint // TypeDefIndex: 3148
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventServantFatigueListViewObject.InitMode // TypeDefIndex: 9877
+public enum EventServantFatigueListViewObject.InitMode // TypeDefIndex: 9875
 {
 	// Fields
 	public int value__; // 0x0

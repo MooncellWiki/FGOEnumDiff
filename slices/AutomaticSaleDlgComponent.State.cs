@@ -1,4 +1,4 @@
-protected enum AutomaticSaleDlgComponent.State // TypeDefIndex: 10676
+protected enum AutomaticSaleDlgComponent.State // TypeDefIndex: 10674
 {
 	// Fields
 	public int value__; // 0x0

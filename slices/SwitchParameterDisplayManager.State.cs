@@ -1,4 +1,4 @@
-protected enum SwitchParameterDisplayManager.State // TypeDefIndex: 6319
+protected enum SwitchParameterDisplayManager.State // TypeDefIndex: 6317
 {
 	// Fields
 	public int value__; // 0x0

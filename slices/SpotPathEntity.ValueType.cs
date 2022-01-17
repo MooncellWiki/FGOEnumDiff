@@ -1,4 +1,4 @@
-public enum SpotPathEntity.ValueType // TypeDefIndex: 7312
+public enum SpotPathEntity.ValueType // TypeDefIndex: 7310
 {
 	// Fields
 	public int value__; // 0x0

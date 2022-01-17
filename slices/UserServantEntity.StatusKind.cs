@@ -1,4 +1,4 @@
-public enum UserServantEntity.StatusKind // TypeDefIndex: 7486
+public enum UserServantEntity.StatusKind // TypeDefIndex: 7484
 {
 	// Fields
 	public int value__; // 0x0

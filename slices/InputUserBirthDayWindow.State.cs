@@ -1,4 +1,4 @@
-protected enum InputUserBirthDayWindow.State // TypeDefIndex: 10047
+protected enum InputUserBirthDayWindow.State // TypeDefIndex: 10045
 {
 	// Fields
 	public int value__; // 0x0

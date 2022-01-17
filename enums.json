@@ -16473,12 +16473,6 @@
     "Minimized": "2",
     "Normal": "0"
   },
-  "LocationServiceStatus": {
-    "Stopped": "0",
-    "Initializing": "1",
-    "Running": "2",
-    "Failed": "3"
-  },
   "SubmarineScanConfirmDialog.State": {
     "INIT": "0",
     "OPEN": "1",

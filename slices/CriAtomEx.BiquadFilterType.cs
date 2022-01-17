@@ -1,4 +1,4 @@
-public enum CriAtomEx.BiquadFilterType // TypeDefIndex: 3857
+public enum CriAtomEx.BiquadFilterType // TypeDefIndex: 3855
 {
 	// Fields
 	public int value__; // 0x0

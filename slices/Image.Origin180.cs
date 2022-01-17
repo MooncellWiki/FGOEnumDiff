@@ -1,4 +1,4 @@
-public enum Image.Origin180 // TypeDefIndex: 3086
+public enum Image.Origin180 // TypeDefIndex: 3084
 {
 	// Fields
 	public int value__; // 0x0

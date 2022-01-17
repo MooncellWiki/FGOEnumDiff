@@ -1,4 +1,4 @@
-public enum EventRandomMissionListViewManager.InitMode // TypeDefIndex: 9790
+public enum EventRandomMissionListViewManager.InitMode // TypeDefIndex: 9788
 {
 	// Fields
 	public int value__; // 0x0

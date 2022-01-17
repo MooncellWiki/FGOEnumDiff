@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6116
+public enum DataNameKind.Kind // TypeDefIndex: 6114
 {
 	// Fields
 	public int value__; // 0x0

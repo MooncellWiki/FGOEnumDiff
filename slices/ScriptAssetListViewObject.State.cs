@@ -1,4 +1,4 @@
-protected enum ScriptAssetListViewObject.State // TypeDefIndex: 11512
+protected enum ScriptAssetListViewObject.State // TypeDefIndex: 11510
 {
 	// Fields
 	public int value__; // 0x0

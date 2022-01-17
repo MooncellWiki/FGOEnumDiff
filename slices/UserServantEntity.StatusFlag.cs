@@ -1,4 +1,4 @@
-public enum UserServantEntity.StatusFlag // TypeDefIndex: 7487
+public enum UserServantEntity.StatusFlag // TypeDefIndex: 7485
 {
 	// Fields
 	public int value__; // 0x0
