@@ -1,4 +1,4 @@
-public enum CoinRoomSortSelectManager.Kind // TypeDefIndex: 9433
+public enum CoinRoomSortSelectManager.Kind // TypeDefIndex: 9461
 {
 	// Fields
 	public int value__; // 0x0

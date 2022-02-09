@@ -1,4 +1,4 @@
-public enum AnimationList.NAME // TypeDefIndex: 6073
+public enum AnimationList.NAME // TypeDefIndex: 6070
 {
 	// Fields
 	public int value__; // 0x0
@@ -50,5 +50,7 @@ public enum AnimationList.NAME // TypeDefIndex: 6073
 	public const AnimationList.NAME spell04 = 45;
 	public const AnimationList.NAME spell05 = 46;
 	public const AnimationList.NAME sleep_wait01 = 47;
-	public const AnimationList.NAME max = 48;
+	public const AnimationList.NAME counter_wait01 = 48;
+	public const AnimationList.NAME counter_attack01 = 49;
+	public const AnimationList.NAME max = 50;
 }

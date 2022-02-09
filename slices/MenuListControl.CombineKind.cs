@@ -1,4 +1,4 @@
-public enum MenuListControl.CombineKind // TypeDefIndex: 9548
+public enum MenuListControl.CombineKind // TypeDefIndex: 9576
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CommonEffectManager.FlipKind // TypeDefIndex: 7701
+public enum CommonEffectManager.FlipKind // TypeDefIndex: 7720
 {
 	// Fields
 	public int value__; // 0x0

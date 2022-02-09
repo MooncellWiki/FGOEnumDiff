@@ -1,4 +1,4 @@
-public enum FGOActorAnimation.ANIMATIONNAME // TypeDefIndex: 7886
+public enum FGOActorAnimation.ANIMATIONNAME // TypeDefIndex: 7905
 {
 	// Fields
 	public int value__; // 0x0
@@ -51,4 +51,6 @@ public enum FGOActorAnimation.ANIMATIONNAME // TypeDefIndex: 7886
 	public const FGOActorAnimation.ANIMATIONNAME sleep_wait01 = 46;
 	public const FGOActorAnimation.ANIMATIONNAME spell04 = 47;
 	public const FGOActorAnimation.ANIMATIONNAME spell05 = 48;
+	public const FGOActorAnimation.ANIMATIONNAME counter_wait01 = 49;
+	public const FGOActorAnimation.ANIMATIONNAME counter_attack01 = 50;
 }

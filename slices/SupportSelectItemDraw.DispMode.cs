@@ -1,4 +1,4 @@
-public enum SupportSelectItemDraw.DispMode // TypeDefIndex: 10790
+public enum SupportSelectItemDraw.DispMode // TypeDefIndex: 10823
 {
 	// Fields
 	public int value__; // 0x0

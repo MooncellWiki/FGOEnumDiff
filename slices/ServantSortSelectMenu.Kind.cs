@@ -1,4 +1,4 @@
-public enum ServantSortSelectMenu.Kind // TypeDefIndex: 5677
+public enum ServantSortSelectMenu.Kind // TypeDefIndex: 5674
 {
 	// Fields
 	public int value__; // 0x0
@@ -10,4 +10,5 @@ public enum ServantSortSelectMenu.Kind // TypeDefIndex: 5677
 	public const ServantSortSelectMenu.Kind SERVANT_COSTUME_BASE_SELECT = 5;
 	public const ServantSortSelectMenu.Kind COMMAND_CODE_SELECT = 6;
 	public const ServantSortSelectMenu.Kind SERVANT_RECOVERY_FATIGUE = 7;
+	public const ServantSortSelectMenu.Kind SERVANT_BUDDY_POINT_SELECT = 8;
 }

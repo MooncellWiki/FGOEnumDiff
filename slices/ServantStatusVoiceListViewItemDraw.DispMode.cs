@@ -1,4 +1,4 @@
-public enum ServantStatusVoiceListViewItemDraw.DispMode // TypeDefIndex: 5787
+public enum ServantStatusVoiceListViewItemDraw.DispMode // TypeDefIndex: 5784
 {
 	// Fields
 	public int value__; // 0x0

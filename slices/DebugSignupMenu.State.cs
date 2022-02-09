@@ -1,4 +1,4 @@
-protected enum DebugSignupMenu.State // TypeDefIndex: 11443
+protected enum DebugSignupMenu.State // TypeDefIndex: 11481
 {
 	// Fields
 	public int value__; // 0x0

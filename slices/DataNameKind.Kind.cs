@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6114
+public enum DataNameKind.Kind // TypeDefIndex: 6111
 {
 	// Fields
 	public int value__; // 0x0
@@ -379,4 +379,9 @@ public enum DataNameKind.Kind // TypeDefIndex: 6114
 	public const DataNameKind.Kind EVENT_RANDOM_MISSION = 374;
 	public const DataNameKind.Kind USER_GACHA_HISTORY = 375;
 	public const DataNameKind.Kind USER_COIN_ROOM = 376;
+	public const DataNameKind.Kind EVENT_BUDDY_POINT = 377;
+	public const DataNameKind.Kind EVENT_SERVANT_POINT_RANK = 378;
+	public const DataNameKind.Kind USER_EVENT_SERVANT_POINT = 379;
+	public const DataNameKind.Kind FIELD_MOTION = 380;
+	public const DataNameKind.Kind USER_DELETE_RESERVATION = 381;
 }

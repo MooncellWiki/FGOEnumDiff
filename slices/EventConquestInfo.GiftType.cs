@@ -1,4 +1,4 @@
-public enum EventConquestInfo.GiftType // TypeDefIndex: 11389
+public enum EventConquestInfo.GiftType // TypeDefIndex: 11427
 {
 	// Fields
 	public int value__; // 0x0

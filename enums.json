@@ -1409,7 +1409,9 @@
     "RANDOM_LIMIT_COUNT_SUPPORT": "18",
     "SVT_LIMIT_SPOILER_PROTECTION": "19",
     "SVT_LIMIT_DISPLAY_SETTING": "20",
-    "BIRTHDAY_SETTING": "21"
+    "BIRTHDAY_SETTING": "21",
+    "ISSUED_DELETE_PASSWORD": "22",
+    "DELETED": "23"
   },
   "TitleInfoWarBoardTitleComponent.STATE": {
     "NONE": "0",
@@ -1672,6 +1674,10 @@
   },
   "WarBoardStagePieceDetailEntity.Flag": {
     "NOT_INCLUDE_WIN": "1"
+  },
+  "EventBuddyPointEntity.EventBuddyPointFlag": {
+    "HIDE_BUDDY_POINT_RESULT": "1",
+    "NOT_BUDDY_POINT_BUFF": "2"
   },
   "CacheFolderName.FOLDER_NAME": {
     "ASSET": "0",
@@ -4643,7 +4649,9 @@
     "spell04": "45",
     "spell05": "46",
     "sleep_wait01": "47",
-    "max": "48"
+    "counter_wait01": "48",
+    "counter_attack01": "49",
+    "max": "50"
   },
   "CriFsWebInstaller.Status": {
     "Stop": "0",
@@ -5173,6 +5181,10 @@
     "VIEW_BACK": "3",
     "SELECTED": "4",
     "CLOSE": "5"
+  },
+  "LotteryShopBulkResultDialog.State": {
+    "OPEN": "0",
+    "CLOSE": "1"
   },
   "SetTargetObjectMatrix.RendererType": {
     "SkinnedMesh": "0",
@@ -5822,7 +5834,12 @@
     "SVT_MULTI_PORTRAIT": "373",
     "EVENT_RANDOM_MISSION": "374",
     "USER_GACHA_HISTORY": "375",
-    "USER_COIN_ROOM": "376"
+    "USER_COIN_ROOM": "376",
+    "EVENT_BUDDY_POINT": "377",
+    "EVENT_SERVANT_POINT_RANK": "378",
+    "USER_EVENT_SERVANT_POINT": "379",
+    "FIELD_MOTION": "380",
+    "USER_DELETE_RESERVATION": "381"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -6110,7 +6127,8 @@
     "SERVANT_EQUIP_NORMAL_SELECT": "4",
     "SERVANT_COSTUME_BASE_SELECT": "5",
     "COMMAND_CODE_SELECT": "6",
-    "SERVANT_RECOVERY_FATIGUE": "7"
+    "SERVANT_RECOVERY_FATIGUE": "7",
+    "SERVANT_BUDDY_POINT_SELECT": "8"
   },
   "ScriptManager.PresentMessageType": {
     "NONE": "0",
@@ -7002,15 +7020,6 @@
     "Exchange": "1",
     "Signature": "2"
   },
-  "MasterMissionListViewManager.InitMode": {
-    "NONE": "0",
-    "INTO": "1",
-    "VALID": "2",
-    "INPUT": "3",
-    "ENTER": "4",
-    "EXIT": "5",
-    "MODIFY": "6"
-  },
   "StonePurchaseNotificationMenu.State": {
     "INIT": "0",
     "OPEN": "1",
@@ -7575,7 +7584,8 @@
     "CHANGE_BGM_COSTUME": "125",
     "FUNC_126": "126",
     "FUNC_127": "127",
-    "UPDATE_ENTRY_POSITIONS": "128"
+    "UPDATE_ENTRY_POSITIONS": "128",
+    "BUDDY_POINT_UP": "129"
   },
   "SkillUpResultWindowComponent.State": {
     "INIT": "0"
@@ -8990,7 +9000,8 @@
     "COMBINE_APPEND_PASSIVE_SKILL": "104",
     "TREASURE_BOX_DRAW": "105",
     "EVENT_MISSION_RANDOM_CANCEL": "106",
-    "COIN_ROOM": "107"
+    "COIN_ROOM": "107",
+    "USER_DELETE": "108"
   },
   "ServantEquipFramePurchaseConfirmMenu.Kind": {
     "FRAME": "0",
@@ -9201,7 +9212,12 @@
     "UnSubState": "88",
     "ForceSubState": "89",
     "IgnoreIndivUnreleaseable": "90",
-    "OnParty": "91"
+    "OnParty": "91",
+    "CounterId": "92",
+    "CounterLv": "93",
+    "CounterOc": "94",
+    "UseTreasureDevice": "95",
+    "SkillReaction": "96"
   },
   "ResourceFolder": {
     "COMMON_EFFECT": "0",
@@ -10459,6 +10475,15 @@
     "Utf8": "0",
     "Sjis": "1"
   },
+  "MissionListViewManager.InitMode": {
+    "NONE": "0",
+    "INTO": "1",
+    "VALID": "2",
+    "INPUT": "3",
+    "ENTER": "4",
+    "EXIT": "5",
+    "MODIFY": "6"
+  },
   "ShakeType": {
     "None": "0",
     "Position": "1",
@@ -11408,15 +11433,6 @@
     "Top": "2",
     "Right": "3"
   },
-  "EventMissionItemListViewManager.InitMode": {
-    "NONE": "0",
-    "INTO": "1",
-    "VALID": "2",
-    "INPUT": "3",
-    "ENTER": "4",
-    "EXIT": "5",
-    "MODIFY": "6"
-  },
   "Cer": {
     "None": "0",
     "MayFail": "1",
@@ -11584,7 +11600,8 @@
     "ATTACK_BEFORE_FUNCTION": "160",
     "DONOT_SKILL_SELECT": "161",
     "INVISIBLE_BATTLE_CHARA": "163",
-    "BUFF_RATE": "162"
+    "BUFF_RATE": "162",
+    "COUNTER_FUNCTION": "165"
   },
   "EventDetailEntity.EventGaugeType": {
     "NONE": "1",
@@ -12182,7 +12199,8 @@
     "EVENT_ORDER": "24",
     "RECOVERY_FATIGUE": "25",
     "SERVANT_NAME": "26",
-    "DISP_NO": "27"
+    "DISP_NO": "27",
+    "BUDDY_POINT": "28"
   },
   "SvtEqCombineListViewObject.State": {
     "INIT": "0",
@@ -12294,7 +12312,9 @@
     "attack_ex05": "45",
     "sleep_wait01": "46",
     "spell04": "47",
-    "spell05": "48"
+    "spell05": "48",
+    "counter_wait01": "49",
+    "counter_attack01": "50"
   },
   "FullScreenMovieControlMode": {
     "Full": "0",
@@ -12462,6 +12482,10 @@
     "COUNT_CHAIN_HIGHER": "178",
     "COUNT_CHAIN_LOWER": "179",
     "COUNT_CHAIN_EQUAL": "180"
+  },
+  "OptionalFPSType": {
+    "NORMAL": "30",
+    "HIGH": "60"
   },
   "ListViewSort.ExpUpDispType": {
     "EXP_UP": "0",
@@ -12855,15 +12879,6 @@
     "Hw1": "1",
     "Hw2": "9"
   },
-  "CompleteMissionListViewManager.InitMode": {
-    "NONE": "0",
-    "INTO": "1",
-    "VALID": "2",
-    "INPUT": "3",
-    "ENTER": "4",
-    "EXIT": "5",
-    "MODIFY": "6"
-  },
   "UIPopupList.Position": {
     "Auto": "0",
     "Above": "1",
@@ -12990,7 +13005,10 @@
     "DAMAGE3": "293",
     "DAMAGE4": "294",
     "HDAMAGE3": "295",
-    "HDAMAGE4": "296"
+    "HDAMAGE4": "296",
+    "COUNTER1": "297",
+    "COUNTER2": "298",
+    "COUNTER3": "299"
   },
   "UserServantEntity.StatusFlag": {
     "LOCK": "1",
@@ -13145,15 +13163,6 @@
     "Cube": "3",
     "Plane": "4",
     "Quad": "5"
-  },
-  "EventRandomMissionListViewManager.InitMode": {
-    "NONE": "0",
-    "INTO": "1",
-    "VALID": "2",
-    "INPUT": "3",
-    "ENTER": "4",
-    "EXIT": "5",
-    "MODIFY": "6"
   },
   "PartyOrganizationListViewObject.State": {
     "INIT": "0",
@@ -13609,53 +13618,54 @@
     "ADDATTACK": "2",
     "SKILL": "3",
     "TREASURE_DEVICE": "4",
-    "BACKSTEP": "5",
-    "SYSTEM": "6",
-    "COMBO_ORDER": "7",
-    "COMMAND_SPELL": "8",
-    "PLAY_MOTION": "9",
-    "ENDTURN_PLAYER": "10",
-    "ENDTURN_ENEMY": "11",
-    "RESURRECTION": "12",
-    "DEAD": "13",
-    "PROC_BUFFDEAD": "14",
-    "ENEMYLOGIC_ENEMYDEAD": "15",
-    "ENEMYLOGIC_PLAYERACTIONEND": "16",
-    "BUFF_ADD_PLAYER": "17",
-    "BUFF_ADD_ENEMY": "18",
-    "STARTTURN_PLAYER": "19",
-    "STARTTURN_ENEMY": "20",
-    "ENEMYLOGIC_STARTTURN": "21",
-    "ENEMYLOGIC_ENDTURN": "22",
-    "FUNCTIONCHECK_ENTRY": "23",
-    "RESERVATION_SKILL": "24",
-    "ENEMYLOGIC_WAVESTART": "25",
-    "CAMERA": "26",
-    "FIELDAI_START_ENEMYTURN": "27",
-    "FIELDAI_END_ENEMYTURN": "28",
-    "FIELDAI_START_PLAYERTURN": "29",
-    "FIELDAI_END_PLAYERTURN": "30",
-    "FIELDAI_START_WAVE": "31",
-    "FIELDAI_START_TURN": "32",
-    "FIELDAI_REACT_DEAD": "33",
-    "BREAK_ON_BATTLE": "34",
-    "CHECK_SHIFTSERVANT": "35",
-    "SHIFT_SERVANT": "36",
-    "WITHDRAW": "37",
-    "SHIFT_SERVANT_AFTER": "38",
-    "CHANGE_APP": "39",
-    "ENEMY_MASTER_CUTIN": "40",
-    "LOAD_IMMEDIATE_ENTRY_SERVANT": "41",
-    "FIELDAI_ENTRY_UNIT": "42",
-    "PLAY_FIELD_MOTION": "43",
-    "NPCAI_START_WAVE": "44",
-    "NPCAI_START_TURN": "45",
-    "NPCAI_ENTRY_UNIT": "46",
-    "NPCAI_REACT_DEAD": "47",
-    "NPCAI_START_PLAYERTURN": "48",
-    "NPCAI_END_PLAYERTURN": "49",
-    "NPCAI_START_ENEMYTURN": "50",
-    "NPCAI_END_ENEMYTURN": "51"
+    "OVERWRITE_TREASURE_DEVICE": "5",
+    "BACKSTEP": "6",
+    "SYSTEM": "7",
+    "COMBO_ORDER": "8",
+    "COMMAND_SPELL": "9",
+    "PLAY_MOTION": "10",
+    "ENDTURN_PLAYER": "11",
+    "ENDTURN_ENEMY": "12",
+    "RESURRECTION": "13",
+    "DEAD": "14",
+    "PROC_BUFFDEAD": "15",
+    "ENEMYLOGIC_ENEMYDEAD": "16",
+    "ENEMYLOGIC_PLAYERACTIONEND": "17",
+    "BUFF_ADD_PLAYER": "18",
+    "BUFF_ADD_ENEMY": "19",
+    "STARTTURN_PLAYER": "20",
+    "STARTTURN_ENEMY": "21",
+    "ENEMYLOGIC_STARTTURN": "22",
+    "ENEMYLOGIC_ENDTURN": "23",
+    "FUNCTIONCHECK_ENTRY": "24",
+    "RESERVATION_SKILL": "25",
+    "ENEMYLOGIC_WAVESTART": "26",
+    "CAMERA": "27",
+    "FIELDAI_START_ENEMYTURN": "28",
+    "FIELDAI_END_ENEMYTURN": "29",
+    "FIELDAI_START_PLAYERTURN": "30",
+    "FIELDAI_END_PLAYERTURN": "31",
+    "FIELDAI_START_WAVE": "32",
+    "FIELDAI_START_TURN": "33",
+    "FIELDAI_REACT_DEAD": "34",
+    "BREAK_ON_BATTLE": "35",
+    "CHECK_SHIFTSERVANT": "36",
+    "SHIFT_SERVANT": "37",
+    "WITHDRAW": "38",
+    "SHIFT_SERVANT_AFTER": "39",
+    "CHANGE_APP": "40",
+    "ENEMY_MASTER_CUTIN": "41",
+    "LOAD_IMMEDIATE_ENTRY_SERVANT": "42",
+    "FIELDAI_ENTRY_UNIT": "43",
+    "PLAY_FIELD_MOTION": "44",
+    "NPCAI_START_WAVE": "45",
+    "NPCAI_START_TURN": "46",
+    "NPCAI_ENTRY_UNIT": "47",
+    "NPCAI_REACT_DEAD": "48",
+    "NPCAI_START_PLAYERTURN": "49",
+    "NPCAI_END_PLAYERTURN": "50",
+    "NPCAI_START_ENEMYTURN": "51",
+    "NPCAI_END_ENEMYTURN": "52"
   },
   "FingerHoverPhase": {
     "None": "0",
@@ -13839,7 +13849,8 @@
     "FUNCTION_COMMANDCODEATTACK_AFTER": "97",
     "FUNCTION_ATTACK_BEFORE": "98",
     "DONOT_SKILL_SELECT": "99",
-    "BUFF_RATE": "100"
+    "BUFF_RATE": "100",
+    "COUNTER_FUNCTION": "101"
   },
   "EventTriggerType": {
     "PointerEnter": "0",
@@ -13871,7 +13882,9 @@
     "TERMINAL_BANNER": "7",
     "SP_DEAL": "8",
     "BOX_GACHA": "9",
-    "DIALOG_BANNER": "10"
+    "DIALOG_BANNER": "10",
+    "PRIVACY_POLICY": "11",
+    "DELETE_ACCOUNT": "12"
   },
   "WebConnectMenu.State": {
     "INIT": "0",
@@ -14260,7 +14273,9 @@
     "NPCAI_END_PLAYERTURN": "64",
     "NPCAI_START_ENEMYTURN": "65",
     "NPCAI_END_ENEMYTURN": "66",
-    "LOGIC_TERM": "67"
+    "COUNTER_FUNC_PLAYER": "67",
+    "COUNTER_FUNC_ENEMY": "68",
+    "LOGIC_TERM": "69"
   },
   "UserItemListViewManager.Type": {
     "STONE": "1",
@@ -14701,6 +14716,13 @@
     "CompareDepths": "0",
     "RawDepth": "1",
     "None": "2"
+  },
+  "LotteryShopBuyItemConfirmMenu.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
   },
   "Restriction.RangeType": {
     "NONE": "0",
@@ -15189,6 +15211,9 @@
     "Production": "0",
     "AlwaysSucceed": "1",
     "AlwaysFail": "2"
+  },
+  "FieldMotionEntity.Flag": {
+    "NOT_START_BATTLE_SKIP": "1"
   },
   "ServantSellConfirmMenu.Kind": {
     "SELECT_SERVANT": "0",
@@ -17312,7 +17337,9 @@
     "RANDOM_LIMIT_COUNT_SUPPORT": "262144",
     "SVT_LIMIT_SPOILER_PROTECTION": "524288",
     "SVT_LIMIT_DISPLAY_SETTING": "1048576",
-    "BIRTHDAY_SETTING": "2097152"
+    "BIRTHDAY_SETTING": "2097152",
+    "ISSUED_DELETE_PASSWORD": "4194304",
+    "DELETED": "8388608"
   },
   "CombineCommandCardComponent.Kind": {
     "LOCK": "0",

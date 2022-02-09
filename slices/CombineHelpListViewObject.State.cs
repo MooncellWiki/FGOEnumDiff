@@ -1,4 +1,4 @@
-protected enum CombineHelpListViewObject.State // TypeDefIndex: 9544
+protected enum CombineHelpListViewObject.State // TypeDefIndex: 9572
 {
 	// Fields
 	public int value__; // 0x0

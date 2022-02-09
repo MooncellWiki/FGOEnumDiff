@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6603
+public enum DataVals.TYPE // TypeDefIndex: 6607
 {
 	// Fields
 	public int value__; // 0x0
@@ -94,4 +94,9 @@ public enum DataVals.TYPE // TypeDefIndex: 6603
 	public const DataVals.TYPE ForceSubState = 89;
 	public const DataVals.TYPE IgnoreIndivUnreleaseable = 90;
 	public const DataVals.TYPE OnParty = 91;
+	public const DataVals.TYPE CounterId = 92;
+	public const DataVals.TYPE CounterLv = 93;
+	public const DataVals.TYPE CounterOc = 94;
+	public const DataVals.TYPE UseTreasureDevice = 95;
+	public const DataVals.TYPE SkillReaction = 96;
 }

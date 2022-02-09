@@ -1,4 +1,4 @@
-public enum PurchaseBehaviour.Result // TypeDefIndex: 6528
+public enum PurchaseBehaviour.Result // TypeDefIndex: 6532
 {
 	// Fields
 	public int value__; // 0x0

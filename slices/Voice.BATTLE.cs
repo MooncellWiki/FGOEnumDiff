@@ -1,4 +1,4 @@
-public enum Voice.BATTLE // TypeDefIndex: 6229
+public enum Voice.BATTLE // TypeDefIndex: 6227
 {
 	// Fields
 	public int value__; // 0x0
@@ -123,4 +123,7 @@ public enum Voice.BATTLE // TypeDefIndex: 6229
 	public const Voice.BATTLE DAMAGE4 = 294;
 	public const Voice.BATTLE HDAMAGE3 = 295;
 	public const Voice.BATTLE HDAMAGE4 = 296;
+	public const Voice.BATTLE COUNTER1 = 297;
+	public const Voice.BATTLE COUNTER2 = 298;
+	public const Voice.BATTLE COUNTER3 = 299;
 }

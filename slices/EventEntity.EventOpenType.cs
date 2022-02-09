@@ -1,4 +1,4 @@
-public enum EventEntity.EventOpenType // TypeDefIndex: 6853
+public enum EventEntity.EventOpenType // TypeDefIndex: 6860
 {
 	// Fields
 	public int value__; // 0x0

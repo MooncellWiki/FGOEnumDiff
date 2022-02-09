@@ -1,4 +1,4 @@
-public enum ShaderParamAnimation.VectorCountType // TypeDefIndex: 8683
+public enum ShaderParamAnimation.VectorCountType // TypeDefIndex: 8707
 {
 	// Fields
 	public int value__; // 0x0

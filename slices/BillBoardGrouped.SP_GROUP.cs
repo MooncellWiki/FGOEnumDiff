@@ -1,4 +1,4 @@
-protected enum BillBoardGrouped.SP_GROUP // TypeDefIndex: 6345
+protected enum BillBoardGrouped.SP_GROUP // TypeDefIndex: 6348
 {
 	// Fields
 	public int value__; // 0x0

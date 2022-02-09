@@ -1,4 +1,4 @@
-public enum ServantFrameShortDlgComponent.Type // TypeDefIndex: 5648
+public enum ServantFrameShortDlgComponent.Type // TypeDefIndex: 5645
 {
 	// Fields
 	public int value__; // 0x0
