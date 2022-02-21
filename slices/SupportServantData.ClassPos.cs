@@ -1,4 +1,4 @@
-public enum SupportServantData.ClassPos // TypeDefIndex: 10847
+public enum SupportServantData.ClassPos // TypeDefIndex: 10855
 {
 	// Fields
 	public int value__; // 0x0

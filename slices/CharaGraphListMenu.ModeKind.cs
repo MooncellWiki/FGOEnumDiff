@@ -1,4 +1,4 @@
-public enum CharaGraphListMenu.ModeKind // TypeDefIndex: 10548
+public enum CharaGraphListMenu.ModeKind // TypeDefIndex: 10556
 {
 	// Fields
 	public int value__; // 0x0

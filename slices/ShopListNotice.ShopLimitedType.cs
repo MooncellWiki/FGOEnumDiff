@@ -1,4 +1,4 @@
-public enum ShopListNotice.ShopLimitedType // TypeDefIndex: 10658
+public enum ShopListNotice.ShopLimitedType // TypeDefIndex: 10666
 {
 	// Fields
 	public int value__; // 0x0

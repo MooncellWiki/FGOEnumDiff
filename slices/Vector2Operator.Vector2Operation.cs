@@ -1,4 +1,4 @@
-public enum Vector2Operator.Vector2Operation // TypeDefIndex: 13143
+public enum Vector2Operator.Vector2Operation // TypeDefIndex: 13151
 {
 	// Fields
 	public int value__; // 0x0

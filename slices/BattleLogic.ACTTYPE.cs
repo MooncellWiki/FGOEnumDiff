@@ -1,4 +1,4 @@
-private enum BattleLogic.ACTTYPE // TypeDefIndex: 9068
+private enum BattleLogic.ACTTYPE // TypeDefIndex: 9069
 {
 	// Fields
 	public int value__; // 0x0

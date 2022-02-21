@@ -87,4 +87,5 @@ public enum TitleInfoControl.TitleKind // TypeDefIndex: 5899
 	public const TitleInfoControl.TitleKind WAREHOUSE = 82;
 	public const TitleInfoControl.TitleKind MAIN_INTERLUDE = 83;
 	public const TitleInfoControl.TitleKind COIN_ROOM = 84;
+	public const TitleInfoControl.TitleKind ADVANCED = 85;
 }

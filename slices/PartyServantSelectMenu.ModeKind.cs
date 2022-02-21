@@ -1,4 +1,4 @@
-public enum PartyServantSelectMenu.ModeKind // TypeDefIndex: 10520
+public enum PartyServantSelectMenu.ModeKind // TypeDefIndex: 10528
 {
 	// Fields
 	public int value__; // 0x0

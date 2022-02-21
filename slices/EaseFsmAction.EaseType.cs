@@ -1,4 +1,4 @@
-public enum EaseFsmAction.EaseType // TypeDefIndex: 12275
+public enum EaseFsmAction.EaseType // TypeDefIndex: 12283
 {
 	// Fields
 	public int value__; // 0x0

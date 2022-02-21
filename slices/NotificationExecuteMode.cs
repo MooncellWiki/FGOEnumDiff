@@ -1,4 +1,4 @@
-public enum NotificationExecuteMode // TypeDefIndex: 13173
+public enum NotificationExecuteMode // TypeDefIndex: 13181
 {
 	// Fields
 	public int value__; // 0x0

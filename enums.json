@@ -7459,7 +7459,8 @@
     "MASTER_MISSION": "81",
     "WAREHOUSE": "82",
     "MAIN_INTERLUDE": "83",
-    "COIN_ROOM": "84"
+    "COIN_ROOM": "84",
+    "ADVANCED": "85"
   },
   "UITable.Sorting": {
     "None": "0",
@@ -8006,6 +8007,10 @@
     "IDLE": "1",
     "MOVE": "2",
     "INPUT": "3"
+  },
+  "BattleData.TURN_TYPE": {
+    "PLAYER_TURN": "0",
+    "ENEMY_TURN": "1"
   },
   "CostumeListType.FlagKind": {
     "OUT_OF_COSTUME_TIME": "1",

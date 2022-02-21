@@ -1,4 +1,4 @@
-public enum WarehouseConfirmMenu.Kind // TypeDefIndex: 11965
+public enum WarehouseConfirmMenu.Kind // TypeDefIndex: 11973
 {
 	// Fields
 	public int value__; // 0x0

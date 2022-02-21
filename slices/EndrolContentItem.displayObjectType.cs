@@ -1,4 +1,4 @@
-public enum EndrolContentItem.displayObjectType // TypeDefIndex: 9725
+public enum EndrolContentItem.displayObjectType // TypeDefIndex: 9726
 {
 	// Fields
 	public int value__; // 0x0

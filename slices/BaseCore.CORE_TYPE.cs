@@ -1,4 +1,4 @@
-public enum BaseCore.CORE_TYPE // TypeDefIndex: 10884
+public enum BaseCore.CORE_TYPE // TypeDefIndex: 10892
 {
 	// Fields
 	public int value__; // 0x0

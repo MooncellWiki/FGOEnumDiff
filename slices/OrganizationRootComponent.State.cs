@@ -1,4 +1,4 @@
-protected enum OrganizationRootComponent.State // TypeDefIndex: 10325
+protected enum OrganizationRootComponent.State // TypeDefIndex: 10333
 {
 	// Fields
 	public int value__; // 0x0
