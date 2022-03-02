@@ -1,4 +1,4 @@
-public enum BattleDataDefine.RaidType // TypeDefIndex: 8862
+public enum BattleDataDefine.RaidType // TypeDefIndex: 8873
 {
 	// Fields
 	public int value__; // 0x0

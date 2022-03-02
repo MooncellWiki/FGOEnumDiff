@@ -1,4 +1,4 @@
-public enum AccountingManager.Result // TypeDefIndex: 6527
+public enum AccountingManager.Result // TypeDefIndex: 6530
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum Direction // TypeDefIndex: 12133
+public enum Direction // TypeDefIndex: 12183
 {
 	// Fields
 	public int value__; // 0x0

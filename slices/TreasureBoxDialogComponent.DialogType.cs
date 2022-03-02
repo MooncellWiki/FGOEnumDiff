@@ -1,4 +1,4 @@
-public enum TreasureBoxDialogComponent.DialogType // TypeDefIndex: 9934
+public enum TreasureBoxDialogComponent.DialogType // TypeDefIndex: 9946
 {
 	// Fields
 	public int value__; // 0x0

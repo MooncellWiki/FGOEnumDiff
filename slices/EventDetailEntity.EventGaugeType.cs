@@ -1,4 +1,4 @@
-public enum EventDetailEntity.EventGaugeType // TypeDefIndex: 6854
+public enum EventDetailEntity.EventGaugeType // TypeDefIndex: 6859
 {
 	// Fields
 	public int value__; // 0x0

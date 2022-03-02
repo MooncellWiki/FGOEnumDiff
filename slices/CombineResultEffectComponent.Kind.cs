@@ -1,4 +1,4 @@
-public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9584
+public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9595
 {
 	// Fields
 	public int value__; // 0x0
@@ -29,4 +29,5 @@ public enum CombineResultEffectComponent.Kind // TypeDefIndex: 9584
 	public const CombineResultEffectComponent.Kind SVT_COMBINE_LIMIT = 24;
 	public const CombineResultEffectComponent.Kind APPEND_SKILL = 25;
 	public const CombineResultEffectComponent.Kind UNSEAL_LIMIT_UP = 26;
+	public const CombineResultEffectComponent.Kind TREASUREDVC_RANKUP_DUMMY = 27;
 }

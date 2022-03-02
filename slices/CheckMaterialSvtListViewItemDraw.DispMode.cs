@@ -1,4 +1,4 @@
-public enum CheckMaterialSvtListViewItemDraw.DispMode // TypeDefIndex: 9612
+public enum CheckMaterialSvtListViewItemDraw.DispMode // TypeDefIndex: 9624
 {
 	// Fields
 	public int value__; // 0x0

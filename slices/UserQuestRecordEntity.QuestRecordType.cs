@@ -1,4 +1,4 @@
-public enum UserQuestRecordEntity.QuestRecordType // TypeDefIndex: 7485
+public enum UserQuestRecordEntity.QuestRecordType // TypeDefIndex: 7495
 {
 	// Fields
 	public int value__; // 0x0

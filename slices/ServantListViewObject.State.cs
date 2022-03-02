@@ -1,4 +1,4 @@
-protected enum ServantListViewObject.State // TypeDefIndex: 10574
+protected enum ServantListViewObject.State // TypeDefIndex: 10622
 {
 	// Fields
 	public int value__; // 0x0

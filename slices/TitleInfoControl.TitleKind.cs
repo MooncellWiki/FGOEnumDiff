@@ -1,4 +1,4 @@
-public enum TitleInfoControl.TitleKind // TypeDefIndex: 5899
+public enum TitleInfoControl.TitleKind // TypeDefIndex: 5902
 {
 	// Fields
 	public int value__; // 0x0
@@ -62,30 +62,31 @@ public enum TitleInfoControl.TitleKind // TypeDefIndex: 5899
 	public const TitleInfoControl.TitleKind MATERIAL_EVENT_QUEST = 57;
 	public const TitleInfoControl.TitleKind MATERIAL_SERVANT = 58;
 	public const TitleInfoControl.TitleKind MATERIAL_MAIN_INTERLUDE = 59;
-	public const TitleInfoControl.TitleKind SERVANT_PROFILE = 60;
-	public const TitleInfoControl.TitleKind BATTLE_CHARACTER = 61;
-	public const TitleInfoControl.TitleKind FOLLOWER = 62;
-	public const TitleInfoControl.TitleKind BATTLE_SETUP_CONFIRM = 63;
-	public const TitleInfoControl.TitleKind ORGANIZATION = 64;
-	public const TitleInfoControl.TitleKind MASTER_ORGANIZATION = 65;
-	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION = 66;
-	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION_CHANGE = 67;
-	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION_SWAP = 68;
-	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION_SERVANT = 69;
-	public const TitleInfoControl.TitleKind EVENT_REWARD = 70;
-	public const TitleInfoControl.TitleKind EVENT_BOX_GACHA = 71;
-	public const TitleInfoControl.TitleKind EVENT_MISSION = 72;
-	public const TitleInfoControl.TitleKind EVENT_RAID = 73;
-	public const TitleInfoControl.TitleKind EVENT_SHOP = 74;
-	public const TitleInfoControl.TitleKind EVENT_RANKING = 75;
-	public const TitleInfoControl.TitleKind EVENT_TOWER = 76;
-	public const TitleInfoControl.TitleKind RECOVERY_FATIGUE = 77;
-	public const TitleInfoControl.TitleKind SERVANT_FATIGUE_LIST = 78;
-	public const TitleInfoControl.TitleKind SUPPORT_SELECT = 79;
-	public const TitleInfoControl.TitleKind FRIEND_SUPPORT_INFO = 80;
-	public const TitleInfoControl.TitleKind MASTER_MISSION = 81;
-	public const TitleInfoControl.TitleKind WAREHOUSE = 82;
-	public const TitleInfoControl.TitleKind MAIN_INTERLUDE = 83;
-	public const TitleInfoControl.TitleKind COIN_ROOM = 84;
-	public const TitleInfoControl.TitleKind ADVANCED = 85;
+	public const TitleInfoControl.TitleKind SELECT_MULTIPLE_SERVANT = 60;
+	public const TitleInfoControl.TitleKind SERVANT_PROFILE = 61;
+	public const TitleInfoControl.TitleKind BATTLE_CHARACTER = 62;
+	public const TitleInfoControl.TitleKind FOLLOWER = 63;
+	public const TitleInfoControl.TitleKind BATTLE_SETUP_CONFIRM = 64;
+	public const TitleInfoControl.TitleKind ORGANIZATION = 65;
+	public const TitleInfoControl.TitleKind MASTER_ORGANIZATION = 66;
+	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION = 67;
+	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION_CHANGE = 68;
+	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION_SWAP = 69;
+	public const TitleInfoControl.TitleKind PARTY_ORGANIZATION_SERVANT = 70;
+	public const TitleInfoControl.TitleKind EVENT_REWARD = 71;
+	public const TitleInfoControl.TitleKind EVENT_BOX_GACHA = 72;
+	public const TitleInfoControl.TitleKind EVENT_MISSION = 73;
+	public const TitleInfoControl.TitleKind EVENT_RAID = 74;
+	public const TitleInfoControl.TitleKind EVENT_SHOP = 75;
+	public const TitleInfoControl.TitleKind EVENT_RANKING = 76;
+	public const TitleInfoControl.TitleKind EVENT_TOWER = 77;
+	public const TitleInfoControl.TitleKind RECOVERY_FATIGUE = 78;
+	public const TitleInfoControl.TitleKind SERVANT_FATIGUE_LIST = 79;
+	public const TitleInfoControl.TitleKind SUPPORT_SELECT = 80;
+	public const TitleInfoControl.TitleKind FRIEND_SUPPORT_INFO = 81;
+	public const TitleInfoControl.TitleKind MASTER_MISSION = 82;
+	public const TitleInfoControl.TitleKind WAREHOUSE = 83;
+	public const TitleInfoControl.TitleKind MAIN_INTERLUDE = 84;
+	public const TitleInfoControl.TitleKind COIN_ROOM = 85;
+	public const TitleInfoControl.TitleKind ADVANCED = 86;
 }

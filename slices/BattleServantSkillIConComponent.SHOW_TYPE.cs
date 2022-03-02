@@ -1,4 +1,4 @@
-public enum BattleServantSkillIConComponent.SHOW_TYPE // TypeDefIndex: 9343
+public enum BattleServantSkillIConComponent.SHOW_TYPE // TypeDefIndex: 9354
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CombineListViewManager.InitMode // TypeDefIndex: 9482
+public enum CombineListViewManager.InitMode // TypeDefIndex: 9493
 {
 	// Fields
 	public int value__; // 0x0

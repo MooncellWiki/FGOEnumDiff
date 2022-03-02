@@ -1,4 +1,4 @@
-public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7549
+public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7559
 {
 	// Fields
 	public int value__; // 0x0

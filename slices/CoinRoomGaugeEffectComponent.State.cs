@@ -1,4 +1,4 @@
-protected enum CoinRoomGaugeEffectComponent.State // TypeDefIndex: 9453
+protected enum CoinRoomGaugeEffectComponent.State // TypeDefIndex: 9464
 {
 	// Fields
 	public int value__; // 0x0

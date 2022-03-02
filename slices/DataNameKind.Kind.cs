@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6111
+public enum DataNameKind.Kind // TypeDefIndex: 6114
 {
 	// Fields
 	public int value__; // 0x0
@@ -384,4 +384,7 @@ public enum DataNameKind.Kind // TypeDefIndex: 6111
 	public const DataNameKind.Kind USER_EVENT_SERVANT_POINT = 379;
 	public const DataNameKind.Kind FIELD_MOTION = 380;
 	public const DataNameKind.Kind USER_DELETE_RESERVATION = 381;
+	public const DataNameKind.Kind SERVANT_SCRIPT_MULTIPLE = 382;
+	public const DataNameKind.Kind EQUIP_ADD = 383;
+	public const DataNameKind.Kind QUEST_RELEASE_OVERWRITE = 384;
 }

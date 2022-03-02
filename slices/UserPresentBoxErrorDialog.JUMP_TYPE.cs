@@ -1,4 +1,4 @@
-public enum UserPresentBoxErrorDialog.JUMP_TYPE // TypeDefIndex: 6000
+public enum UserPresentBoxErrorDialog.JUMP_TYPE // TypeDefIndex: 6003
 {
 	// Fields
 	public int value__; // 0x0

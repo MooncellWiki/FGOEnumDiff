@@ -1,4 +1,4 @@
-public enum ServantRewardAction.STATE // TypeDefIndex: 11393
+public enum ServantRewardAction.STATE // TypeDefIndex: 11443
 {
 	// Fields
 	public int value__; // 0x0

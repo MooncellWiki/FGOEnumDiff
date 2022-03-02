@@ -263,6 +263,11 @@
     "OnRelease": "4",
     "Custom": "5"
   },
+  "MultipleViewListViewManager.ResultKind": {
+    "CANCEL": "0",
+    "SHOW_STATUS": "1",
+    "SELECT": "2"
+  },
   "MainMenuBarButton.Kind": {
     "TERMINAL": "0",
     "FORMATION": "1",
@@ -346,6 +351,12 @@
   },
   "DeckSelectMenu.Kind": {
     "COPY": "0"
+  },
+  "SelectImageLimitDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "CLOSE": "3"
   },
   "Direction": {
     "Reverse": "-1",
@@ -498,6 +509,12 @@
   "CriAtomEx.VoiceAllocationMethod": {
     "Once": "0",
     "Retry": "1"
+  },
+  "MyRoomControl.MULTIPLEVIEWSTATE": {
+    "INIT": "0",
+    "SELECT_SERVANT": "1",
+    "SERVANT_AND_UI": "2",
+    "SERVANT": "3"
   },
   "ExchangeAlgorithmType": {
     "None": "2",
@@ -717,6 +734,12 @@
   "ChrDirectionalLight.MaterialType": {
     "ShareMaterial": "0",
     "NormalMaterial": "1"
+  },
+  "MultipleViewListViewItemDraw.DispMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
   },
   "StoreName": {
     "AddressBook": "1",
@@ -1240,7 +1263,8 @@
   "MyRoomAddEntity.OverwriteType": {
     "BG_IMAGE": "1",
     "BGM": "2",
-    "FRONT_OBJ": "6"
+    "FRONT_OBJ": "6",
+    "BG_IMAGE_MULTIPLE": "7"
   },
   "SummonControl.TUTORIAL_KIND": {
     "NONE": "0",
@@ -1714,6 +1738,10 @@
     "ORGANIZATION_GUIDE": "1",
     "FRIEND": "2",
     "NPC": "3"
+  },
+  "SelectImageLimitListViewManager.ResultKind": {
+    "CANCEL": "0",
+    "SELECT": "1"
   },
   "CriAtomEx.ResumeMode": {
     "AllPlayback": "0",
@@ -5839,7 +5867,10 @@
     "EVENT_SERVANT_POINT_RANK": "378",
     "USER_EVENT_SERVANT_POINT": "379",
     "FIELD_MOTION": "380",
-    "USER_DELETE_RESERVATION": "381"
+    "USER_DELETE_RESERVATION": "381",
+    "SERVANT_SCRIPT_MULTIPLE": "382",
+    "EQUIP_ADD": "383",
+    "QUEST_RELEASE_OVERWRITE": "384"
   },
   "Hashtable.EnumeratorMode": {
     "KEY_MODE": "0",
@@ -7020,6 +7051,13 @@
     "Exchange": "1",
     "Signature": "2"
   },
+  "SelectImageLimitListViewObject.InitMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3",
+    "MODIFY": "4"
+  },
   "StonePurchaseNotificationMenu.State": {
     "INIT": "0",
     "OPEN": "1",
@@ -7193,6 +7231,13 @@
     "EXIT": "6",
     "RETRY": "7",
     "ENTERED": "8"
+  },
+  "MultipleViewComponent.ModeKind": {
+    "NORMAL": "0",
+    "LOCK": "1",
+    "CHOICE": "2",
+    "PUSH": "3",
+    "SUM": "4"
   },
   "ServantFramePurchaseConfirmMenu.Kind": {
     "FRAME": "0",
@@ -7435,32 +7480,33 @@
     "MATERIAL_EVENT_QUEST": "57",
     "MATERIAL_SERVANT": "58",
     "MATERIAL_MAIN_INTERLUDE": "59",
-    "SERVANT_PROFILE": "60",
-    "BATTLE_CHARACTER": "61",
-    "FOLLOWER": "62",
-    "BATTLE_SETUP_CONFIRM": "63",
-    "ORGANIZATION": "64",
-    "MASTER_ORGANIZATION": "65",
-    "PARTY_ORGANIZATION": "66",
-    "PARTY_ORGANIZATION_CHANGE": "67",
-    "PARTY_ORGANIZATION_SWAP": "68",
-    "PARTY_ORGANIZATION_SERVANT": "69",
-    "EVENT_REWARD": "70",
-    "EVENT_BOX_GACHA": "71",
-    "EVENT_MISSION": "72",
-    "EVENT_RAID": "73",
-    "EVENT_SHOP": "74",
-    "EVENT_RANKING": "75",
-    "EVENT_TOWER": "76",
-    "RECOVERY_FATIGUE": "77",
-    "SERVANT_FATIGUE_LIST": "78",
-    "SUPPORT_SELECT": "79",
-    "FRIEND_SUPPORT_INFO": "80",
-    "MASTER_MISSION": "81",
-    "WAREHOUSE": "82",
-    "MAIN_INTERLUDE": "83",
-    "COIN_ROOM": "84",
-    "ADVANCED": "85"
+    "SELECT_MULTIPLE_SERVANT": "60",
+    "SERVANT_PROFILE": "61",
+    "BATTLE_CHARACTER": "62",
+    "FOLLOWER": "63",
+    "BATTLE_SETUP_CONFIRM": "64",
+    "ORGANIZATION": "65",
+    "MASTER_ORGANIZATION": "66",
+    "PARTY_ORGANIZATION": "67",
+    "PARTY_ORGANIZATION_CHANGE": "68",
+    "PARTY_ORGANIZATION_SWAP": "69",
+    "PARTY_ORGANIZATION_SERVANT": "70",
+    "EVENT_REWARD": "71",
+    "EVENT_BOX_GACHA": "72",
+    "EVENT_MISSION": "73",
+    "EVENT_RAID": "74",
+    "EVENT_SHOP": "75",
+    "EVENT_RANKING": "76",
+    "EVENT_TOWER": "77",
+    "RECOVERY_FATIGUE": "78",
+    "SERVANT_FATIGUE_LIST": "79",
+    "SUPPORT_SELECT": "80",
+    "FRIEND_SUPPORT_INFO": "81",
+    "MASTER_MISSION": "82",
+    "WAREHOUSE": "83",
+    "MAIN_INTERLUDE": "84",
+    "COIN_ROOM": "85",
+    "ADVANCED": "86"
   },
   "UITable.Sorting": {
     "None": "0",
@@ -8869,6 +8915,12 @@
     "NORMAL": "0",
     "VOICE": "1"
   },
+  "SelectImageLimitListViewObject.State": {
+    "INIT": "0",
+    "IDLE": "1",
+    "MOVE": "2",
+    "INPUT": "3"
+  },
   "SvtEqCombineListViewItem.Type": {
     "SVTEQ_BASE": "0",
     "SVTEQ_MATERIAL": "1",
@@ -9713,7 +9765,7 @@
     "LOCATION_CAMPAIGN": "20",
     "WAR_BOARD": "22",
     "COMBINE_COSUTUME_ITEM": "23",
-    "TREASURE_BOX": "24"
+    "MYROOM_MULTIPLE_VIEW_CAMPAIGN": "24"
   },
   "EventMissionEntity.MissionFlag": {
     "NONE": "1",
@@ -13345,6 +13397,12 @@
     "ScriptOnly": "1",
     "Full": "2"
   },
+  "MultipleViewListViewManager.InitMode": {
+    "NONE": "0",
+    "VALID": "1",
+    "INPUT": "2",
+    "MODIFY": "3"
+  },
   "PartyOrganizationConfirmMenu.Kind": {
     "NONE": "0",
     "BOOST_ITEM_USE": "1"
@@ -14047,6 +14105,15 @@
     "EVENT_ASSIST": "8796093022208",
     "TREASURE_BOX": "17592186044416",
     "HIDE_AFTER_PURCHASE": "35184372088832"
+  },
+  "MultipleViewComponent.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4",
+    "SHOW_STATUS": "5",
+    "WARNING": "6"
   },
   "UriPartial": {
     "Scheme": "0",
@@ -15993,6 +16060,12 @@
   "PresentBoxNotificationListViewManager.Kind": {
     "NORMAL": "0"
   },
+  "SelectImageLimitListViewManager.InitMode": {
+    "NONE": "0",
+    "VALID": "1",
+    "INPUT": "2",
+    "MODIFY": "3"
+  },
   "AvalonSceneManager.ChangeType": {
     "RELEASE": "0",
     "CLEAR": "1",
@@ -16272,7 +16345,8 @@
     "ON_APPEND_PASSIVE_SKILL_COMBINE": "70",
     "ON_PARTY_CONFIRM": "71",
     "BOX_GACHA_RESET": "72",
-    "ON_COIN_ROOM": "73"
+    "ON_COIN_ROOM": "73",
+    "ON_MYROOM": "74"
   },
   "QuestRewardTokenAction.STATE": {
     "NONE": "0",
@@ -16849,6 +16923,12 @@
     "ReceiveTimeout": "8",
     "SendBufferSize": "16",
     "SendTimeout": "32"
+  },
+  "MultipleViewListViewObject.State": {
+    "INIT": "0",
+    "IDLE": "1",
+    "MOVE": "2",
+    "INPUT": "3"
   },
   "ServantOperationListViewManager.ResultKind": {
     "NONE": "0",
@@ -17965,6 +18045,13 @@
     "TUNNEL": "768",
     "TUNNEL6": "769"
   },
+  "MultipleViewListViewObject.InitMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3",
+    "MODIFY": "4"
+  },
   "Video3DLayout": {
     "No3D": "0",
     "SideBySide3D": "1",
@@ -18061,7 +18148,8 @@
     "FRIENDSHIP_EXCEED_HEROINE": "23",
     "SVT_COMBINE_LIMIT": "24",
     "APPEND_SKILL": "25",
-    "UNSEAL_LIMIT_UP": "26"
+    "UNSEAL_LIMIT_UP": "26",
+    "TREASUREDVC_RANKUP_DUMMY": "27"
   },
   "FigureViewListViewMenu.State": {
     "INIT": "0",
@@ -18238,6 +18326,12 @@
   "WarBoardPieceData.RoleType": {
     "NONE": "0",
     "DANGER": "1"
+  },
+  "SelectImageLimitListViewItemDraw.DispMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
   },
   "SvtClassAttri.TYPE": {
     "SABER": "1",

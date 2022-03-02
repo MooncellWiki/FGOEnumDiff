@@ -1,35 +1,35 @@
-public enum NGuiPlayMakerDelegates // TypeDefIndex: 12253
+public enum NGuiPlayMakerDelegates // TypeDefIndex: 12303
 {
 	// Fields
 	public int value__; // 0x0
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548188 Offset: 0x548188 VA: 0x548188
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B7A8 Offset: 0x54B7A8 VA: 0x54B7A8
 	public const NGuiPlayMakerDelegates OnClickEvent = 0;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x5481C4 Offset: 0x5481C4 VA: 0x5481C4
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B7E4 Offset: 0x54B7E4 VA: 0x54B7E4
 	public const NGuiPlayMakerDelegates OnHoverEvent = 1;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548200 Offset: 0x548200 VA: 0x548200
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B820 Offset: 0x54B820 VA: 0x54B820
 	public const NGuiPlayMakerDelegates OnHoverEventEnter = 2;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548244 Offset: 0x548244 VA: 0x548244
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B864 Offset: 0x54B864 VA: 0x54B864
 	public const NGuiPlayMakerDelegates OnHoverEventExit = 3;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548288 Offset: 0x548288 VA: 0x548288
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B8A8 Offset: 0x54B8A8 VA: 0x54B8A8
 	public const NGuiPlayMakerDelegates OnPressEvent = 4;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x5482C4 Offset: 0x5482C4 VA: 0x5482C4
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B8E4 Offset: 0x54B8E4 VA: 0x54B8E4
 	public const NGuiPlayMakerDelegates OnPressEventUp = 5;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548304 Offset: 0x548304 VA: 0x548304
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B924 Offset: 0x54B924 VA: 0x54B924
 	public const NGuiPlayMakerDelegates OnPressEventDown = 6;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548348 Offset: 0x548348 VA: 0x548348
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B968 Offset: 0x54B968 VA: 0x54B968
 	public const NGuiPlayMakerDelegates OnSelectEvent = 7;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548388 Offset: 0x548388 VA: 0x548388
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B9A8 Offset: 0x54B9A8 VA: 0x54B9A8
 	public const NGuiPlayMakerDelegates OnDragEvent = 8;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x5483C4 Offset: 0x5483C4 VA: 0x5483C4
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54B9E4 Offset: 0x54B9E4 VA: 0x54B9E4
 	public const NGuiPlayMakerDelegates OnDropEvent = 9;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548400 Offset: 0x548400 VA: 0x548400
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54BA20 Offset: 0x54BA20 VA: 0x54BA20
 	public const NGuiPlayMakerDelegates OnSubmitEvent = 10;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548440 Offset: 0x548440 VA: 0x548440
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54BA60 Offset: 0x54BA60 VA: 0x54BA60
 	public const NGuiPlayMakerDelegates OnSliderChangeEvent = 11;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x548484 Offset: 0x548484 VA: 0x548484
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54BAA4 Offset: 0x54BAA4 VA: 0x54BAA4
 	public const NGuiPlayMakerDelegates OnSelectionChangeEvent = 12;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x5484CC Offset: 0x5484CC VA: 0x5484CC
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54BAEC Offset: 0x54BAEC VA: 0x54BAEC
 	public const NGuiPlayMakerDelegates OnTooltipEvent = 13;
-	[PlayMakerUtils_FsmEvent] // RVA: 0x54850C Offset: 0x54850C VA: 0x54850C
+	[PlayMakerUtils_FsmEvent] // RVA: 0x54BB2C Offset: 0x54BB2C VA: 0x54BB2C
 	public const NGuiPlayMakerDelegates OnChangeEvent = 14;
 }

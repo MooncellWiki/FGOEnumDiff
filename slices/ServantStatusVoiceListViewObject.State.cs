@@ -1,4 +1,4 @@
-protected enum ServantStatusVoiceListViewObject.State // TypeDefIndex: 5791
+protected enum ServantStatusVoiceListViewObject.State // TypeDefIndex: 5794
 {
 	// Fields
 	public int value__; // 0x0

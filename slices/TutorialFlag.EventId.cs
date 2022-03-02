@@ -1,4 +1,4 @@
-public enum TutorialFlag.EventId // TypeDefIndex: 6218
+public enum TutorialFlag.EventId // TypeDefIndex: 6221
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ScriptManager.MenuRouteInfo.RouteType // TypeDefIndex: 8483
+public enum ScriptManager.MenuRouteInfo.RouteType // TypeDefIndex: 8494
 {
 	// Fields
 	public int value__; // 0x0

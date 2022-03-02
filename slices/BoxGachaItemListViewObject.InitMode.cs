@@ -1,4 +1,4 @@
-public enum BoxGachaItemListViewObject.InitMode // TypeDefIndex: 9759
+public enum BoxGachaItemListViewObject.InitMode // TypeDefIndex: 9771
 {
 	// Fields
 	public int value__; // 0x0

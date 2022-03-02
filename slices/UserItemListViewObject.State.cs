@@ -1,4 +1,4 @@
-protected enum UserItemListViewObject.State // TypeDefIndex: 10073
+protected enum UserItemListViewObject.State // TypeDefIndex: 10085
 {
 	// Fields
 	public int value__; // 0x0

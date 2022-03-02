@@ -1,4 +1,4 @@
-public enum MouseLook.RotationAxes // TypeDefIndex: 12679
+public enum MouseLook.RotationAxes // TypeDefIndex: 12729
 {
 	// Fields
 	public int value__; // 0x0
