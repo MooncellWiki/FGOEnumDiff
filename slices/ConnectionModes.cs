@@ -1,4 +1,4 @@
-internal enum ConnectionModes // TypeDefIndex: 1515
+internal enum ConnectionModes // TypeDefIndex: 1516
 {
 	// Fields
 	public int value__; // 0x0

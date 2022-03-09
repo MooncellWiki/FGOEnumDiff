@@ -1,4 +1,4 @@
-public enum PackingSize // TypeDefIndex: 345
+public enum PackingSize // TypeDefIndex: 346
 {
 	// Fields
 	public int value__; // 0x0

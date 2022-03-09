@@ -1,4 +1,4 @@
-internal enum HandshakeType // TypeDefIndex: 1926
+internal enum HandshakeType // TypeDefIndex: 1927
 {
 	// Fields
 	public byte value__; // 0x0

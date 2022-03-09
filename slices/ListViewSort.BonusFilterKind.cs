@@ -1,4 +1,4 @@
-public enum ListViewSort.BonusFilterKind // TypeDefIndex: 7815
+public enum ListViewSort.BonusFilterKind // TypeDefIndex: 7939
 {
 	// Fields
 	public int value__; // 0x0

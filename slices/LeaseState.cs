@@ -1,4 +1,4 @@
-public enum LeaseState // TypeDefIndex: 550
+public enum LeaseState // TypeDefIndex: 551
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UIPlaySound.Trigger // TypeDefIndex: 12147
+public enum UIPlaySound.Trigger // TypeDefIndex: 12270
 {
 	// Fields
 	public int value__; // 0x0

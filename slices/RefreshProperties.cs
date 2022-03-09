@@ -1,4 +1,4 @@
-public enum RefreshProperties // TypeDefIndex: 1281
+public enum RefreshProperties // TypeDefIndex: 1282
 {
 	// Fields
 	public int value__; // 0x0

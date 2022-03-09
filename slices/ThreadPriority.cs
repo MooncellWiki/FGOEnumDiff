@@ -1,4 +1,4 @@
-public enum ThreadPriority // TypeDefIndex: 2106
+public enum ThreadPriority // TypeDefIndex: 2109
 {
 	// Fields
 	public int value__; // 0x0

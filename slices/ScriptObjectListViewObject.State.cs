@@ -1,4 +1,4 @@
-protected enum ScriptObjectListViewObject.State // TypeDefIndex: 11660
+protected enum ScriptObjectListViewObject.State // TypeDefIndex: 11783
 {
 	// Fields
 	public int value__; // 0x0

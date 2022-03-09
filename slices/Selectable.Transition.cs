@@ -1,4 +1,4 @@
-public enum Selectable.Transition // TypeDefIndex: 3117
+public enum Selectable.Transition // TypeDefIndex: 3124
 {
 	// Fields
 	public int value__; // 0x0

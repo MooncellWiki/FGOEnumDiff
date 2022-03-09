@@ -1,4 +1,4 @@
-public enum QuestBoardListViewItemDraw.enStatus // TypeDefIndex: 11208
+public enum QuestBoardListViewItemDraw.enStatus // TypeDefIndex: 11331
 {
 	// Fields
 	public int value__; // 0x0

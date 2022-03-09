@@ -1,4 +1,4 @@
-public enum NetworkInterfaceType // TypeDefIndex: 1418
+public enum NetworkInterfaceType // TypeDefIndex: 1419
 {
 	// Fields
 	public int value__; // 0x0

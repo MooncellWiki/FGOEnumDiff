@@ -1,4 +1,4 @@
-public enum ImageFileMachine // TypeDefIndex: 384
+public enum ImageFileMachine // TypeDefIndex: 385
 {
 	// Fields
 	public int value__; // 0x0

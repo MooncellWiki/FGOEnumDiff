@@ -1,4 +1,4 @@
-internal enum GoogleBillingConnectionState // TypeDefIndex: 3439
+internal enum GoogleBillingConnectionState // TypeDefIndex: 3446
 {
 	// Fields
 	public int value__; // 0x0

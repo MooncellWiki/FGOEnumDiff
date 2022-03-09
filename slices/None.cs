@@ -1,4 +1,4 @@
-public enum None // TypeDefIndex: 3349
+public enum None // TypeDefIndex: 3356
 {
 	// Fields
 	public int value__; // 0x0

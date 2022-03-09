@@ -1,4 +1,4 @@
-public enum Restriction.Type // TypeDefIndex: 6182
+public enum Restriction.Type // TypeDefIndex: 6306
 {
 	// Fields
 	public int value__; // 0x0
@@ -14,4 +14,5 @@ public enum Restriction.Type // TypeDefIndex: 6182
 	public const Restriction.Type SVT_NUM = 10;
 	public const Restriction.Type MY_SVT_NUM = 11;
 	public const Restriction.Type MY_SVT_OR_NPC = 12;
+	public const Restriction.Type FIXED_SVT_INDIVIDUALITY_POSITION_MAIN = 14;
 }

@@ -1,4 +1,4 @@
-public enum AppStore // TypeDefIndex: 3515
+public enum AppStore // TypeDefIndex: 3522
 {
 	// Fields
 	public int value__; // 0x0

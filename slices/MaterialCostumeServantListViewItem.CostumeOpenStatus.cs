@@ -1,4 +1,4 @@
-public enum MaterialCostumeServantListViewItem.CostumeOpenStatus // TypeDefIndex: 10133
+public enum MaterialCostumeServantListViewItem.CostumeOpenStatus // TypeDefIndex: 10257
 {
 	// Fields
 	public int value__; // 0x0

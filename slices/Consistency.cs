@@ -1,4 +1,4 @@
-public enum Consistency // TypeDefIndex: 447
+public enum Consistency // TypeDefIndex: 448
 {
 	// Fields
 	public int value__; // 0x0

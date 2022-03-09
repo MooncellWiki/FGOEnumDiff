@@ -1,4 +1,4 @@
-public enum FileOptions // TypeDefIndex: 278
+public enum FileOptions // TypeDefIndex: 279
 {
 	// Fields
 	public int value__; // 0x0

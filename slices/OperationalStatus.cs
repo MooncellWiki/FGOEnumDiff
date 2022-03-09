@@ -1,4 +1,4 @@
-public enum OperationalStatus // TypeDefIndex: 1419
+public enum OperationalStatus // TypeDefIndex: 1420
 {
 	// Fields
 	public int value__; // 0x0

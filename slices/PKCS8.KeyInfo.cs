@@ -1,4 +1,4 @@
-public enum PKCS8.KeyInfo // TypeDefIndex: 130
+public enum PKCS8.KeyInfo // TypeDefIndex: 131
 {
 	// Fields
 	public int value__; // 0x0

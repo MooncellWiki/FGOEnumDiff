@@ -1,4 +1,4 @@
-protected enum SupportServantSelectMenu.State // TypeDefIndex: 10934
+protected enum SupportServantSelectMenu.State // TypeDefIndex: 11057
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ScaleMode // TypeDefIndex: 2737
+public enum ScaleMode // TypeDefIndex: 2744
 {
 	// Fields
 	public int value__; // 0x0

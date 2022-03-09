@@ -1,4 +1,4 @@
-public enum X509ContentType // TypeDefIndex: 697
+public enum X509ContentType // TypeDefIndex: 698
 {
 	// Fields
 	public int value__; // 0x0

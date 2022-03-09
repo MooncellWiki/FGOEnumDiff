@@ -1,4 +1,4 @@
-public enum DebuggableAttribute.DebuggingModes // TypeDefIndex: 235
+public enum DebuggableAttribute.DebuggingModes // TypeDefIndex: 236
 {
 	// Fields
 	public int value__; // 0x0

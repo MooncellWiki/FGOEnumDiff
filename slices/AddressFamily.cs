@@ -1,4 +1,4 @@
-public enum AddressFamily // TypeDefIndex: 1469
+public enum AddressFamily // TypeDefIndex: 1470
 {
 	// Fields
 	public int value__; // 0x0

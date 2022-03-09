@@ -1,4 +1,4 @@
-public enum TransformInputToWorldSpace.AxisPlane // TypeDefIndex: 13044
+public enum TransformInputToWorldSpace.AxisPlane // TypeDefIndex: 13167
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-internal enum X509ChainStatusFlags // TypeDefIndex: 145
+internal enum X509ChainStatusFlags // TypeDefIndex: 146
 {
 	// Fields
 	public int value__; // 0x0
@@ -10,7 +10,7 @@ internal enum X509ChainStatusFlags // TypeDefIndex: 145
 	public const X509ChainStatusFlags PartialChain = 65536;
 	public const X509ChainStatusFlags UntrustedRoot = 32;
 }
-public enum X509ChainStatusFlags // TypeDefIndex: 1661
+public enum X509ChainStatusFlags // TypeDefIndex: 1662
 {
 	// Fields
 	public int value__; // 0x0
@@ -38,7 +38,7 @@ public enum X509ChainStatusFlags // TypeDefIndex: 1661
 	public const X509ChainStatusFlags OfflineRevocation = 16777216;
 	public const X509ChainStatusFlags NoIssuanceChainPolicy = 33554432;
 }
-public enum X509ChainStatusFlags // TypeDefIndex: 1843
+public enum X509ChainStatusFlags // TypeDefIndex: 1844
 {
 	// Fields
 	public int value__; // 0x0

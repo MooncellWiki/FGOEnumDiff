@@ -1,4 +1,4 @@
-public enum CipherAlgorithmType // TypeDefIndex: 1637
+public enum CipherAlgorithmType // TypeDefIndex: 1638
 {
 	// Fields
 	public int value__; // 0x0
@@ -12,7 +12,7 @@ public enum CipherAlgorithmType // TypeDefIndex: 1637
 	public const CipherAlgorithmType Rc4 = 26625;
 	public const CipherAlgorithmType TripleDes = 26115;
 }
-public enum CipherAlgorithmType // TypeDefIndex: 1886
+public enum CipherAlgorithmType // TypeDefIndex: 1887
 {
 	// Fields
 	public int value__; // 0x0

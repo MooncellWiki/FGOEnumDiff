@@ -1,4 +1,4 @@
-internal enum ContentType // TypeDefIndex: 1894
+internal enum ContentType // TypeDefIndex: 1895
 {
 	// Fields
 	public byte value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CryptoStreamMode // TypeDefIndex: 710
+public enum CryptoStreamMode // TypeDefIndex: 711
 {
 	// Fields
 	public int value__; // 0x0

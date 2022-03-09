@@ -1,4 +1,4 @@
-public enum UIPermissionClipboard // TypeDefIndex: 818
+public enum UIPermissionClipboard // TypeDefIndex: 819
 {
 	// Fields
 	public int value__; // 0x0

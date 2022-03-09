@@ -1,4 +1,4 @@
-public enum VertexAttribute // TypeDefIndex: 2195
+public enum VertexAttribute // TypeDefIndex: 2198
 {
 	// Fields
 	public int value__; // 0x0

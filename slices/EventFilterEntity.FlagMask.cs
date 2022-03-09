@@ -1,4 +1,4 @@
-public enum EventFilterEntity.FlagMask // TypeDefIndex: 6875
+public enum EventFilterEntity.FlagMask // TypeDefIndex: 6999
 {
 	// Fields
 	public int value__; // 0x0

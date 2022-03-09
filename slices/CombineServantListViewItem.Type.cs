@@ -1,4 +1,4 @@
-public enum CombineServantListViewItem.Type // TypeDefIndex: 9666
+public enum CombineServantListViewItem.Type // TypeDefIndex: 9790
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum PermissionState // TypeDefIndex: 805
+public enum PermissionState // TypeDefIndex: 806
 {
 	// Fields
 	public int value__; // 0x0

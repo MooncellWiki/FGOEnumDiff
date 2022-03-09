@@ -1,4 +1,4 @@
-public enum Environment.SpecialFolder // TypeDefIndex: 992
+public enum Environment.SpecialFolder // TypeDefIndex: 993
 {
 	// Fields
 	public int value__; // 0x0

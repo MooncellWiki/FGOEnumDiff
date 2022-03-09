@@ -1,4 +1,4 @@
-public enum AssetData.Type // TypeDefIndex: 6255
+public enum AssetData.Type // TypeDefIndex: 6379
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventResetMode // TypeDefIndex: 930
+public enum EventResetMode // TypeDefIndex: 931
 {
 	// Fields
 	public int value__; // 0x0

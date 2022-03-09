@@ -1,4 +1,4 @@
-private enum Socket.SocketOperation // TypeDefIndex: 1482
+private enum Socket.SocketOperation // TypeDefIndex: 1483
 {
 	// Fields
 	public int value__; // 0x0

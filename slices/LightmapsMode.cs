@@ -1,4 +1,4 @@
-public enum LightmapsMode // TypeDefIndex: 2192
+public enum LightmapsMode // TypeDefIndex: 2195
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum QueueMode // TypeDefIndex: 2719
+public enum QueueMode // TypeDefIndex: 2726
 {
 	// Fields
 	public int value__; // 0x0

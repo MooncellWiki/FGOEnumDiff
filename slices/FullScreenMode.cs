@@ -1,4 +1,4 @@
-public enum FullScreenMode // TypeDefIndex: 2145
+public enum FullScreenMode // TypeDefIndex: 2148
 {
 	// Fields
 	public int value__; // 0x0

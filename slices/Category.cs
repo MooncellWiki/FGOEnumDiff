@@ -1,4 +1,4 @@
-internal enum Category // TypeDefIndex: 1705
+internal enum Category // TypeDefIndex: 1706
 {
 	// Fields
 	public ushort value__; // 0x0

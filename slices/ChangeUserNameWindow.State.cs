@@ -1,4 +1,4 @@
-protected enum ChangeUserNameWindow.State // TypeDefIndex: 10091
+protected enum ChangeUserNameWindow.State // TypeDefIndex: 10215
 {
 	// Fields
 	public int value__; // 0x0

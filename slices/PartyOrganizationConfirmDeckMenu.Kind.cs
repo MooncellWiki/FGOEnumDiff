@@ -1,4 +1,4 @@
-public enum PartyOrganizationConfirmDeckMenu.Kind // TypeDefIndex: 10490
+public enum PartyOrganizationConfirmDeckMenu.Kind // TypeDefIndex: 10613
 {
 	// Fields
 	public int value__; // 0x0
@@ -22,7 +22,7 @@ public enum PartyOrganizationConfirmDeckMenu.Kind // TypeDefIndex: 10490
 	public const PartyOrganizationConfirmDeckMenu.Kind START_RESTRICTION_COST_OVER = 17;
 	public const PartyOrganizationConfirmDeckMenu.Kind START_RESTICTION_UNIQUE_SERVANT = 18;
 	public const PartyOrganizationConfirmDeckMenu.Kind START_RESTICTION_FIXED_SUPPORT_POSITION = 19;
-	public const PartyOrganizationConfirmDeckMenu.Kind START_RESTICTION_FIXED_MY_SERVANT_POSITION = 20;
+	public const PartyOrganizationConfirmDeckMenu.Kind START_RESTICTION_FIXED_SERVANT_POSITION = 20;
 	public const PartyOrganizationConfirmDeckMenu.Kind START_RESTRICTION_REQUIRED = 21;
 	public const PartyOrganizationConfirmDeckMenu.Kind START_RESTRICTION = 22;
 }

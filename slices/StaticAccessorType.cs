@@ -1,4 +1,4 @@
-internal enum StaticAccessorType // TypeDefIndex: 2058
+internal enum StaticAccessorType // TypeDefIndex: 2059
 {
 	// Fields
 	public int value__; // 0x0

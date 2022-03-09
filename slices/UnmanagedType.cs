@@ -1,4 +1,4 @@
-public enum UnmanagedType // TypeDefIndex: 472
+public enum UnmanagedType // TypeDefIndex: 473
 {
 	// Fields
 	public int value__; // 0x0

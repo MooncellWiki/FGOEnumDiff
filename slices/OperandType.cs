@@ -1,4 +1,4 @@
-public enum OperandType // TypeDefIndex: 343
+public enum OperandType // TypeDefIndex: 344
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,7 +8,7 @@ public enum OperandType // TypeDefIndex: 343
 	public const OperandType InlineI8 = 3;
 	public const OperandType InlineMethod = 4;
 	public const OperandType InlineNone = 5;
-	[ObsoleteAttribute] // RVA: 0x4827EC Offset: 0x4827EC VA: 0x4827EC
+	[ObsoleteAttribute] // RVA: 0x486FC0 Offset: 0x486FC0 VA: 0x486FC0
 	public const OperandType InlinePhi = 6;
 	public const OperandType InlineR = 7;
 	public const OperandType InlineSig = 9;

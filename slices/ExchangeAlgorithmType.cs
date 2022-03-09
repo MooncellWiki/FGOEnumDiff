@@ -1,4 +1,4 @@
-public enum ExchangeAlgorithmType // TypeDefIndex: 1638
+public enum ExchangeAlgorithmType // TypeDefIndex: 1639
 {
 	// Fields
 	public int value__; // 0x0
@@ -7,7 +7,7 @@ public enum ExchangeAlgorithmType // TypeDefIndex: 1638
 	public const ExchangeAlgorithmType RsaKeyX = 41984;
 	public const ExchangeAlgorithmType RsaSign = 9216;
 }
-public enum ExchangeAlgorithmType // TypeDefIndex: 1897
+public enum ExchangeAlgorithmType // TypeDefIndex: 1898
 {
 	// Fields
 	public int value__; // 0x0

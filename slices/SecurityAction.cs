@@ -1,4 +1,4 @@
-public enum SecurityAction // TypeDefIndex: 810
+public enum SecurityAction // TypeDefIndex: 811
 {
 	// Fields
 	public int value__; // 0x0

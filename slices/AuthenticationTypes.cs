@@ -1,4 +1,4 @@
-public enum AuthenticationTypes // TypeDefIndex: 4295
+public enum AuthenticationTypes // TypeDefIndex: 4416
 {
 	// Fields
 	public int value__; // 0x0

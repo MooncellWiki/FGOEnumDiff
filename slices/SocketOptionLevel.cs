@@ -1,4 +1,4 @@
-public enum SocketOptionLevel // TypeDefIndex: 1496
+public enum SocketOptionLevel // TypeDefIndex: 1497
 {
 	// Fields
 	public int value__; // 0x0

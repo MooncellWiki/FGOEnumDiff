@@ -1,4 +1,4 @@
-public enum ServantFramePurchaseConfirmMenu.Kind // TypeDefIndex: 5634
+public enum ServantFramePurchaseConfirmMenu.Kind // TypeDefIndex: 5758
 {
 	// Fields
 	public int value__; // 0x0

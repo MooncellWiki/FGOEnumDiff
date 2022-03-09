@@ -1,4 +1,4 @@
-public enum PolicyLevelType // TypeDefIndex: 875
+public enum PolicyLevelType // TypeDefIndex: 876
 {
 	// Fields
 	public int value__; // 0x0

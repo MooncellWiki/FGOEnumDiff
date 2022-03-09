@@ -1,4 +1,4 @@
-public enum OSX509Certificates.SecTrustResult // TypeDefIndex: 1642
+public enum OSX509Certificates.SecTrustResult // TypeDefIndex: 1643
 {
 	// Fields
 	public int value__; // 0x0

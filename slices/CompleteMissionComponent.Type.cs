@@ -1,4 +1,4 @@
-public enum CompleteMissionComponent.Type // TypeDefIndex: 5392
+public enum CompleteMissionComponent.Type // TypeDefIndex: 5516
 {
 	// Fields
 	public int value__; // 0x0

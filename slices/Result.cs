@@ -1,4 +1,4 @@
-public enum Result // TypeDefIndex: 3555
+public enum Result // TypeDefIndex: 3562
 {
 	// Fields
 	public int value__; // 0x0

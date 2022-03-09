@@ -1,4 +1,4 @@
-internal enum ReturnTypeTag // TypeDefIndex: 642
+internal enum ReturnTypeTag // TypeDefIndex: 643
 {
 	// Fields
 	public byte value__; // 0x0

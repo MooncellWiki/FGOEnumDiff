@@ -1,4 +1,4 @@
-public enum PlayState // TypeDefIndex: 2508
+public enum PlayState // TypeDefIndex: 2512
 {
 	// Fields
 	public int value__; // 0x0

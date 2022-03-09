@@ -1,4 +1,4 @@
-public enum FromBase64TransformMode // TypeDefIndex: 725
+public enum FromBase64TransformMode // TypeDefIndex: 726
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleScriptRootComponent.TalkType // TypeDefIndex: 9429
+public enum BattleScriptRootComponent.TalkType // TypeDefIndex: 9553
 {
 	// Fields
 	public int value__; // 0x0

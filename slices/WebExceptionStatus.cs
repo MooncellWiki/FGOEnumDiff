@@ -1,4 +1,4 @@
-public enum WebExceptionStatus // TypeDefIndex: 1623
+public enum WebExceptionStatus // TypeDefIndex: 1624
 {
 	// Fields
 	public int value__; // 0x0

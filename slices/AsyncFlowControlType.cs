@@ -1,4 +1,4 @@
-internal enum AsyncFlowControlType // TypeDefIndex: 926
+internal enum AsyncFlowControlType // TypeDefIndex: 927
 {
 	// Fields
 	public int value__; // 0x0

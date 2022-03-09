@@ -1,4 +1,4 @@
-public enum UIPermissionWindow // TypeDefIndex: 819
+public enum UIPermissionWindow // TypeDefIndex: 820
 {
 	// Fields
 	public int value__; // 0x0

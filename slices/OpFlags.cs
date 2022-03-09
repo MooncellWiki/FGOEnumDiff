@@ -1,4 +1,4 @@
-internal enum OpFlags // TypeDefIndex: 1697
+internal enum OpFlags // TypeDefIndex: 1698
 {
 	// Fields
 	public ushort value__; // 0x0

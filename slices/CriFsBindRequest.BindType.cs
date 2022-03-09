@@ -1,4 +1,4 @@
-public enum CriFsBindRequest.BindType // TypeDefIndex: 4010
+public enum CriFsBindRequest.BindType // TypeDefIndex: 4131
 {
 	// Fields
 	public int value__; // 0x0

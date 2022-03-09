@@ -1,4 +1,4 @@
-protected enum StandFigureCamera.State // TypeDefIndex: 6316
+protected enum StandFigureCamera.State // TypeDefIndex: 6440
 {
 	// Fields
 	public int value__; // 0x0

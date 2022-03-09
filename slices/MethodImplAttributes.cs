@@ -1,4 +1,4 @@
-public enum MethodImplAttributes // TypeDefIndex: 391
+public enum MethodImplAttributes // TypeDefIndex: 392
 {
 	// Fields
 	public int value__; // 0x0

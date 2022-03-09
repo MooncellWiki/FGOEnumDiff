@@ -1,4 +1,4 @@
-public enum CriAtomEx.Randomize3dCalcType // TypeDefIndex: 3867
+public enum CriAtomEx.Randomize3dCalcType // TypeDefIndex: 3988
 {
 	// Fields
 	public int value__; // 0x0

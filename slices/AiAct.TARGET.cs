@@ -1,4 +1,4 @@
-public enum AiAct.TARGET // TypeDefIndex: 6071
+public enum AiAct.TARGET // TypeDefIndex: 6195
 {
 	// Fields
 	public int value__; // 0x0

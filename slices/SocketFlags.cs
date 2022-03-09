@@ -1,4 +1,4 @@
-public enum SocketFlags // TypeDefIndex: 1493
+public enum SocketFlags // TypeDefIndex: 1494
 {
 	// Fields
 	public int value__; // 0x0

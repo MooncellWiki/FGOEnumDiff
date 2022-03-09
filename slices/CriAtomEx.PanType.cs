@@ -1,4 +1,4 @@
-public enum CriAtomEx.PanType // TypeDefIndex: 3857
+public enum CriAtomEx.PanType // TypeDefIndex: 3978
 {
 	// Fields
 	public int value__; // 0x0

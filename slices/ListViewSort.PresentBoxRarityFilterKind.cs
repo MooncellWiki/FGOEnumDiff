@@ -1,4 +1,4 @@
-public enum ListViewSort.PresentBoxRarityFilterKind // TypeDefIndex: 7813
+public enum ListViewSort.PresentBoxRarityFilterKind // TypeDefIndex: 7937
 {
 	// Fields
 	public int value__; // 0x0

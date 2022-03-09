@@ -1,4 +1,4 @@
-public enum ClassInterfaceType // TypeDefIndex: 455
+public enum ClassInterfaceType // TypeDefIndex: 456
 {
 	// Fields
 	public int value__; // 0x0

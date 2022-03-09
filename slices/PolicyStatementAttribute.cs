@@ -1,4 +1,4 @@
-public enum PolicyStatementAttribute // TypeDefIndex: 845
+public enum PolicyStatementAttribute // TypeDefIndex: 846
 {
 	// Fields
 	public int value__; // 0x0

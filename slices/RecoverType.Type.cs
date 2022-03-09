@@ -1,4 +1,4 @@
-public enum RecoverType.Type // TypeDefIndex: 6177
+public enum RecoverType.Type // TypeDefIndex: 6301
 {
 	// Fields
 	public int value__; // 0x0

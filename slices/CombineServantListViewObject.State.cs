@@ -1,4 +1,4 @@
-protected enum CombineServantListViewObject.State // TypeDefIndex: 9683
+protected enum CombineServantListViewObject.State // TypeDefIndex: 9807
 {
 	// Fields
 	public int value__; // 0x0

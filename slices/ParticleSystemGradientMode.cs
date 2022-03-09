@@ -1,4 +1,4 @@
-public enum ParticleSystemGradientMode // TypeDefIndex: 2781
+public enum ParticleSystemGradientMode // TypeDefIndex: 2788
 {
 	// Fields
 	public int value__; // 0x0

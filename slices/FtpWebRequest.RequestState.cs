@@ -1,4 +1,4 @@
-private enum FtpWebRequest.RequestState // TypeDefIndex: 1555
+private enum FtpWebRequest.RequestState // TypeDefIndex: 1556
 {
 	// Fields
 	public int value__; // 0x0

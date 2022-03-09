@@ -1,4 +1,4 @@
-public enum UserCommandCodeEntity.StatusFlag // TypeDefIndex: 7402
+public enum UserCommandCodeEntity.StatusFlag // TypeDefIndex: 7526
 {
 	// Fields
 	public int value__; // 0x0

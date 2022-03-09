@@ -1,4 +1,4 @@
-protected enum BattleResultKnockdownComponent.ColorType // TypeDefIndex: 9407
+protected enum BattleResultKnockdownComponent.ColorType // TypeDefIndex: 9531
 {
 	// Fields
 	public int value__; // 0x0

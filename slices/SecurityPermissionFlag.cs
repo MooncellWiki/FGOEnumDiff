@@ -1,4 +1,4 @@
-public enum SecurityPermissionFlag // TypeDefIndex: 813
+public enum SecurityPermissionFlag // TypeDefIndex: 814
 {
 	// Fields
 	public int value__; // 0x0

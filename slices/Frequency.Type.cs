@@ -1,4 +1,4 @@
-public enum Frequency.Type // TypeDefIndex: 6136
+public enum Frequency.Type // TypeDefIndex: 6260
 {
 	// Fields
 	public int value__; // 0x0

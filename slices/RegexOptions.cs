@@ -1,4 +1,4 @@
-public enum RegexOptions // TypeDefIndex: 1695
+public enum RegexOptions // TypeDefIndex: 1696
 {
 	// Fields
 	public int value__; // 0x0

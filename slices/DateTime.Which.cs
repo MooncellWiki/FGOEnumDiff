@@ -1,4 +1,4 @@
-private enum DateTime.Which // TypeDefIndex: 975
+private enum DateTime.Which // TypeDefIndex: 976
 {
 	// Fields
 	public int value__; // 0x0

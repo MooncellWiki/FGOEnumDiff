@@ -1,4 +1,4 @@
-public enum DefaultPolicies.Key // TypeDefIndex: 827
+public enum DefaultPolicies.Key // TypeDefIndex: 828
 {
 	// Fields
 	public int value__; // 0x0

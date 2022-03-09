@@ -1,4 +1,4 @@
-public enum WrapMode // TypeDefIndex: 2078
+public enum WrapMode // TypeDefIndex: 2079
 {
 	// Fields
 	public int value__; // 0x0

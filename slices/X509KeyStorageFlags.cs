@@ -1,4 +1,4 @@
-public enum X509KeyStorageFlags // TypeDefIndex: 698
+public enum X509KeyStorageFlags // TypeDefIndex: 699
 {
 	// Fields
 	public int value__; // 0x0

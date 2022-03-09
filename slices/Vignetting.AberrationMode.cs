@@ -1,4 +1,4 @@
-public enum Vignetting.AberrationMode // TypeDefIndex: 4269
+public enum Vignetting.AberrationMode // TypeDefIndex: 4390
 {
 	// Fields
 	public int value__; // 0x0
