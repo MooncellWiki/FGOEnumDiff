@@ -1,4 +1,4 @@
-public enum SampleCardListViewDropObject.InitMode // TypeDefIndex: 11851
+public enum SampleCardListViewDropObject.InitMode // TypeDefIndex: 11877
 {
 	// Fields
 	public int value__; // 0x0

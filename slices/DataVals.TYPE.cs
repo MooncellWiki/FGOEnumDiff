@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6734
+public enum DataVals.TYPE // TypeDefIndex: 6736
 {
 	// Fields
 	public int value__; // 0x0
@@ -99,4 +99,7 @@ public enum DataVals.TYPE // TypeDefIndex: 6734
 	public const DataVals.TYPE CounterOc = 94;
 	public const DataVals.TYPE UseTreasureDevice = 95;
 	public const DataVals.TYPE SkillReaction = 96;
+	public const DataVals.TYPE BehaveAsFamilyBuff = 97;
+	public const DataVals.TYPE UnSubStateWhileLinkedToOthers = 98;
+	public const DataVals.TYPE NotAccompanyWhenLinkedTargetMoveState = 99;
 }

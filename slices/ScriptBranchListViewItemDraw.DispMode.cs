@@ -1,4 +1,4 @@
-public enum ScriptBranchListViewItemDraw.DispMode // TypeDefIndex: 11735
+public enum ScriptBranchListViewItemDraw.DispMode // TypeDefIndex: 11761
 {
 	// Fields
 	public int value__; // 0x0

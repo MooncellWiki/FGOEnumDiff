@@ -1,4 +1,4 @@
-protected enum FollowerSelectItemListViewObject.State // TypeDefIndex: 10091
+protected enum FollowerSelectItemListViewObject.State // TypeDefIndex: 10115
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FavoriteChangeListViewItemDraw.DispMode // TypeDefIndex: 10158
+public enum FavoriteChangeListViewItemDraw.DispMode // TypeDefIndex: 10182
 {
 	// Fields
 	public int value__; // 0x0

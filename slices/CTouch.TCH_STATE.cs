@@ -1,4 +1,4 @@
-public enum CTouch.TCH_STATE // TypeDefIndex: 11215
+public enum CTouch.TCH_STATE // TypeDefIndex: 11240
 {
 	// Fields
 	public int value__; // 0x0

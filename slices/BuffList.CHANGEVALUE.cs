@@ -1,4 +1,4 @@
-public enum BuffList.CHANGEVALUE // TypeDefIndex: 6214
+public enum BuffList.CHANGEVALUE // TypeDefIndex: 6216
 {
 	// Fields
 	public int value__; // 0x0

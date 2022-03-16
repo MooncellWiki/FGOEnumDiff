@@ -1,4 +1,4 @@
-public enum PartyListViewItem.DeckCondition // TypeDefIndex: 10574
+public enum PartyListViewItem.DeckCondition // TypeDefIndex: 10598
 {
 	// Fields
 	public int value__; // 0x0
@@ -20,4 +20,5 @@ public enum PartyListViewItem.DeckCondition // TypeDefIndex: 10574
 	public const PartyListViewItem.DeckCondition RESTRICTION_MY_SERVANT_FIX_SUPPORT_QUEST = 15;
 	public const PartyListViewItem.DeckCondition RESTRICTION_REQUIRED = 16;
 	public const PartyListViewItem.DeckCondition RESTICTION = 17;
+	public const PartyListViewItem.DeckCondition ALLOUT_BATTLE_SERVANT = 18;
 }

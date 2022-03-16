@@ -1,4 +1,4 @@
-public enum ShopTopListViewItemDraw.DispMode // TypeDefIndex: 10874
+public enum ShopTopListViewItemDraw.DispMode // TypeDefIndex: 10898
 {
 	// Fields
 	public int value__; // 0x0

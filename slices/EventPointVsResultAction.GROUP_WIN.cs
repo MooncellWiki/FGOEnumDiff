@@ -1,4 +1,4 @@
-public enum EventPointVsResultAction.GROUP_WIN // TypeDefIndex: 11188
+public enum EventPointVsResultAction.GROUP_WIN // TypeDefIndex: 11213
 {
 	// Fields
 	public int value__; // 0x0

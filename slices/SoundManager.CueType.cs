@@ -1,4 +1,4 @@
-public enum SoundManager.CueType // TypeDefIndex: 6691
+public enum SoundManager.CueType // TypeDefIndex: 6693
 {
 	// Fields
 	public int value__; // 0x0

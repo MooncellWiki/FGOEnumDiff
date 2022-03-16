@@ -1,4 +1,4 @@
-public enum NotificationIcon // TypeDefIndex: 13360
+public enum NotificationIcon // TypeDefIndex: 13386
 {
 	// Fields
 	public int value__; // 0x0

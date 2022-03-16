@@ -1,4 +1,4 @@
-public enum BoostItemListViewItemDraw.DispMode // TypeDefIndex: 10521
+public enum BoostItemListViewItemDraw.DispMode // TypeDefIndex: 10545
 {
 	// Fields
 	public int value__; // 0x0

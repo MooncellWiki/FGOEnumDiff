@@ -1,4 +1,4 @@
-public enum ServantFrameShortDlgComponent.resultClicked // TypeDefIndex: 5768
+public enum ServantFrameShortDlgComponent.resultClicked // TypeDefIndex: 5770
 {
 	// Fields
 	public int value__; // 0x0

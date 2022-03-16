@@ -1,4 +1,4 @@
-protected enum AgeVerificationMenu.State // TypeDefIndex: 5920
+protected enum AgeVerificationMenu.State // TypeDefIndex: 5922
 {
 	// Fields
 	public int value__; // 0x0

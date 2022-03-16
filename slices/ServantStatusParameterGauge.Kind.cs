@@ -1,4 +1,4 @@
-public enum ServantStatusParameterGauge.Kind // TypeDefIndex: 5904
+public enum ServantStatusParameterGauge.Kind // TypeDefIndex: 5906
 {
 	// Fields
 	public int value__; // 0x0

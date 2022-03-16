@@ -1,4 +1,4 @@
-public enum PartyListMenu.TutorialMode // TypeDefIndex: 10567
+public enum PartyListMenu.TutorialMode // TypeDefIndex: 10591
 {
 	// Fields
 	public int value__; // 0x0

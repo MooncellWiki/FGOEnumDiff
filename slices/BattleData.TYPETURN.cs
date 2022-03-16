@@ -1,4 +1,4 @@
-public enum BattleData.TYPETURN // TypeDefIndex: 8966
+public enum BattleData.TYPETURN // TypeDefIndex: 8979
 {
 	// Fields
 	public int value__; // 0x0

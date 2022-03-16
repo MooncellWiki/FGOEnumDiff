@@ -1,4 +1,4 @@
-protected enum FavoriteChangeListViewObject.State // TypeDefIndex: 10165
+protected enum FavoriteChangeListViewObject.State // TypeDefIndex: 10189
 {
 	// Fields
 	public int value__; // 0x0

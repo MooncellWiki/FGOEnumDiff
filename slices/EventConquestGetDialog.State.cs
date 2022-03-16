@@ -1,4 +1,4 @@
-protected enum EventConquestGetDialog.State // TypeDefIndex: 9873
+protected enum EventConquestGetDialog.State // TypeDefIndex: 9897
 {
 	// Fields
 	public int value__; // 0x0

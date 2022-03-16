@@ -1,4 +1,4 @@
-protected enum CoinRoomRootComponent.State // TypeDefIndex: 9591
+protected enum CoinRoomRootComponent.State // TypeDefIndex: 9615
 {
 	// Fields
 	public int value__; // 0x0

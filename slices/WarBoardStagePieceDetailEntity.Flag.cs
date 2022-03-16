@@ -1,4 +1,4 @@
-private enum WarBoardStagePieceDetailEntity.Flag // TypeDefIndex: 7740
+private enum WarBoardStagePieceDetailEntity.Flag // TypeDefIndex: 7748
 {
 	// Fields
 	public int value__; // 0x0

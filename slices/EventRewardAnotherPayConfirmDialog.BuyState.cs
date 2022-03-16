@@ -1,4 +1,4 @@
-public enum EventRewardAnotherPayConfirmDialog.BuyState // TypeDefIndex: 9979
+public enum EventRewardAnotherPayConfirmDialog.BuyState // TypeDefIndex: 10003
 {
 	// Fields
 	public int value__; // 0x0

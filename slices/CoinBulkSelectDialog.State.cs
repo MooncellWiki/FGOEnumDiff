@@ -1,4 +1,4 @@
-private enum CoinBulkSelectDialog.State // TypeDefIndex: 9564
+private enum CoinBulkSelectDialog.State // TypeDefIndex: 9588
 {
 	// Fields
 	public int value__; // 0x0

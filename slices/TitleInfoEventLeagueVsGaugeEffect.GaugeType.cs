@@ -1,4 +1,4 @@
-public enum TitleInfoEventLeagueVsGaugeEffect.GaugeType // TypeDefIndex: 5967
+public enum TitleInfoEventLeagueVsGaugeEffect.GaugeType // TypeDefIndex: 5969
 {
 	// Fields
 	public int value__; // 0x0

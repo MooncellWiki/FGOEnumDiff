@@ -1,4 +1,4 @@
-public enum GameEventType.TYPE // TypeDefIndex: 6267
+public enum GameEventType.TYPE // TypeDefIndex: 6269
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleBuffData.BuffData.STATEENUM // TypeDefIndex: 8937
+public enum BattleBuffData.BuffData.STATEENUM // TypeDefIndex: 8946
 {
 	// Fields
 	public int value__; // 0x0
@@ -24,4 +24,7 @@ public enum BattleBuffData.BuffData.STATEENUM // TypeDefIndex: 8937
 	public const BattleBuffData.BuffData.STATEENUM UNSUBSTATE = 524288;
 	public const BattleBuffData.BuffData.STATEENUM IGNORE_INDIV_UNRELEASEABLE = 1048576;
 	public const BattleBuffData.BuffData.STATEENUM SKILL_ACTOR_NOT_IN_PARTY_NOACT = 2097152;
+	public const BattleBuffData.BuffData.STATEENUM FAMILY_BUFF = 4194304;
+	public const BattleBuffData.BuffData.STATEENUM UNSUBSTATE_WHILE_LINKED_TO_OTHERS = 8388608;
+	public const BattleBuffData.BuffData.STATEENUM NOT_ACCOMPANY_WHEN_LINKED_TARGET_MOVE_STATE = 16777216;
 }

@@ -1,4 +1,4 @@
-public enum ColorChange.CHANGE_STYLE // TypeDefIndex: 11213
+public enum ColorChange.CHANGE_STYLE // TypeDefIndex: 11238
 {
 	// Fields
 	public int value__; // 0x0

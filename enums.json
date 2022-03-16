@@ -112,7 +112,9 @@
     "RECONSTRUCTION": "9007199254740992",
     "ENEMY_IMMEDIATE_APPEAR": "18014398509481984",
     "NO_SUPPORT_LIST": "36028797018963968",
-    "LIVE": "72057594037927936"
+    "LIVE": "72057594037927936",
+    "FORCE_DISPLAY_ENEMY_INFO": "144115188075855872",
+    "ALLOUT_BATTLE": "288230376151711744"
   },
   "SubscriptionPeriodUnit": {
     "Day": "0",
@@ -1756,7 +1758,8 @@
     "TREASURE_BOX_DRAW": "105",
     "EVENT_MISSION_RANDOM_CANCEL": "106",
     "COIN_ROOM": "107",
-    "USER_DELETE": "108"
+    "USER_DELETE": "108",
+    "BATTLE_RESET": "109"
   },
   "WarehouseListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -5041,7 +5044,8 @@
     "EVENT_PANEL": "42",
     "EVENT_ASSIST": "43",
     "TREASURE_BOX": "44",
-    "HIDE_AFTER_PURCHASE": "45"
+    "HIDE_AFTER_PURCHASE": "45",
+    "ALLOUT_BATTLE": "46"
   },
   "StateLog.LogType": {
     "ALL": "0",
@@ -5645,7 +5649,10 @@
     "CounterLv": "93",
     "CounterOc": "94",
     "UseTreasureDevice": "95",
-    "SkillReaction": "96"
+    "SkillReaction": "96",
+    "BehaveAsFamilyBuff": "97",
+    "UnSubStateWhileLinkedToOthers": "98",
+    "NotAccompanyWhenLinkedTargetMoveState": "99"
   },
   "EventPointItemListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -5750,7 +5757,8 @@
     "INTERLUDE": "13",
     "EVENT_BATTLE_LINE": "14",
     "BATTLE_GROUP": "15",
-    "SHARE_QUEST_INFO": "16"
+    "SHARE_QUEST_INFO": "16",
+    "ALLOUT_BATTLE_QUEST": "17"
   },
   "MasterMissionComponent.Type": {
     "NONE": "-1",
@@ -7020,8 +7028,9 @@
     "FUNCTION_COMMANDCODEATTACK_AFTER": "97",
     "FUNCTION_ATTACK_BEFORE": "98",
     "DONOT_SKILL_SELECT": "99",
-    "BUFF_RATE": "100",
-    "COUNTER_FUNCTION": "101"
+    "INVISIBLE_BATTLE_CHARA": "100",
+    "BUFF_RATE": "101",
+    "COUNTER_FUNCTION": "102"
   },
   "ServantSellConfirmListViewManager.Kind": {
     "SERVANT": "0",
@@ -8547,7 +8556,8 @@
     "SVT_NUM": "10",
     "MY_SVT_NUM": "11",
     "MY_SVT_OR_NPC": "12",
-    "FIXED_SVT_INDIVIDUALITY_POSITION_MAIN": "14"
+    "FIXED_SVT_INDIVIDUALITY_POSITION_MAIN": "14",
+    "ALLOUT_BATTLE_UNIQUE_SVT": "13"
   },
   "LinuxArpHardware": {
     "ETHER": "1",
@@ -9320,7 +9330,8 @@
     "DISP_FIRST_QUEST": "32768",
     "EFFECT_DISAPPEAR_BANNER": "65536",
     "WHITE_MARK_WITH_CLEAR": "131072",
-    "WHITE_MARK_UNDER_BOARD": "262144"
+    "WHITE_MARK_UNDER_BOARD": "262144",
+    "SUB_FOLDER": "524288"
   },
   "QuestBoardListViewObject.State": {
     "INIT": "0",
@@ -9533,7 +9544,10 @@
     "NO_TARGET_NOACT": "262144",
     "UNSUBSTATE": "524288",
     "IGNORE_INDIV_UNRELEASEABLE": "1048576",
-    "SKILL_ACTOR_NOT_IN_PARTY_NOACT": "2097152"
+    "SKILL_ACTOR_NOT_IN_PARTY_NOACT": "2097152",
+    "FAMILY_BUFF": "4194304",
+    "UNSUBSTATE_WHILE_LINKED_TO_OTHERS": "8388608",
+    "NOT_ACCOMPANY_WHEN_LINKED_TARGET_MOVE_STATE": "16777216"
   },
   "PolicyLevelType": {
     "User": "0",
@@ -9990,7 +10004,8 @@
     "RESTRICTION_SERVANT_NUM_AND_FIXED_SERVANT_POSITION": "14",
     "RESTRICTION_MY_SERVANT_FIX_SUPPORT_QUEST": "15",
     "RESTRICTION_REQUIRED": "16",
-    "RESTICTION": "17"
+    "RESTICTION": "17",
+    "ALLOUT_BATTLE_SERVANT": "18"
   },
   "ShopEventListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -10824,7 +10839,9 @@
     "START_RESTICTION_FIXED_SUPPORT_POSITION": "19",
     "START_RESTICTION_FIXED_SERVANT_POSITION": "20",
     "START_RESTRICTION_REQUIRED": "21",
-    "START_RESTRICTION": "22"
+    "START_RESTRICTION": "22",
+    "ALLOUT_BATTLE_SERVANT": "23",
+    "START_ALLOUT_BATTLE_SERVANT": "24"
   },
   "ListViewSort.BonusFilterKind": {
     "ALL": "0",
@@ -11975,7 +11992,8 @@
     "EVENT_PANEL": "4398046511104",
     "EVENT_ASSIST": "8796093022208",
     "TREASURE_BOX": "17592186044416",
-    "HIDE_AFTER_PURCHASE": "35184372088832"
+    "HIDE_AFTER_PURCHASE": "35184372088832",
+    "ALLOUT_BATTLE": "70368744177664"
   },
   "SpotEntity.FlagKind": {
     "NONE": "0",
@@ -12286,7 +12304,10 @@
     "NPCAI_END_ENEMYTURN": "66",
     "COUNTER_FUNC_PLAYER": "67",
     "COUNTER_FUNC_ENEMY": "68",
-    "LOGIC_TERM": "69"
+    "ENEMY_ATTACK_AI_START": "69",
+    "ENEMY_ATTACK_AI_END": "70",
+    "ENEMY_ATTACK_AI_PRECHECK": "71",
+    "LOGIC_TERM": "72"
   },
   "ScriptObjectListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -14955,7 +14976,8 @@
     "USER_DELETE_RESERVATION": "381",
     "SERVANT_SCRIPT_MULTIPLE": "382",
     "EQUIP_ADD": "383",
-    "QUEST_RELEASE_OVERWRITE": "384"
+    "QUEST_RELEASE_OVERWRITE": "384",
+    "USER_EVENT_ALLOUT_BATTLE": "385"
   },
   "PayoutType": {
     "Other": "0",
@@ -17231,7 +17253,8 @@
     "CLOSE": "1",
     "REPEAT_FIRST": "2",
     "REPEAT_LAST": "3",
-    "RESET_INTERVAL": "4"
+    "RESET_INTERVAL": "4",
+    "CLOSE_DISP": "5"
   },
   "MaskFade.Kind": {
     "NONE": "0",

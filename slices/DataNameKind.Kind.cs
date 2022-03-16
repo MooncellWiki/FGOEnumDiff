@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6238
+public enum DataNameKind.Kind // TypeDefIndex: 6240
 {
 	// Fields
 	public int value__; // 0x0
@@ -387,4 +387,5 @@ public enum DataNameKind.Kind // TypeDefIndex: 6238
 	public const DataNameKind.Kind SERVANT_SCRIPT_MULTIPLE = 382;
 	public const DataNameKind.Kind EQUIP_ADD = 383;
 	public const DataNameKind.Kind QUEST_RELEASE_OVERWRITE = 384;
+	public const DataNameKind.Kind USER_EVENT_ALLOUT_BATTLE = 385;
 }

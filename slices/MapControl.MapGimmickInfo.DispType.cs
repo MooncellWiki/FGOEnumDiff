@@ -1,4 +1,4 @@
-public enum MapControl.MapGimmickInfo.DispType // TypeDefIndex: 11263
+public enum MapControl.MapGimmickInfo.DispType // TypeDefIndex: 11288
 {
 	// Fields
 	public int value__; // 0x0

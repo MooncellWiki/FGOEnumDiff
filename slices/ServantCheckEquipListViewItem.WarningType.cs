@@ -1,4 +1,4 @@
-public enum ServantCheckEquipListViewItem.WarningType // TypeDefIndex: 10713
+public enum ServantCheckEquipListViewItem.WarningType // TypeDefIndex: 10737
 {
 	// Fields
 	public int value__; // 0x0

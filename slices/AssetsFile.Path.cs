@@ -1,4 +1,4 @@
-public enum AssetsFile.Path // TypeDefIndex: 6199
+public enum AssetsFile.Path // TypeDefIndex: 6201
 {
 	// Fields
 	public int value__; // 0x0

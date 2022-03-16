@@ -1,4 +1,4 @@
-public enum SpawnerOverflowPolicy // TypeDefIndex: 6432
+public enum SpawnerOverflowPolicy // TypeDefIndex: 6434
 {
 	// Fields
 	public int value__; // 0x0

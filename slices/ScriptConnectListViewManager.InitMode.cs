@@ -1,4 +1,4 @@
-public enum ScriptConnectListViewManager.InitMode // TypeDefIndex: 11750
+public enum ScriptConnectListViewManager.InitMode // TypeDefIndex: 11776
 {
 	// Fields
 	public int value__; // 0x0

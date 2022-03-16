@@ -1,4 +1,4 @@
-public enum BattleMoveObject.TYPE // TypeDefIndex: 9055
+public enum BattleMoveObject.TYPE // TypeDefIndex: 9069
 {
 	// Fields
 	public int value__; // 0x0

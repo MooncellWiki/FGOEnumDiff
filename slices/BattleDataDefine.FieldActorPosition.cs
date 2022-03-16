@@ -1,4 +1,4 @@
-public enum BattleDataDefine.FieldActorPosition // TypeDefIndex: 8996
+public enum BattleDataDefine.FieldActorPosition // TypeDefIndex: 9010
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleActorEffectMesh.MeshType // TypeDefIndex: 8912
+public enum BattleActorEffectMesh.MeshType // TypeDefIndex: 8921
 {
 	// Fields
 	public int value__; // 0x0

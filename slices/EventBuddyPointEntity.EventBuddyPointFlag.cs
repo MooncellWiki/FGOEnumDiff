@@ -1,4 +1,4 @@
-public enum EventBuddyPointEntity.EventBuddyPointFlag // TypeDefIndex: 6962
+public enum EventBuddyPointEntity.EventBuddyPointFlag // TypeDefIndex: 6964
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ListViewSort.PresentBoxCategoryFilterKind // TypeDefIndex: 7936
+public enum ListViewSort.PresentBoxCategoryFilterKind // TypeDefIndex: 7944
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum NGUIText.SymbolStyle // TypeDefIndex: 12326
+public enum NGUIText.SymbolStyle // TypeDefIndex: 12352
 {
 	// Fields
 	public int value__; // 0x0

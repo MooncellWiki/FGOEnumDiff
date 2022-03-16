@@ -1,4 +1,4 @@
-protected enum FriendRootComponent.State // TypeDefIndex: 10112
+protected enum FriendRootComponent.State // TypeDefIndex: 10136
 {
 	// Fields
 	public int value__; // 0x0

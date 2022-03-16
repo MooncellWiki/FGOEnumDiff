@@ -1,4 +1,4 @@
-public enum BattlePerformance.playMovieType // TypeDefIndex: 8694
+public enum BattlePerformance.playMovieType // TypeDefIndex: 8703
 {
 	// Fields
 	public int value__; // 0x0

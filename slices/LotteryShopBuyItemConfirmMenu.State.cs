@@ -1,4 +1,4 @@
-private enum LotteryShopBuyItemConfirmMenu.State // TypeDefIndex: 10028
+private enum LotteryShopBuyItemConfirmMenu.State // TypeDefIndex: 10052
 {
 	// Fields
 	public int value__; // 0x0

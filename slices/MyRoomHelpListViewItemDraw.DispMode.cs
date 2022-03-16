@@ -1,4 +1,4 @@
-public enum MyRoomHelpListViewItemDraw.DispMode // TypeDefIndex: 10492
+public enum MyRoomHelpListViewItemDraw.DispMode // TypeDefIndex: 10516
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BezierControlPointMode // TypeDefIndex: 6702
+public enum BezierControlPointMode // TypeDefIndex: 6704
 {
 	// Fields
 	public int value__; // 0x0
