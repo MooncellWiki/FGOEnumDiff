@@ -32,4 +32,5 @@ public enum CombineAdjustTarget.TYPE // TypeDefIndex: 6225
 	public const CombineAdjustTarget.TYPE QUEST_USE_CONTINUE_ITEM = 28;
 	public const CombineAdjustTarget.TYPE FRIEND_POINT_GACHA_FREE_DRAW_NUM = 29;
 	public const CombineAdjustTarget.TYPE QUEST_USE_FRIENDSHIP_UP_ITEM = 30;
+	public const CombineAdjustTarget.TYPE QUEST_FRIENDSHIP = 31;
 }

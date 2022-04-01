@@ -327,7 +327,8 @@
     "EXCHANGE_SVT_COMBINE_EXP": "27",
     "QUEST_USE_CONTINUE_ITEM": "28",
     "FRIEND_POINT_GACHA_FREE_DRAW_NUM": "29",
-    "QUEST_USE_FRIENDSHIP_UP_ITEM": "30"
+    "QUEST_USE_FRIENDSHIP_UP_ITEM": "30",
+    "QUEST_FRIENDSHIP": "31"
   },
   "SelectMode": {
     "SelectRead": "0",
@@ -6296,7 +6297,8 @@
     "WAR_FORCE_DISP": "14",
     "WAR_FORCE_HIDE": "15",
     "START_TYPE": "16",
-    "NOTICE_DIALOG_TEXT": "17"
+    "NOTICE_DIALOG_TEXT": "17",
+    "CLEAR_MARK": "18"
   },
   "TakeoverDecideMenu.State": {
     "INIT": "0",
@@ -13028,7 +13030,8 @@
     "LOCATION_CAMPAIGN": "20",
     "WAR_BOARD": "22",
     "COMBINE_COSUTUME_ITEM": "23",
-    "MYROOM_MULTIPLE_VIEW_CAMPAIGN": "24"
+    "MYROOM_MULTIPLE_VIEW_CAMPAIGN": "24",
+    "INTERLUDE_CAMPAIGN": "25"
   },
   "AssemblyNameFlags": {
     "None": "0",

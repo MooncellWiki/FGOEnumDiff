@@ -19,4 +19,5 @@ public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7691
 	public const WarAddEntity.WarOverwriteType WAR_FORCE_HIDE = 15;
 	public const WarAddEntity.WarOverwriteType START_TYPE = 16;
 	public const WarAddEntity.WarOverwriteType NOTICE_DIALOG_TEXT = 17;
+	public const WarAddEntity.WarOverwriteType CLEAR_MARK = 18;
 }
