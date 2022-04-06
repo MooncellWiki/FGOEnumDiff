@@ -1,4 +1,4 @@
-private enum InflateBlocks.InflateBlockMode // TypeDefIndex: 4442
+private enum InflateBlocks.InflateBlockMode // TypeDefIndex: 4443
 {
 	// Fields
 	public int value__; // 0x0

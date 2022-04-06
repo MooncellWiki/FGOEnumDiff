@@ -1,4 +1,4 @@
-protected enum ClassCompatibilityInfoDialog.State // TypeDefIndex: 5458
+protected enum ClassCompatibilityInfoDialog.State // TypeDefIndex: 5460
 {
 	// Fields
 	public int value__; // 0x0

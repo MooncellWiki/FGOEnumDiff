@@ -1,4 +1,4 @@
-public enum GestureRecognizer.SelectionType // TypeDefIndex: 4271
+public enum GestureRecognizer.SelectionType // TypeDefIndex: 4272
 {
 	// Fields
 	public int value__; // 0x0

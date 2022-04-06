@@ -1,4 +1,4 @@
-public enum ProductType // TypeDefIndex: 2977
+public enum ProductType // TypeDefIndex: 2978
 {
 	// Fields
 	public int value__; // 0x0

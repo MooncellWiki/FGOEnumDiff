@@ -1,4 +1,4 @@
-public enum EquipGraphListMenu.ResultKind // TypeDefIndex: 5547
+public enum EquipGraphListMenu.ResultKind // TypeDefIndex: 5550
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FGOGetBattleParam.PARAM // TypeDefIndex: 8160
+public enum FGOGetBattleParam.PARAM // TypeDefIndex: 8171
 {
 	// Fields
 	public int value__; // 0x0

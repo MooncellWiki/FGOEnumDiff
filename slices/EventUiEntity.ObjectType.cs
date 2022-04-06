@@ -1,4 +1,4 @@
-public enum EventUiEntity.ObjectType // TypeDefIndex: 7138
+public enum EventUiEntity.ObjectType // TypeDefIndex: 7145
 {
 	// Fields
 	public int value__; // 0x0

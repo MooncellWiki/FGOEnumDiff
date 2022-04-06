@@ -1,4 +1,4 @@
-public enum Variant.Type // TypeDefIndex: 3206
+public enum Variant.Type // TypeDefIndex: 3207
 {
 	// Fields
 	public int value__; // 0x0

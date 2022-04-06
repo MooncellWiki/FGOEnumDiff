@@ -1,4 +1,4 @@
-public enum CanvasUpdate // TypeDefIndex: 3063
+public enum CanvasUpdate // TypeDefIndex: 3064
 {
 	// Fields
 	public int value__; // 0x0

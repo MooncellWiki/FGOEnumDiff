@@ -1,4 +1,4 @@
-public enum ShadowSamplingMode // TypeDefIndex: 2212
+public enum ShadowSamplingMode // TypeDefIndex: 2213
 {
 	// Fields
 	public int value__; // 0x0

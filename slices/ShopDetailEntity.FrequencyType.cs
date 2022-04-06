@@ -1,4 +1,4 @@
-public enum ShopDetailEntity.FrequencyType // TypeDefIndex: 7428
+public enum ShopDetailEntity.FrequencyType // TypeDefIndex: 7438
 {
 	// Fields
 	public int value__; // 0x0

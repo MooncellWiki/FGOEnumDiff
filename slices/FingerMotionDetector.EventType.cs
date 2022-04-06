@@ -1,4 +1,4 @@
-private enum FingerMotionDetector.EventType // TypeDefIndex: 4286
+private enum FingerMotionDetector.EventType // TypeDefIndex: 4287
 {
 	// Fields
 	public int value__; // 0x0

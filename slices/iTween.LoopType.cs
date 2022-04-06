@@ -1,4 +1,4 @@
-public enum iTween.LoopType // TypeDefIndex: 12248
+public enum iTween.LoopType // TypeDefIndex: 12274
 {
 	// Fields
 	public int value__; // 0x0

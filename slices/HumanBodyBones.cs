@@ -1,4 +1,4 @@
-public enum HumanBodyBones // TypeDefIndex: 2711
+public enum HumanBodyBones // TypeDefIndex: 2712
 {
 	// Fields
 	public int value__; // 0x0

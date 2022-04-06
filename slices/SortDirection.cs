@@ -1,4 +1,4 @@
-internal enum SortDirection // TypeDefIndex: 2008
+internal enum SortDirection // TypeDefIndex: 2009
 {
 	// Fields
 	public int value__; // 0x0

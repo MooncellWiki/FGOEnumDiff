@@ -1,4 +1,4 @@
-public enum CriAtomEx.Format // TypeDefIndex: 3982
+public enum CriAtomEx.Format // TypeDefIndex: 3983
 {
 	// Fields
 	public uint value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventInfoUIBase.PlayType // TypeDefIndex: 5626
+public enum EventInfoUIBase.PlayType // TypeDefIndex: 5629
 {
 	// Fields
 	public int value__; // 0x0

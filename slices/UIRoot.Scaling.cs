@@ -1,4 +1,4 @@
-public enum UIRoot.Scaling // TypeDefIndex: 12430
+public enum UIRoot.Scaling // TypeDefIndex: 12456
 {
 	// Fields
 	public int value__; // 0x0

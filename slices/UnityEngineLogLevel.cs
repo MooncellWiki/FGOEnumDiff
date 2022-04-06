@@ -1,4 +1,4 @@
-public enum UnityEngineLogLevel // TypeDefIndex: 3714
+public enum UnityEngineLogLevel // TypeDefIndex: 3715
 {
 	// Fields
 	public int value__; // 0x0

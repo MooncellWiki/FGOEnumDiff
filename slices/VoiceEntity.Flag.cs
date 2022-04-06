@@ -1,4 +1,4 @@
-public enum VoiceEntity.Flag // TypeDefIndex: 7679
+public enum VoiceEntity.Flag // TypeDefIndex: 7689
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WarBoardRatingOffsetEntity.Category // TypeDefIndex: 7729
+public enum WarBoardRatingOffsetEntity.Category // TypeDefIndex: 7739
 {
 	// Fields
 	public int value__; // 0x0

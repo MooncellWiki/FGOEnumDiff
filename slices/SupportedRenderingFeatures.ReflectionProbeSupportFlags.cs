@@ -1,4 +1,4 @@
-public enum SupportedRenderingFeatures.ReflectionProbeSupportFlags // TypeDefIndex: 2543
+public enum SupportedRenderingFeatures.ReflectionProbeSupportFlags // TypeDefIndex: 2544
 {
 	// Fields
 	public int value__; // 0x0

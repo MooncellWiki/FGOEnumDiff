@@ -1,4 +1,4 @@
-private enum Scrollbar.Axis // TypeDefIndex: 3121
+private enum Scrollbar.Axis // TypeDefIndex: 3122
 {
 	// Fields
 	public int value__; // 0x0

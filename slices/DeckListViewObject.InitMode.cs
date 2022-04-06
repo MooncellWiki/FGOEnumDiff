@@ -1,4 +1,4 @@
-public enum DeckListViewObject.InitMode // TypeDefIndex: 10568
+public enum DeckListViewObject.InitMode // TypeDefIndex: 10594
 {
 	// Fields
 	public int value__; // 0x0

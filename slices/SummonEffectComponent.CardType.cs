@@ -1,4 +1,4 @@
-public enum SummonEffectComponent.CardType // TypeDefIndex: 10951
+public enum SummonEffectComponent.CardType // TypeDefIndex: 10977
 {
 	// Fields
 	public int value__; // 0x0

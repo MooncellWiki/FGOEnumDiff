@@ -1,4 +1,4 @@
-public enum CurveFsmAction.Calculation // TypeDefIndex: 12475
+public enum CurveFsmAction.Calculation // TypeDefIndex: 12501
 {
 	// Fields
 	public int value__; // 0x0

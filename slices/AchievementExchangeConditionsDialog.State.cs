@@ -1,4 +1,4 @@
-protected enum AchievementExchangeConditionsDialog.State // TypeDefIndex: 5418
+protected enum AchievementExchangeConditionsDialog.State // TypeDefIndex: 5419
 {
 	// Fields
 	public int value__; // 0x0

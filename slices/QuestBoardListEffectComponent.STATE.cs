@@ -1,4 +1,4 @@
-public enum QuestBoardListEffectComponent.STATE // TypeDefIndex: 11341
+public enum QuestBoardListEffectComponent.STATE // TypeDefIndex: 11367
 {
 	// Fields
 	public int value__; // 0x0

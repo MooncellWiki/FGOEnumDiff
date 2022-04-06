@@ -1,4 +1,4 @@
-public enum EventRewardSceneEntity.eventType // TypeDefIndex: 7087
+public enum EventRewardSceneEntity.eventType // TypeDefIndex: 7094
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum DeckListViewItemDraw.DispMode // TypeDefIndex: 10561
+public enum DeckListViewItemDraw.DispMode // TypeDefIndex: 10587
 {
 	// Fields
 	public int value__; // 0x0

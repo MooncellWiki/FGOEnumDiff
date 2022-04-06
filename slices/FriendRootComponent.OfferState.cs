@@ -1,4 +1,4 @@
-public enum FriendRootComponent.OfferState // TypeDefIndex: 10135
+public enum FriendRootComponent.OfferState // TypeDefIndex: 10153
 {
 	// Fields
 	public int value__; // 0x0

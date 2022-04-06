@@ -1,4 +1,4 @@
-public enum FGOActorLogic.LOGIC // TypeDefIndex: 8076
+public enum FGOActorLogic.LOGIC // TypeDefIndex: 8086
 {
 	// Fields
 	public int value__; // 0x0
@@ -11,4 +11,6 @@ public enum FGOActorLogic.LOGIC // TypeDefIndex: 8076
 	public const FGOActorLogic.LOGIC OFF_DRESS = 6;
 	public const FGOActorLogic.LOGIC LOAD_CALL = 7;
 	public const FGOActorLogic.LOGIC STOP_VOICE = 8;
+	public const FGOActorLogic.LOGIC ON_SKIP_DEAD = 9;
+	public const FGOActorLogic.LOGIC OFF_SKIP_DEAD = 10;
 }

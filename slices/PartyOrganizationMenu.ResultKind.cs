@@ -1,4 +1,4 @@
-public enum PartyOrganizationMenu.ResultKind // TypeDefIndex: 10682
+public enum PartyOrganizationMenu.ResultKind // TypeDefIndex: 10708
 {
 	// Fields
 	public int value__; // 0x0

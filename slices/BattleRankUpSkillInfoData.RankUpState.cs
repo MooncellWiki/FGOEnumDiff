@@ -1,4 +1,4 @@
-public enum BattleRankUpSkillInfoData.RankUpState // TypeDefIndex: 9134
+public enum BattleRankUpSkillInfoData.RankUpState // TypeDefIndex: 9151
 {
 	// Fields
 	public int value__; // 0x0

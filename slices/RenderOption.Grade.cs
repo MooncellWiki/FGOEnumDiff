@@ -1,4 +1,4 @@
-public enum RenderOption.Grade // TypeDefIndex: 4408
+public enum RenderOption.Grade // TypeDefIndex: 4409
 {
 	// Fields
 	public int value__; // 0x0

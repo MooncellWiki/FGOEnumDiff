@@ -1,4 +1,4 @@
-public enum BatteryStatus // TypeDefIndex: 2414
+public enum BatteryStatus // TypeDefIndex: 2415
 {
 	// Fields
 	public int value__; // 0x0

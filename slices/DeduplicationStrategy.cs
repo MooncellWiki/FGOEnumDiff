@@ -1,13 +1,13 @@
-public enum DeduplicationStrategy // TypeDefIndex: 3756
+public enum DeduplicationStrategy // TypeDefIndex: 3757
 {
 	// Fields
 	public int value__; // 0x0
-	[TooltipAttribute] // RVA: 0x4EC0BC Offset: 0x4EC0BC VA: 0x4EC0BC
+	[TooltipAttribute] // RVA: 0x4ED914 Offset: 0x4ED914 VA: 0x4ED914
 	public const DeduplicationStrategy None = 0;
-	[TooltipAttribute] // RVA: 0x4EC10C Offset: 0x4EC10C VA: 0x4EC10C
+	[TooltipAttribute] // RVA: 0x4ED964 Offset: 0x4ED964 VA: 0x4ED964
 	public const DeduplicationStrategy Default = 1;
-	[TooltipAttribute] // RVA: 0x4EC140 Offset: 0x4EC140 VA: 0x4EC140
+	[TooltipAttribute] // RVA: 0x4ED998 Offset: 0x4ED998 VA: 0x4ED998
 	public const DeduplicationStrategy Classifier = 2;
-	[TooltipAttribute] // RVA: 0x4EC184 Offset: 0x4EC184 VA: 0x4EC184
+	[TooltipAttribute] // RVA: 0x4ED9DC Offset: 0x4ED9DC VA: 0x4ED9DC
 	public const DeduplicationStrategy Message = 4;
 }

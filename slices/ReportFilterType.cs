@@ -1,17 +1,17 @@
-public enum ReportFilterType // TypeDefIndex: 3759
+public enum ReportFilterType // TypeDefIndex: 3760
 {
 	// Fields
 	public int value__; // 0x0
-	[TooltipAttribute] // RVA: 0x4EC1C8 Offset: 0x4EC1C8 VA: 0x4EC1C8
+	[TooltipAttribute] // RVA: 0x4EDA20 Offset: 0x4EDA20 VA: 0x4EDA20
 	public const ReportFilterType None = 0;
-	[TooltipAttribute] // RVA: 0x4EC210 Offset: 0x4EC210 VA: 0x4EC210
+	[TooltipAttribute] // RVA: 0x4EDA68 Offset: 0x4EDA68 VA: 0x4EDA68
 	public const ReportFilterType Message = 1;
-	[TooltipAttribute] // RVA: 0x4EC254 Offset: 0x4EC254 VA: 0x4EC254
+	[TooltipAttribute] // RVA: 0x4EDAAC Offset: 0x4EDAAC VA: 0x4EDAAC
 	public const ReportFilterType Exception = 2;
-	[TooltipAttribute] // RVA: 0x4EC294 Offset: 0x4EC294 VA: 0x4EC294
+	[TooltipAttribute] // RVA: 0x4EDAEC Offset: 0x4EDAEC VA: 0x4EDAEC
 	public const ReportFilterType UnhandledException = 4;
-	[TooltipAttribute] // RVA: 0x4EC2DC Offset: 0x4EC2DC VA: 0x4EC2DC
+	[TooltipAttribute] // RVA: 0x4EDB34 Offset: 0x4EDB34 VA: 0x4EDB34
 	public const ReportFilterType Hang = 8;
-	[TooltipAttribute] // RVA: 0x4EC314 Offset: 0x4EC314 VA: 0x4EC314
+	[TooltipAttribute] // RVA: 0x4EDB6C Offset: 0x4EDB6C VA: 0x4EDB6C
 	public const ReportFilterType Error = 16;
 }

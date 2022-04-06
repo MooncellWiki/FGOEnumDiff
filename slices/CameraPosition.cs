@@ -1,4 +1,4 @@
-public enum CameraPosition // TypeDefIndex: 6220
+public enum CameraPosition // TypeDefIndex: 6223
 {
 	// Fields
 	public int value__; // 0x0

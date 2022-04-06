@@ -1,4 +1,4 @@
-public enum CameraClearFlags // TypeDefIndex: 2178
+public enum CameraClearFlags // TypeDefIndex: 2179
 {
 	// Fields
 	public int value__; // 0x0

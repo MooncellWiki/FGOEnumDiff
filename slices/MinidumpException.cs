@@ -1,4 +1,4 @@
-internal enum MinidumpException // TypeDefIndex: 3757
+internal enum MinidumpException // TypeDefIndex: 3758
 {
 	// Fields
 	public int value__; // 0x0

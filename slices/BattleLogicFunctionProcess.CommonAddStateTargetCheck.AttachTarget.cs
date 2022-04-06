@@ -1,4 +1,4 @@
-public enum BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget // TypeDefIndex: 9311
+public enum BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget // TypeDefIndex: 9329
 {
 	// Fields
 	public int value__; // 0x0

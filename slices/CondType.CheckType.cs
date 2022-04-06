@@ -1,4 +1,4 @@
-public enum CondType.CheckType // TypeDefIndex: 6229
+public enum CondType.CheckType // TypeDefIndex: 6232
 {
 	// Fields
 	public int value__; // 0x0

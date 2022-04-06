@@ -1,4 +1,4 @@
-public enum TextAnchor // TypeDefIndex: 2650
+public enum TextAnchor // TypeDefIndex: 2651
 {
 	// Fields
 	public int value__; // 0x0

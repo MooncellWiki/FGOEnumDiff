@@ -1,4 +1,4 @@
-public enum MapControl.QuestInfo.TouchType // TypeDefIndex: 11281
+public enum MapControl.QuestInfo.TouchType // TypeDefIndex: 11307
 {
 	// Fields
 	public int value__; // 0x0

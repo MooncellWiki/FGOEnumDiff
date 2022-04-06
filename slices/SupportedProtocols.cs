@@ -1,4 +1,4 @@
-public enum SupportedProtocols // TypeDefIndex: 4485
+public enum SupportedProtocols // TypeDefIndex: 4486
 {
 	// Fields
 	public int value__; // 0x0

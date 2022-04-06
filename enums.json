@@ -3324,7 +3324,8 @@
     "HaveServantEquip": "5",
     "NotHaveServantEquip": "6",
     "RouteSelect": "7",
-    "NotRouteSelect": "8"
+    "NotRouteSelect": "8",
+    "IfClear": "9"
   },
   "SummonLimitWarningDlgComponent.State": {
     "INIT": "0",
@@ -5309,6 +5310,10 @@
     "Center": "1",
     "Right": "2"
   },
+  "DropInfo.DropEffectType": {
+    "NORMAL": "0",
+    "JUMPING": "1"
+  },
   "SvtVoiceType.Type": {
     "HOME": "1",
     "GROETH": "2",
@@ -5653,7 +5658,8 @@
     "SkillReaction": "96",
     "BehaveAsFamilyBuff": "97",
     "UnSubStateWhileLinkedToOthers": "98",
-    "NotAccompanyWhenLinkedTargetMoveState": "99"
+    "NotAccompanyWhenLinkedTargetMoveState": "99",
+    "AllowSubBgmPlaying": "100"
   },
   "EventPointItemListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -9333,7 +9339,8 @@
     "EFFECT_DISAPPEAR_BANNER": "65536",
     "WHITE_MARK_WITH_CLEAR": "131072",
     "WHITE_MARK_UNDER_BOARD": "262144",
-    "SUB_FOLDER": "524288"
+    "SUB_FOLDER": "524288",
+    "DISP_EARTH_POINT_WITHOUT_MAP": "1048576"
   },
   "QuestBoardListViewObject.State": {
     "INIT": "0",
@@ -10844,6 +10851,11 @@
     "START_RESTRICTION": "22",
     "ALLOUT_BATTLE_SERVANT": "23",
     "START_ALLOUT_BATTLE_SERVANT": "24"
+  },
+  "QuestScriptMaterialNextMaster.MaterialNextType": {
+    "NONE": "0",
+    "DIRECT": "1",
+    "BRANCH_GROUP": "2"
   },
   "ListViewSort.BonusFilterKind": {
     "ALL": "0",
@@ -12392,7 +12404,9 @@
     "ON_DRESS": "5",
     "OFF_DRESS": "6",
     "LOAD_CALL": "7",
-    "STOP_VOICE": "8"
+    "STOP_VOICE": "8",
+    "ON_SKIP_DEAD": "9",
+    "OFF_SKIP_DEAD": "10"
   },
   "PlayerStatusRaidPointComponent.DispType": {
     "EMPTY": "0",
@@ -13880,7 +13894,8 @@
   "EventServantEntity.TYPE": {
     "NONE": "0",
     "JOIN": "1",
-    "COND_JOIN": "2"
+    "COND_JOIN": "2",
+    "DIRECT_JOIN": "3"
   },
   "BoxGachaItemListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -14980,7 +14995,8 @@
     "SERVANT_SCRIPT_MULTIPLE": "382",
     "EQUIP_ADD": "383",
     "QUEST_RELEASE_OVERWRITE": "384",
-    "USER_EVENT_ALLOUT_BATTLE": "385"
+    "USER_EVENT_ALLOUT_BATTLE": "385",
+    "QUEST_SCRIPT_MATERIAL_NEXT": "386"
   },
   "PayoutType": {
     "Other": "0",

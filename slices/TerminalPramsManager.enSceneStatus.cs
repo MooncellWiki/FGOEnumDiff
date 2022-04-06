@@ -1,4 +1,4 @@
-public enum TerminalPramsManager.enSceneStatus // TypeDefIndex: 11654
+public enum TerminalPramsManager.enSceneStatus // TypeDefIndex: 11680
 {
 	// Fields
 	public int value__; // 0x0

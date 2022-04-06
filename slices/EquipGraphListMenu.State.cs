@@ -1,4 +1,4 @@
-protected enum EquipGraphListMenu.State // TypeDefIndex: 5548
+protected enum EquipGraphListMenu.State // TypeDefIndex: 5551
 {
 	// Fields
 	public int value__; // 0x0

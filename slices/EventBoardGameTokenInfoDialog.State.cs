@@ -1,4 +1,4 @@
-protected enum EventBoardGameTokenInfoDialog.State // TypeDefIndex: 9907
+protected enum EventBoardGameTokenInfoDialog.State // TypeDefIndex: 9925
 {
 	// Fields
 	public int value__; // 0x0
