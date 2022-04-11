@@ -1,4 +1,4 @@
-public enum ShopType.Type // TypeDefIndex: 6327
+public enum ShopType.Type // TypeDefIndex: 6326
 {
 	// Fields
 	public int value__; // 0x0

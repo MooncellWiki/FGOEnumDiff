@@ -1,4 +1,4 @@
-public enum SelectImageLimitListViewItemDraw.DispMode // TypeDefIndex: 10351
+public enum SelectImageLimitListViewItemDraw.DispMode // TypeDefIndex: 10356
 {
 	// Fields
 	public int value__; // 0x0

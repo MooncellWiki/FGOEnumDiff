@@ -1,4 +1,4 @@
-protected enum ScriptStoryOpenDialog.State // TypeDefIndex: 8687
+protected enum ScriptStoryOpenDialog.State // TypeDefIndex: 8692
 {
 	// Fields
 	public int value__; // 0x0

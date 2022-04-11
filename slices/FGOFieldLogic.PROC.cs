@@ -1,4 +1,4 @@
-public enum FGOFieldLogic.PROC // TypeDefIndex: 8165
+public enum FGOFieldLogic.PROC // TypeDefIndex: 8170
 {
 	// Fields
 	public int value__; // 0x0

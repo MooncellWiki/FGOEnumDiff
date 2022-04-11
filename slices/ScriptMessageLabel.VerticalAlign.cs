@@ -1,4 +1,4 @@
-public enum ScriptMessageLabel.VerticalAlign // TypeDefIndex: 8658
+public enum ScriptMessageLabel.VerticalAlign // TypeDefIndex: 8663
 {
 	// Fields
 	public int value__; // 0x0

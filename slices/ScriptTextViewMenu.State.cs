@@ -1,4 +1,4 @@
-protected enum ScriptTextViewMenu.State // TypeDefIndex: 11862
+protected enum ScriptTextViewMenu.State // TypeDefIndex: 11861
 {
 	// Fields
 	public int value__; // 0x0

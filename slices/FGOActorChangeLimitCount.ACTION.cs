@@ -1,4 +1,4 @@
-public enum FGOActorChangeLimitCount.ACTION // TypeDefIndex: 8064
+public enum FGOActorChangeLimitCount.ACTION // TypeDefIndex: 8069
 {
 	// Fields
 	public int value__; // 0x0

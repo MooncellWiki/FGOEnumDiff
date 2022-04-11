@@ -1,4 +1,4 @@
-public enum EventPanelSpotEntity.EventPanelSpotType // TypeDefIndex: 7046
+public enum EventPanelSpotEntity.EventPanelSpotType // TypeDefIndex: 7045
 {
 	// Fields
 	public int value__; // 0x0

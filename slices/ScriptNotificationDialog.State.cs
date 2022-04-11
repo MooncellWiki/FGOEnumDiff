@@ -1,4 +1,4 @@
-protected enum ScriptNotificationDialog.State // TypeDefIndex: 8667
+protected enum ScriptNotificationDialog.State // TypeDefIndex: 8672
 {
 	// Fields
 	public int value__; // 0x0

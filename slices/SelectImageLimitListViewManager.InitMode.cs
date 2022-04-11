@@ -1,4 +1,4 @@
-public enum SelectImageLimitListViewManager.InitMode // TypeDefIndex: 10353
+public enum SelectImageLimitListViewManager.InitMode // TypeDefIndex: 10358
 {
 	// Fields
 	public int value__; // 0x0

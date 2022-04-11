@@ -1,4 +1,4 @@
-public enum EventBoardGameCellMaster.EventBoardGameCellType // TypeDefIndex: 6949
+public enum EventBoardGameCellMaster.EventBoardGameCellType // TypeDefIndex: 6948
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum MaterialEventLogListViewItemDraw.DispMode // TypeDefIndex: 10320
+public enum MaterialEventLogListViewItemDraw.DispMode // TypeDefIndex: 10325
 {
 	// Fields
 	public int value__; // 0x0

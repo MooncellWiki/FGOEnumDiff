@@ -1,4 +1,4 @@
-private enum SupportDeckFixErrorDialog.State // TypeDefIndex: 11016
+private enum SupportDeckFixErrorDialog.State // TypeDefIndex: 11015
 {
 	// Fields
 	public int value__; // 0x0

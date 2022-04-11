@@ -1,4 +1,4 @@
-public enum RectTransformGetLocalPosition.LocalPositionReference // TypeDefIndex: 13009
+public enum RectTransformGetLocalPosition.LocalPositionReference // TypeDefIndex: 13008
 {
 	// Fields
 	public int value__; // 0x0

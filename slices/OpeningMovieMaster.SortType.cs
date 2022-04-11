@@ -1,4 +1,4 @@
-public enum OpeningMovieMaster.SortType // TypeDefIndex: 7251
+public enum OpeningMovieMaster.SortType // TypeDefIndex: 7250
 {
 	// Fields
 	public int value__; // 0x0

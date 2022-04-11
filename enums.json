@@ -18263,7 +18263,8 @@
     "LAST_USED_DECK_NUMBER_SAVE": "34",
     "MATERIAL_BRANCH_ROUTE_SAVE": "35",
     "CLEAR_RANDOM_MISSION_SAVE": "36",
-    "SUM": "37"
+    "MATERIAL_GROUP_CLEAR_HISTORY_SAVE": "37",
+    "SUM": "38"
   },
   "FakeStoreUIMode": {
     "Default": "0",

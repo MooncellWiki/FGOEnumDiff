@@ -1,4 +1,4 @@
-public enum EventItemDisplayEntity.ScreenFlag // TypeDefIndex: 7013
+public enum EventItemDisplayEntity.ScreenFlag // TypeDefIndex: 7012
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UIMasterFaceRender.DispType // TypeDefIndex: 7996
+public enum UIMasterFaceRender.DispType // TypeDefIndex: 8001
 {
 	// Fields
 	public int value__; // 0x0

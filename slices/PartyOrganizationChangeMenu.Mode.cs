@@ -1,4 +1,4 @@
-public enum PartyOrganizationChangeMenu.Mode // TypeDefIndex: 10638
+public enum PartyOrganizationChangeMenu.Mode // TypeDefIndex: 10637
 {
 	// Fields
 	public int value__; // 0x0

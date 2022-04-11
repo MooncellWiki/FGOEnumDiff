@@ -1,4 +1,4 @@
-public enum EventServantEntity.TYPE // TypeDefIndex: 7109
+public enum EventServantEntity.TYPE // TypeDefIndex: 7108
 {
 	// Fields
 	public int value__; // 0x0

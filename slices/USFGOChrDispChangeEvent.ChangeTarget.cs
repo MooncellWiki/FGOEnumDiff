@@ -1,4 +1,4 @@
-public enum USFGOChrDispChangeEvent.ChangeTarget // TypeDefIndex: 8312
+public enum USFGOChrDispChangeEvent.ChangeTarget // TypeDefIndex: 8317
 {
 	// Fields
 	public int value__; // 0x0

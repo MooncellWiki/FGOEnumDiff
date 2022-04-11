@@ -1,4 +1,4 @@
-public enum TutorialFlag.ImageId // TypeDefIndex: 6353
+public enum TutorialFlag.ImageId // TypeDefIndex: 6352
 {
 	// Fields
 	public int value__; // 0x0

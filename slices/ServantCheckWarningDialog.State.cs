@@ -1,4 +1,4 @@
-protected enum ServantCheckWarningDialog.State // TypeDefIndex: 10772
+protected enum ServantCheckWarningDialog.State // TypeDefIndex: 10771
 {
 	// Fields
 	public int value__; // 0x0

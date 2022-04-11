@@ -1,4 +1,4 @@
-public enum iTweenFSMType // TypeDefIndex: 13402
+public enum iTweenFSMType // TypeDefIndex: 13401
 {
 	// Fields
 	public int value__; // 0x0

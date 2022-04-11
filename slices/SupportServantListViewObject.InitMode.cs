@@ -1,4 +1,4 @@
-public enum SupportServantListViewObject.InitMode // TypeDefIndex: 11104
+public enum SupportServantListViewObject.InitMode // TypeDefIndex: 11103
 {
 	// Fields
 	public int value__; // 0x0

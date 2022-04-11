@@ -1,4 +1,4 @@
-private enum ScriptManager.ExWipeType // TypeDefIndex: 8639
+private enum ScriptManager.ExWipeType // TypeDefIndex: 8644
 {
 	// Fields
 	public int value__; // 0x0
