@@ -1,4 +1,4 @@
-protected enum MaterialCostumeServantSortSelectMenu.State // TypeDefIndex: 10317
+protected enum MaterialCostumeServantSortSelectMenu.State // TypeDefIndex: 10327
 {
 	// Fields
 	public int value__; // 0x0

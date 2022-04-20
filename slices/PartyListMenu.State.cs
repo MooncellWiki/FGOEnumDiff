@@ -1,4 +1,4 @@
-protected enum PartyListMenu.State // TypeDefIndex: 10618
+protected enum PartyListMenu.State // TypeDefIndex: 10627
 {
 	// Fields
 	public int value__; // 0x0

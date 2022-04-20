@@ -1,4 +1,4 @@
-protected enum MultipleViewListViewObject.State // TypeDefIndex: 10351
+protected enum MultipleViewListViewObject.State // TypeDefIndex: 10361
 {
 	// Fields
 	public int value__; // 0x0

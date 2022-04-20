@@ -1,4 +1,4 @@
-protected enum ScriptPlayListViewObject.State // TypeDefIndex: 11848
+protected enum ScriptPlayListViewObject.State // TypeDefIndex: 11857
 {
 	// Fields
 	public int value__; // 0x0

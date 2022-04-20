@@ -1,4 +1,4 @@
-public enum SupportSelectRootComponent.ResultKind // TypeDefIndex: 11067
+public enum SupportSelectRootComponent.ResultKind // TypeDefIndex: 11076
 {
 	// Fields
 	public int value__; // 0x0

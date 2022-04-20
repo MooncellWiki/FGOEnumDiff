@@ -4829,6 +4829,12 @@
     "RewardDialog": "1",
     "GetTreasureListDialog": "2"
   },
+  "MyRoomBackGroundManager.LoadType": {
+    "None": "0",
+    "BackGround": "1",
+    "BackObject": "2",
+    "All": "3"
+  },
   "EnabledOrientation": {
     "kAutorotateToPortrait": "1",
     "kAutorotateToPortraitUpsideDown": "2",
@@ -6057,8 +6063,9 @@
   "MyRoomAddEntity.OverwriteType": {
     "BG_IMAGE": "1",
     "BGM": "2",
-    "FRONT_OBJ": "6",
-    "BG_IMAGE_MULTIPLE": "7"
+    "SERVANT_OVERLAY_OBJECT": "6",
+    "BG_IMAGE_MULTIPLE": "7",
+    "BACK_OBJECT": "8"
   },
   "WarBoardActionTrendEntity.ActionType": {
     "ATTACK": "1",
