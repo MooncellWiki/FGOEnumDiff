@@ -1,4 +1,4 @@
-public enum Ai.ACT_NUM // TypeDefIndex: 6196
+public enum Ai.ACT_NUM // TypeDefIndex: 6208
 {
 	// Fields
 	public int value__; // 0x0
@@ -15,4 +15,6 @@ public enum Ai.ACT_NUM // TypeDefIndex: 6196
 	public const Ai.ACT_NUM REACTION_TURNSTART = -12;
 	public const Ai.ACT_NUM REACTION_PLAYERACTIONSTART = -13;
 	public const Ai.ACT_NUM REACTION_ENTRY_UNIT = -14;
+	public const Ai.ACT_NUM REACTION_BEFORE_RESURRECTION = -15;
+	public const Ai.ACT_NUM REACTION_BEFORE_DEAD = -16;
 }

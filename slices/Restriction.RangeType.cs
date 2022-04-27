@@ -1,4 +1,4 @@
-public enum Restriction.RangeType // TypeDefIndex: 6313
+public enum Restriction.RangeType // TypeDefIndex: 6325
 {
 	// Fields
 	public int value__; // 0x0

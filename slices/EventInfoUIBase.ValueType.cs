@@ -1,4 +1,4 @@
-public enum EventInfoUIBase.ValueType // TypeDefIndex: 5627
+public enum EventInfoUIBase.ValueType // TypeDefIndex: 5633
 {
 	// Fields
 	public int value__; // 0x0
@@ -6,4 +6,5 @@ public enum EventInfoUIBase.ValueType // TypeDefIndex: 5627
 	public const EventInfoUIBase.ValueType EventId = 1;
 	public const EventInfoUIBase.ValueType ConquestInfos = 2;
 	public const EventInfoUIBase.ValueType TotalBoxGacha = 3;
+	public const EventInfoUIBase.ValueType EventPoint = 4;
 }

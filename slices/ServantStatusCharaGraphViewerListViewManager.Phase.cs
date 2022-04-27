@@ -1,4 +1,4 @@
-private enum ServantStatusCharaGraphViewerListViewManager.Phase // TypeDefIndex: 5838
+private enum ServantStatusCharaGraphViewerListViewManager.Phase // TypeDefIndex: 5846
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-protected enum PartyOrganizationRestrictionHelpDialog.State // TypeDefIndex: 10727
+protected enum PartyOrganizationRestrictionHelpDialog.State // TypeDefIndex: 10846
 {
 	// Fields
 	public int value__; // 0x0

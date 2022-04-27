@@ -1,4 +1,4 @@
-public enum AiLogic.PROC_STATE // TypeDefIndex: 9216
+public enum AiLogic.PROC_STATE // TypeDefIndex: 9263
 {
 	// Fields
 	public int value__; // 0x0
@@ -18,4 +18,6 @@ public enum AiLogic.PROC_STATE // TypeDefIndex: 9216
 	public const AiLogic.PROC_STATE SHIFT_SERVANT_AFTER = 14;
 	public const AiLogic.PROC_STATE ENTRY_UNIT = 15;
 	public const AiLogic.PROC_STATE TURN_START_PREV = 16;
+	public const AiLogic.PROC_STATE BEFORE_DEAD = 17;
+	public const AiLogic.PROC_STATE BEFORE_RESURRECTION = 18;
 }

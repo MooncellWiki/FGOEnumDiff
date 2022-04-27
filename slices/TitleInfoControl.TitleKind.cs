@@ -1,4 +1,4 @@
-public enum TitleInfoControl.TitleKind // TypeDefIndex: 6031
+public enum TitleInfoControl.TitleKind // TypeDefIndex: 6039
 {
 	// Fields
 	public int value__; // 0x0

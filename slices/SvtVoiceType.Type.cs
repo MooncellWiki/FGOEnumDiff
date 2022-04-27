@@ -1,4 +1,4 @@
-public enum SvtVoiceType.Type // TypeDefIndex: 6343
+public enum SvtVoiceType.Type // TypeDefIndex: 6355
 {
 	// Fields
 	public int value__; // 0x0
@@ -20,5 +20,7 @@ public enum SvtVoiceType.Type // TypeDefIndex: 6343
 	public const SvtVoiceType.Type EVENT_DAILY_POINT = 16;
 	public const SvtVoiceType.Type TDDAMAGE = 17;
 	public const SvtVoiceType.Type TREASURE_BOX = 18;
-	public const SvtVoiceType.Type SUM = 19;
+	public const SvtVoiceType.Type WAR_BOARD = 19;
+	public const SvtVoiceType.Type EVENT_DIGGING = 20;
+	public const SvtVoiceType.Type SUM = 21;
 }

@@ -1,4 +1,4 @@
-public enum FGOTarget // TypeDefIndex: 8297
+public enum FGOTarget // TypeDefIndex: 8329
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum AiAct.TYPE // TypeDefIndex: 6199
+public enum AiAct.TYPE // TypeDefIndex: 6211
 {
 	// Fields
 	public int value__; // 0x0
@@ -24,4 +24,6 @@ public enum AiAct.TYPE // TypeDefIndex: 6199
 	public const AiAct.TYPE ATTACK_Q_CRITICAL = 19;
 	public const AiAct.TYPE SKILL_ID_CHECKBUFF = 41;
 	public const AiAct.TYPE RESURRECTION = 42;
+	public const AiAct.TYPE MESSAGE = 72;
+	public const AiAct.TYPE MESSAGE_GROUP = 73;
 }

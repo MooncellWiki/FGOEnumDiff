@@ -1,4 +1,4 @@
-public enum UIDrawCall.Clipping // TypeDefIndex: 12402
+public enum UIDrawCall.Clipping // TypeDefIndex: 12532
 {
 	// Fields
 	public int value__; // 0x0

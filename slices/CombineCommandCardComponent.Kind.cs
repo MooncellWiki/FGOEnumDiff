@@ -1,4 +1,4 @@
-public enum CombineCommandCardComponent.Kind // TypeDefIndex: 9692
+public enum CombineCommandCardComponent.Kind // TypeDefIndex: 9766
 {
 	// Fields
 	public int value__; // 0x0

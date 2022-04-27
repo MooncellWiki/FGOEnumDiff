@@ -1,4 +1,4 @@
-public enum CharaGraphListMenu.TabKind // TypeDefIndex: 10784
+public enum CharaGraphListMenu.TabKind // TypeDefIndex: 10903
 {
 	// Fields
 	public int value__; // 0x0

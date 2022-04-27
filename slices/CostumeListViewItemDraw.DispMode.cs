@@ -1,4 +1,4 @@
-public enum CostumeListViewItemDraw.DispMode // TypeDefIndex: 9820
+public enum CostumeListViewItemDraw.DispMode // TypeDefIndex: 9894
 {
 	// Fields
 	public int value__; // 0x0

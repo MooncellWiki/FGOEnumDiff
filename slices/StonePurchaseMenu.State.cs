@@ -1,4 +1,4 @@
-protected enum StonePurchaseMenu.State // TypeDefIndex: 5943
+protected enum StonePurchaseMenu.State // TypeDefIndex: 5951
 {
 	// Fields
 	public int value__; // 0x0

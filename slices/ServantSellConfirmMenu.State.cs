@@ -1,4 +1,4 @@
-private enum ServantSellConfirmMenu.State // TypeDefIndex: 10848
+private enum ServantSellConfirmMenu.State // TypeDefIndex: 10967
 {
 	// Fields
 	public int value__; // 0x0

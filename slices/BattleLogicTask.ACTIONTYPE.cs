@@ -1,4 +1,4 @@
-public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9369
+public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9424
 {
 	// Fields
 	public int value__; // 0x0
@@ -55,4 +55,8 @@ public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9369
 	public const BattleLogicTask.ACTIONTYPE NPCAI_END_PLAYERTURN = 50;
 	public const BattleLogicTask.ACTIONTYPE NPCAI_START_ENEMYTURN = 51;
 	public const BattleLogicTask.ACTIONTYPE NPCAI_END_ENEMYTURN = 52;
+	public const BattleLogicTask.ACTIONTYPE CREATE_RESURRECTION = 53;
+	public const BattleLogicTask.ACTIONTYPE BEFORE_RESURRECTION = 54;
+	public const BattleLogicTask.ACTIONTYPE BEFORE_DEAD = 55;
+	public const BattleLogicTask.ACTIONTYPE MESSAGE = 56;
 }

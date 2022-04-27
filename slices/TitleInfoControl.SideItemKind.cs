@@ -1,4 +1,4 @@
-private enum TitleInfoControl.SideItemKind // TypeDefIndex: 6028
+private enum TitleInfoControl.SideItemKind // TypeDefIndex: 6036
 {
 	// Fields
 	public int value__; // 0x0

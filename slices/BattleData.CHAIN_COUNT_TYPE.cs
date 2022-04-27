@@ -1,4 +1,4 @@
-public enum BattleData.CHAIN_COUNT_TYPE // TypeDefIndex: 8999
+public enum BattleData.CHAIN_COUNT_TYPE // TypeDefIndex: 9039
 {
 	// Fields
 	public int value__; // 0x0

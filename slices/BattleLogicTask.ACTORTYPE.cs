@@ -1,4 +1,4 @@
-public enum BattleLogicTask.ACTORTYPE // TypeDefIndex: 9368
+public enum BattleLogicTask.ACTORTYPE // TypeDefIndex: 9423
 {
 	// Fields
 	public int value__; // 0x0

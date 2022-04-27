@@ -1,4 +1,4 @@
-public enum CombineRootComponent.CombineTutorialProgress // TypeDefIndex: 9675
+public enum CombineRootComponent.CombineTutorialProgress // TypeDefIndex: 9749
 {
 	// Fields
 	public int value__; // 0x0

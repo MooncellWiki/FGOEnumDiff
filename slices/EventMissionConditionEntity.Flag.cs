@@ -1,4 +1,4 @@
-public enum EventMissionConditionEntity.Flag // TypeDefIndex: 7032
+public enum EventMissionConditionEntity.Flag // TypeDefIndex: 7058
 {
 	// Fields
 	public int value__; // 0x0
