@@ -1,4 +1,4 @@
-public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 11028
+public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 11064
 {
 	// Fields
 	public int value__; // 0x0
@@ -20,4 +20,5 @@ public enum ShopPlayVoiceConstants.VoiceFlag // TypeDefIndex: 11028
 	public const ShopPlayVoiceConstants.VoiceFlag ENTER_SVT_COSTUME_SHOP = 65536;
 	public const ShopPlayVoiceConstants.VoiceFlag ENTER_START_UP_SUMMON_SHOP = 131072;
 	public const ShopPlayVoiceConstants.VoiceFlag ENTER_SHOP13_SHOP = 262144;
+	public const ShopPlayVoiceConstants.VoiceFlag ENTER_TRADE_AP_SHOP = 524288;
 }

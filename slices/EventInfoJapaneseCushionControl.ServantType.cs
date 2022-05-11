@@ -1,4 +1,4 @@
-public enum EventInfoJapaneseCushionControl.ServantType // TypeDefIndex: 5604
+public enum EventInfoJapaneseCushionControl.ServantType // TypeDefIndex: 5607
 {
 	// Fields
 	public int value__; // 0x0

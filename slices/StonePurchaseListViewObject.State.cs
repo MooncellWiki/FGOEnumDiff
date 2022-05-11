@@ -1,4 +1,4 @@
-protected enum StonePurchaseListViewObject.State // TypeDefIndex: 5947
+protected enum StonePurchaseListViewObject.State // TypeDefIndex: 5979
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleBuffData.BuffData.STATEENUM // TypeDefIndex: 9004
+public enum BattleBuffData.BuffData.STATEENUM // TypeDefIndex: 9039
 {
 	// Fields
 	public int value__; // 0x0

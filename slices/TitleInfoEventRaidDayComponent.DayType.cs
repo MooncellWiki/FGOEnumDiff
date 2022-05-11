@@ -1,4 +1,4 @@
-public enum TitleInfoEventRaidDayComponent.DayType // TypeDefIndex: 5991
+public enum TitleInfoEventRaidDayComponent.DayType // TypeDefIndex: 6024
 {
 	// Fields
 	public int value__; // 0x0

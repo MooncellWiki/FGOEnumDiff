@@ -1,4 +1,4 @@
-public enum PayType.Type // TypeDefIndex: 6313
+public enum PayType.Type // TypeDefIndex: 6346
 {
 	// Fields
 	public int value__; // 0x0
@@ -15,4 +15,5 @@ public enum PayType.Type // TypeDefIndex: 6313
 	public const PayType.Type ITEM = 11;
 	public const PayType.Type GRAIL_FRAGMENTS = 12;
 	public const PayType.Type FREE = 13;
+	public const PayType.Type COMMON_CONSUME = 14;
 }

@@ -1,4 +1,4 @@
-public enum ItemType.Type // TypeDefIndex: 6304
+public enum ItemType.Type // TypeDefIndex: 6337
 {
 	// Fields
 	public int value__; // 0x0
@@ -33,4 +33,5 @@ public enum ItemType.Type // TypeDefIndex: 6304
 	public const ItemType.Type SVT_COIN = 29;
 	public const ItemType.Type FRIENDSHIP_UP_ITEM = 30;
 	public const ItemType.Type PP = 31;
+	public const ItemType.Type TRADE_AP = 32;
 }

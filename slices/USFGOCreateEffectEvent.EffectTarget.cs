@@ -1,4 +1,4 @@
-public enum USFGOCreateEffectEvent.EffectTarget // TypeDefIndex: 8357
+public enum USFGOCreateEffectEvent.EffectTarget // TypeDefIndex: 8392
 {
 	// Fields
 	public int value__; // 0x0

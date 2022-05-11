@@ -1,4 +1,4 @@
-public enum DatFileName.FILE_NAME // TypeDefIndex: 6258
+public enum DatFileName.FILE_NAME // TypeDefIndex: 6291
 {
 	// Fields
 	public int value__; // 0x0

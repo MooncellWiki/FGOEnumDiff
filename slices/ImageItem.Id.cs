@@ -1,4 +1,4 @@
-public enum ImageItem.Id // TypeDefIndex: 6295
+public enum ImageItem.Id // TypeDefIndex: 6328
 {
 	// Fields
 	public int value__; // 0x0
@@ -24,4 +24,7 @@ public enum ImageItem.Id // TypeDefIndex: 6295
 	public const ImageItem.Id SERVANT_SVT = 8008;
 	public const ImageItem.Id SERVANT_EQ = 8009;
 	public const ImageItem.Id COMMAND_CODE = 8014;
+	public const ImageItem.Id TRADE_AP_SEED = 103;
+	public const ImageItem.Id TRADE_AP_FRUIT = 104;
+	public const ImageItem.Id AP = 47;
 }

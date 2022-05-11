@@ -1,4 +1,4 @@
-public enum ShowDefenceTargetAddBuffEffect.AddType // TypeDefIndex: 8286
+public enum ShowDefenceTargetAddBuffEffect.AddType // TypeDefIndex: 8321
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum CoinConfirmDialog.State // TypeDefIndex: 9687
+private enum CoinConfirmDialog.State // TypeDefIndex: 9723
 {
 	// Fields
 	public int value__; // 0x0

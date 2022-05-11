@@ -1,4 +1,4 @@
-public enum FGOActorSetAttackTarget.TARGET_POS // TypeDefIndex: 8133
+public enum FGOActorSetAttackTarget.TARGET_POS // TypeDefIndex: 8168
 {
 	// Fields
 	public int value__; // 0x0

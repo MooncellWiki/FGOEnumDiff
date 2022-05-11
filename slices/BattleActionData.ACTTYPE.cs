@@ -1,4 +1,4 @@
-public enum BattleActionData.ACTTYPE // TypeDefIndex: 8942
+public enum BattleActionData.ACTTYPE // TypeDefIndex: 8977
 {
 	// Fields
 	public int value__; // 0x0

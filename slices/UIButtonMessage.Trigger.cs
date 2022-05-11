@@ -1,4 +1,4 @@
-public enum UIButtonMessage.Trigger // TypeDefIndex: 12428
+public enum UIButtonMessage.Trigger // TypeDefIndex: 12464
 {
 	// Fields
 	public int value__; // 0x0

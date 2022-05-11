@@ -1,4 +1,4 @@
-public enum ServantStatusFlavorTextListViewManager.InitMode // TypeDefIndex: 5872
+public enum ServantStatusFlavorTextListViewManager.InitMode // TypeDefIndex: 5904
 {
 	// Fields
 	public int value__; // 0x0

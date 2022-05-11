@@ -1,4 +1,4 @@
-public enum ShopRootConstants.State // TypeDefIndex: 11040
+public enum ShopRootConstants.State // TypeDefIndex: 11076
 {
 	// Fields
 	public int value__; // 0x0
@@ -21,4 +21,5 @@ public enum ShopRootConstants.State // TypeDefIndex: 11040
 	public const ShopRootConstants.State START_UP_SUMMON = 16;
 	public const ShopRootConstants.State COIN_ROOM = 17;
 	public const ShopRootConstants.State SHOP13 = 18;
+	public const ShopRootConstants.State TRADE_AP = 19;
 }

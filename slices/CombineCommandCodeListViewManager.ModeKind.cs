@@ -1,4 +1,4 @@
-public enum CombineCommandCodeListViewManager.ModeKind // TypeDefIndex: 9772
+public enum CombineCommandCodeListViewManager.ModeKind // TypeDefIndex: 9808
 {
 	// Fields
 	public int value__; // 0x0

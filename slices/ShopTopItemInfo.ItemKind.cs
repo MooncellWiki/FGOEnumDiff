@@ -1,4 +1,4 @@
-public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 11048
+public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 11084
 {
 	// Fields
 	public int value__; // 0x0
@@ -21,5 +21,6 @@ public enum ShopTopItemInfo.ItemKind // TypeDefIndex: 11048
 	public const ShopTopItemInfo.ItemKind SHOP_BUY_SVT_COSTUME = 17;
 	public const ShopTopItemInfo.ItemKind SHOP_COIN_ROOM = 18;
 	public const ShopTopItemInfo.ItemKind SHOP13 = 19;
-	public const ShopTopItemInfo.ItemKind SHOP_BLANK = 20;
+	public const ShopTopItemInfo.ItemKind SHOP_TRADE_AP = 20;
+	public const ShopTopItemInfo.ItemKind SHOP_BLANK = 21;
 }

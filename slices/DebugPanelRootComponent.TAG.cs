@@ -1,4 +1,4 @@
-public enum DebugPanelRootComponent.TAG // TypeDefIndex: 7880
+public enum DebugPanelRootComponent.TAG // TypeDefIndex: 7915
 {
 	// Fields
 	public int value__; // 0x0

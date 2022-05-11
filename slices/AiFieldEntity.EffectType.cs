@@ -1,4 +1,4 @@
-public enum AiFieldEntity.EffectType // TypeDefIndex: 6816
+public enum AiFieldEntity.EffectType // TypeDefIndex: 6849
 {
 	// Fields
 	public int value__; // 0x0

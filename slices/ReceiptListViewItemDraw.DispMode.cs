@@ -1,4 +1,4 @@
-public enum ReceiptListViewItemDraw.DispMode // TypeDefIndex: 11884
+public enum ReceiptListViewItemDraw.DispMode // TypeDefIndex: 11920
 {
 	// Fields
 	public int value__; // 0x0

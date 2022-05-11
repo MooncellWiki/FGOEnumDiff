@@ -1,4 +1,4 @@
-protected enum PresentBoxOverDialog.State // TypeDefIndex: 10200
+protected enum PresentBoxOverDialog.State // TypeDefIndex: 10236
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UITweener.Style // TypeDefIndex: 12571
+public enum UITweener.Style // TypeDefIndex: 12607
 {
 	// Fields
 	public int value__; // 0x0

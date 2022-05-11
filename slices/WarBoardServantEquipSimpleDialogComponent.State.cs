@@ -1,4 +1,4 @@
-protected enum WarBoardServantEquipSimpleDialogComponent.State // TypeDefIndex: 12326
+protected enum WarBoardServantEquipSimpleDialogComponent.State // TypeDefIndex: 12362
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum iTween.NamedValueColor // TypeDefIndex: 12413
+public enum iTween.NamedValueColor // TypeDefIndex: 12449
 {
 	// Fields
 	public int value__; // 0x0

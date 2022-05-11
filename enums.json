@@ -1129,7 +1129,8 @@
     "ENTER_GRAIL_FRAGMENTS_SHOP": "32768",
     "ENTER_SVT_COSTUME_SHOP": "65536",
     "ENTER_START_UP_SUMMON_SHOP": "131072",
-    "ENTER_SHOP13_SHOP": "262144"
+    "ENTER_SHOP13_SHOP": "262144",
+    "ENTER_TRADE_AP_SHOP": "524288"
   },
   "BattleSyncTransformComponent.SyncTargetType": {
     "None": "0",
@@ -1790,6 +1791,11 @@
     "Cube": "3",
     "Plane": "4",
     "Quad": "5"
+  },
+  "MasterMissionReceiveConfirmDialog.State": {
+    "Open": "0",
+    "Decide": "1",
+    "Close": "2"
   },
   "ResultListWindow.State": {
     "INIT": "0"
@@ -2903,7 +2909,8 @@
     "EUQIP_SKILL_USE_ITEM": "28",
     "SVT_COIN": "29",
     "FRIENDSHIP_UP_ITEM": "30",
-    "PP": "31"
+    "PP": "31",
+    "TRADE_AP": "32"
   },
   "MenuListControl.CombineKind": {
     "SVT_COMBINE": "0",
@@ -3650,6 +3657,11 @@
     "RENDER": "512",
     "DESTROY": "768"
   },
+  "FriendPointNoticeDlgComponent.ResultClicked": {
+    "RIGHT": "0",
+    "MIDDLE": "1",
+    "CANCEL": "2"
+  },
   "MissionProgressType.Type": {
     "NONE": "0",
     "REGIST": "1",
@@ -3942,6 +3954,12 @@
     "WAIT": "3",
     "BLOCK": "4"
   },
+  "MasterMissionReceiveConfirmListViewObject.InitMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
+  },
   "UserMissionProgressInfo.ProgStatus": {
     "LOCK": "0",
     "NOSTART": "1",
@@ -4155,7 +4173,10 @@
     "ON_PARTY_CONFIRM": "71",
     "BOX_GACHA_RESET": "72",
     "ON_COIN_ROOM": "73",
-    "ON_MYROOM": "74"
+    "ON_MYROOM": "74",
+    "QUEST_CLEAR_REWARD": "75",
+    "GACHA_RESULT": "76",
+    "ON_PRESENT_BOX": "78"
   },
   "BoostItemListViewManager.Kind": {
     "EVENT": "0"
@@ -5866,6 +5887,12 @@
   "CharaGraphListMenu.Kind": {
     "EQUIP": "0"
   },
+  "MasterMissionReceiveConfirmListViewObject.State": {
+    "INIT": "0",
+    "IDLE": "1",
+    "MOVE": "2",
+    "INPUT": "3"
+  },
   "KeyUsages": {
     "digitalSignature": "128",
     "nonRepudiation": "64",
@@ -6595,7 +6622,8 @@
     "RARE_PRI": "10",
     "ITEM": "11",
     "GRAIL_FRAGMENTS": "12",
-    "FREE": "13"
+    "FREE": "13",
+    "COMMON_CONSUME": "14"
   },
   "ScriptConnectListViewManager.InitMode": {
     "NONE": "0",
@@ -6917,6 +6945,11 @@
     "Ssl3": "48",
     "Tls": "192",
     "Default": "240"
+  },
+  "MasterMissionReceiveConfirmListViewManager.InitMode": {
+    "NONE": "0",
+    "INPUT": "1",
+    "VALID": "2"
   },
   "CombineRootComponent.CombineTutorialProgress": {
     "TOP_SVT_COMBINE": "0",
@@ -8229,7 +8262,9 @@
     "GRAIL_FRAGMENTS": "13",
     "SVT_COSTUME": "14",
     "START_UP_SUMMON": "15",
-    "SHOP13": "16"
+    "SHOP13": "16",
+    "TRADE_AP": "17",
+    "AP": "18"
   },
   "TcpState": {
     "Unknown": "0",
@@ -8965,6 +9000,10 @@
     "CommandCard4": "104",
     "CommandCard5": "105"
   },
+  "MasterMissionReceiveResultDialog.State": {
+    "Open": "0",
+    "Close": "1"
+  },
   "VRTextureUsage": {
     "None": "0",
     "OneEye": "1",
@@ -9076,6 +9115,10 @@
     "OriginDhcp": "3",
     "LinkLayerAddress": "4",
     "Random": "5"
+  },
+  "FriendPointNoticeDlgComponent.State": {
+    "INIT": "0",
+    "OPEN": "1"
   },
   "CollectionStatus.Kind": {
     "NOT_GET": "0",
@@ -10448,7 +10491,10 @@
     "QUESTION_MARK2": "8007",
     "SERVANT_SVT": "8008",
     "SERVANT_EQ": "8009",
-    "COMMAND_CODE": "8014"
+    "COMMAND_CODE": "8014",
+    "TRADE_AP_SEED": "103",
+    "TRADE_AP_FRUIT": "104",
+    "AP": "47"
   },
   "MapControl.QuestInfo.TouchType": {
     "Disable": "0",
@@ -11234,7 +11280,8 @@
     "SKIPPING": "1"
   },
   "CommonConsumeEntity.CommonConsumeType": {
-    "ITEM": "1"
+    "ITEM": "1",
+    "AP": "2"
   },
   "VideoAspectRatio": {
     "NoScaling": "0",
@@ -11527,7 +11574,8 @@
     "SVT_COSTUME": "15",
     "START_UP_SUMMON": "16",
     "COIN_ROOM": "17",
-    "SHOP13": "18"
+    "SHOP13": "18",
+    "TRADE_AP": "19"
   },
   "PartyOrganizationConfirmMenu.State": {
     "INIT": "0",
@@ -11630,7 +11678,8 @@
     "GRAIL_FRAGMENTS": "10",
     "SVT_COSTUME": "11",
     "START_UP_SUMMON": "12",
-    "SHOP13": "13"
+    "SHOP13": "13",
+    "TRADE_AP": "14"
   },
   "CompareOptions": {
     "None": "0",
@@ -11778,7 +11827,8 @@
     "SHOP_HELP_START_UP_SUMMON": "16",
     "SHOP_HELP_COIN_ROOM": "17",
     "SHOP_HELP_SHOP13": "18",
-    "SHOP_BLANK": "19"
+    "SHOP_HELP_TRADE_AP": "19",
+    "SHOP_BLANK": "20"
   },
   "EventRankingListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -14228,6 +14278,11 @@
   "MaterialCostumeServantListViewManager.Kind": {
     "COSTUME": "0"
   },
+  "BattleServantData.GroupIdValidFlag": {
+    "PLAYER": "1",
+    "ENEMY_OR_SUPPORT": "2",
+    "PLAYER_ENEMY_OR_SUPPORT": "3"
+  },
   "FigureViewListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -15067,7 +15122,8 @@
     "USER_EVENT_ALLOUT_BATTLE": "389",
     "QUEST_SCRIPT_MATERIAL_NEXT": "390",
     "BATTLE_MESSAGE": "391",
-    "BATTLE_MESSAGE_GROUP": "392"
+    "BATTLE_MESSAGE_GROUP": "392",
+    "USER_NPC_SVT_RECORD": "393"
   },
   "PayoutType": {
     "Other": "0",
@@ -17723,7 +17779,8 @@
     "ENTER_GRAIL_FRAGMENTS_SHOP": "15",
     "ENTER_SVT_COSTUME_SHOP": "16",
     "ENTER_START_UP_SUMMON_SHOP": "17",
-    "ENTER_SHOP13_SHOP": "18"
+    "ENTER_SHOP13_SHOP": "18",
+    "ENTER_TRADE_AP_SHOP": "19"
   },
   "BattleLogic.DamageType": {
     "NOMAL": "0",
@@ -18499,7 +18556,8 @@
     "SHOP_BUY_SVT_COSTUME": "17",
     "SHOP_COIN_ROOM": "18",
     "SHOP13": "19",
-    "SHOP_BLANK": "20"
+    "SHOP_TRADE_AP": "20",
+    "SHOP_BLANK": "21"
   },
   "EquipGraphListMenu.ResultKind": {
     "CANCEL": "0",
@@ -19140,6 +19198,12 @@
     "TREASUREDVC_RANKUP_DUMMY": "27"
   },
   "DeckListViewItemDraw.DispMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
+  },
+  "MasterMissionReceiveConfirmListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
     "VALID": "2",
@@ -19842,6 +19906,11 @@
     "Inches": "2",
     "Points": "3",
     "Picas": "4"
+  },
+  "FriendCodeComponent.DispState": {
+    "INVISIBLE": "0",
+    "HIDDEN": "1",
+    "OPENED": "2"
   },
   "CenterEffectDetailDialog.State": {
     "INIT": "0",

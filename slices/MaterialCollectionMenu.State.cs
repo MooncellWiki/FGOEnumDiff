@@ -1,4 +1,4 @@
-protected enum MaterialCollectionMenu.State // TypeDefIndex: 10408
+protected enum MaterialCollectionMenu.State // TypeDefIndex: 10444
 {
 	// Fields
 	public int value__; // 0x0

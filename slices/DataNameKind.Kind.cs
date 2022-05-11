@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6256
+public enum DataNameKind.Kind // TypeDefIndex: 6289
 {
 	// Fields
 	public int value__; // 0x0
@@ -395,4 +395,5 @@ public enum DataNameKind.Kind // TypeDefIndex: 6256
 	public const DataNameKind.Kind QUEST_SCRIPT_MATERIAL_NEXT = 390;
 	public const DataNameKind.Kind BATTLE_MESSAGE = 391;
 	public const DataNameKind.Kind BATTLE_MESSAGE_GROUP = 392;
+	public const DataNameKind.Kind USER_NPC_SVT_RECORD = 393;
 }

@@ -1,4 +1,4 @@
-public enum Device.Type // TypeDefIndex: 6260
+public enum Device.Type // TypeDefIndex: 6293
 {
 	// Fields
 	public int value__; // 0x0

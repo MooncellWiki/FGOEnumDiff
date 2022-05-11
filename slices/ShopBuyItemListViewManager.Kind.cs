@@ -1,4 +1,4 @@
-public enum ShopBuyItemListViewManager.Kind // TypeDefIndex: 10983
+public enum ShopBuyItemListViewManager.Kind // TypeDefIndex: 11019
 {
 	// Fields
 	public int value__; // 0x0
@@ -19,4 +19,6 @@ public enum ShopBuyItemListViewManager.Kind // TypeDefIndex: 10983
 	public const ShopBuyItemListViewManager.Kind SVT_COSTUME = 14;
 	public const ShopBuyItemListViewManager.Kind START_UP_SUMMON = 15;
 	public const ShopBuyItemListViewManager.Kind SHOP13 = 16;
+	public const ShopBuyItemListViewManager.Kind TRADE_AP = 17;
+	public const ShopBuyItemListViewManager.Kind AP = 18;
 }

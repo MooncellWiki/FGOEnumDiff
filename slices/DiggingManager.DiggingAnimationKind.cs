@@ -1,4 +1,4 @@
-private enum DiggingManager.DiggingAnimationKind // TypeDefIndex: 10106
+private enum DiggingManager.DiggingAnimationKind // TypeDefIndex: 10142
 {
 	// Fields
 	public int value__; // 0x0

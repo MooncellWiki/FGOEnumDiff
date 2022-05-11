@@ -1,4 +1,4 @@
-public enum ServantCheckEquipListViewItemDraw.DispMode // TypeDefIndex: 10892
+public enum ServantCheckEquipListViewItemDraw.DispMode // TypeDefIndex: 10928
 {
 	// Fields
 	public int value__; // 0x0

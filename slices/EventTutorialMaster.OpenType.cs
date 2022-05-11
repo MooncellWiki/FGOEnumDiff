@@ -1,4 +1,4 @@
-public enum EventTutorialMaster.OpenType // TypeDefIndex: 7164
+public enum EventTutorialMaster.OpenType // TypeDefIndex: 7197
 {
 	// Fields
 	public int value__; // 0x0
@@ -76,4 +76,7 @@ public enum EventTutorialMaster.OpenType // TypeDefIndex: 7164
 	public const EventTutorialMaster.OpenType BOX_GACHA_RESET = 72;
 	public const EventTutorialMaster.OpenType ON_COIN_ROOM = 73;
 	public const EventTutorialMaster.OpenType ON_MYROOM = 74;
+	public const EventTutorialMaster.OpenType QUEST_CLEAR_REWARD = 75;
+	public const EventTutorialMaster.OpenType GACHA_RESULT = 76;
+	public const EventTutorialMaster.OpenType ON_PRESENT_BOX = 78;
 }

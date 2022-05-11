@@ -1,4 +1,4 @@
-public enum SpotAddEntity.SpotOverwriteType // TypeDefIndex: 7486
+public enum SpotAddEntity.SpotOverwriteType // TypeDefIndex: 7519
 {
 	// Fields
 	public int value__; // 0x0

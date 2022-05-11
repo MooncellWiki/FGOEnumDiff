@@ -1,4 +1,4 @@
-public enum Individuality.TYPE // TypeDefIndex: 6298
+public enum Individuality.TYPE // TypeDefIndex: 6331
 {
 	// Fields
 	public int value__; // 0x0

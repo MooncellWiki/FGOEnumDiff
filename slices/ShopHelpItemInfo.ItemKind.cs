@@ -1,4 +1,4 @@
-public enum ShopHelpItemInfo.ItemKind // TypeDefIndex: 11001
+public enum ShopHelpItemInfo.ItemKind // TypeDefIndex: 11037
 {
 	// Fields
 	public int value__; // 0x0
@@ -21,5 +21,6 @@ public enum ShopHelpItemInfo.ItemKind // TypeDefIndex: 11001
 	public const ShopHelpItemInfo.ItemKind SHOP_HELP_START_UP_SUMMON = 16;
 	public const ShopHelpItemInfo.ItemKind SHOP_HELP_COIN_ROOM = 17;
 	public const ShopHelpItemInfo.ItemKind SHOP_HELP_SHOP13 = 18;
-	public const ShopHelpItemInfo.ItemKind SHOP_BLANK = 19;
+	public const ShopHelpItemInfo.ItemKind SHOP_HELP_TRADE_AP = 19;
+	public const ShopHelpItemInfo.ItemKind SHOP_BLANK = 20;
 }

@@ -1,4 +1,4 @@
-public enum BattleActionData.BuffData.UpdateBuffType // TypeDefIndex: 8926
+public enum BattleActionData.BuffData.UpdateBuffType // TypeDefIndex: 8961
 {
 	// Fields
 	public int value__; // 0x0
