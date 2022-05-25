@@ -1,4 +1,4 @@
-public enum ChrRenderMatrix.MaterialType // TypeDefIndex: 9259
+public enum ChrRenderMatrix.MaterialType // TypeDefIndex: 9260
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9460
+public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9462
 {
 	// Fields
 	public int value__; // 0x0
@@ -59,4 +59,5 @@ public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 9460
 	public const BattleLogicTask.ACTIONTYPE BEFORE_RESURRECTION = 54;
 	public const BattleLogicTask.ACTIONTYPE BEFORE_DEAD = 55;
 	public const BattleLogicTask.ACTIONTYPE MESSAGE = 56;
+	public const BattleLogicTask.ACTIONTYPE LOGIC_REPEAT_REACTION = 57;
 }

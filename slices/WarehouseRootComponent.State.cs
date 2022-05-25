@@ -1,4 +1,4 @@
-protected enum WarehouseRootComponent.State // TypeDefIndex: 12403
+protected enum WarehouseRootComponent.State // TypeDefIndex: 12407
 {
 	// Fields
 	public int value__; // 0x0

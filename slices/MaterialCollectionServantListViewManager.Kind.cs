@@ -1,4 +1,4 @@
-public enum MaterialCollectionServantListViewManager.Kind // TypeDefIndex: 10451
+public enum MaterialCollectionServantListViewManager.Kind // TypeDefIndex: 10455
 {
 	// Fields
 	public int value__; // 0x0

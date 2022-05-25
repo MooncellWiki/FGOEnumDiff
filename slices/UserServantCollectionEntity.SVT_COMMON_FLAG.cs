@@ -1,4 +1,4 @@
-public enum UserServantCollectionEntity.SVT_COMMON_FLAG // TypeDefIndex: 7710
+public enum UserServantCollectionEntity.SVT_COMMON_FLAG // TypeDefIndex: 7711
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SoundPlayerListViewItemDraw.DispMode // TypeDefIndex: 10684
+public enum SoundPlayerListViewItemDraw.DispMode // TypeDefIndex: 10688
 {
 	// Fields
 	public int value__; // 0x0

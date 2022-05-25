@@ -1,4 +1,4 @@
-public enum EventStatusEntity.EventTimeStatusKind // TypeDefIndex: 7174
+public enum EventStatusEntity.EventTimeStatusKind // TypeDefIndex: 7175
 {
 	// Fields
 	public int value__; // 0x0

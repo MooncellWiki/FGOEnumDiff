@@ -1,4 +1,4 @@
-protected enum ScriptBackLogListViewObject.State // TypeDefIndex: 8685
+protected enum ScriptBackLogListViewObject.State // TypeDefIndex: 8686
 {
 	// Fields
 	public int value__; // 0x0

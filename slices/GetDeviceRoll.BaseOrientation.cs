@@ -1,4 +1,4 @@
-public enum GetDeviceRoll.BaseOrientation // TypeDefIndex: 12916
+public enum GetDeviceRoll.BaseOrientation // TypeDefIndex: 12920
 {
 	// Fields
 	public int value__; // 0x0

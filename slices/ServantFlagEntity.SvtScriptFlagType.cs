@@ -1,4 +1,4 @@
-public enum ServantFlagEntity.SvtScriptFlagType // TypeDefIndex: 7437
+public enum ServantFlagEntity.SvtScriptFlagType // TypeDefIndex: 7438
 {
 	// Fields
 	public int value__; // 0x0

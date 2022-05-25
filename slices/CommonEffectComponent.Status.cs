@@ -1,4 +1,4 @@
-protected enum CommonEffectComponent.Status // TypeDefIndex: 7936
+protected enum CommonEffectComponent.Status // TypeDefIndex: 7937
 {
 	// Fields
 	public int value__; // 0x0

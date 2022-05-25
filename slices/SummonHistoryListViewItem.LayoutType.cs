@@ -1,4 +1,4 @@
-public enum SummonHistoryListViewItem.LayoutType // TypeDefIndex: 11111
+public enum SummonHistoryListViewItem.LayoutType // TypeDefIndex: 11115
 {
 	// Fields
 	public int value__; // 0x0

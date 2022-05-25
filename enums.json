@@ -2099,7 +2099,8 @@
     "CREATE_RESURRECTION": "53",
     "BEFORE_RESURRECTION": "54",
     "BEFORE_DEAD": "55",
-    "MESSAGE": "56"
+    "MESSAGE": "56",
+    "LOGIC_REPEAT_REACTION": "57"
   },
   "TBTwistToRotate.RotationAxis": {
     "WorldX": "0",
@@ -13363,7 +13364,9 @@
     "REACTION_PLAYERACTIONSTART": "-13",
     "REACTION_ENTRY_UNIT": "-14",
     "REACTION_BEFORE_RESURRECTION": "-15",
-    "REACTION_BEFORE_DEAD": "-16"
+    "REACTION_BEFORE_DEAD": "-16",
+    "REACTION_ENEMY_TURN_START_PRIORITY": "-401",
+    "REACTION_ENEMY_TURN_END_PRIORITY": "-501"
   },
   "RecommenededConfigDialog.State": {
     "INIT": "0",

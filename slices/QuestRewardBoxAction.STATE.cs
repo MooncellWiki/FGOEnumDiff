@@ -1,4 +1,4 @@
-public enum QuestRewardBoxAction.STATE // TypeDefIndex: 11592
+public enum QuestRewardBoxAction.STATE // TypeDefIndex: 11596
 {
 	// Fields
 	public int value__; // 0x0

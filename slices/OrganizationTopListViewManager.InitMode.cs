@@ -1,4 +1,4 @@
-public enum OrganizationTopListViewManager.InitMode // TypeDefIndex: 10724
+public enum OrganizationTopListViewManager.InitMode // TypeDefIndex: 10728
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SelectImageLimitListViewManager.ResultKind // TypeDefIndex: 10524
+public enum SelectImageLimitListViewManager.ResultKind // TypeDefIndex: 10528
 {
 	// Fields
 	public int value__; // 0x0

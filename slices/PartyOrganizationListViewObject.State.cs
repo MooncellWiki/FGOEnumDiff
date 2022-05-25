@@ -1,4 +1,4 @@
-protected enum PartyOrganizationListViewObject.State // TypeDefIndex: 10869
+protected enum PartyOrganizationListViewObject.State // TypeDefIndex: 10873
 {
 	// Fields
 	public int value__; // 0x0

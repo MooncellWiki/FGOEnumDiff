@@ -1,4 +1,4 @@
-private enum CheckMaterialSvtEquippedDialog.State // TypeDefIndex: 9900
+private enum CheckMaterialSvtEquippedDialog.State // TypeDefIndex: 9904
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum GooglePlayStoreProrationMode // TypeDefIndex: 12420
+public enum GooglePlayStoreProrationMode // TypeDefIndex: 12424
 {
 	// Fields
 	public int value__; // 0x0

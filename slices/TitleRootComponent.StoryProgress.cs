@@ -1,4 +1,4 @@
-public enum TitleRootComponent.StoryProgress // TypeDefIndex: 8931
+public enum TitleRootComponent.StoryProgress // TypeDefIndex: 8932
 {
 	// Fields
 	public int value__; // 0x0

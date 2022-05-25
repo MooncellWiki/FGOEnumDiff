@@ -1,4 +1,4 @@
-protected enum QuestBoardListViewObject.State // TypeDefIndex: 11566
+protected enum QuestBoardListViewObject.State // TypeDefIndex: 11570
 {
 	// Fields
 	public int value__; // 0x0

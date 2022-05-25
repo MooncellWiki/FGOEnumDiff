@@ -1,4 +1,4 @@
-public enum ServantClassEntity.SupportGroupType // TypeDefIndex: 7407
+public enum ServantClassEntity.SupportGroupType // TypeDefIndex: 7408
 {
 	// Fields
 	public int value__; // 0x0
