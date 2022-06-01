@@ -1,4 +1,4 @@
-public enum AtlasManager.FrameType // TypeDefIndex: 6460
+public enum AtlasManager.FrameType // TypeDefIndex: 6462
 {
 	// Fields
 	public int value__; // 0x0

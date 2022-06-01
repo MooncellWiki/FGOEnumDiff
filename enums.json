@@ -5709,7 +5709,8 @@
     "BehaveAsFamilyBuff": "97",
     "UnSubStateWhileLinkedToOthers": "98",
     "NotAccompanyWhenLinkedTargetMoveState": "99",
-    "AllowSubBgmPlaying": "100"
+    "AllowSubBgmPlaying": "100",
+    "NotTargetSkillIdArray": "101"
   },
   "EventPointItemListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -6364,7 +6365,8 @@
     "WAR_FORCE_HIDE": "15",
     "START_TYPE": "16",
     "NOTICE_DIALOG_TEXT": "17",
-    "CLEAR_MARK": "18"
+    "CLEAR_MARK": "18",
+    "EFFECT_CHANGE_WHITE_MARK": "19"
   },
   "TakeoverDecideMenu.State": {
     "INIT": "0",
@@ -7104,7 +7106,8 @@
     "DONOT_SKILL_SELECT": "99",
     "INVISIBLE_BATTLE_CHARA": "100",
     "BUFF_RATE": "101",
-    "COUNTER_FUNCTION": "102"
+    "COUNTER_FUNCTION": "102",
+    "NOT_TARGET_SKILL": "103"
   },
   "ServantSellConfirmListViewManager.Kind": {
     "SERVANT": "0",
@@ -7484,7 +7487,8 @@
     "DONOT_SKILL_SELECT": "161",
     "INVISIBLE_BATTLE_CHARA": "163",
     "BUFF_RATE": "162",
-    "COUNTER_FUNCTION": "165"
+    "COUNTER_FUNCTION": "165",
+    "NOT_TARGET_SKILL": "166"
   },
   "AiLogic.AiInfo.AITYPE": {
     "NONE": "0",
@@ -8121,7 +8125,8 @@
     "EQUAL": "1",
     "NOT_EQUAL": "2",
     "ABOVE": "3",
-    "BELOW": "4"
+    "BELOW": "4",
+    "BETWEEN": "5"
   },
   "NetworkInterfaceComponent": {
     "IPv4": "0",
@@ -20668,7 +20673,9 @@
     "BATTLE": "2",
     "EVENT_REWORD": "3",
     "EVENT_SHOP": "4",
-    "MISSON": "5"
+    "MISSON": "5",
+    "TERMINAL": "6",
+    "BATTLE_BOND": "7"
   },
   "PartyOrganizationMenu.ResultKind": {
     "CANCEL": "0",

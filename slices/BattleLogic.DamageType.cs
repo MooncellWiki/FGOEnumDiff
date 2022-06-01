@@ -1,4 +1,4 @@
-public enum BattleLogic.DamageType // TypeDefIndex: 9337
+public enum BattleLogic.DamageType // TypeDefIndex: 9345
 {
 	// Fields
 	public int value__; // 0x0

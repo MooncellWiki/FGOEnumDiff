@@ -1,4 +1,4 @@
-public enum FGOPerformance.Effect // TypeDefIndex: 8258
+public enum FGOPerformance.Effect // TypeDefIndex: 8261
 {
 	// Fields
 	public int value__; // 0x0

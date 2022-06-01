@@ -1,4 +1,4 @@
-private enum BattlePerformance.PositionMode // TypeDefIndex: 8792
+private enum BattlePerformance.PositionMode // TypeDefIndex: 8799
 {
 	// Fields
 	public int value__; // 0x0

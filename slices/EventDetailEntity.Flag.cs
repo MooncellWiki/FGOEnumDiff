@@ -1,4 +1,4 @@
-public enum EventDetailEntity.Flag // TypeDefIndex: 7047
+public enum EventDetailEntity.Flag // TypeDefIndex: 7049
 {
 	// Fields
 	public long value__; // 0x0

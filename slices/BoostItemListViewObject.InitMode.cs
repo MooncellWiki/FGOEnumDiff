@@ -1,4 +1,4 @@
-public enum BoostItemListViewObject.InitMode // TypeDefIndex: 10745
+public enum BoostItemListViewObject.InitMode // TypeDefIndex: 10756
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ServantScriptEntity.OffsetKind // TypeDefIndex: 7471
+public enum ServantScriptEntity.OffsetKind // TypeDefIndex: 7473
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,4 +8,6 @@ public enum ServantScriptEntity.OffsetKind // TypeDefIndex: 7471
 	public const ServantScriptEntity.OffsetKind EVENT_REWORD = 3;
 	public const ServantScriptEntity.OffsetKind EVENT_SHOP = 4;
 	public const ServantScriptEntity.OffsetKind MISSON = 5;
+	public const ServantScriptEntity.OffsetKind TERMINAL = 6;
+	public const ServantScriptEntity.OffsetKind BATTLE_BOND = 7;
 }

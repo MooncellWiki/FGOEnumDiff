@@ -1,4 +1,4 @@
-public enum ServantChangeEntity.FlagType // TypeDefIndex: 7405
+public enum ServantChangeEntity.FlagType // TypeDefIndex: 7407
 {
 	// Fields
 	public int value__; // 0x0

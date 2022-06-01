@@ -1,4 +1,4 @@
-public enum UIInput.InputType // TypeDefIndex: 12621
+public enum UIInput.InputType // TypeDefIndex: 12633
 {
 	// Fields
 	public int value__; // 0x0

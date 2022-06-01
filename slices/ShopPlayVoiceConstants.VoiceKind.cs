@@ -1,4 +1,4 @@
-protected enum ShopPlayVoiceConstants.VoiceKind // TypeDefIndex: 11067
+protected enum ShopPlayVoiceConstants.VoiceKind // TypeDefIndex: 11078
 {
 	// Fields
 	public int value__; // 0x0

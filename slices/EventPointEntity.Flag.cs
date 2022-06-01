@@ -1,4 +1,4 @@
-public enum EventPointEntity.Flag // TypeDefIndex: 7114
+public enum EventPointEntity.Flag // TypeDefIndex: 7116
 {
 	// Fields
 	public int value__; // 0x0

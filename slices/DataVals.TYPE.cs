@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6789
+public enum DataVals.TYPE // TypeDefIndex: 6791
 {
 	// Fields
 	public int value__; // 0x0
@@ -103,4 +103,5 @@ public enum DataVals.TYPE // TypeDefIndex: 6789
 	public const DataVals.TYPE UnSubStateWhileLinkedToOthers = 98;
 	public const DataVals.TYPE NotAccompanyWhenLinkedTargetMoveState = 99;
 	public const DataVals.TYPE AllowSubBgmPlaying = 100;
+	public const DataVals.TYPE NotTargetSkillIdArray = 101;
 }

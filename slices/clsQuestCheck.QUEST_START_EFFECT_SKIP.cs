@@ -1,4 +1,4 @@
-public enum clsQuestCheck.QUEST_START_EFFECT_SKIP // TypeDefIndex: 11296
+public enum clsQuestCheck.QUEST_START_EFFECT_SKIP // TypeDefIndex: 11307
 {
 	// Fields
 	public int value__; // 0x0

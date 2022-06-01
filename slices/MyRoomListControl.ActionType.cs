@@ -1,4 +1,4 @@
-public enum MyRoomListControl.ActionType // TypeDefIndex: 10556
+public enum MyRoomListControl.ActionType // TypeDefIndex: 10567
 {
 	// Fields
 	public int value__; // 0x0

@@ -105,4 +105,5 @@ public enum BuffList.ACTION // TypeDefIndex: 6259
 	public const BuffList.ACTION INVISIBLE_BATTLE_CHARA = 100;
 	public const BuffList.ACTION BUFF_RATE = 101;
 	public const BuffList.ACTION COUNTER_FUNCTION = 102;
+	public const BuffList.ACTION NOT_TARGET_SKILL = 103;
 }

@@ -1,4 +1,4 @@
-public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7765
+public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7767
 {
 	// Fields
 	public int value__; // 0x0
@@ -20,4 +20,5 @@ public enum WarAddEntity.WarOverwriteType // TypeDefIndex: 7765
 	public const WarAddEntity.WarOverwriteType START_TYPE = 16;
 	public const WarAddEntity.WarOverwriteType NOTICE_DIALOG_TEXT = 17;
 	public const WarAddEntity.WarOverwriteType CLEAR_MARK = 18;
+	public const WarAddEntity.WarOverwriteType EFFECT_CHANGE_WHITE_MARK = 19;
 }

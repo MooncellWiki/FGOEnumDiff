@@ -1,4 +1,4 @@
-public enum ServantListViewManager.InitMode // TypeDefIndex: 10957
+public enum ServantListViewManager.InitMode // TypeDefIndex: 10968
 {
 	// Fields
 	public int value__; // 0x0

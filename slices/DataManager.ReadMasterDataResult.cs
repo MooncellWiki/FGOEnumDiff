@@ -1,4 +1,4 @@
-public enum DataManager.ReadMasterDataResult // TypeDefIndex: 6776
+public enum DataManager.ReadMasterDataResult // TypeDefIndex: 6778
 {
 	// Fields
 	public int value__; // 0x0

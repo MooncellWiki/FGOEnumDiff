@@ -1,4 +1,4 @@
-public enum USFGOResetCharacterPositionEvent.CharacterPosition // TypeDefIndex: 8435
+public enum USFGOResetCharacterPositionEvent.CharacterPosition // TypeDefIndex: 8438
 {
 	// Fields
 	public int value__; // 0x0

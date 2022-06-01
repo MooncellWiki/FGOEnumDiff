@@ -1,4 +1,4 @@
-protected enum MaterialEventLogListViewObject.State // TypeDefIndex: 10501
+protected enum MaterialEventLogListViewObject.State // TypeDefIndex: 10512
 {
 	// Fields
 	public int value__; // 0x0

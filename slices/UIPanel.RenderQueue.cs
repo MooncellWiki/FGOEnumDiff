@@ -1,4 +1,4 @@
-public enum UIPanel.RenderQueue // TypeDefIndex: 8082
+public enum UIPanel.RenderQueue // TypeDefIndex: 8084
 {
 	// Fields
 	public int value__; // 0x0

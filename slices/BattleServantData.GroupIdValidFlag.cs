@@ -1,4 +1,4 @@
-private enum BattleServantData.GroupIdValidFlag // TypeDefIndex: 9222
+private enum BattleServantData.GroupIdValidFlag // TypeDefIndex: 9230
 {
 	// Fields
 	public int value__; // 0x0

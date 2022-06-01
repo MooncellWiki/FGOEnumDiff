@@ -7,4 +7,5 @@ public enum Restriction.RangeType // TypeDefIndex: 6358
 	public const Restriction.RangeType NOT_EQUAL = 2;
 	public const Restriction.RangeType ABOVE = 3;
 	public const Restriction.RangeType BELOW = 4;
+	public const Restriction.RangeType BETWEEN = 5;
 }

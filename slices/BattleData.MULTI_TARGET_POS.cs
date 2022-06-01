@@ -1,4 +1,4 @@
-public enum BattleData.MULTI_TARGET_POS // TypeDefIndex: 9074
+public enum BattleData.MULTI_TARGET_POS // TypeDefIndex: 9082
 {
 	// Fields
 	public int value__; // 0x0

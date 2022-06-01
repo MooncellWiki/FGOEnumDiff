@@ -1,4 +1,4 @@
-public enum ScriptConnectListViewItemDraw.DispMode // TypeDefIndex: 11967
+public enum ScriptConnectListViewItemDraw.DispMode // TypeDefIndex: 11979
 {
 	// Fields
 	public int value__; // 0x0

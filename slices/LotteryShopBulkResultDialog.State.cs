@@ -1,4 +1,4 @@
-private enum LotteryShopBulkResultDialog.State // TypeDefIndex: 10232
+private enum LotteryShopBulkResultDialog.State // TypeDefIndex: 10243
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SoundPlayerListViewObject.InitMode // TypeDefIndex: 10696
+public enum SoundPlayerListViewObject.InitMode // TypeDefIndex: 10707
 {
 	// Fields
 	public int value__; // 0x0

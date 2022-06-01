@@ -1,4 +1,4 @@
-public enum NewsEntity.enType // TypeDefIndex: 7292
+public enum NewsEntity.enType // TypeDefIndex: 7294
 {
 	// Fields
 	public int value__; // 0x0

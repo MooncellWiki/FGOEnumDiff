@@ -1,4 +1,4 @@
-public enum Vector3Operator.Vector3Operation // TypeDefIndex: 13569
+public enum Vector3Operator.Vector3Operation // TypeDefIndex: 13581
 {
 	// Fields
 	public int value__; // 0x0
