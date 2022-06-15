@@ -1,4 +1,4 @@
-private enum ScriptBranchListViewObject.State // TypeDefIndex: 11972
+private enum ScriptBranchListViewObject.State // TypeDefIndex: 12015
 {
 	// Fields
 	public int value__; // 0x0

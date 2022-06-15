@@ -1,4 +1,4 @@
-public enum WarBoardAIRoute.RouteData.Flag // TypeDefIndex: 12189
+public enum WarBoardAIRoute.RouteData.Flag // TypeDefIndex: 12235
 {
 	// Fields
 	public long value__; // 0x0
@@ -44,4 +44,5 @@ public enum WarBoardAIRoute.RouteData.Flag // TypeDefIndex: 12189
 	public const WarBoardAIRoute.RouteData.Flag isMoveByDefenseAreaEnemy = 549755813888;
 	public const WarBoardAIRoute.RouteData.Flag isAllDefenseAreaEnemyRouteBlock = 1099511627776;
 	public const WarBoardAIRoute.RouteData.Flag isComeBackSquare = 2199023255552;
+	public const WarBoardAIRoute.RouteData.Flag isMoveByAllDefenseAreaEnemyRouteBlock = 4398046511104;
 }

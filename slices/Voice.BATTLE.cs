@@ -1,4 +1,4 @@
-public enum Voice.BATTLE // TypeDefIndex: 6405
+public enum Voice.BATTLE // TypeDefIndex: 6409
 {
 	// Fields
 	public int value__; // 0x0

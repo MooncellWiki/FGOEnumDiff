@@ -1,4 +1,4 @@
-public enum MainMenuBarButton.Mode // TypeDefIndex: 8035
+public enum MainMenuBarButton.Mode // TypeDefIndex: 8063
 {
 	// Fields
 	public int value__; // 0x0

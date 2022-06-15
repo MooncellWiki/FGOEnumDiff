@@ -1,4 +1,4 @@
-public enum GetAppearActorObject.SIDE // TypeDefIndex: 8281
+public enum GetAppearActorObject.SIDE // TypeDefIndex: 8309
 {
 	// Fields
 	public int value__; // 0x0

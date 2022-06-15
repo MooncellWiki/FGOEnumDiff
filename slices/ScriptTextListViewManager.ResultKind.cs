@@ -1,4 +1,4 @@
-public enum ScriptTextListViewManager.ResultKind // TypeDefIndex: 12034
+public enum ScriptTextListViewManager.ResultKind // TypeDefIndex: 12077
 {
 	// Fields
 	public int value__; // 0x0

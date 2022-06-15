@@ -1,4 +1,4 @@
-private enum DiggingPointRewardDialogComponent.State // TypeDefIndex: 10176
+private enum DiggingPointRewardDialogComponent.State // TypeDefIndex: 10207
 {
 	// Fields
 	public int value__; // 0x0

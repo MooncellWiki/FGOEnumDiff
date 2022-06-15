@@ -1,4 +1,4 @@
-private enum TreasureBoxBulkBuyConfirmMenu.State // TypeDefIndex: 10285
+private enum TreasureBoxBulkBuyConfirmMenu.State // TypeDefIndex: 10316
 {
 	// Fields
 	public int value__; // 0x0

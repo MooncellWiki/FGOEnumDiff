@@ -1,4 +1,4 @@
-protected enum PartyOrganizationEventPointMenu.State // TypeDefIndex: 10870
+protected enum PartyOrganizationEventPointMenu.State // TypeDefIndex: 10901
 {
 	// Fields
 	public int value__; // 0x0

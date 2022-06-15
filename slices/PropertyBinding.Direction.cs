@@ -1,4 +1,4 @@
-public enum PropertyBinding.Direction // TypeDefIndex: 12573
+public enum PropertyBinding.Direction // TypeDefIndex: 12636
 {
 	// Fields
 	public int value__; // 0x0

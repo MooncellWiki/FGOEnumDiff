@@ -1,4 +1,4 @@
-public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 12188
+public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 12234
 {
 	// Fields
 	public int value__; // 0x0
@@ -44,4 +44,5 @@ public enum WarBoardAIRoute.RouteData.Kind // TypeDefIndex: 12188
 	public const WarBoardAIRoute.RouteData.Kind isMoveByDefenseAreaEnemy = 39;
 	public const WarBoardAIRoute.RouteData.Kind isAllDefenseAreaEnemyRouteBlock = 40;
 	public const WarBoardAIRoute.RouteData.Kind isComeBackSquare = 41;
+	public const WarBoardAIRoute.RouteData.Kind isMoveByAllDefenseAreaEnemyRouteBlock = 42;
 }

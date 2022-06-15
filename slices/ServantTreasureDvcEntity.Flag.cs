@@ -1,4 +1,4 @@
-public enum ServantTreasureDvcEntity.Flag // TypeDefIndex: 7488
+public enum ServantTreasureDvcEntity.Flag // TypeDefIndex: 7493
 {
 	// Fields
 	public int value__; // 0x0

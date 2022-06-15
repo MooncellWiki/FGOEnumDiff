@@ -1,4 +1,4 @@
-public enum NetworkManager.WebViewAddressType // TypeDefIndex: 6696
+public enum NetworkManager.WebViewAddressType // TypeDefIndex: 6699
 {
 	// Fields
 	public int value__; // 0x0
@@ -15,4 +15,5 @@ public enum NetworkManager.WebViewAddressType // TypeDefIndex: 6696
 	public const NetworkManager.WebViewAddressType DIALOG_BANNER = 10;
 	public const NetworkManager.WebViewAddressType PRIVACY_POLICY = 11;
 	public const NetworkManager.WebViewAddressType DELETE_ACCOUNT = 12;
+	public const NetworkManager.WebViewAddressType WARBOARD = 13;
 }

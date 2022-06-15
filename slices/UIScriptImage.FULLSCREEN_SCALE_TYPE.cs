@@ -1,4 +1,4 @@
-private enum UIScriptImage.FULLSCREEN_SCALE_TYPE // TypeDefIndex: 8781
+private enum UIScriptImage.FULLSCREEN_SCALE_TYPE // TypeDefIndex: 8812
 {
 	// Fields
 	public int value__; // 0x0

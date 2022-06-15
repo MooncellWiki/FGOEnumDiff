@@ -1,4 +1,4 @@
-public enum QuestScriptEntity.FolderType // TypeDefIndex: 7378
+public enum QuestScriptEntity.FolderType // TypeDefIndex: 7383
 {
 	// Fields
 	public int value__; // 0x0

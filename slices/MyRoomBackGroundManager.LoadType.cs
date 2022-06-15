@@ -1,4 +1,4 @@
-public enum MyRoomBackGroundManager.LoadType // TypeDefIndex: 10354
+public enum MyRoomBackGroundManager.LoadType // TypeDefIndex: 10385
 {
 	// Fields
 	public int value__; // 0x0

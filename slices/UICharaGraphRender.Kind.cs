@@ -1,4 +1,4 @@
-public enum UICharaGraphRender.Kind // TypeDefIndex: 8043
+public enum UICharaGraphRender.Kind // TypeDefIndex: 8071
 {
 	// Fields
 	public int value__; // 0x0

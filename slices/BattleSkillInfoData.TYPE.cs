@@ -1,4 +1,4 @@
-public enum BattleSkillInfoData.TYPE // TypeDefIndex: 9246
+public enum BattleSkillInfoData.TYPE // TypeDefIndex: 9277
 {
 	// Fields
 	public int value__; // 0x0
@@ -12,4 +12,5 @@ public enum BattleSkillInfoData.TYPE // TypeDefIndex: 9246
 	public const BattleSkillInfoData.TYPE BOOST = 21;
 	public const BattleSkillInfoData.TYPE COMMAND_CODE = 22;
 	public const BattleSkillInfoData.TYPE TEMP_EFFECT_SQUARE = 100;
+	public const BattleSkillInfoData.TYPE WARBOARD_PARTY_SKILL = 101;
 }

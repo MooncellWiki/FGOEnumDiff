@@ -1,4 +1,4 @@
-public enum EventTutorialMaster.OpenType // TypeDefIndex: 7200
+public enum EventTutorialMaster.OpenType // TypeDefIndex: 7205
 {
 	// Fields
 	public int value__; // 0x0
@@ -78,5 +78,6 @@ public enum EventTutorialMaster.OpenType // TypeDefIndex: 7200
 	public const EventTutorialMaster.OpenType ON_MYROOM = 74;
 	public const EventTutorialMaster.OpenType QUEST_CLEAR_REWARD = 75;
 	public const EventTutorialMaster.OpenType GACHA_RESULT = 76;
+	public const EventTutorialMaster.OpenType WAR_BOARD_HELP = 77;
 	public const EventTutorialMaster.OpenType ON_PRESENT_BOX = 78;
 }

@@ -1,4 +1,4 @@
-public enum FGOActorParticleEffectSwitch.PARTICLE_SWITCH_TYPE // TypeDefIndex: 8165
+public enum FGOActorParticleEffectSwitch.PARTICLE_SWITCH_TYPE // TypeDefIndex: 8193
 {
 	// Fields
 	public int value__; // 0x0

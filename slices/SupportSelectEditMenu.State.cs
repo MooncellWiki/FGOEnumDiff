@@ -1,4 +1,4 @@
-private enum SupportSelectEditMenu.State // TypeDefIndex: 11227
+private enum SupportSelectEditMenu.State // TypeDefIndex: 11258
 {
 	// Fields
 	public int value__; // 0x0

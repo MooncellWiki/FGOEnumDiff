@@ -1,4 +1,4 @@
-public enum QuestEntity.Flag // TypeDefIndex: 7336
+public enum QuestEntity.Flag // TypeDefIndex: 7341
 {
 	// Fields
 	public long value__; // 0x0
@@ -60,4 +60,5 @@ public enum QuestEntity.Flag // TypeDefIndex: 7336
 	public const QuestEntity.Flag LIVE = 72057594037927936;
 	public const QuestEntity.Flag FORCE_DISPLAY_ENEMY_INFO = 144115188075855872;
 	public const QuestEntity.Flag ALLOUT_BATTLE = 288230376151711744;
+	public const QuestEntity.Flag RECOLLECTION = 576460752303423488;
 }

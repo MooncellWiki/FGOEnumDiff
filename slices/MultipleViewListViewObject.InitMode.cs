@@ -1,4 +1,4 @@
-public enum MultipleViewListViewObject.InitMode // TypeDefIndex: 10530
+public enum MultipleViewListViewObject.InitMode // TypeDefIndex: 10561
 {
 	// Fields
 	public int value__; // 0x0

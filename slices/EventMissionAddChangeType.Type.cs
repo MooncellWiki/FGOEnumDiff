@@ -1,4 +1,4 @@
-public enum EventMissionAddChangeType.Type // TypeDefIndex: 6297
+public enum EventMissionAddChangeType.Type // TypeDefIndex: 6301
 {
 	// Fields
 	public int value__; // 0x0

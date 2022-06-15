@@ -1,4 +1,4 @@
-public enum TitleInfoControl.TitleKind // TypeDefIndex: 6072
+public enum TitleInfoControl.TitleKind // TypeDefIndex: 6076
 {
 	// Fields
 	public int value__; // 0x0
@@ -89,4 +89,5 @@ public enum TitleInfoControl.TitleKind // TypeDefIndex: 6072
 	public const TitleInfoControl.TitleKind MAIN_INTERLUDE = 84;
 	public const TitleInfoControl.TitleKind COIN_ROOM = 85;
 	public const TitleInfoControl.TitleKind ADVANCED = 86;
+	public const TitleInfoControl.TitleKind RECOLLECTION = 87;
 }

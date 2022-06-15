@@ -1,4 +1,4 @@
-protected enum CommonMotionSkip.State // TypeDefIndex: 9177
+protected enum CommonMotionSkip.State // TypeDefIndex: 9208
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum AtlasManager.SkinType // TypeDefIndex: 6461
+public enum AtlasManager.SkinType // TypeDefIndex: 6465
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,4 +8,5 @@ public enum AtlasManager.SkinType // TypeDefIndex: 6461
 	public const AtlasManager.SkinType TEX_BACK_BG = 3;
 	public const AtlasManager.SkinType COMMON_BG_02 = 4;
 	public const AtlasManager.SkinType MINI_DIALOG = 5;
+	public const AtlasManager.SkinType MID_DIALOG = 6;
 }

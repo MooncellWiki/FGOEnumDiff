@@ -1,4 +1,4 @@
-public enum ScriptManager.State // TypeDefIndex: 8715
+public enum ScriptManager.State // TypeDefIndex: 8744
 {
 	// Fields
 	public int value__; // 0x0

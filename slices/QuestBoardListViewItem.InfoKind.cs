@@ -1,4 +1,4 @@
-public enum QuestBoardListViewItem.InfoKind // TypeDefIndex: 11555
+public enum QuestBoardListViewItem.InfoKind // TypeDefIndex: 11586
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,5 +8,6 @@ public enum QuestBoardListViewItem.InfoKind // TypeDefIndex: 11555
 	public const QuestBoardListViewItem.InfoKind HERO = 3;
 	public const QuestBoardListViewItem.InfoKind CALDEA = 4;
 	public const QuestBoardListViewItem.InfoKind WARBOARD = 5;
-	public const QuestBoardListViewItem.InfoKind SIZEOF = 6;
+	public const QuestBoardListViewItem.InfoKind WAR_QUEST_SELECTION = 6;
+	public const QuestBoardListViewItem.InfoKind SIZEOF = 7;
 }

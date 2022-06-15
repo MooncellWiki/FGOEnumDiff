@@ -1,4 +1,4 @@
-private enum BattleWindowComponent.WINDOWSTATE // TypeDefIndex: 8888
+private enum BattleWindowComponent.WINDOWSTATE // TypeDefIndex: 8919
 {
 	// Fields
 	public int value__; // 0x0

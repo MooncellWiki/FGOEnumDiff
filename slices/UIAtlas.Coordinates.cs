@@ -1,4 +1,4 @@
-private enum UIAtlas.Coordinates // TypeDefIndex: 12630
+private enum UIAtlas.Coordinates // TypeDefIndex: 12693
 {
 	// Fields
 	public int value__; // 0x0

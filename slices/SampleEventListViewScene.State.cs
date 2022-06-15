@@ -1,4 +1,4 @@
-protected enum SampleEventListViewScene.State // TypeDefIndex: 12118
+protected enum SampleEventListViewScene.State // TypeDefIndex: 12162
 {
 	// Fields
 	public int value__; // 0x0

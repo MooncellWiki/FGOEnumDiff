@@ -1,4 +1,4 @@
-protected enum SoundTestMenu.State // TypeDefIndex: 12060
+protected enum SoundTestMenu.State // TypeDefIndex: 12103
 {
 	// Fields
 	public int value__; // 0x0

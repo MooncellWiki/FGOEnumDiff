@@ -1,4 +1,4 @@
-public enum EventAddEntity.OverwriteType // TypeDefIndex: 7000
+public enum EventAddEntity.OverwriteType // TypeDefIndex: 7005
 {
 	// Fields
 	public int value__; // 0x0

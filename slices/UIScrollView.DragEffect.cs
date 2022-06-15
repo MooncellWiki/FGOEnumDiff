@@ -1,4 +1,4 @@
-public enum UIScrollView.DragEffect // TypeDefIndex: 12528
+public enum UIScrollView.DragEffect // TypeDefIndex: 12591
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CoinRoomCoinListViewManager.ResultKind // TypeDefIndex: 9750
+public enum CoinRoomCoinListViewManager.ResultKind // TypeDefIndex: 9781
 {
 	// Fields
 	public int value__; // 0x0

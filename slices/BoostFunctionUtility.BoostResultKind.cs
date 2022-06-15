@@ -1,4 +1,4 @@
-public enum BoostFunctionUtility.BoostResultKind // TypeDefIndex: 10745
+public enum BoostFunctionUtility.BoostResultKind // TypeDefIndex: 10776
 {
 	// Fields
 	public int value__; // 0x0

@@ -114,7 +114,8 @@
     "NO_SUPPORT_LIST": "36028797018963968",
     "LIVE": "72057594037927936",
     "FORCE_DISPLAY_ENEMY_INFO": "144115188075855872",
-    "ALLOUT_BATTLE": "288230376151711744"
+    "ALLOUT_BATTLE": "288230376151711744",
+    "RECOLLECTION": "576460752303423488"
   },
   "SubscriptionPeriodUnit": {
     "Day": "0",
@@ -192,7 +193,8 @@
     "TEMP": "20",
     "BOOST": "21",
     "COMMAND_CODE": "22",
-    "TEMP_EFFECT_SQUARE": "100"
+    "TEMP_EFFECT_SQUARE": "100",
+    "WARBOARD_PARTY_SKILL": "101"
   },
   "FogMode": {
     "Linear": "1",
@@ -447,6 +449,23 @@
     "Never": "0",
     "Collapsed": "2",
     "RootHidden": "3"
+  },
+  "WarBoardMessageMaster.WarBoardMessageSceneType": {
+    "NONE": "0",
+    "WAR_BOARD_START_BEFORE": "1",
+    "WAR_BOARD_START_AFTER": "2",
+    "WAR_BOARD_WIN_BEFORE": "3",
+    "WAR_BOARD_WIN_AFTER": "4",
+    "GET_TREASURE_BOX_BEFORE": "5",
+    "GET_TREASURE_BOX_AFTER": "6",
+    "DEFEAT_HALF_ENEMY_BEFORE": "7",
+    "DEFEAT_HALF_ENEMY_AFTER": "8",
+    "ATTACK_ENEMY_MASTER_BEFORE": "9",
+    "ATTACK_ENEMY_MASTER_AFTER": "10",
+    "ATTACKED_MY_MASTER_BEFORE": "11",
+    "ATTACKED_MY_MASTER_AFTER": "12",
+    "WAR_BOARD_LOSE_BEFORE": "13",
+    "WAR_BOARD_LOSE_AFTER": "14"
   },
   "Rarity.TYPE": {
     "NONE": "0",
@@ -770,7 +789,8 @@
     "COMMON_BG_01": "2",
     "TEX_BACK_BG": "3",
     "COMMON_BG_02": "4",
-    "MINI_DIALOG": "5"
+    "MINI_DIALOG": "5",
+    "MID_DIALOG": "6"
   },
   "UIDragDropListViewItem.Restriction": {
     "None": "0",
@@ -938,7 +958,8 @@
     "WAREHOUSE": "83",
     "MAIN_INTERLUDE": "84",
     "COIN_ROOM": "85",
-    "ADVANCED": "86"
+    "ADVANCED": "86",
+    "RECOLLECTION": "87"
   },
   "MapControl.SpotInfo.TouchType": {
     "Disable": "0",
@@ -966,7 +987,8 @@
     "BOX_GACHA": "9",
     "DIALOG_BANNER": "10",
     "PRIVACY_POLICY": "11",
-    "DELETE_ACCOUNT": "12"
+    "DELETE_ACCOUNT": "12",
+    "WARBOARD": "13"
   },
   "VoiceEntity.Flag": {
     "MATERIAL_OPEN": "2"
@@ -2658,7 +2680,8 @@
     "isMoveByDefenseAreaServant": "38",
     "isMoveByDefenseAreaEnemy": "39",
     "isAllDefenseAreaEnemyRouteBlock": "40",
-    "isComeBackSquare": "41"
+    "isComeBackSquare": "41",
+    "isMoveByAllDefenseAreaEnemyRouteBlock": "42"
   },
   "DeckSelectMenu.Kind": {
     "COPY": "0"
@@ -3519,7 +3542,8 @@
     "HERO": "3",
     "CALDEA": "4",
     "WARBOARD": "5",
-    "SIZEOF": "6"
+    "WAR_QUEST_SELECTION": "6",
+    "SIZEOF": "7"
   },
   "UnityWebRequest.UnityWebRequestError": {
     "OK": "0",
@@ -4177,6 +4201,7 @@
     "ON_MYROOM": "74",
     "QUEST_CLEAR_REWARD": "75",
     "GACHA_RESULT": "76",
+    "WAR_BOARD_HELP": "77",
     "ON_PRESENT_BOX": "78"
   },
   "BoostItemListViewManager.Kind": {
@@ -4949,6 +4974,13 @@
     "INTO": "5",
     "ENTER": "6",
     "EXIT": "7"
+  },
+  "DebugItemMenuBase.Group": {
+    "ALL": "0",
+    "ASSET": "1",
+    "VIEW": "2",
+    "SOUND": "3",
+    "ETC": "4"
   },
   "FutureStatus": {
     "Complete": "0",
@@ -9095,9 +9127,11 @@
   },
   "TitleInfoWarBoardTitleComponent.STATE": {
     "NONE": "0",
-    "PLAY": "1",
-    "TOUCH_WAIT": "2",
-    "SIZEOF": "3"
+    "MOVIE_FADE": "1",
+    "MOVIE": "2",
+    "PLAY": "3",
+    "TOUCH_WAIT": "4",
+    "SIZEOF": "5"
   },
   "FlipMode": {
     "Y_ROT": "0",
@@ -9505,11 +9539,6 @@
     "OnTooltipEvent": "13",
     "OnChangeEvent": "14"
   },
-  "ScriptMessageManager.HorizontalAlign": {
-    "Left": "0",
-    "Center": "1",
-    "Right": "2"
-  },
   "UIKeyBinding.Modifier": {
     "None": "0",
     "Shift": "1",
@@ -9681,6 +9710,12 @@
     "INPUT": "2",
     "SELECTED": "3",
     "CLOSE": "4"
+  },
+  "TitleInfoWarBoardTitleComponent.StateMovie.MovieState": {
+    "NONE": "0",
+    "START": "1",
+    "PLAY": "2",
+    "END": "3"
   },
   "SupportServantEquipListViewManager.ResultKind": {
     "CANCEL": "0",
@@ -12858,6 +12893,15 @@
     "TODAY": "1",
     "TOMORROW": "2"
   },
+  "WarBoardMessageMaster.WarBoardMessageCondType": {
+    "NONE": "0",
+    "MY_MASTER_HP_EQUAL": "1",
+    "MY_MASTER_HP_BELOW": "2",
+    "MY_MASTER_HP_ABOVE": "3",
+    "ENEMY_MASTER_HP_EQUAL": "4",
+    "ENEMY_MASTER_HP_BELOW": "5",
+    "ENEMY_MASTER_HP_ABOVE": "6"
+  },
   "Win32ResourceType": {
     "RT_CURSOR": "1",
     "RT_FONT": "8",
@@ -13789,7 +13833,9 @@
     "IS_NOT_COME_BACK_SQUARE": "121",
     "MOVE_BY_USE_DRTOUR_TARGET_RANGE_APPROACH_DRTOUR": "122",
     "MOVE_BY_USE_DRTOUR_TARGET_RANGE_LEAVE_DRTOUR": "123",
-    "MOVE_BY_USE_DRTOUR_TARGET_RANGE_NO_CHANGE_DRTOUR": "124"
+    "MOVE_BY_USE_DRTOUR_TARGET_RANGE_NO_CHANGE_DRTOUR": "124",
+    "IS_MOVE_BY_ALL_DEFENSE_AREA_ENEMY_ROUTE_BLOCK": "125",
+    "IS_NOT_MOVE_BY_ALL_DEFENSE_AREA_ENEMY_ROUTE_BLOCK": "126"
   },
   "WarehouseListViewManager.ResultKind": {
     "NONE": "0",
@@ -14682,7 +14728,8 @@
     "isMoveByDefenseAreaServant": "274877906944",
     "isMoveByDefenseAreaEnemy": "549755813888",
     "isAllDefenseAreaEnemyRouteBlock": "1099511627776",
-    "isComeBackSquare": "2199023255552"
+    "isComeBackSquare": "2199023255552",
+    "isMoveByAllDefenseAreaEnemyRouteBlock": "4398046511104"
   },
   "TitleInfoControl.BackKind": {
     "NONE": "0",
@@ -15070,68 +15117,75 @@
     "WARBOARD_DATA": "329",
     "WARBOARD_INDIVIDUALITY_CLASS": "330",
     "WARBOARD_ACTION_TREND_COND": "331",
-    "EVENT_PANEL_MAP": "332",
-    "EVENT_PANEL_MAP_DETAIL": "333",
-    "EVENT_PANEL_SPOT": "334",
-    "EVENT_PANEL_SCAN": "335",
-    "EVENT_DIGGING": "336",
-    "EVENT_DIGGING_REWARD": "337",
-    "EVENT_DIGGING_BLOCK": "338",
-    "USER_EVENT_DIGGING": "339",
-    "COMMON_CONSUME": "340",
-    "USER_EVENT_MAP": "341",
-    "USER_EVENT_SPOT": "342",
-    "WAR_GROUP": "343",
-    "SERVANT_LIMIT_IMAGE": "344",
-    "FRIENDSHIP_QUEST_DIALOG_INFO": "345",
-    "QUEST_RESTRICTION_INFO": "346",
-    "ASSIST": "347",
-    "WARBOARD_EFFECT": "348",
-    "WARBOARD_ONBOARD_SKILL": "349",
-    "BEFORE_BIRTH_DAY": "350",
-    "LOGIN_QUEST": "351",
-    "EVENT_COMBINE_COSTUME": "352",
-    "WARBOARD_STAGE_PIECE_DETAIL": "353",
-    "SERVANT_TREASURE_DEVICE_ADD": "354",
-    "SKILL_ADD": "355",
-    "SERVANT_LEVEL_DETAIL": "356",
-    "GACHA_APPEND": "357",
-    "USER_GACHA_DRAW_LOG": "358",
-    "SERVANT_APPEND_PASSIVE_SKILL": "359",
-    "USER_SERVANT_APPEND_PASSIVE_SKILL": "360",
-    "USER_SERVANT_APPEND_PASSIVE_SKILL_LV": "361",
-    "SVT_APPEND_PASSIVE_SKILL_UNLOCK": "362",
-    "COMBINE_APPEND_PASSIVE_SKILL": "363",
-    "SVT_COIN": "364",
-    "USER_SVT_COIN": "365",
-    "SERVANT_ADD": "366",
-    "TREASURE_BOX": "367",
-    "TREASURE_BOX_GIFT": "368",
-    "TREASURE_BOX_TALK": "369",
-    "USER_SERVANT_VOICE_PLAYED": "370",
-    "UPDATE_PROFILE_DIALOG_INFO": "371",
-    "SVT_MATERIAL_TD": "372",
-    "BATTLE_MASTER_IMAGE": "373",
-    "USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG": "374",
-    "USER_EVENT_RANDOM_MISSION": "375",
-    "EVENT_PROGRESS_VALUE": "376",
-    "SVT_MULTI_PORTRAIT": "377",
-    "EVENT_RANDOM_MISSION": "378",
-    "USER_GACHA_HISTORY": "379",
-    "USER_COIN_ROOM": "380",
-    "EVENT_BUDDY_POINT": "381",
-    "EVENT_SERVANT_POINT_RANK": "382",
-    "USER_EVENT_SERVANT_POINT": "383",
-    "FIELD_MOTION": "384",
-    "USER_DELETE_RESERVATION": "385",
-    "SERVANT_SCRIPT_MULTIPLE": "386",
-    "EQUIP_ADD": "387",
-    "QUEST_RELEASE_OVERWRITE": "388",
-    "USER_EVENT_ALLOUT_BATTLE": "389",
-    "QUEST_SCRIPT_MATERIAL_NEXT": "390",
-    "BATTLE_MESSAGE": "391",
-    "BATTLE_MESSAGE_GROUP": "392",
-    "USER_NPC_SVT_RECORD": "393"
+    "WARBOARD_ACTION_POINT_CLASS": "332",
+    "EVENT_PANEL_MAP": "333",
+    "EVENT_PANEL_MAP_DETAIL": "334",
+    "EVENT_PANEL_SPOT": "335",
+    "EVENT_PANEL_SCAN": "336",
+    "EVENT_DIGGING": "337",
+    "EVENT_DIGGING_REWARD": "338",
+    "EVENT_DIGGING_BLOCK": "339",
+    "USER_EVENT_DIGGING": "340",
+    "COMMON_CONSUME": "341",
+    "USER_EVENT_MAP": "342",
+    "USER_EVENT_SPOT": "343",
+    "WAR_GROUP": "344",
+    "SERVANT_LIMIT_IMAGE": "345",
+    "FRIENDSHIP_QUEST_DIALOG_INFO": "346",
+    "QUEST_RESTRICTION_INFO": "347",
+    "ASSIST": "348",
+    "WARBOARD_EFFECT": "349",
+    "WARBOARD_ONBOARD_SKILL": "350",
+    "BEFORE_BIRTH_DAY": "351",
+    "LOGIN_QUEST": "352",
+    "EVENT_COMBINE_COSTUME": "353",
+    "WARBOARD_STAGE_PIECE_DETAIL": "354",
+    "SERVANT_TREASURE_DEVICE_ADD": "355",
+    "SKILL_ADD": "356",
+    "SERVANT_LEVEL_DETAIL": "357",
+    "GACHA_APPEND": "358",
+    "USER_GACHA_DRAW_LOG": "359",
+    "SERVANT_APPEND_PASSIVE_SKILL": "360",
+    "USER_SERVANT_APPEND_PASSIVE_SKILL": "361",
+    "USER_SERVANT_APPEND_PASSIVE_SKILL_LV": "362",
+    "SVT_APPEND_PASSIVE_SKILL_UNLOCK": "363",
+    "COMBINE_APPEND_PASSIVE_SKILL": "364",
+    "SVT_COIN": "365",
+    "USER_SVT_COIN": "366",
+    "SERVANT_ADD": "367",
+    "TREASURE_BOX": "368",
+    "TREASURE_BOX_GIFT": "369",
+    "TREASURE_BOX_TALK": "370",
+    "USER_SERVANT_VOICE_PLAYED": "371",
+    "UPDATE_PROFILE_DIALOG_INFO": "372",
+    "SVT_MATERIAL_TD": "373",
+    "BATTLE_MASTER_IMAGE": "374",
+    "USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG": "375",
+    "USER_EVENT_RANDOM_MISSION": "376",
+    "EVENT_PROGRESS_VALUE": "377",
+    "SVT_MULTI_PORTRAIT": "378",
+    "EVENT_RANDOM_MISSION": "379",
+    "USER_GACHA_HISTORY": "380",
+    "USER_COIN_ROOM": "381",
+    "EVENT_BUDDY_POINT": "382",
+    "EVENT_SERVANT_POINT_RANK": "383",
+    "USER_EVENT_SERVANT_POINT": "384",
+    "FIELD_MOTION": "385",
+    "USER_DELETE_RESERVATION": "386",
+    "SERVANT_SCRIPT_MULTIPLE": "387",
+    "EQUIP_ADD": "388",
+    "QUEST_RELEASE_OVERWRITE": "389",
+    "USER_EVENT_ALLOUT_BATTLE": "390",
+    "QUEST_SCRIPT_MATERIAL_NEXT": "391",
+    "BATTLE_MESSAGE": "392",
+    "BATTLE_MESSAGE_GROUP": "393",
+    "USER_NPC_SVT_RECORD": "394",
+    "BUFF_TYPE_DETAIL": "395",
+    "WARBOARD_MESSAGE": "396",
+    "WARBOARD_PARTY_SKILL": "397",
+    "WARBOARD_MESSAGE_SCRIPT": "398",
+    "WAR_QUEST_SELECTION": "399",
+    "WARBOARD_STAGE_DETAIL": "400"
   },
   "PayoutType": {
     "Other": "0",
@@ -18300,6 +18354,11 @@
     "OfflineRevocation": "16777216",
     "NoIssuanceChainPolicy": "33554432"
   },
+  "WarBoardPartySkillEntity.TargetType": {
+    "Both": "0",
+    "Player": "1",
+    "Enemy": "2"
+  },
   "ListViewSort.PresentBoxRarityFilterKind": {
     "CARD_RARITY_COMMON": "0",
     "CARD_RARITY_UNCOMMON": "1",
@@ -18401,7 +18460,9 @@
     "MATERIAL_BRANCH_ROUTE_SAVE": "35",
     "CLEAR_RANDOM_MISSION_SAVE": "36",
     "MATERIAL_GROUP_CLEAR_HISTORY_SAVE": "37",
-    "SUM": "38"
+    "WARBOARD_MESSAGE_HISTORY_SAVE": "38",
+    "WARBOARD_MOVIE_HISTORY_SAVE": "39",
+    "SUM": "40"
   },
   "FakeStoreUIMode": {
     "Default": "0",
@@ -19022,6 +19083,10 @@
     "x": "0",
     "y": "1",
     "z": "2"
+  },
+  "DebugItemRoot.State": {
+    "INIT": "0",
+    "INPUT": "1"
   },
   "ServantStatusFlavorTextListViewObject.State": {
     "INIT": "0",
@@ -20085,6 +20150,11 @@
     "EXIT": "5",
     "MODIFY": "6"
   },
+  "ScriptMessageCommonManager.HorizontalAlign": {
+    "Left": "0",
+    "Center": "1",
+    "Right": "2"
+  },
   "UriFormat": {
     "UriEscaped": "1",
     "Unescaped": "2",
@@ -20666,6 +20736,10 @@
     "INVALID": "1",
     "VALID": "2",
     "INPUT": "3"
+  },
+  "WarBoardSimplePopupElementServant.DispType": {
+    "NORMAL": "0",
+    "HAS_COST": "1"
   },
   "ServantScriptEntity.OffsetKind": {
     "NORMAL": "0",
