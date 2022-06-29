@@ -1,4 +1,4 @@
-public enum Face.Type // TypeDefIndex: 6308
+public enum Face.Type // TypeDefIndex: 6350
 {
 	// Fields
 	public int value__; // 0x0

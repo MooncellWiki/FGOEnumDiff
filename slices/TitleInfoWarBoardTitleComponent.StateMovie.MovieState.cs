@@ -1,4 +1,4 @@
-private enum TitleInfoWarBoardTitleComponent.StateMovie.MovieState // TypeDefIndex: 6067
+private enum TitleInfoWarBoardTitleComponent.StateMovie.MovieState // TypeDefIndex: 6109
 {
 	// Fields
 	public int value__; // 0x0

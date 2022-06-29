@@ -1,4 +1,4 @@
-protected enum FriendWarningDialog.State // TypeDefIndex: 10373
+protected enum FriendWarningDialog.State // TypeDefIndex: 10492
 {
 	// Fields
 	public int value__; // 0x0

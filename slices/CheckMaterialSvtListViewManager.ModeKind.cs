@@ -1,4 +1,4 @@
-public enum CheckMaterialSvtListViewManager.ModeKind // TypeDefIndex: 9954
+public enum CheckMaterialSvtListViewManager.ModeKind // TypeDefIndex: 10030
 {
 	// Fields
 	public int value__; // 0x0

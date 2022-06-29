@@ -1,4 +1,4 @@
-public enum EventUiEntity.DispAreaType // TypeDefIndex: 7212
+public enum EventUiEntity.DispAreaType // TypeDefIndex: 7276
 {
 	// Fields
 	public int value__; // 0x0

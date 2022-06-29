@@ -1,4 +1,4 @@
-public enum UICamera.EventType // TypeDefIndex: 8014
+public enum UICamera.EventType // TypeDefIndex: 8088
 {
 	// Fields
 	public int value__; // 0x0

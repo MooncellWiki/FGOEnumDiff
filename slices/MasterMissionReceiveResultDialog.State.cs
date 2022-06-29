@@ -1,4 +1,4 @@
-protected enum MasterMissionReceiveResultDialog.State // TypeDefIndex: 5712
+protected enum MasterMissionReceiveResultDialog.State // TypeDefIndex: 5753
 {
 	// Fields
 	public int value__; // 0x0

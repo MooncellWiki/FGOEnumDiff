@@ -1,4 +1,4 @@
-public enum NetworkManager.ReadResult // TypeDefIndex: 6698
+public enum NetworkManager.ReadResult // TypeDefIndex: 6756
 {
 	// Fields
 	public int value__; // 0x0

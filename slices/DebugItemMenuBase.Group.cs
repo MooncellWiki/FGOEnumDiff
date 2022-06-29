@@ -1,4 +1,4 @@
-public enum DebugItemMenuBase.Group // TypeDefIndex: 11921
+public enum DebugItemMenuBase.Group // TypeDefIndex: 12043
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum MultipleViewComponent.ModeKind // TypeDefIndex: 10545
+public enum MultipleViewComponent.ModeKind // TypeDefIndex: 10664
 {
 	// Fields
 	public int value__; // 0x0

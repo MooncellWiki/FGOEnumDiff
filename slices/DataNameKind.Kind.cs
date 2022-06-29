@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6293
+public enum DataNameKind.Kind // TypeDefIndex: 6335
 {
 	// Fields
 	public int value__; // 0x0
@@ -373,34 +373,41 @@ public enum DataNameKind.Kind // TypeDefIndex: 6293
 	public const DataNameKind.Kind TREASURE_BOX = 368;
 	public const DataNameKind.Kind TREASURE_BOX_GIFT = 369;
 	public const DataNameKind.Kind TREASURE_BOX_TALK = 370;
-	public const DataNameKind.Kind USER_SERVANT_VOICE_PLAYED = 371;
-	public const DataNameKind.Kind UPDATE_PROFILE_DIALOG_INFO = 372;
-	public const DataNameKind.Kind SVT_MATERIAL_TD = 373;
-	public const DataNameKind.Kind BATTLE_MASTER_IMAGE = 374;
-	public const DataNameKind.Kind USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG = 375;
-	public const DataNameKind.Kind USER_EVENT_RANDOM_MISSION = 376;
-	public const DataNameKind.Kind EVENT_PROGRESS_VALUE = 377;
-	public const DataNameKind.Kind SVT_MULTI_PORTRAIT = 378;
-	public const DataNameKind.Kind EVENT_RANDOM_MISSION = 379;
-	public const DataNameKind.Kind USER_GACHA_HISTORY = 380;
-	public const DataNameKind.Kind USER_COIN_ROOM = 381;
-	public const DataNameKind.Kind EVENT_BUDDY_POINT = 382;
-	public const DataNameKind.Kind EVENT_SERVANT_POINT_RANK = 383;
-	public const DataNameKind.Kind USER_EVENT_SERVANT_POINT = 384;
-	public const DataNameKind.Kind FIELD_MOTION = 385;
-	public const DataNameKind.Kind USER_DELETE_RESERVATION = 386;
-	public const DataNameKind.Kind SERVANT_SCRIPT_MULTIPLE = 387;
-	public const DataNameKind.Kind EQUIP_ADD = 388;
-	public const DataNameKind.Kind QUEST_RELEASE_OVERWRITE = 389;
-	public const DataNameKind.Kind USER_EVENT_ALLOUT_BATTLE = 390;
-	public const DataNameKind.Kind QUEST_SCRIPT_MATERIAL_NEXT = 391;
-	public const DataNameKind.Kind BATTLE_MESSAGE = 392;
-	public const DataNameKind.Kind BATTLE_MESSAGE_GROUP = 393;
-	public const DataNameKind.Kind USER_NPC_SVT_RECORD = 394;
-	public const DataNameKind.Kind BUFF_TYPE_DETAIL = 395;
-	public const DataNameKind.Kind WARBOARD_MESSAGE = 396;
-	public const DataNameKind.Kind WARBOARD_PARTY_SKILL = 397;
-	public const DataNameKind.Kind WARBOARD_MESSAGE_SCRIPT = 398;
-	public const DataNameKind.Kind WAR_QUEST_SELECTION = 399;
-	public const DataNameKind.Kind WARBOARD_STAGE_DETAIL = 400;
+	public const DataNameKind.Kind USER_EVENT_EXPEDITION = 371;
+	public const DataNameKind.Kind EVENT_EXPEDITION = 372;
+	public const DataNameKind.Kind EVENT_EXPEDITION_PIECE = 373;
+	public const DataNameKind.Kind USER_SERVANT_VOICE_PLAYED = 374;
+	public const DataNameKind.Kind UPDATE_PROFILE_DIALOG_INFO = 375;
+	public const DataNameKind.Kind SVT_MATERIAL_TD = 376;
+	public const DataNameKind.Kind BATTLE_MASTER_IMAGE = 377;
+	public const DataNameKind.Kind USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG = 378;
+	public const DataNameKind.Kind USER_EVENT_RANDOM_MISSION = 379;
+	public const DataNameKind.Kind EVENT_PROGRESS_VALUE = 380;
+	public const DataNameKind.Kind SVT_MULTI_PORTRAIT = 381;
+	public const DataNameKind.Kind EVENT_RANDOM_MISSION = 382;
+	public const DataNameKind.Kind USER_GACHA_HISTORY = 383;
+	public const DataNameKind.Kind USER_COIN_ROOM = 384;
+	public const DataNameKind.Kind EVENT_BUDDY_POINT = 385;
+	public const DataNameKind.Kind EVENT_SERVANT_POINT_RANK = 386;
+	public const DataNameKind.Kind USER_EVENT_SERVANT_POINT = 387;
+	public const DataNameKind.Kind FIELD_MOTION = 388;
+	public const DataNameKind.Kind USER_DELETE_RESERVATION = 389;
+	public const DataNameKind.Kind SERVANT_SCRIPT_MULTIPLE = 390;
+	public const DataNameKind.Kind EQUIP_ADD = 391;
+	public const DataNameKind.Kind QUEST_RELEASE_OVERWRITE = 392;
+	public const DataNameKind.Kind USER_EVENT_ALLOUT_BATTLE = 393;
+	public const DataNameKind.Kind QUEST_SCRIPT_MATERIAL_NEXT = 394;
+	public const DataNameKind.Kind BATTLE_MESSAGE = 395;
+	public const DataNameKind.Kind BATTLE_MESSAGE_GROUP = 396;
+	public const DataNameKind.Kind USER_NPC_SVT_RECORD = 397;
+	public const DataNameKind.Kind BUFF_TYPE_DETAIL = 398;
+	public const DataNameKind.Kind WARBOARD_MESSAGE = 399;
+	public const DataNameKind.Kind WARBOARD_PARTY_SKILL = 400;
+	public const DataNameKind.Kind WARBOARD_MESSAGE_SCRIPT = 401;
+	public const DataNameKind.Kind WAR_QUEST_SELECTION = 402;
+	public const DataNameKind.Kind WARBOARD_STAGE_DETAIL = 403;
+	public const DataNameKind.Kind QUEST_SCRIPT_MATERIAL_OVERWRITE = 404;
+	public const DataNameKind.Kind QUEST_SCRIPT_BRANCH_MATERIAL = 405;
+	public const DataNameKind.Kind AD_CHECK_POINT = 406;
+	public const DataNameKind.Kind GIFT_DETAIL = 407;
 }

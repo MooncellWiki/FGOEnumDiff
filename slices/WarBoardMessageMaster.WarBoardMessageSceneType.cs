@@ -1,4 +1,4 @@
-public enum WarBoardMessageMaster.WarBoardMessageSceneType // TypeDefIndex: 7802
+public enum WarBoardMessageMaster.WarBoardMessageSceneType // TypeDefIndex: 7875
 {
 	// Fields
 	public int value__; // 0x0

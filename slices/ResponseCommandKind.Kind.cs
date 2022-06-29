@@ -1,4 +1,4 @@
-public enum ResponseCommandKind.Kind // TypeDefIndex: 6359
+public enum ResponseCommandKind.Kind // TypeDefIndex: 6401
 {
 	// Fields
 	public int value__; // 0x0
@@ -114,4 +114,6 @@ public enum ResponseCommandKind.Kind // TypeDefIndex: 6359
 	public const ResponseCommandKind.Kind BATTLE_RESET = 109;
 	public const ResponseCommandKind.Kind EVENT_DIGGING = 110;
 	public const ResponseCommandKind.Kind EVENT_RESET_DIGGING = 111;
+	public const ResponseCommandKind.Kind EVENT_EXPEDITION_START = 112;
+	public const ResponseCommandKind.Kind EVENT_EXPEDITION_FINISH = 113;
 }

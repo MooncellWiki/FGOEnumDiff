@@ -1,4 +1,4 @@
-public enum CoinRoomCoinIconDraw.DispMode // TypeDefIndex: 9773
+public enum CoinRoomCoinIconDraw.DispMode // TypeDefIndex: 9849
 {
 	// Fields
 	public int value__; // 0x0

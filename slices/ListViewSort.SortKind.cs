@@ -1,4 +1,4 @@
-public enum ListViewSort.SortKind // TypeDefIndex: 8050
+public enum ListViewSort.SortKind // TypeDefIndex: 8124
 {
 	// Fields
 	public int value__; // 0x0

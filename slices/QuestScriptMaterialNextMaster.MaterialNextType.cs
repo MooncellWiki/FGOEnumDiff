@@ -1,4 +1,4 @@
-public enum QuestScriptMaterialNextMaster.MaterialNextType // TypeDefIndex: 7387
+public enum QuestScriptMaterialNextMaster.MaterialNextType // TypeDefIndex: 7456
 {
 	// Fields
 	public int value__; // 0x0

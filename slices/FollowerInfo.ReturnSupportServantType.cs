@@ -1,4 +1,4 @@
-public enum FollowerInfo.ReturnSupportServantType // TypeDefIndex: 6818
+public enum FollowerInfo.ReturnSupportServantType // TypeDefIndex: 6876
 {
 	// Fields
 	public int value__; // 0x0

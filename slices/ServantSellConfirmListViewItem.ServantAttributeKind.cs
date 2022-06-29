@@ -1,4 +1,4 @@
-private enum ServantSellConfirmListViewItem.ServantAttributeKind // TypeDefIndex: 11037
+private enum ServantSellConfirmListViewItem.ServantAttributeKind // TypeDefIndex: 11159
 {
 	// Fields
 	public int value__; // 0x0

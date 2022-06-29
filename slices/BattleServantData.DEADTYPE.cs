@@ -1,4 +1,4 @@
-public enum BattleServantData.DEADTYPE // TypeDefIndex: 9260
+public enum BattleServantData.DEADTYPE // TypeDefIndex: 9335
 {
 	// Fields
 	public int value__; // 0x0
@@ -7,4 +7,5 @@ public enum BattleServantData.DEADTYPE // TypeDefIndex: 9260
 	public const BattleServantData.DEADTYPE STAND = 2;
 	public const BattleServantData.DEADTYPE EFFECT = 3;
 	public const BattleServantData.DEADTYPE WAIT = 4;
+	public const BattleServantData.DEADTYPE ENERGY = 5;
 }

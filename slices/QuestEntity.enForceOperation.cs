@@ -1,4 +1,4 @@
-public enum QuestEntity.enForceOperation // TypeDefIndex: 7339
+public enum QuestEntity.enForceOperation // TypeDefIndex: 7405
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum MapShakerComponent.ShakeType // TypeDefIndex: 11545
+public enum MapShakerComponent.ShakeType // TypeDefIndex: 11667
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ScriptManager.SCENE_MODE // TypeDefIndex: 8752
+public enum ScriptManager.SCENE_MODE // TypeDefIndex: 8828
 {
 	// Fields
 	public int value__; // 0x0

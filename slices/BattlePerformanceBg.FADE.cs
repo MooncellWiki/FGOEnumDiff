@@ -1,4 +1,4 @@
-private enum BattlePerformanceBg.FADE // TypeDefIndex: 9606
+private enum BattlePerformanceBg.FADE // TypeDefIndex: 9682
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SampleCardListViewManager.InitMode // TypeDefIndex: 12143
+public enum SampleCardListViewManager.InitMode // TypeDefIndex: 12265
 {
 	// Fields
 	public int value__; // 0x0

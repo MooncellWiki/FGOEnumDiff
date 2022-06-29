@@ -1,4 +1,4 @@
-public enum BuffList.INVOKE_COND_TYPE // TypeDefIndex: 6264
+public enum BuffList.INVOKE_COND_TYPE // TypeDefIndex: 6306
 {
 	// Fields
 	public int value__; // 0x0

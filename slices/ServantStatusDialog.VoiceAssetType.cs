@@ -1,4 +1,4 @@
-protected enum ServantStatusDialog.VoiceAssetType // TypeDefIndex: 5883
+protected enum ServantStatusDialog.VoiceAssetType // TypeDefIndex: 5925
 {
 	// Fields
 	public int value__; // 0x0

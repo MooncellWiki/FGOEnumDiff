@@ -1,4 +1,4 @@
-public enum ScriptSkipDialog.ResultKind // TypeDefIndex: 8801
+public enum ScriptSkipDialog.ResultKind // TypeDefIndex: 8877
 {
 	// Fields
 	public int value__; // 0x0
