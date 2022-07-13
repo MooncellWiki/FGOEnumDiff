@@ -1,4 +1,4 @@
-public enum AnalyticsResult // TypeDefIndex: 2838
+public enum AnalyticsResult // TypeDefIndex: 2839
 {
 	// Fields
 	public int value__; // 0x0

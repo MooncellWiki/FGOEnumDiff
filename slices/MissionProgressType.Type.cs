@@ -1,4 +1,4 @@
-public enum MissionProgressType.Type // TypeDefIndex: 6385
+public enum MissionProgressType.Type // TypeDefIndex: 6386
 {
 	// Fields
 	public int value__; // 0x0

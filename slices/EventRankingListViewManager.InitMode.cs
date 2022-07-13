@@ -1,4 +1,4 @@
-public enum EventRankingListViewManager.InitMode // TypeDefIndex: 10274
+public enum EventRankingListViewManager.InitMode // TypeDefIndex: 10277
 {
 	// Fields
 	public int value__; // 0x0

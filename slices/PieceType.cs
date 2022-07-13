@@ -1,4 +1,4 @@
-public enum PieceType // TypeDefIndex: 12570
+public enum PieceType // TypeDefIndex: 12573
 {
 	// Fields
 	public int value__; // 0x0

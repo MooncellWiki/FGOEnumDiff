@@ -1,4 +1,4 @@
-public enum ScriptMessageCommonManager.HorizontalAlign // TypeDefIndex: 8849
+public enum ScriptMessageCommonManager.HorizontalAlign // TypeDefIndex: 8852
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum RectTransform.Axis // TypeDefIndex: 2568
+public enum RectTransform.Axis // TypeDefIndex: 2569
 {
 	// Fields
 	public int value__; // 0x0

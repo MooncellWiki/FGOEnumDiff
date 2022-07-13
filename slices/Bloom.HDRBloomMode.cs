@@ -1,4 +1,4 @@
-public enum Bloom.HDRBloomMode // TypeDefIndex: 4373
+public enum Bloom.HDRBloomMode // TypeDefIndex: 4374
 {
 	// Fields
 	public int value__; // 0x0

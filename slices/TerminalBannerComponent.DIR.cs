@@ -1,4 +1,4 @@
-public enum TerminalBannerComponent.DIR // TypeDefIndex: 11992
+public enum TerminalBannerComponent.DIR // TypeDefIndex: 11995
 {
 	// Fields
 	public int value__; // 0x0

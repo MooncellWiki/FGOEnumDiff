@@ -1,4 +1,4 @@
-public enum ServantCollectionEntity.CollectionEffectType // TypeDefIndex: 7489
+public enum ServantCollectionEntity.CollectionEffectType // TypeDefIndex: 7491
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CompressionStrategy // TypeDefIndex: 4492
+public enum CompressionStrategy // TypeDefIndex: 4493
 {
 	// Fields
 	public int value__; // 0x0

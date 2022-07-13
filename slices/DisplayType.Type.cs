@@ -1,4 +1,4 @@
-public enum DisplayType.Type // TypeDefIndex: 6341
+public enum DisplayType.Type // TypeDefIndex: 6342
 {
 	// Fields
 	public int value__; // 0x0

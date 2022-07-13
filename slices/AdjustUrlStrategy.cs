@@ -1,4 +1,4 @@
-public enum AdjustUrlStrategy // TypeDefIndex: 4436
+public enum AdjustUrlStrategy // TypeDefIndex: 4437
 {
 	// Fields
 	public int value__; // 0x0

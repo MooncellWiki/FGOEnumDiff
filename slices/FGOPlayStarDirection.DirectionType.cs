@@ -1,4 +1,4 @@
-public enum FGOPlayStarDirection.DirectionType // TypeDefIndex: 8366
+public enum FGOPlayStarDirection.DirectionType // TypeDefIndex: 8368
 {
 	// Fields
 	public int value__; // 0x0

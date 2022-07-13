@@ -1,4 +1,4 @@
-public enum WarBoardActionTrendEntity.ActionType // TypeDefIndex: 7856
+public enum WarBoardActionTrendEntity.ActionType // TypeDefIndex: 7858
 {
 	// Fields
 	public int value__; // 0x0

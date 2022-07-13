@@ -1,4 +1,4 @@
-public enum MultipleViewListViewItemDraw.DispMode // TypeDefIndex: 10672
+public enum MultipleViewListViewItemDraw.DispMode // TypeDefIndex: 10675
 {
 	// Fields
 	public int value__; // 0x0

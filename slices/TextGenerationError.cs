@@ -1,4 +1,4 @@
-internal enum TextGenerationError // TypeDefIndex: 2648
+internal enum TextGenerationError // TypeDefIndex: 2649
 {
 	// Fields
 	public int value__; // 0x0

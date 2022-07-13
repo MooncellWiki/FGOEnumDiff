@@ -1,4 +1,4 @@
-public enum RetryOrder // TypeDefIndex: 3762
+public enum RetryOrder // TypeDefIndex: 3763
 {
 	// Fields
 	public int value__; // 0x0

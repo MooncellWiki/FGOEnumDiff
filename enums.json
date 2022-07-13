@@ -1806,7 +1806,8 @@
     "EVENT_DIGGING": "110",
     "EVENT_RESET_DIGGING": "111",
     "EVENT_EXPEDITION_START": "112",
-    "EVENT_EXPEDITION_FINISH": "113"
+    "EVENT_EXPEDITION_FINISH": "113",
+    "CLIENT_API_ERROR_DIALOG": "114"
   },
   "WarehouseListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -5796,7 +5797,8 @@
     "EmailAddress": "7",
     "NintendoNetworkAccount": "8",
     "Social": "9",
-    "Search": "10"
+    "Search": "10",
+    "DecimalPad": "11"
   },
   "ServantFramePurchaseConfirmMenu.Kind": {
     "FRAME": "0",

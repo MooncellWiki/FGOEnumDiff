@@ -1,4 +1,4 @@
-public enum ShopHelpListViewObject.InitMode // TypeDefIndex: 11212
+public enum ShopHelpListViewObject.InitMode // TypeDefIndex: 11215
 {
 	// Fields
 	public int value__; // 0x0

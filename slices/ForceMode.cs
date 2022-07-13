@@ -1,4 +1,4 @@
-public enum ForceMode // TypeDefIndex: 2628
+public enum ForceMode // TypeDefIndex: 2629
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum Player.CriManaUnityPlayer_RenderEventAction // TypeDefIndex: 4183
+public enum Player.CriManaUnityPlayer_RenderEventAction // TypeDefIndex: 4184
 {
 	// Fields
 	public int value__; // 0x0

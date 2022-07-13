@@ -1,4 +1,4 @@
-public enum UserServantCoinListViewItemDraw.DispMode // TypeDefIndex: 10829
+public enum UserServantCoinListViewItemDraw.DispMode // TypeDefIndex: 10832
 {
 	// Fields
 	public int value__; // 0x0

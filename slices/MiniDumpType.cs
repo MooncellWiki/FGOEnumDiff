@@ -1,4 +1,4 @@
-public enum MiniDumpType // TypeDefIndex: 3759
+public enum MiniDumpType // TypeDefIndex: 3760
 {
 	// Fields
 	public uint value__; // 0x0

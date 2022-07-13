@@ -1,4 +1,4 @@
-internal enum BacktraceStackFrameType // TypeDefIndex: 3756
+internal enum BacktraceStackFrameType // TypeDefIndex: 3757
 {
 	// Fields
 	public int value__; // 0x0

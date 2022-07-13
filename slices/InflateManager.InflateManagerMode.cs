@@ -1,4 +1,4 @@
-private enum InflateManager.InflateManagerMode // TypeDefIndex: 4488
+private enum InflateManager.InflateManagerMode // TypeDefIndex: 4489
 {
 	// Fields
 	public int value__; // 0x0

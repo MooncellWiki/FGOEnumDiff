@@ -1,4 +1,4 @@
-public enum CampaignInformation.UrlOpenType // TypeDefIndex: 5493
+public enum CampaignInformation.UrlOpenType // TypeDefIndex: 5494
 {
 	// Fields
 	public int value__; // 0x0

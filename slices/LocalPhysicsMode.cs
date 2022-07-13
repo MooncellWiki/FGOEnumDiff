@@ -1,4 +1,4 @@
-public enum LocalPhysicsMode // TypeDefIndex: 2549
+public enum LocalPhysicsMode // TypeDefIndex: 2550
 {
 	// Fields
 	public int value__; // 0x0

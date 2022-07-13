@@ -1,4 +1,4 @@
-public enum CriAtomOutputDeviceObserver.OutputDeviceType // TypeDefIndex: 3956
+public enum CriAtomOutputDeviceObserver.OutputDeviceType // TypeDefIndex: 3957
 {
 	// Fields
 	public int value__; // 0x0

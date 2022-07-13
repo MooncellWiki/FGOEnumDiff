@@ -1,4 +1,4 @@
-public enum USFGOCameraEffectEvent.CameraEffectType // TypeDefIndex: 8473
+public enum USFGOCameraEffectEvent.CameraEffectType // TypeDefIndex: 8475
 {
 	// Fields
 	public int value__; // 0x0

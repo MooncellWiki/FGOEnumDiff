@@ -1,4 +1,4 @@
-public enum Bloom.TweakMode // TypeDefIndex: 4372
+public enum Bloom.TweakMode // TypeDefIndex: 4373
 {
 	// Fields
 	public int value__; // 0x0

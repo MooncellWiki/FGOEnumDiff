@@ -1,4 +1,4 @@
-public enum CriAtomExPlayer.TimeStretchParameterId // TypeDefIndex: 4079
+public enum CriAtomExPlayer.TimeStretchParameterId // TypeDefIndex: 4080
 {
 	// Fields
 	public int value__; // 0x0

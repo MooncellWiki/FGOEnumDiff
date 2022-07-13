@@ -1,4 +1,4 @@
-public enum Ai.TIMING // TypeDefIndex: 6288
+public enum Ai.TIMING // TypeDefIndex: 6289
 {
 	// Fields
 	public int value__; // 0x0

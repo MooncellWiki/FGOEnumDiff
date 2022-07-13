@@ -1,4 +1,4 @@
-public enum EventInfoUIBase.AnimType // TypeDefIndex: 5680
+public enum EventInfoUIBase.AnimType // TypeDefIndex: 5681
 {
 	// Fields
 	public int value__; // 0x0

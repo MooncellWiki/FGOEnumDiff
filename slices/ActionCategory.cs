@@ -1,4 +1,4 @@
-public enum ActionCategory // TypeDefIndex: 3303
+public enum ActionCategory // TypeDefIndex: 3304
 {
 	// Fields
 	public int value__; // 0x0

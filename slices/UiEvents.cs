@@ -1,4 +1,4 @@
-public enum UiEvents // TypeDefIndex: 3380
+public enum UiEvents // TypeDefIndex: 3381
 {
 	// Fields
 	public int value__; // 0x0

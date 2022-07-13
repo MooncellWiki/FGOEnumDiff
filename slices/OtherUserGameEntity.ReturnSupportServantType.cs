@@ -1,4 +1,4 @@
-public enum OtherUserGameEntity.ReturnSupportServantType // TypeDefIndex: 7385
+public enum OtherUserGameEntity.ReturnSupportServantType // TypeDefIndex: 7387
 {
 	// Fields
 	public int value__; // 0x0

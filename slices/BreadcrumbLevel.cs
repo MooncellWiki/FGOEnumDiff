@@ -1,4 +1,4 @@
-public enum BreadcrumbLevel // TypeDefIndex: 3707
+public enum BreadcrumbLevel // TypeDefIndex: 3708
 {
 	// Fields
 	public int value__; // 0x0

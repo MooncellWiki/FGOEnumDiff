@@ -1,4 +1,4 @@
-public enum GetAxisVector.AxisPlane // TypeDefIndex: 13103
+public enum GetAxisVector.AxisPlane // TypeDefIndex: 13106
 {
 	// Fields
 	public int value__; // 0x0

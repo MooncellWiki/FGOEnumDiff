@@ -1,4 +1,4 @@
-public enum CuriousFuncEffectTiming // TypeDefIndex: 6332
+public enum CuriousFuncEffectTiming // TypeDefIndex: 6333
 {
 	// Fields
 	public int value__; // 0x0

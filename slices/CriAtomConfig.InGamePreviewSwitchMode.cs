@@ -1,4 +1,4 @@
-public enum CriAtomConfig.InGamePreviewSwitchMode // TypeDefIndex: 4196
+public enum CriAtomConfig.InGamePreviewSwitchMode // TypeDefIndex: 4197
 {
 	// Fields
 	public int value__; // 0x0

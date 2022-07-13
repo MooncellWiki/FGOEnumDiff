@@ -1,4 +1,4 @@
-public enum CriAtomSource.Status // TypeDefIndex: 3968
+public enum CriAtomSource.Status // TypeDefIndex: 3969
 {
 	// Fields
 	public int value__; // 0x0

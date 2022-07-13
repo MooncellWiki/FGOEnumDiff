@@ -1,4 +1,4 @@
-public enum FGOFieldSkillCutIn.ActionType // TypeDefIndex: 8345
+public enum FGOFieldSkillCutIn.ActionType // TypeDefIndex: 8347
 {
 	// Fields
 	public int value__; // 0x0

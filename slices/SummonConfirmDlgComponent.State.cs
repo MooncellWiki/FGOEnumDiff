@@ -1,4 +1,4 @@
-protected enum SummonConfirmDlgComponent.State // TypeDefIndex: 11294
+protected enum SummonConfirmDlgComponent.State // TypeDefIndex: 11297
 {
 	// Fields
 	public int value__; // 0x0

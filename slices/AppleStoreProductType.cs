@@ -1,4 +1,4 @@
-internal enum AppleStoreProductType // TypeDefIndex: 3565
+internal enum AppleStoreProductType // TypeDefIndex: 3566
 {
 	// Fields
 	public int value__; // 0x0

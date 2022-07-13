@@ -1,4 +1,4 @@
-public enum LoopType // TypeDefIndex: 3399
+public enum LoopType // TypeDefIndex: 3400
 {
 	// Fields
 	public int value__; // 0x0

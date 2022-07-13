@@ -1,4 +1,4 @@
-public enum AnimationList.NAME // TypeDefIndex: 6293
+public enum AnimationList.NAME // TypeDefIndex: 6294
 {
 	// Fields
 	public int value__; // 0x0

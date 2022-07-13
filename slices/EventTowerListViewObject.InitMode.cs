@@ -1,4 +1,4 @@
-public enum EventTowerListViewObject.InitMode // TypeDefIndex: 10427
+public enum EventTowerListViewObject.InitMode // TypeDefIndex: 10430
 {
 	// Fields
 	public int value__; // 0x0

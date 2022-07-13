@@ -1,4 +1,4 @@
-public enum CriAtomExAcf.AisacGraphType // TypeDefIndex: 4053
+public enum CriAtomExAcf.AisacGraphType // TypeDefIndex: 4054
 {
 	// Fields
 	public int value__; // 0x0
