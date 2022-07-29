@@ -1,4 +1,4 @@
-public enum FollowerSelectItemListViewManager.ResultKind // TypeDefIndex: 10456
+public enum FollowerSelectItemListViewManager.ResultKind // TypeDefIndex: 10531
 {
 	// Fields
 	public int value__; // 0x0

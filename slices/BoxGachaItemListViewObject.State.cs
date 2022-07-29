@@ -1,4 +1,4 @@
-protected enum BoxGachaItemListViewObject.State // TypeDefIndex: 10221
+protected enum BoxGachaItemListViewObject.State // TypeDefIndex: 10296
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FieldMotionManager.GET_TYPE // TypeDefIndex: 9773
+public enum FieldMotionManager.GET_TYPE // TypeDefIndex: 9845
 {
 	// Fields
 	public int value__; // 0x0
@@ -10,4 +10,9 @@ public enum FieldMotionManager.GET_TYPE // TypeDefIndex: 9773
 	public const FieldMotionManager.GET_TYPE ENEMY_TACTOCAL = 5;
 	public const FieldMotionManager.GET_TYPE NPC_BATTLE = 6;
 	public const FieldMotionManager.GET_TYPE NPC_TACTICAL = 7;
+	public const FieldMotionManager.GET_TYPE FIELD_POPUP_BATTLE = 8;
+	public const FieldMotionManager.GET_TYPE FIELD_POPUP_TACTICAL = 9;
+	public const FieldMotionManager.GET_TYPE FIELD_EFFECT_BATTLE = 10;
+	public const FieldMotionManager.GET_TYPE FIELD_EFFECT_TACTICAL = 11;
+	public const FieldMotionManager.GET_TYPE FIELD_EFFECT_NP = 12;
 }

@@ -879,6 +879,11 @@
     "VALID": "2",
     "INPUT": "3"
   },
+  "BattleLogicFunctionProcess.FieldAddStateTargetCheck.GrantType": {
+    "Overwrite": "0",
+    "InvalidAdd": "1",
+    "Add": "2"
+  },
   "SummonEffectComponent.CardColor": {
     "BRONZE": "0",
     "SILVER": "1",
@@ -1330,7 +1335,8 @@
     "CHECK_USE_SKILL_THISTURN": "177",
     "COUNT_CHAIN_HIGHER": "178",
     "COUNT_CHAIN_LOWER": "179",
-    "COUNT_CHAIN_EQUAL": "180"
+    "COUNT_CHAIN_EQUAL": "180",
+    "CHECK_SELECT_CHAIN": "181"
   },
   "AuthenticationTypes": {
     "Unknown": "0",
@@ -2142,7 +2148,8 @@
     "BEFORE_RESURRECTION": "54",
     "BEFORE_DEAD": "55",
     "MESSAGE": "56",
-    "LOGIC_REPEAT_REACTION": "57"
+    "LOGIC_REPEAT_REACTION": "57",
+    "UPDATE_VIEW": "58"
   },
   "TBTwistToRotate.RotationAxis": {
     "WorldX": "0",
@@ -2818,6 +2825,16 @@
     "VALID": "1",
     "INPUT": "2",
     "MODIFY": "3"
+  },
+  "BattleActorAnimationEffect.ScaleFlipType": {
+    "None": "0",
+    "X": "1",
+    "Y": "2",
+    "Z": "4",
+    "X_Y": "3",
+    "X_Z": "5",
+    "Y_Z": "6",
+    "X_Y_Z": "7"
   },
   "MyRoomListControl.ActionType": {
     "FSM": "0",
@@ -3523,7 +3540,15 @@
     "BRAVE_AND_ARTS": "5",
     "BRAVE_AND_BUSTER": "6",
     "BRAVE_AND_QUICK": "7",
-    "TREASURE_DVC": "8"
+    "TREASURE_DVC": "8",
+    "TEST1": "9",
+    "TEST2": "10",
+    "TEST3": "11",
+    "TEST4": "12",
+    "TEST5": "13",
+    "TEST6": "14",
+    "TEST7": "15",
+    "TEST8": "16"
   },
   "FGOFieldSkillCutIn.ActionType": {
     "Load": "0",
@@ -5767,7 +5792,17 @@
     "UnSubStateWhileLinkedToOthers": "98",
     "NotAccompanyWhenLinkedTargetMoveState": "99",
     "AllowSubBgmPlaying": "100",
-    "NotTargetSkillIdArray": "101"
+    "NotTargetSkillIdArray": "101",
+    "ShortTurn": "102",
+    "FieldIndividuality": "103",
+    "BGId": "104",
+    "BGType": "105",
+    "BgmId": "106",
+    "TakeOverFieldState": "107",
+    "TakeOverNextWaveBGAndBGM": "108",
+    "RemoveFieldBuffActorDeath": "109",
+    "FieldBuffGrantType": "110",
+    "Priority": "111"
   },
   "EventPointItemListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -6721,6 +6756,11 @@
     "HEROINE": "1",
     "LIMITED": "2"
   },
+  "BuffList.DEL_AFTER_TYPE": {
+    "NONE": "0",
+    "UPDATE_FIELD": "1",
+    "UPDATE_VIEW": "2"
+  },
   "HttpRequestHeader": {
     "CacheControl": "0",
     "Connection": "1",
@@ -7181,7 +7221,9 @@
     "INVISIBLE_BATTLE_CHARA": "100",
     "BUFF_RATE": "101",
     "COUNTER_FUNCTION": "102",
-    "NOT_TARGET_SKILL": "103"
+    "NOT_TARGET_SKILL": "103",
+    "TO_FIELD_CHANGE_FIELD": "104",
+    "TO_FIELD_AVOID_BUFF": "105"
   },
   "ServantSellConfirmListViewManager.Kind": {
     "SERVANT": "0",
@@ -7562,7 +7604,9 @@
     "INVISIBLE_BATTLE_CHARA": "163",
     "BUFF_RATE": "162",
     "COUNTER_FUNCTION": "165",
-    "NOT_TARGET_SKILL": "166"
+    "NOT_TARGET_SKILL": "166",
+    "TO_FIELD_CHANGE_FIELD": "10001",
+    "TO_FIELD_AVOID_BUFF": "10002"
   },
   "AiLogic.AiInfo.AITYPE": {
     "NONE": "0",
@@ -9106,7 +9150,8 @@
     "CommandCard2": "102",
     "CommandCard3": "103",
     "CommandCard4": "104",
-    "CommandCard5": "105"
+    "CommandCard5": "105",
+    "Field": "10001"
   },
   "MasterMissionReceiveResultDialog.State": {
     "Open": "0",
@@ -11010,7 +11055,12 @@
     "PLAYER_TACTICAL": "4",
     "ENEMY_TACTOCAL": "5",
     "NPC_BATTLE": "6",
-    "NPC_TACTICAL": "7"
+    "NPC_TACTICAL": "7",
+    "FIELD_POPUP_BATTLE": "8",
+    "FIELD_POPUP_TACTICAL": "9",
+    "FIELD_EFFECT_BATTLE": "10",
+    "FIELD_EFFECT_TACTICAL": "11",
+    "FIELD_EFFECT_NP": "12"
   },
   "BattleScriptRootComponent.TalkType": {
     "NONE": "0",
@@ -11326,7 +11376,8 @@
     "PROGRESS_VALUE_EQUAL": "159",
     "PROGRESS_VALUE_ABOVE": "160",
     "PROGRESS_VALUE_BELOW": "161",
-    "RANDOM_MISSION_TOTAL_CLEAR_NUM": "162"
+    "RANDOM_MISSION_TOTAL_CLEAR_NUM": "162",
+    "WEEKDAYS": "166"
   },
   "ListViewSort.ListKind": {
     "SERVANT": "0",
@@ -12192,6 +12243,11 @@
     "EVENT_COSTUME_CLEAR_CONDITION": "4",
     "EVENT_COSTUME_NOT_CLEAR_CONDITION": "5"
   },
+  "BattleFieldEnvironmentData.GrantType": {
+    "None": "0",
+    "Stage": "1",
+    "Function": "2"
+  },
   "BoostSupportRequestMenu.State": {
     "INIT": "0",
     "OPEN": "1",
@@ -12347,7 +12403,9 @@
     "FUNC_126": "126",
     "FUNC_127": "127",
     "UPDATE_ENTRY_POSITIONS": "128",
-    "BUDDY_POINT_UP": "129"
+    "BUDDY_POINT_UP": "129",
+    "ADD_FIELD_CHANGE_TO_FIELD": "130",
+    "SUB_FIELD_BUFF": "131"
   },
   "QuestPhaseMaster.MoviePlayType": {
     "BeforeBattle": "1",
@@ -13056,7 +13114,8 @@
     "MOTION": "3",
     "ENEMY_MASTER": "4",
     "LOAD_IMMEDIATE_ENTRY_SERVANT": "5",
-    "WAIT_COND": "6"
+    "WAIT_COND": "6",
+    "UPDATE_VIEW": "7"
   },
   "CuriousFuncEffectTiming": {
     "BEFORE_CURIOUS_FUNC": "0",
@@ -14569,6 +14628,11 @@
     "INPUT": "3",
     "MODIFY": "4"
   },
+  "BattleFieldEnvironmentData.SortTargetType": {
+    "Background": "1",
+    "BGM": "2",
+    "All": "3"
+  },
   "QuestScriptEntity.FolderType": {
     "NONE": "0",
     "MATERIAL_FOLDER": "1",
@@ -15286,7 +15350,8 @@
     "QUEST_SCRIPT_MATERIAL_OVERWRITE": "404",
     "QUEST_SCRIPT_BRANCH_MATERIAL": "405",
     "AD_CHECK_POINT": "406",
-    "GIFT_DETAIL": "407"
+    "GIFT_DETAIL": "407",
+    "COMBINE_LIMIT_GIFT": "408"
   },
   "PayoutType": {
     "Other": "0",
@@ -15682,7 +15747,8 @@
   },
   "EventMissionAddChangeType.Type": {
     "BOARD_IMAGE": "1",
-    "BOARD_MESSAGE": "2"
+    "BOARD_MESSAGE": "2",
+    "REWARD_ICON": "3"
   },
   "DecompressionMethods": {
     "None": "0",
@@ -17622,7 +17688,8 @@
     "AVALON_145566": "31",
     "CHECK_PARAMATER_32": "32",
     "CHAIN_COUNT": "33",
-    "CHECK_TARGET_SKILL_THISTURN": "34"
+    "CHECK_TARGET_SKILL_THISTURN": "34",
+    "CHECK_SELECT_CHAIN": "35"
   },
   "ReceiptViewMenu.State": {
     "INIT": "0",

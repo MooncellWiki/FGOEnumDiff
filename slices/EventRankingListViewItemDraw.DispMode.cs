@@ -1,4 +1,4 @@
-public enum EventRankingListViewItemDraw.DispMode // TypeDefIndex: 10275
+public enum EventRankingListViewItemDraw.DispMode // TypeDefIndex: 10350
 {
 	// Fields
 	public int value__; // 0x0

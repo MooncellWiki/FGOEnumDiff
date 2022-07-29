@@ -1,4 +1,4 @@
-public enum AdManager.CheckPoint // TypeDefIndex: 6671
+public enum AdManager.CheckPoint // TypeDefIndex: 6675
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,6 +8,6 @@ public enum AdManager.CheckPoint // TypeDefIndex: 6671
 	public const AdManager.CheckPoint accept_terms = 3;
 	public const AdManager.CheckPoint finish_first_battle = 4;
 	public const AdManager.CheckPoint start_gacha = 5;
-	[ObsoleteAttribute] // RVA: 0x54E5FC Offset: 0x54E5FC VA: 0x54E5FC
+	[ObsoleteAttribute] // RVA: 0x554F10 Offset: 0x554F10 VA: 0x554F10
 	public const AdManager.CheckPoint friendCode = 6;
 }

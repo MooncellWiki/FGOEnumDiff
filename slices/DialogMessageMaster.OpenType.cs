@@ -1,4 +1,4 @@
-public enum DialogMessageMaster.OpenType // TypeDefIndex: 7047
+public enum DialogMessageMaster.OpenType // TypeDefIndex: 7054
 {
 	// Fields
 	public int value__; // 0x0

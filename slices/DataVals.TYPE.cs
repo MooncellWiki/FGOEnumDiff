@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 6853
+public enum DataVals.TYPE // TypeDefIndex: 6857
 {
 	// Fields
 	public int value__; // 0x0
@@ -104,4 +104,14 @@ public enum DataVals.TYPE // TypeDefIndex: 6853
 	public const DataVals.TYPE NotAccompanyWhenLinkedTargetMoveState = 99;
 	public const DataVals.TYPE AllowSubBgmPlaying = 100;
 	public const DataVals.TYPE NotTargetSkillIdArray = 101;
+	public const DataVals.TYPE ShortTurn = 102;
+	public const DataVals.TYPE FieldIndividuality = 103;
+	public const DataVals.TYPE BGId = 104;
+	public const DataVals.TYPE BGType = 105;
+	public const DataVals.TYPE BgmId = 106;
+	public const DataVals.TYPE TakeOverFieldState = 107;
+	public const DataVals.TYPE TakeOverNextWaveBGAndBGM = 108;
+	public const DataVals.TYPE RemoveFieldBuffActorDeath = 109;
+	public const DataVals.TYPE FieldBuffGrantType = 110;
+	public const DataVals.TYPE Priority = 111;
 }

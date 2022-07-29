@@ -1,4 +1,4 @@
-public enum AiLogic.PROC_STATE // TypeDefIndex: 9418
+public enum AiLogic.PROC_STATE // TypeDefIndex: 9470
 {
 	// Fields
 	public int value__; // 0x0

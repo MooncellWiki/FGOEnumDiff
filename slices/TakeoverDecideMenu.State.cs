@@ -1,4 +1,4 @@
-protected enum TakeoverDecideMenu.State // TypeDefIndex: 12300
+protected enum TakeoverDecideMenu.State // TypeDefIndex: 12377
 {
 	// Fields
 	public int value__; // 0x0

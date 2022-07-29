@@ -2,7 +2,7 @@ public enum ScreenOrientation // TypeDefIndex: 2183
 {
 	// Fields
 	public int value__; // 0x0
-	[ObsoleteAttribute] // RVA: 0x4C451C Offset: 0x4C451C VA: 0x4C451C
+	[ObsoleteAttribute] // RVA: 0x4CACAC Offset: 0x4CACAC VA: 0x4CACAC
 	public const ScreenOrientation Unknown = 0;
 	public const ScreenOrientation Portrait = 1;
 	public const ScreenOrientation PortraitUpsideDown = 2;

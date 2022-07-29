@@ -1,4 +1,4 @@
-public enum ConditionsInformation.PARAMATER // TypeDefIndex: 9426
+public enum ConditionsInformation.PARAMATER // TypeDefIndex: 9478
 {
 	// Fields
 	public int value__; // 0x0
@@ -37,4 +37,5 @@ public enum ConditionsInformation.PARAMATER // TypeDefIndex: 9426
 	public const ConditionsInformation.PARAMATER CHECK_PARAMATER_32 = 32;
 	public const ConditionsInformation.PARAMATER CHAIN_COUNT = 33;
 	public const ConditionsInformation.PARAMATER CHECK_TARGET_SKILL_THISTURN = 34;
+	public const ConditionsInformation.PARAMATER CHECK_SELECT_CHAIN = 35;
 }

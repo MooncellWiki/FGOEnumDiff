@@ -1,4 +1,4 @@
-public enum MasterMissionReceiveConfirmListViewItemDraw.DispMode // TypeDefIndex: 5746
+public enum MasterMissionReceiveConfirmListViewItemDraw.DispMode // TypeDefIndex: 5747
 {
 	// Fields
 	public int value__; // 0x0

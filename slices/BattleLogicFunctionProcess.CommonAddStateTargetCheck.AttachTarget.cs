@@ -1,4 +1,4 @@
-public enum BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget // TypeDefIndex: 9544
+public enum BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget // TypeDefIndex: 9584
 {
 	// Fields
 	public int value__; // 0x0
@@ -8,4 +8,5 @@ public enum BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget //
 	public const BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget CommandCard3 = 103;
 	public const BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget CommandCard4 = 104;
 	public const BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget CommandCard5 = 105;
+	public const BattleLogicFunctionProcess.CommonAddStateTargetCheck.AttachTarget Field = 10001;
 }

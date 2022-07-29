@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6336
+public enum DataNameKind.Kind // TypeDefIndex: 6340
 {
 	// Fields
 	public int value__; // 0x0
@@ -410,4 +410,5 @@ public enum DataNameKind.Kind // TypeDefIndex: 6336
 	public const DataNameKind.Kind QUEST_SCRIPT_BRANCH_MATERIAL = 405;
 	public const DataNameKind.Kind AD_CHECK_POINT = 406;
 	public const DataNameKind.Kind GIFT_DETAIL = 407;
+	public const DataNameKind.Kind COMBINE_LIMIT_GIFT = 408;
 }

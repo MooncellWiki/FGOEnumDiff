@@ -1,4 +1,4 @@
-protected enum MultipleViewComponent.State // TypeDefIndex: 10668
+protected enum MultipleViewComponent.State // TypeDefIndex: 10745
 {
 	// Fields
 	public int value__; // 0x0

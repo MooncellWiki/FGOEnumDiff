@@ -1,4 +1,4 @@
-public enum UICharaGraphRender.RealNameCheck // TypeDefIndex: 8148
+public enum UICharaGraphRender.RealNameCheck // TypeDefIndex: 8155
 {
 	// Fields
 	public int value__; // 0x0

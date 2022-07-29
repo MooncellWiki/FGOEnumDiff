@@ -1,4 +1,4 @@
-public enum BuffList.LIMIT // TypeDefIndex: 6305
+public enum BuffList.LIMIT // TypeDefIndex: 6307
 {
 	// Fields
 	public int value__; // 0x0

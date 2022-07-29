@@ -1,4 +1,4 @@
-public enum EventTutorialMaster.OpenType // TypeDefIndex: 7271
+public enum EventTutorialMaster.OpenType // TypeDefIndex: 7278
 {
 	// Fields
 	public int value__; // 0x0

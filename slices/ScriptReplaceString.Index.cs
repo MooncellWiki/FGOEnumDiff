@@ -1,4 +1,4 @@
-public enum ScriptReplaceString.Index // TypeDefIndex: 8867
+public enum ScriptReplaceString.Index // TypeDefIndex: 8877
 {
 	// Fields
 	public int value__; // 0x0

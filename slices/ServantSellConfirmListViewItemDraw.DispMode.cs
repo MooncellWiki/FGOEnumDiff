@@ -1,4 +1,4 @@
-public enum ServantSellConfirmListViewItemDraw.DispMode // TypeDefIndex: 11164
+public enum ServantSellConfirmListViewItemDraw.DispMode // TypeDefIndex: 11241
 {
 	// Fields
 	public int value__; // 0x0

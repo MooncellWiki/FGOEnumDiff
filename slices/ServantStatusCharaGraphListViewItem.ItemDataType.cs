@@ -1,4 +1,4 @@
-public enum ServantStatusCharaGraphListViewItem.ItemDataType // TypeDefIndex: 5905
+public enum ServantStatusCharaGraphListViewItem.ItemDataType // TypeDefIndex: 5907
 {
 	// Fields
 	public int value__; // 0x0

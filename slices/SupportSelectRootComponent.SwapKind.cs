@@ -1,4 +1,4 @@
-public enum SupportSelectRootComponent.SwapKind // TypeDefIndex: 11403
+public enum SupportSelectRootComponent.SwapKind // TypeDefIndex: 11480
 {
 	// Fields
 	public int value__; // 0x0

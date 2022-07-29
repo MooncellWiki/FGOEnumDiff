@@ -1,4 +1,4 @@
-public enum BattlePerformance.ActorGroup // TypeDefIndex: 8908
+public enum BattlePerformance.ActorGroup // TypeDefIndex: 8918
 {
 	// Fields
 	public int value__; // 0x0
