@@ -1,4 +1,4 @@
-public enum ScrPlayerStatus.enSpell // TypeDefIndex: 11905
+public enum ScrPlayerStatus.enSpell // TypeDefIndex: 11944
 {
 	// Fields
 	public int value__; // 0x0

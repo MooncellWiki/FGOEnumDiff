@@ -1,4 +1,4 @@
-public enum DataNameKind.Kind // TypeDefIndex: 6340
+public enum DataNameKind.Kind // TypeDefIndex: 6359
 {
 	// Fields
 	public int value__; // 0x0
@@ -411,4 +411,6 @@ public enum DataNameKind.Kind // TypeDefIndex: 6340
 	public const DataNameKind.Kind AD_CHECK_POINT = 406;
 	public const DataNameKind.Kind GIFT_DETAIL = 407;
 	public const DataNameKind.Kind COMBINE_LIMIT_GIFT = 408;
+	public const DataNameKind.Kind EVENT_COOLTIME_REWARD = 409;
+	public const DataNameKind.Kind USER_EVENT_COOLTIME_REWARD = 410;
 }

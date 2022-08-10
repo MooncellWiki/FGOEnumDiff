@@ -1,4 +1,4 @@
-public enum MasterMissionReceiveConfirmListViewObject.InitMode // TypeDefIndex: 5752
+public enum MasterMissionReceiveConfirmListViewObject.InitMode // TypeDefIndex: 5766
 {
 	// Fields
 	public int value__; // 0x0

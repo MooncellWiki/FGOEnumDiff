@@ -1,4 +1,4 @@
-public enum FunctionCategoryEntity.FuncCategoryFlag // TypeDefIndex: 7303
+public enum FunctionCategoryEntity.FuncCategoryFlag // TypeDefIndex: 7326
 {
 	// Fields
 	public int value__; // 0x0

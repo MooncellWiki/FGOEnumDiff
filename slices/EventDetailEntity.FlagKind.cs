@@ -1,4 +1,4 @@
-public enum EventDetailEntity.FlagKind // TypeDefIndex: 7121
+public enum EventDetailEntity.FlagKind // TypeDefIndex: 7144
 {
 	// Fields
 	public int value__; // 0x0
@@ -48,4 +48,5 @@ public enum EventDetailEntity.FlagKind // TypeDefIndex: 7121
 	public const EventDetailEntity.FlagKind TREASURE_BOX = 44;
 	public const EventDetailEntity.FlagKind HIDE_AFTER_PURCHASE = 45;
 	public const EventDetailEntity.FlagKind ALLOUT_BATTLE = 46;
+	public const EventDetailEntity.FlagKind SPOT_COOLTIME = 47;
 }

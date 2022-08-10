@@ -1,4 +1,4 @@
-public enum DebugListViewItemDraw.DispMode // TypeDefIndex: 12128
+public enum DebugListViewItemDraw.DispMode // TypeDefIndex: 12169
 {
 	// Fields
 	public int value__; // 0x0

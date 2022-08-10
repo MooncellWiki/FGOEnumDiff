@@ -1,4 +1,4 @@
-public enum PartyListViewObject.InitMode // TypeDefIndex: 11046
+public enum PartyListViewObject.InitMode // TypeDefIndex: 11083
 {
 	// Fields
 	public int value__; // 0x0

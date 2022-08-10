@@ -1,4 +1,4 @@
-public enum PartialMaintenanceEntity.PartialMaintenanceType // TypeDefIndex: 7397
+public enum PartialMaintenanceEntity.PartialMaintenanceType // TypeDefIndex: 7420
 {
 	// Fields
 	public int value__; // 0x0

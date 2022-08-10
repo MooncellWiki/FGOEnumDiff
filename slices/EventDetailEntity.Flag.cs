@@ -1,4 +1,4 @@
-public enum EventDetailEntity.Flag // TypeDefIndex: 7122
+public enum EventDetailEntity.Flag // TypeDefIndex: 7145
 {
 	// Fields
 	public long value__; // 0x0
@@ -48,4 +48,5 @@ public enum EventDetailEntity.Flag // TypeDefIndex: 7122
 	public const EventDetailEntity.Flag TREASURE_BOX = 17592186044416;
 	public const EventDetailEntity.Flag HIDE_AFTER_PURCHASE = 35184372088832;
 	public const EventDetailEntity.Flag ALLOUT_BATTLE = 70368744177664;
+	public const EventDetailEntity.Flag SPOT_COOLTIME = 140737488355328;
 }

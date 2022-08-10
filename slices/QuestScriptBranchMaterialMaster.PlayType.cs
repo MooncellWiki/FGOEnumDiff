@@ -1,4 +1,4 @@
-public enum QuestScriptBranchMaterialMaster.PlayType // TypeDefIndex: 7459
+public enum QuestScriptBranchMaterialMaster.PlayType // TypeDefIndex: 7482
 {
 	// Fields
 	public int value__; // 0x0

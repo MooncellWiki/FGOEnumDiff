@@ -1,4 +1,4 @@
-public enum UIBasicSprite.FillDirection // TypeDefIndex: 12845
+public enum UIBasicSprite.FillDirection // TypeDefIndex: 12886
 {
 	// Fields
 	public int value__; // 0x0

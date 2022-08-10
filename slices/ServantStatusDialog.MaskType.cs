@@ -1,4 +1,4 @@
-public enum ServantStatusDialog.MaskType // TypeDefIndex: 5925
+public enum ServantStatusDialog.MaskType // TypeDefIndex: 5942
 {
 	// Fields
 	public int value__; // 0x0

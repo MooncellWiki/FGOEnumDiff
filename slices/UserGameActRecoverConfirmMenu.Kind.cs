@@ -1,4 +1,4 @@
-public enum UserGameActRecoverConfirmMenu.Kind // TypeDefIndex: 6201
+public enum UserGameActRecoverConfirmMenu.Kind // TypeDefIndex: 6220
 {
 	// Fields
 	public int value__; // 0x0

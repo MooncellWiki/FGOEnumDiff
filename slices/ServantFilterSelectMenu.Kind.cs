@@ -1,4 +1,4 @@
-public enum ServantFilterSelectMenu.Kind // TypeDefIndex: 5883
+public enum ServantFilterSelectMenu.Kind // TypeDefIndex: 5900
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,4 +9,7 @@ public enum ServantFilterSelectMenu.Kind // TypeDefIndex: 5883
 	public const ServantFilterSelectMenu.Kind SERVANT_COSTUME = 4;
 	public const ServantFilterSelectMenu.Kind SERVANT_EQUIP = 5;
 	public const ServantFilterSelectMenu.Kind COMMANDCODE = 6;
+	public const ServantFilterSelectMenu.Kind SERVANT_SELL = 7;
+	public const ServantFilterSelectMenu.Kind SERVANT_FAVORITE = 8;
+	public const ServantFilterSelectMenu.Kind SERVANT_MULTIPLE = 9;
 }

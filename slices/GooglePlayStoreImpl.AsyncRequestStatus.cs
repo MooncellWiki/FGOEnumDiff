@@ -1,4 +1,4 @@
-private enum GooglePlayStoreImpl.AsyncRequestStatus // TypeDefIndex: 12689
+private enum GooglePlayStoreImpl.AsyncRequestStatus // TypeDefIndex: 12730
 {
 	// Fields
 	public int value__; // 0x0

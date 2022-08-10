@@ -1,4 +1,4 @@
-public enum UserGachaEntity.StatusKind // TypeDefIndex: 7759
+public enum UserGachaEntity.StatusKind // TypeDefIndex: 7784
 {
 	// Fields
 	public int value__; // 0x0

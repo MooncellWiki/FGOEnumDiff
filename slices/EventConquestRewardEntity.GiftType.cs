@@ -1,4 +1,4 @@
-public enum EventConquestRewardEntity.GiftType // TypeDefIndex: 7117
+public enum EventConquestRewardEntity.GiftType // TypeDefIndex: 7138
 {
 	// Fields
 	public int value__; // 0x0

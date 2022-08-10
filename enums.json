@@ -1813,7 +1813,8 @@
     "EVENT_RESET_DIGGING": "111",
     "EVENT_EXPEDITION_START": "112",
     "EVENT_EXPEDITION_FINISH": "113",
-    "CLIENT_API_ERROR_DIALOG": "114"
+    "CLIENT_API_ERROR_DIALOG": "114",
+    "EVENT_RECEIVE_COOLTIME_REWARD": "115"
   },
   "WarehouseListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -4600,7 +4601,8 @@
   },
   "ServantFrameShortDlgComponent.EventType": {
     "NONE": "0",
-    "EXPEDITION": "1"
+    "EXPEDITION": "1",
+    "AREA_IMPROVE": "2"
   },
   "EventUiEntity.DispAreaType": {
     "MAP": "1",
@@ -5170,7 +5172,8 @@
     "EVENT_ASSIST": "43",
     "TREASURE_BOX": "44",
     "HIDE_AFTER_PURCHASE": "45",
-    "ALLOUT_BATTLE": "46"
+    "ALLOUT_BATTLE": "46",
+    "SPOT_COOLTIME": "47"
   },
   "StateLog.LogType": {
     "ALL": "0",
@@ -8170,6 +8173,12 @@
     "XY": "1",
     "YZ": "2"
   },
+  "SpotCooltimeRewardDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "CLOSE": "3"
+  },
   "BattleLogic.TuStates": {
     "Attack": "0",
     "Skill": "1",
@@ -9607,6 +9616,7 @@
     "SERVANT_COMBINE_BASE": "8",
     "EXPLANATION": "9",
     "EXPLANATION_PRESENT_BOX": "10",
+    "SERVANT_EVENT_BONUS": "11",
     "EQUIP_EFFECT": "998",
     "NONE": "999"
   },
@@ -12301,7 +12311,8 @@
     "EVENT_ASSIST": "8796093022208",
     "TREASURE_BOX": "17592186044416",
     "HIDE_AFTER_PURCHASE": "35184372088832",
-    "ALLOUT_BATTLE": "70368744177664"
+    "ALLOUT_BATTLE": "70368744177664",
+    "SPOT_COOLTIME": "140737488355328"
   },
   "SpotEntity.FlagKind": {
     "NONE": "0",
@@ -12896,7 +12907,9 @@
   "EventBonusFilterEntity.EventBonusFilterType": {
     "SVT_EQUIP": "1",
     "FILTER_GROUP": "2",
-    "SVT_EQUIP_EXP": "3"
+    "SVT_EQUIP_EXP": "3",
+    "SVT_BONUS_SKILL": "4",
+    "SKILL_FILTER_GROUP": "5"
   },
   "ScaleOptions": {
     "CurrentScale": "0",
@@ -13106,6 +13119,11 @@
     "IDLE": "1",
     "MOVE": "2",
     "INPUT": "3"
+  },
+  "EventSpotCooltimeComponent.ReceivableRewardState": {
+    "None": "0",
+    "RewardExists": "1",
+    "MaxRewardExists": "2"
   },
   "BattleActionData.STATE": {
     "ACTORS": "0",
@@ -14520,7 +14538,10 @@
     "SERVANT_MATERIAL": "3",
     "SERVANT_COSTUME": "4",
     "SERVANT_EQUIP": "5",
-    "COMMANDCODE": "6"
+    "COMMANDCODE": "6",
+    "SERVANT_SELL": "7",
+    "SERVANT_FAVORITE": "8",
+    "SERVANT_MULTIPLE": "9"
   },
   "BigInteger.Sign": {
     "Negative": "-1",
@@ -15351,7 +15372,9 @@
     "QUEST_SCRIPT_BRANCH_MATERIAL": "405",
     "AD_CHECK_POINT": "406",
     "GIFT_DETAIL": "407",
-    "COMBINE_LIMIT_GIFT": "408"
+    "COMBINE_LIMIT_GIFT": "408",
+    "EVENT_COOLTIME_REWARD": "409",
+    "USER_EVENT_COOLTIME_REWARD": "410"
   },
   "PayoutType": {
     "Other": "0",

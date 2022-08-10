@@ -1,4 +1,4 @@
-protected enum MasterMissionReceiveConfirmListViewObject.State // TypeDefIndex: 5753
+protected enum MasterMissionReceiveConfirmListViewObject.State // TypeDefIndex: 5767
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum DropInfo.DropEffectType // TypeDefIndex: 6864
+public enum DropInfo.DropEffectType // TypeDefIndex: 6883
 {
 	// Fields
 	public int value__; // 0x0

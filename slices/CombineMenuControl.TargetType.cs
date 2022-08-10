@@ -1,4 +1,4 @@
-public enum CombineMenuControl.TargetType // TypeDefIndex: 9977
+public enum CombineMenuControl.TargetType // TypeDefIndex: 10007
 {
 	// Fields
 	public int value__; // 0x0

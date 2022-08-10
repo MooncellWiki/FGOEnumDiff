@@ -1,4 +1,4 @@
-public enum RecoverEntity.RecoverTarget // TypeDefIndex: 7474
+public enum RecoverEntity.RecoverTarget // TypeDefIndex: 7497
 {
 	// Fields
 	public int value__; // 0x0

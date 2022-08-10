@@ -1,4 +1,4 @@
-public enum ListViewSort.Filter2Type // TypeDefIndex: 8138
+public enum ListViewSort.Filter2Type // TypeDefIndex: 8163
 {
 	// Fields
 	public int value__; // 0x0

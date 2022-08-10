@@ -1,4 +1,4 @@
-public enum FriendRootComponent.TabKind // TypeDefIndex: 10555
+public enum FriendRootComponent.TabKind // TypeDefIndex: 10592
 {
 	// Fields
 	public int value__; // 0x0

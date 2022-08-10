@@ -1,4 +1,4 @@
-public enum FGOCheckAttackSide.CheckType // TypeDefIndex: 8328
+public enum FGOCheckAttackSide.CheckType // TypeDefIndex: 8353
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleEffectUtility.EffectFolderType // TypeDefIndex: 9270
+public enum BattleEffectUtility.EffectFolderType // TypeDefIndex: 9300
 {
 	// Fields
 	public int value__; // 0x0

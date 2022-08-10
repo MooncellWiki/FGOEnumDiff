@@ -1,4 +1,4 @@
-public enum BattleActionData.BaseShiftGaugeData.PlayedStateFlag // TypeDefIndex: 9100
+public enum BattleActionData.BaseShiftGaugeData.PlayedStateFlag // TypeDefIndex: 9130
 {
 	// Fields
 	public int value__; // 0x0

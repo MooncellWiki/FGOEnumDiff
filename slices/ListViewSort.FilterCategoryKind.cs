@@ -1,4 +1,4 @@
-public enum ListViewSort.FilterCategoryKind // TypeDefIndex: 8135
+public enum ListViewSort.FilterCategoryKind // TypeDefIndex: 8160
 {
 	// Fields
 	public int value__; // 0x0
@@ -13,6 +13,7 @@ public enum ListViewSort.FilterCategoryKind // TypeDefIndex: 8135
 	public const ListViewSort.FilterCategoryKind SERVANT_COMBINE_BASE = 8;
 	public const ListViewSort.FilterCategoryKind EXPLANATION = 9;
 	public const ListViewSort.FilterCategoryKind EXPLANATION_PRESENT_BOX = 10;
+	public const ListViewSort.FilterCategoryKind SERVANT_EVENT_BONUS = 11;
 	public const ListViewSort.FilterCategoryKind EQUIP_EFFECT = 998;
 	public const ListViewSort.FilterCategoryKind NONE = 999;
 }

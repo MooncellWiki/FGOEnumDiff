@@ -1,4 +1,4 @@
-public enum EventRaceResultEffect.STATE // TypeDefIndex: 11663
+public enum EventRaceResultEffect.STATE // TypeDefIndex: 11700
 {
 	// Fields
 	public int value__; // 0x0

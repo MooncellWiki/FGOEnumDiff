@@ -1,4 +1,4 @@
-public enum UITextList.Style // TypeDefIndex: 12919
+public enum UITextList.Style // TypeDefIndex: 12960
 {
 	// Fields
 	public int value__; // 0x0

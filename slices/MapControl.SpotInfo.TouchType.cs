@@ -1,4 +1,4 @@
-public enum MapControl.SpotInfo.TouchType // TypeDefIndex: 11721
+public enum MapControl.SpotInfo.TouchType // TypeDefIndex: 11758
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum UserFollowEntity.Flag // TypeDefIndex: 7746
+public enum UserFollowEntity.Flag // TypeDefIndex: 7771
 {
 	// Fields
 	public int value__; // 0x0
