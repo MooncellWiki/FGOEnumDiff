@@ -1,4 +1,4 @@
-public enum SupportDeckFixErrorListViewManager.InitMode // TypeDefIndex: 11468
+public enum SupportDeckFixErrorListViewManager.InitMode // TypeDefIndex: 11471
 {
 	// Fields
 	public int value__; // 0x0

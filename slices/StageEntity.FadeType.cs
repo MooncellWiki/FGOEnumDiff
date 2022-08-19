@@ -1,4 +1,4 @@
-public enum StageEntity.FadeType // TypeDefIndex: 7645
+public enum StageEntity.FadeType // TypeDefIndex: 7646
 {
 	// Fields
 	public int value__; // 0x0

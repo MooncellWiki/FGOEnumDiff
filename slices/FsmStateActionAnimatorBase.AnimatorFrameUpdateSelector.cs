@@ -1,4 +1,4 @@
-public enum FsmStateActionAnimatorBase.AnimatorFrameUpdateSelector // TypeDefIndex: 13018
+public enum FsmStateActionAnimatorBase.AnimatorFrameUpdateSelector // TypeDefIndex: 13021
 {
 	// Fields
 	public int value__; // 0x0

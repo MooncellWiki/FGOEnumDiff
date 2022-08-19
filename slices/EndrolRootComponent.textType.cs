@@ -1,4 +1,4 @@
-private enum EndrolRootComponent.textType // TypeDefIndex: 10253
+private enum EndrolRootComponent.textType // TypeDefIndex: 10256
 {
 	// Fields
 	public int value__; // 0x0

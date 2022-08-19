@@ -1,4 +1,4 @@
-public enum ScriptLogMessage.HorizontalAlign // TypeDefIndex: 8846
+public enum ScriptLogMessage.HorizontalAlign // TypeDefIndex: 8847
 {
 	// Fields
 	public int value__; // 0x0

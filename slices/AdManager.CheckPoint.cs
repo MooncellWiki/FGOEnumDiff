@@ -8,6 +8,6 @@ public enum AdManager.CheckPoint // TypeDefIndex: 6694
 	public const AdManager.CheckPoint accept_terms = 3;
 	public const AdManager.CheckPoint finish_first_battle = 4;
 	public const AdManager.CheckPoint start_gacha = 5;
-	[ObsoleteAttribute] // RVA: 0x559388 Offset: 0x559388 VA: 0x559388
+	[ObsoleteAttribute] // RVA: 0x5595F8 Offset: 0x5595F8 VA: 0x5595F8
 	public const AdManager.CheckPoint friendCode = 6;
 }

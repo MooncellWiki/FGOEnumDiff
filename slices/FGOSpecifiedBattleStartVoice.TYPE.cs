@@ -1,4 +1,4 @@
-public enum FGOSpecifiedBattleStartVoice.TYPE // TypeDefIndex: 8407
+public enum FGOSpecifiedBattleStartVoice.TYPE // TypeDefIndex: 8408
 {
 	// Fields
 	public int value__; // 0x0

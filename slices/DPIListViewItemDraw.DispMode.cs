@@ -1,4 +1,4 @@
-public enum DPIListViewItemDraw.DispMode // TypeDefIndex: 12196
+public enum DPIListViewItemDraw.DispMode // TypeDefIndex: 12199
 {
 	// Fields
 	public int value__; // 0x0

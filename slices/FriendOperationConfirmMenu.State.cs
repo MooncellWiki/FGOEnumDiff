@@ -1,4 +1,4 @@
-protected enum FriendOperationConfirmMenu.State // TypeDefIndex: 10579
+protected enum FriendOperationConfirmMenu.State // TypeDefIndex: 10582
 {
 	// Fields
 	public int value__; // 0x0

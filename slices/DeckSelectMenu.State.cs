@@ -1,4 +1,4 @@
-protected enum DeckSelectMenu.State // TypeDefIndex: 11050
+protected enum DeckSelectMenu.State // TypeDefIndex: 11053
 {
 	// Fields
 	public int value__; // 0x0

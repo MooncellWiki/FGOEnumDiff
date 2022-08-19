@@ -1,4 +1,4 @@
-public enum UIBasicSprite.Flip // TypeDefIndex: 12888
+public enum UIBasicSprite.Flip // TypeDefIndex: 12891
 {
 	// Fields
 	public int value__; // 0x0

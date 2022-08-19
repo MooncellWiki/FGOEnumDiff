@@ -1,4 +1,4 @@
-public enum CoinRoomCoinIconObject.InitMode // TypeDefIndex: 9958
+public enum CoinRoomCoinIconObject.InitMode // TypeDefIndex: 9959
 {
 	// Fields
 	public int value__; // 0x0

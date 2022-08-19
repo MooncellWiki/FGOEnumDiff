@@ -1,4 +1,4 @@
-public enum FSOffset.AddDirectionX // TypeDefIndex: 8594
+public enum FSOffset.AddDirectionX // TypeDefIndex: 8595
 {
 	// Fields
 	public int value__; // 0x0

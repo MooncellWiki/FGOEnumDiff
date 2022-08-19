@@ -1,4 +1,4 @@
-public enum DPIListViewManager.InitMode // TypeDefIndex: 12198
+public enum DPIListViewManager.InitMode // TypeDefIndex: 12201
 {
 	// Fields
 	public int value__; // 0x0

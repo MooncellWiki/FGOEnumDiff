@@ -1,4 +1,4 @@
-public enum BoostItemListViewManager.ResultKind // TypeDefIndex: 11023
+public enum BoostItemListViewManager.ResultKind // TypeDefIndex: 11026
 {
 	// Fields
 	public int value__; // 0x0

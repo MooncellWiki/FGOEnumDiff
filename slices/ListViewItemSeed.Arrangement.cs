@@ -1,4 +1,4 @@
-public enum ListViewItemSeed.Arrangement // TypeDefIndex: 8152
+public enum ListViewItemSeed.Arrangement // TypeDefIndex: 8153
 {
 	// Fields
 	public int value__; // 0x0

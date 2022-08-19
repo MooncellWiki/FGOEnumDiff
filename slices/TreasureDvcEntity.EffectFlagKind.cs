@@ -1,4 +1,4 @@
-public enum TreasureDvcEntity.EffectFlagKind // TypeDefIndex: 7689
+public enum TreasureDvcEntity.EffectFlagKind // TypeDefIndex: 7690
 {
 	// Fields
 	public int value__; // 0x0

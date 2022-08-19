@@ -1,4 +1,4 @@
-public enum BattleLogicFunctionProcess.FieldAddStateTargetCheck.GrantType // TypeDefIndex: 9620
+public enum BattleLogicFunctionProcess.FieldAddStateTargetCheck.GrantType // TypeDefIndex: 9621
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum SpotCooltimeRewardDialog.State // TypeDefIndex: 10535
+private enum SpotCooltimeRewardDialog.State // TypeDefIndex: 10538
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum RegulationCheckComponent.CheckTargetType // TypeDefIndex: 12361
+private enum RegulationCheckComponent.CheckTargetType // TypeDefIndex: 12364
 {
 	// Fields
 	public int value__; // 0x0

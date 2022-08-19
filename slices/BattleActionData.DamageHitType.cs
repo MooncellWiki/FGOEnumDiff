@@ -1,4 +1,4 @@
-public enum BattleActionData.DamageHitType // TypeDefIndex: 9113
+public enum BattleActionData.DamageHitType // TypeDefIndex: 9114
 {
 	// Fields
 	public int value__; // 0x0

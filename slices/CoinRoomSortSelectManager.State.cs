@@ -1,4 +1,4 @@
-protected enum CoinRoomSortSelectManager.State // TypeDefIndex: 9982
+protected enum CoinRoomSortSelectManager.State // TypeDefIndex: 9983
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ServantOperationManager.InitMode // TypeDefIndex: 11269
+public enum ServantOperationManager.InitMode // TypeDefIndex: 11272
 {
 	// Fields
 	public int value__; // 0x0
