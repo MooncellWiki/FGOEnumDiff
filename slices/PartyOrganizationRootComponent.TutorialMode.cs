@@ -1,4 +1,4 @@
-protected enum PartyOrganizationRootComponent.TutorialMode // TypeDefIndex: 11173
+protected enum PartyOrganizationRootComponent.TutorialMode // TypeDefIndex: 11181
 {
 	// Fields
 	public int value__; // 0x0

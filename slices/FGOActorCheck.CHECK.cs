@@ -1,4 +1,4 @@
-public enum FGOActorCheck.CHECK // TypeDefIndex: 8276
+public enum FGOActorCheck.CHECK // TypeDefIndex: 8281
 {
 	// Fields
 	public int value__; // 0x0

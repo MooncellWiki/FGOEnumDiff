@@ -1,4 +1,4 @@
-public enum ScriptConnectListViewManager.ResultKind // TypeDefIndex: 12271
+public enum ScriptConnectListViewManager.ResultKind // TypeDefIndex: 12279
 {
 	// Fields
 	public int value__; // 0x0

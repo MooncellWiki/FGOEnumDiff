@@ -1,4 +1,4 @@
-public enum PartyServantListViewManager.InitMode // TypeDefIndex: 11192
+public enum PartyServantListViewManager.InitMode // TypeDefIndex: 11200
 {
 	// Fields
 	public int value__; // 0x0

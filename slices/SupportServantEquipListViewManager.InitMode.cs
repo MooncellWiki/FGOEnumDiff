@@ -1,4 +1,4 @@
-public enum SupportServantEquipListViewManager.InitMode // TypeDefIndex: 11537
+public enum SupportServantEquipListViewManager.InitMode // TypeDefIndex: 11545
 {
 	// Fields
 	public int value__; // 0x0

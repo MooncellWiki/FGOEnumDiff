@@ -7957,8 +7957,9 @@
     "PHASE_CLEAR": "4",
     "QUEST_CLEAR": "5",
     "WAR_CLEAR": "6",
-    "metaps_tutorial": "7",
-    "metaps_takeover": "8"
+    "LOGIN": "7",
+    "metaps_tutorial": "8",
+    "metaps_takeover": "9"
   },
   "InputUserBirthDayWindow.State": {
     "INIT": "0",
@@ -9055,7 +9056,8 @@
     "accept_terms": "3",
     "finish_first_battle": "4",
     "start_gacha": "5",
-    "friendCode": "6"
+    "first_login_of_the_day": "6",
+    "friendCode": "7"
   },
   "clsQuestCheck.QUEST_START_EFFECT_SKIP": {
     "NONE": "0",
@@ -14327,6 +14329,13 @@
     "ERROR": "1",
     "PURCHASE": "2"
   },
+  "ApRecoverConfirmDlgComponent.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
+  },
   "FsmStateActionAnimatorBase.AnimatorFrameUpdateSelector": {
     "OnUpdate": "0",
     "OnAnimatorMove": "1",
@@ -19068,6 +19077,10 @@
     "OPEN": "1",
     "INPUT": "2",
     "CLOSE": "3"
+  },
+  "EventInfoSpotCooltimeRewardReceiveButton.Mode": {
+    "MAP": "0",
+    "EventReward": "1"
   },
   "QuestInformationListViewItemDraw.DispMode": {
     "INVISIBLE": "0",

@@ -1,4 +1,4 @@
-public enum BattleActorNodeLookAt.Type // TypeDefIndex: 9185
+public enum BattleActorNodeLookAt.Type // TypeDefIndex: 9190
 {
 	// Fields
 	public int value__; // 0x0

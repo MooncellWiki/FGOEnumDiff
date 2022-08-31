@@ -1,4 +1,4 @@
-public enum UIProgressBar.FillDirection // TypeDefIndex: 12830
+public enum UIProgressBar.FillDirection // TypeDefIndex: 12838
 {
 	// Fields
 	public int value__; // 0x0

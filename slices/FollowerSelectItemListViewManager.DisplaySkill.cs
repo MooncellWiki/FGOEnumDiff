@@ -1,4 +1,4 @@
-public enum FollowerSelectItemListViewManager.DisplaySkill // TypeDefIndex: 10572
+public enum FollowerSelectItemListViewManager.DisplaySkill // TypeDefIndex: 10580
 {
 	// Fields
 	public int value__; // 0x0

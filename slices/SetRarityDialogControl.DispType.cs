@@ -1,4 +1,4 @@
-public enum SetRarityDialogControl.DispType // TypeDefIndex: 10204
+public enum SetRarityDialogControl.DispType // TypeDefIndex: 10212
 {
 	// Fields
 	public int value__; // 0x0

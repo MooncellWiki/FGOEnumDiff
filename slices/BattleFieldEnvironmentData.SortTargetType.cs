@@ -1,4 +1,4 @@
-public enum BattleFieldEnvironmentData.SortTargetType // TypeDefIndex: 9341
+public enum BattleFieldEnvironmentData.SortTargetType // TypeDefIndex: 9346
 {
 	// Fields
 	public int value__; // 0x0

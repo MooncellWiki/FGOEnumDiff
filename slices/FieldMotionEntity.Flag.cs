@@ -1,4 +1,4 @@
-public enum FieldMotionEntity.Flag // TypeDefIndex: 7319
+public enum FieldMotionEntity.Flag // TypeDefIndex: 7324
 {
 	// Fields
 	public int value__; // 0x0

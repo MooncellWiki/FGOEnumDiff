@@ -1,4 +1,4 @@
-public enum ServantStatusCharaGraphViewer.DispType // TypeDefIndex: 5935
+public enum ServantStatusCharaGraphViewer.DispType // TypeDefIndex: 5940
 {
 	// Fields
 	public int value__; // 0x0

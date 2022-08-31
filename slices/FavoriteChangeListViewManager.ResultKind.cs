@@ -1,4 +1,4 @@
-public enum FavoriteChangeListViewManager.ResultKind // TypeDefIndex: 10655
+public enum FavoriteChangeListViewManager.ResultKind // TypeDefIndex: 10663
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum StonePurchaseListViewItemDraw.DispMode // TypeDefIndex: 6034
+public enum StonePurchaseListViewItemDraw.DispMode // TypeDefIndex: 6039
 {
 	// Fields
 	public int value__; // 0x0

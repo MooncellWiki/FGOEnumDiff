@@ -1,4 +1,4 @@
-public enum FriendPointNoticeDlgComponent.ResultClicked // TypeDefIndex: 5716
+public enum FriendPointNoticeDlgComponent.ResultClicked // TypeDefIndex: 5719
 {
 	// Fields
 	public int value__; // 0x0

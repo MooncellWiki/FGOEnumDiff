@@ -1,4 +1,4 @@
-protected enum TermsOfUseDlg.State // TypeDefIndex: 6052
+protected enum TermsOfUseDlg.State // TypeDefIndex: 6057
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WarBoardPartySkillEntity.TargetType // TypeDefIndex: 7919
+public enum WarBoardPartySkillEntity.TargetType // TypeDefIndex: 7924
 {
 	// Fields
 	public int value__; // 0x0

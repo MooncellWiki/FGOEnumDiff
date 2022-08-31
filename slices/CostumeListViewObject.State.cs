@@ -1,4 +1,4 @@
-protected enum CostumeListViewObject.State // TypeDefIndex: 10168
+protected enum CostumeListViewObject.State // TypeDefIndex: 10176
 {
 	// Fields
 	public int value__; // 0x0

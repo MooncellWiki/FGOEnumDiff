@@ -1,4 +1,4 @@
-public enum EventScriptEntity.PlayType // TypeDefIndex: 7267
+public enum EventScriptEntity.PlayType // TypeDefIndex: 7272
 {
 	// Fields
 	public int value__; // 0x0

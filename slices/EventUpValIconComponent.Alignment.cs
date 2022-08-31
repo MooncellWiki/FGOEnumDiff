@@ -1,4 +1,4 @@
-public enum EventUpValIconComponent.Alignment // TypeDefIndex: 6621
+public enum EventUpValIconComponent.Alignment // TypeDefIndex: 6626
 {
 	// Fields
 	public int value__; // 0x0

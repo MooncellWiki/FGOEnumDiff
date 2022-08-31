@@ -1,4 +1,4 @@
-public enum AtlasManager.UIChangeType // TypeDefIndex: 6534
+public enum AtlasManager.UIChangeType // TypeDefIndex: 6539
 {
 	// Fields
 	public int value__; // 0x0

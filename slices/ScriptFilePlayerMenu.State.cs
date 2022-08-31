@@ -1,4 +1,4 @@
-protected enum ScriptFilePlayerMenu.State // TypeDefIndex: 12288
+protected enum ScriptFilePlayerMenu.State // TypeDefIndex: 12296
 {
 	// Fields
 	public int value__; // 0x0

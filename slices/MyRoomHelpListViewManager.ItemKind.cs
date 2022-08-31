@@ -1,4 +1,4 @@
-public enum MyRoomHelpListViewManager.ItemKind // TypeDefIndex: 10996
+public enum MyRoomHelpListViewManager.ItemKind // TypeDefIndex: 11004
 {
 	// Fields
 	public int value__; // 0x0

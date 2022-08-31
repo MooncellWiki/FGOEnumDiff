@@ -1,4 +1,4 @@
-public enum GetSceneActionBase.SceneBuildReferenceOptions // TypeDefIndex: 13562
+public enum GetSceneActionBase.SceneBuildReferenceOptions // TypeDefIndex: 13570
 {
 	// Fields
 	public int value__; // 0x0

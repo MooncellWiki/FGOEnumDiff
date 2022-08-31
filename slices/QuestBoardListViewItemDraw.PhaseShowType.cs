@@ -1,4 +1,4 @@
-public enum QuestBoardListViewItemDraw.PhaseShowType // TypeDefIndex: 11830
+public enum QuestBoardListViewItemDraw.PhaseShowType // TypeDefIndex: 11838
 {
 	// Fields
 	public int value__; // 0x0

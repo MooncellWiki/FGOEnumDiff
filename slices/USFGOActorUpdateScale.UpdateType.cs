@@ -1,4 +1,4 @@
-public enum USFGOActorUpdateScale.UpdateType // TypeDefIndex: 8504
+public enum USFGOActorUpdateScale.UpdateType // TypeDefIndex: 8509
 {
 	// Fields
 	public int value__; // 0x0

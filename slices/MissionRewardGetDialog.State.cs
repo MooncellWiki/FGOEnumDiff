@@ -1,4 +1,4 @@
-protected enum MissionRewardGetDialog.State // TypeDefIndex: 5778
+protected enum MissionRewardGetDialog.State // TypeDefIndex: 5781
 {
 	// Fields
 	public int value__; // 0x0

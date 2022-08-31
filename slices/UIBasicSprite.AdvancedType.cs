@@ -1,4 +1,4 @@
-public enum UIBasicSprite.AdvancedType // TypeDefIndex: 12890
+public enum UIBasicSprite.AdvancedType // TypeDefIndex: 12898
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleActorAnimationEffect.ScaleFlipType // TypeDefIndex: 9735
+public enum BattleActorAnimationEffect.ScaleFlipType // TypeDefIndex: 9740
 {
 	// Fields
 	public int value__; // 0x0

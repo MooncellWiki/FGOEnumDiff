@@ -1,4 +1,4 @@
-public enum BillingResponseCode // TypeDefIndex: 12751
+public enum BillingResponseCode // TypeDefIndex: 12759
 {
 	// Fields
 	public int value__; // 0x0

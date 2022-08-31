@@ -1,4 +1,4 @@
-protected enum FriendPointNoticeDlgComponent.State // TypeDefIndex: 5715
+protected enum FriendPointNoticeDlgComponent.State // TypeDefIndex: 5718
 {
 	// Fields
 	public int value__; // 0x0
