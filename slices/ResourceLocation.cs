@@ -1,4 +1,4 @@
-public enum ResourceLocation // TypeDefIndex: 419
+public enum ResourceLocation // TypeDefIndex: 550
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum TypeAttributes // TypeDefIndex: 424
+public enum TypeAttributes // TypeDefIndex: 570
 {
 	// Fields
 	public int value__; // 0x0
@@ -23,14 +23,16 @@ public enum TypeAttributes // TypeDefIndex: 424
 	public const TypeAttributes SpecialName = 1024;
 	public const TypeAttributes Import = 4096;
 	public const TypeAttributes Serializable = 8192;
+	[ComVisibleAttribute] // RVA: 0x3B44D8 Offset: 0x3B44D8 VA: 0x3B44D8
+	public const TypeAttributes WindowsRuntime = 16384;
 	public const TypeAttributes StringFormatMask = 196608;
 	public const TypeAttributes AnsiClass = 0;
 	public const TypeAttributes UnicodeClass = 65536;
 	public const TypeAttributes AutoClass = 131072;
+	public const TypeAttributes CustomFormatClass = 196608;
+	public const TypeAttributes CustomFormatMask = 12582912;
 	public const TypeAttributes BeforeFieldInit = 1048576;
 	public const TypeAttributes ReservedMask = 264192;
 	public const TypeAttributes RTSpecialName = 2048;
 	public const TypeAttributes HasSecurity = 262144;
-	public const TypeAttributes CustomFormatClass = 196608;
-	public const TypeAttributes CustomFormatMask = 12582912;
 }

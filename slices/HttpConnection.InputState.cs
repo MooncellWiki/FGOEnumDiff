@@ -1,4 +1,4 @@
-private enum HttpConnection.InputState // TypeDefIndex: 1561
+private enum HttpConnection.InputState // TypeDefIndex: 3420
 {
 	// Fields
 	public int value__; // 0x0

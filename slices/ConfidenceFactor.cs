@@ -1,4 +1,4 @@
-internal enum ConfidenceFactor // TypeDefIndex: 113
+internal enum ConfidenceFactor // TypeDefIndex: 99
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,7 +9,7 @@ internal enum ConfidenceFactor // TypeDefIndex: 113
 	public const ConfidenceFactor ExtraHigh = 4;
 	public const ConfidenceFactor Provable = 5;
 }
-public enum ConfidenceFactor // TypeDefIndex: 1806
+public enum ConfidenceFactor // TypeDefIndex: 1864
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CompilationRelaxations // TypeDefIndex: 441
+public enum CompilationRelaxations // TypeDefIndex: 1400
 {
 	// Fields
 	public int value__; // 0x0

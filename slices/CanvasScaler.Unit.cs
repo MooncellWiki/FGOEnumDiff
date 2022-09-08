@@ -1,4 +1,4 @@
-public enum CanvasScaler.Unit // TypeDefIndex: 3151
+public enum CanvasScaler.Unit // TypeDefIndex: 6333
 {
 	// Fields
 	public int value__; // 0x0

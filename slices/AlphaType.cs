@@ -1,4 +1,4 @@
-public enum AlphaType // TypeDefIndex: 4144
+public enum AlphaType // TypeDefIndex: 9927
 {
 	// Fields
 	public int value__; // 0x0

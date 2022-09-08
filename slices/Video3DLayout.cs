@@ -1,4 +1,4 @@
-public enum Video3DLayout // TypeDefIndex: 2856
+public enum Video3DLayout // TypeDefIndex: 6069
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FileAccess // TypeDefIndex: 273
+public enum FileAccess // TypeDefIndex: 685
 {
 	// Fields
 	public int value__; // 0x0

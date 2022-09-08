@@ -1,4 +1,4 @@
-public enum ListSortDirection // TypeDefIndex: 1262
+public enum ListSortDirection // TypeDefIndex: 2904
 {
 	// Fields
 	public int value__; // 0x0

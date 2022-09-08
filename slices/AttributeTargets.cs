@@ -1,4 +1,4 @@
-public enum AttributeTargets // TypeDefIndex: 967
+public enum AttributeTargets // TypeDefIndex: 190
 {
 	// Fields
 	public int value__; // 0x0

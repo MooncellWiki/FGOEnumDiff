@@ -1,4 +1,4 @@
-public enum EventType // TypeDefIndex: 2739
+public enum EventType // TypeDefIndex: 5963
 {
 	// Fields
 	public int value__; // 0x0
@@ -21,43 +21,49 @@ public enum EventType // TypeDefIndex: 2739
 	public const EventType ContextClick = 16;
 	public const EventType MouseEnterWindow = 20;
 	public const EventType MouseLeaveWindow = 21;
-	[EditorBrowsableAttribute] // RVA: 0x4F23F0 Offset: 0x4F23F0 VA: 0x4F23F0
-	[ObsoleteAttribute] // RVA: 0x4F23F0 Offset: 0x4F23F0 VA: 0x4F23F0
+	public const EventType TouchDown = 30;
+	public const EventType TouchUp = 31;
+	public const EventType TouchMove = 32;
+	public const EventType TouchEnter = 33;
+	public const EventType TouchLeave = 34;
+	public const EventType TouchStationary = 35;
+	[ObsoleteAttribute] // RVA: 0x68325C Offset: 0x68325C VA: 0x68325C
+	[EditorBrowsableAttribute] // RVA: 0x68325C Offset: 0x68325C VA: 0x68325C
 	public const EventType mouseDown = 0;
-	[EditorBrowsableAttribute] // RVA: 0x4F2470 Offset: 0x4F2470 VA: 0x4F2470
-	[ObsoleteAttribute] // RVA: 0x4F2470 Offset: 0x4F2470 VA: 0x4F2470
+	[ObsoleteAttribute] // RVA: 0x6832AC Offset: 0x6832AC VA: 0x6832AC
+	[EditorBrowsableAttribute] // RVA: 0x6832AC Offset: 0x6832AC VA: 0x6832AC
 	public const EventType mouseUp = 1;
-	[EditorBrowsableAttribute] // RVA: 0x4F24EC Offset: 0x4F24EC VA: 0x4F24EC
-	[ObsoleteAttribute] // RVA: 0x4F24EC Offset: 0x4F24EC VA: 0x4F24EC
+	[EditorBrowsableAttribute] // RVA: 0x6832FC Offset: 0x6832FC VA: 0x6832FC
+	[ObsoleteAttribute] // RVA: 0x6832FC Offset: 0x6832FC VA: 0x6832FC
 	public const EventType mouseMove = 2;
-	[ObsoleteAttribute] // RVA: 0x4F256C Offset: 0x4F256C VA: 0x4F256C
-	[EditorBrowsableAttribute] // RVA: 0x4F256C Offset: 0x4F256C VA: 0x4F256C
+	[EditorBrowsableAttribute] // RVA: 0x68334C Offset: 0x68334C VA: 0x68334C
+	[ObsoleteAttribute] // RVA: 0x68334C Offset: 0x68334C VA: 0x68334C
 	public const EventType mouseDrag = 3;
-	[ObsoleteAttribute] // RVA: 0x4F25EC Offset: 0x4F25EC VA: 0x4F25EC
-	[EditorBrowsableAttribute] // RVA: 0x4F25EC Offset: 0x4F25EC VA: 0x4F25EC
+	[EditorBrowsableAttribute] // RVA: 0x68339C Offset: 0x68339C VA: 0x68339C
+	[ObsoleteAttribute] // RVA: 0x68339C Offset: 0x68339C VA: 0x68339C
 	public const EventType keyDown = 4;
-	[EditorBrowsableAttribute] // RVA: 0x4F2668 Offset: 0x4F2668 VA: 0x4F2668
-	[ObsoleteAttribute] // RVA: 0x4F2668 Offset: 0x4F2668 VA: 0x4F2668
+	[EditorBrowsableAttribute] // RVA: 0x6833EC Offset: 0x6833EC VA: 0x6833EC
+	[ObsoleteAttribute] // RVA: 0x6833EC Offset: 0x6833EC VA: 0x6833EC
 	public const EventType keyUp = 5;
-	[ObsoleteAttribute] // RVA: 0x4F26E0 Offset: 0x4F26E0 VA: 0x4F26E0
-	[EditorBrowsableAttribute] // RVA: 0x4F26E0 Offset: 0x4F26E0 VA: 0x4F26E0
+	[EditorBrowsableAttribute] // RVA: 0x68343C Offset: 0x68343C VA: 0x68343C
+	[ObsoleteAttribute] // RVA: 0x68343C Offset: 0x68343C VA: 0x68343C
 	public const EventType scrollWheel = 6;
-	[ObsoleteAttribute] // RVA: 0x4F2764 Offset: 0x4F2764 VA: 0x4F2764
-	[EditorBrowsableAttribute] // RVA: 0x4F2764 Offset: 0x4F2764 VA: 0x4F2764
+	[EditorBrowsableAttribute] // RVA: 0x68348C Offset: 0x68348C VA: 0x68348C
+	[ObsoleteAttribute] // RVA: 0x68348C Offset: 0x68348C VA: 0x68348C
 	public const EventType repaint = 7;
-	[ObsoleteAttribute] // RVA: 0x4F27E0 Offset: 0x4F27E0 VA: 0x4F27E0
-	[EditorBrowsableAttribute] // RVA: 0x4F27E0 Offset: 0x4F27E0 VA: 0x4F27E0
+	[ObsoleteAttribute] // RVA: 0x6834DC Offset: 0x6834DC VA: 0x6834DC
+	[EditorBrowsableAttribute] // RVA: 0x6834DC Offset: 0x6834DC VA: 0x6834DC
 	public const EventType layout = 8;
-	[ObsoleteAttribute] // RVA: 0x4F2858 Offset: 0x4F2858 VA: 0x4F2858
-	[EditorBrowsableAttribute] // RVA: 0x4F2858 Offset: 0x4F2858 VA: 0x4F2858
+	[EditorBrowsableAttribute] // RVA: 0x68352C Offset: 0x68352C VA: 0x68352C
+	[ObsoleteAttribute] // RVA: 0x68352C Offset: 0x68352C VA: 0x68352C
 	public const EventType dragUpdated = 9;
-	[EditorBrowsableAttribute] // RVA: 0x4F28DC Offset: 0x4F28DC VA: 0x4F28DC
-	[ObsoleteAttribute] // RVA: 0x4F28DC Offset: 0x4F28DC VA: 0x4F28DC
+	[ObsoleteAttribute] // RVA: 0x68357C Offset: 0x68357C VA: 0x68357C
+	[EditorBrowsableAttribute] // RVA: 0x68357C Offset: 0x68357C VA: 0x68357C
 	public const EventType dragPerform = 10;
-	[EditorBrowsableAttribute] // RVA: 0x4F2960 Offset: 0x4F2960 VA: 0x4F2960
-	[ObsoleteAttribute] // RVA: 0x4F2960 Offset: 0x4F2960 VA: 0x4F2960
+	[EditorBrowsableAttribute] // RVA: 0x6835CC Offset: 0x6835CC VA: 0x6835CC
+	[ObsoleteAttribute] // RVA: 0x6835CC Offset: 0x6835CC VA: 0x6835CC
 	public const EventType ignore = 11;
-	[ObsoleteAttribute] // RVA: 0x4F29D8 Offset: 0x4F29D8 VA: 0x4F29D8
-	[EditorBrowsableAttribute] // RVA: 0x4F29D8 Offset: 0x4F29D8 VA: 0x4F29D8
+	[EditorBrowsableAttribute] // RVA: 0x68361C Offset: 0x68361C VA: 0x68361C
+	[ObsoleteAttribute] // RVA: 0x68361C Offset: 0x68361C VA: 0x68361C
 	public const EventType used = 12;
 }

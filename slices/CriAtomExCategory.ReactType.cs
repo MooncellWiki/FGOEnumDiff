@@ -1,4 +1,4 @@
-public enum CriAtomExCategory.ReactType // TypeDefIndex: 4005
+public enum CriAtomExCategory.ReactType // TypeDefIndex: 9572
 {
 	// Fields
 	public int value__; // 0x0

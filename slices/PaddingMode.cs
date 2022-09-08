@@ -1,4 +1,4 @@
-public enum PaddingMode // TypeDefIndex: 746
+public enum PaddingMode // TypeDefIndex: 1020
 {
 	// Fields
 	public int value__; // 0x0

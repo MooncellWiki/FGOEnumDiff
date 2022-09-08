@@ -1,4 +1,4 @@
-public enum DirectorUpdateMode // TypeDefIndex: 2511
+public enum DirectorUpdateMode // TypeDefIndex: 5141
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum News.Type // TypeDefIndex: 6418
+public enum News.Type // TypeDefIndex: 10974
 {
 	// Fields
 	public int value__; // 0x0

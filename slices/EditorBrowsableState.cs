@@ -1,4 +1,4 @@
-public enum EditorBrowsableState // TypeDefIndex: 1216
+public enum EditorBrowsableState // TypeDefIndex: 2839
 {
 	// Fields
 	public int value__; // 0x0

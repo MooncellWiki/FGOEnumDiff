@@ -1,4 +1,4 @@
-public enum BlacklistRootComponent.MODE // TypeDefIndex: 10640
+public enum BlacklistRootComponent.MODE // TypeDefIndex: 15041
 {
 	// Fields
 	public int value__; // 0x0

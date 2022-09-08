@@ -1,4 +1,4 @@
-public enum MaterialEventLogListViewItem.Flag // TypeDefIndex: 10780
+public enum MaterialEventLogListViewItem.Flag // TypeDefIndex: 15184
 {
 	// Fields
 	public int value__; // 0x0

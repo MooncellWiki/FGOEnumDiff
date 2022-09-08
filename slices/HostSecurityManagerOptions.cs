@@ -1,4 +1,4 @@
-public enum HostSecurityManagerOptions // TypeDefIndex: 866
+public enum HostSecurityManagerOptions // TypeDefIndex: 938
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum FriendCodeComponent.DispState // TypeDefIndex: 5715
+private enum FriendCodeComponent.DispState // TypeDefIndex: 10247
 {
 	// Fields
 	public int value__; // 0x0

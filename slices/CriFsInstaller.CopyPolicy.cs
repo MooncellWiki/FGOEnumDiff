@@ -1,4 +1,4 @@
-private enum CriFsInstaller.CopyPolicy // TypeDefIndex: 4119
+private enum CriFsInstaller.CopyPolicy // TypeDefIndex: 9686
 {
 	// Fields
 	public int value__; // 0x0

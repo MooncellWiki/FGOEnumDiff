@@ -1,4 +1,4 @@
-public enum StonePurchaseNotificationMenu.Kind // TypeDefIndex: 6052
+public enum StonePurchaseNotificationMenu.Kind // TypeDefIndex: 10598
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,4 +9,5 @@ public enum StonePurchaseNotificationMenu.Kind // TypeDefIndex: 6052
 	public const StonePurchaseNotificationMenu.Kind SUSPEND = 4;
 	public const StonePurchaseNotificationMenu.Kind INIT_ERROR = 5;
 	public const StonePurchaseNotificationMenu.Kind DUPLICATE_TRANSACTION = 6;
+	public const StonePurchaseNotificationMenu.Kind GOOGLE_PLAY_ACCOUNT_ID_ERROR = 7;
 }

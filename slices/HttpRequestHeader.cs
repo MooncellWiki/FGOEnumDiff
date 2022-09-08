@@ -1,4 +1,4 @@
-public enum HttpRequestHeader // TypeDefIndex: 1571
+public enum HttpRequestHeader // TypeDefIndex: 3179
 {
 	// Fields
 	public int value__; // 0x0

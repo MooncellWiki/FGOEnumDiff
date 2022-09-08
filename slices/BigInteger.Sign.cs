@@ -1,4 +1,4 @@
-public enum BigInteger.Sign // TypeDefIndex: 116
+public enum BigInteger.Sign // TypeDefIndex: 95
 {
 	// Fields
 	public int value__; // 0x0
@@ -6,7 +6,7 @@ public enum BigInteger.Sign // TypeDefIndex: 116
 	public const BigInteger.Sign Zero = 0;
 	public const BigInteger.Sign Positive = 1;
 }
-public enum BigInteger.Sign // TypeDefIndex: 1803
+public enum BigInteger.Sign // TypeDefIndex: 1860
 {
 	// Fields
 	public int value__; // 0x0

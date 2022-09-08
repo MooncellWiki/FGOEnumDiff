@@ -1,4 +1,4 @@
-public enum UriFormat // TypeDefIndex: 1760
+public enum UriFormat // TypeDefIndex: 2685
 {
 	// Fields
 	public int value__; // 0x0

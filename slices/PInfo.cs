@@ -1,4 +1,4 @@
-internal enum PInfo // TypeDefIndex: 405
+internal enum PInfo // TypeDefIndex: 608
 {
 	// Fields
 	public int value__; // 0x0

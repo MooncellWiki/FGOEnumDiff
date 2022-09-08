@@ -1,4 +1,4 @@
-public enum UnicodeCategory // TypeDefIndex: 264
+public enum UnicodeCategory // TypeDefIndex: 754
 {
 	// Fields
 	public int value__; // 0x0

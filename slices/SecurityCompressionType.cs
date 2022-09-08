@@ -1,4 +1,4 @@
-public enum SecurityCompressionType // TypeDefIndex: 1907
+public enum SecurityCompressionType // TypeDefIndex: 1766
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-internal enum HandshakeState // TypeDefIndex: 1899
+internal enum HandshakeState // TypeDefIndex: 1757
 {
 	// Fields
 	public int value__; // 0x0

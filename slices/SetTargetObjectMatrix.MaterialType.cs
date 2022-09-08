@@ -1,4 +1,4 @@
-public enum SetTargetObjectMatrix.MaterialType // TypeDefIndex: 9935
+public enum SetTargetObjectMatrix.MaterialType // TypeDefIndex: 14298
 {
 	// Fields
 	public int value__; // 0x0

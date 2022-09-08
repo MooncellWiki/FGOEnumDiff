@@ -1,4 +1,4 @@
-public enum TextEditor.DblClickSnapping // TypeDefIndex: 2771
+public enum TextEditor.DblClickSnapping // TypeDefIndex: 5995
 {
 	// Fields
 	public byte value__; // 0x0

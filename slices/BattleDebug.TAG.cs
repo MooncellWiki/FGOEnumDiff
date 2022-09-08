@@ -1,4 +1,4 @@
-public enum BattleDebug.TAG // TypeDefIndex: 9290
+public enum BattleDebug.TAG // TypeDefIndex: 13614
 {
 	// Fields
 	public int value__; // 0x0

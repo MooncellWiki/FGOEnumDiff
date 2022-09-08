@@ -1,4 +1,4 @@
-internal enum EnabledOrientation // TypeDefIndex: 2148
+internal enum EnabledOrientation // TypeDefIndex: 4706
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum HttpStatusCode // TypeDefIndex: 1573
+public enum HttpStatusCode // TypeDefIndex: 3181
 {
 	// Fields
 	public int value__; // 0x0
@@ -42,6 +42,7 @@ public enum HttpStatusCode // TypeDefIndex: 1573
 	public const HttpStatusCode UnsupportedMediaType = 415;
 	public const HttpStatusCode RequestedRangeNotSatisfiable = 416;
 	public const HttpStatusCode ExpectationFailed = 417;
+	public const HttpStatusCode UpgradeRequired = 426;
 	public const HttpStatusCode InternalServerError = 500;
 	public const HttpStatusCode NotImplemented = 501;
 	public const HttpStatusCode BadGateway = 502;

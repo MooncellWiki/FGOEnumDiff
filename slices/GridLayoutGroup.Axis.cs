@@ -1,4 +1,4 @@
-public enum GridLayoutGroup.Axis // TypeDefIndex: 3156
+public enum GridLayoutGroup.Axis // TypeDefIndex: 6338
 {
 	// Fields
 	public int value__; // 0x0

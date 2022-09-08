@@ -1,4 +1,4 @@
-internal enum MonoFileType // TypeDefIndex: 288
+internal enum MonoFileType // TypeDefIndex: 694
 {
 	// Fields
 	public int value__; // 0x0

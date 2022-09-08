@@ -1,4 +1,4 @@
-public enum ItemType.Type // TypeDefIndex: 6412
+public enum ItemType.Type // TypeDefIndex: 10968
 {
 	// Fields
 	public int value__; // 0x0

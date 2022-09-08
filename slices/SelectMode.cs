@@ -1,4 +1,4 @@
-public enum SelectMode // TypeDefIndex: 1480
+public enum SelectMode // TypeDefIndex: 3522
 {
 	// Fields
 	public int value__; // 0x0

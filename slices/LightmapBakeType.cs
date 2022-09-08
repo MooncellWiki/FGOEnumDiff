@@ -1,4 +1,4 @@
-public enum LightmapBakeType // TypeDefIndex: 2176
+public enum LightmapBakeType // TypeDefIndex: 4735
 {
 	// Fields
 	public int value__; // 0x0

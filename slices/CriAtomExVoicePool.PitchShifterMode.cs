@@ -1,4 +1,4 @@
-public enum CriAtomExVoicePool.PitchShifterMode // TypeDefIndex: 4093
+public enum CriAtomExVoicePool.PitchShifterMode // TypeDefIndex: 9660
 {
 	// Fields
 	public int value__; // 0x0

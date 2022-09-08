@@ -1,4 +1,4 @@
-public enum PurchaseBehaviour.Result // TypeDefIndex: 6803
+public enum PurchaseBehaviour.Result // TypeDefIndex: 11348
 {
 	// Fields
 	public int value__; // 0x0
@@ -15,4 +15,5 @@ public enum PurchaseBehaviour.Result // TypeDefIndex: 6803
 	public const PurchaseBehaviour.Result INIT_ERROR = 10;
 	public const PurchaseBehaviour.Result PRODUCT_NOT_AVAILABLE = 11;
 	public const PurchaseBehaviour.Result DUPLICATE_TRANSACTION = 12;
+	public const PurchaseBehaviour.Result GOOGLE_PLAY_ACCOUNT_ID_ERROR = 13;
 }

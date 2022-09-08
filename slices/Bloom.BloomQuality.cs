@@ -1,4 +1,4 @@
-public enum Bloom.BloomQuality // TypeDefIndex: 4376
+public enum Bloom.BloomQuality // TypeDefIndex: 9892
 {
 	// Fields
 	public int value__; // 0x0

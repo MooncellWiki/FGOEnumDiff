@@ -1,4 +1,4 @@
-public enum BacktraceBreadcrumbType // TypeDefIndex: 3707
+public enum BacktraceBreadcrumbType // TypeDefIndex: 6907
 {
 	// Fields
 	public int value__; // 0x0

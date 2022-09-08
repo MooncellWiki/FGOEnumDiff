@@ -1,4 +1,4 @@
-public enum GCHandleType // TypeDefIndex: 463
+public enum GCHandleType // TypeDefIndex: 1451
 {
 	// Fields
 	public int value__; // 0x0

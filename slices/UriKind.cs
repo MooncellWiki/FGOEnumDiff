@@ -1,4 +1,4 @@
-public enum UriKind // TypeDefIndex: 1764
+public enum UriKind // TypeDefIndex: 2683
 {
 	// Fields
 	public int value__; // 0x0

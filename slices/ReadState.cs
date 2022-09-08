@@ -1,4 +1,14 @@
-internal enum ReadState // TypeDefIndex: 1617
+public enum ReadState // TypeDefIndex: 1962
+{
+	// Fields
+	public int value__; // 0x0
+	public const ReadState Initial = 0;
+	public const ReadState Interactive = 1;
+	public const ReadState Error = 2;
+	public const ReadState EndOfFile = 3;
+	public const ReadState Closed = 4;
+}
+internal enum ReadState // TypeDefIndex: 3473
 {
 	// Fields
 	public int value__; // 0x0
@@ -6,4 +16,5 @@ internal enum ReadState // TypeDefIndex: 1617
 	public const ReadState Status = 1;
 	public const ReadState Headers = 2;
 	public const ReadState Content = 3;
+	public const ReadState Aborted = 4;
 }

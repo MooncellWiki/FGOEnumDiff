@@ -1,4 +1,4 @@
-public enum CriAtomExCategory.ReactDuckerTargetType // TypeDefIndex: 4006
+public enum CriAtomExCategory.ReactDuckerTargetType // TypeDefIndex: 9573
 {
 	// Fields
 	public int value__; // 0x0

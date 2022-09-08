@@ -1,4 +1,4 @@
-public enum OwnerDefaultOption // TypeDefIndex: 3365
+public enum OwnerDefaultOption // TypeDefIndex: 6638
 {
 	// Fields
 	public int value__; // 0x0

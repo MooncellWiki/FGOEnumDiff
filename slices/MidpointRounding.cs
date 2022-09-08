@@ -1,4 +1,4 @@
-public enum MidpointRounding // TypeDefIndex: 1013
+public enum MidpointRounding // TypeDefIndex: 285
 {
 	// Fields
 	public int value__; // 0x0

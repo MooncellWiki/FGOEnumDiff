@@ -1,4 +1,4 @@
-public enum SystemLanguage // TypeDefIndex: 2108
+public enum SystemLanguage // TypeDefIndex: 4663
 {
 	// Fields
 	public int value__; // 0x0

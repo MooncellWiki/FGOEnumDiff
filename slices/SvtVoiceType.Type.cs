@@ -1,4 +1,4 @@
-public enum SvtVoiceType.Type // TypeDefIndex: 6463
+public enum SvtVoiceType.Type // TypeDefIndex: 11019
 {
 	// Fields
 	public int value__; // 0x0

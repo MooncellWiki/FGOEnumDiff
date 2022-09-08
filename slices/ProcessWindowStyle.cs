@@ -1,4 +1,4 @@
-public enum ProcessWindowStyle // TypeDefIndex: 1323
+public enum ProcessWindowStyle // TypeDefIndex: 2766
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WellKnownObjectMode // TypeDefIndex: 637
+public enum WellKnownObjectMode // TypeDefIndex: 1253
 {
 	// Fields
 	public int value__; // 0x0

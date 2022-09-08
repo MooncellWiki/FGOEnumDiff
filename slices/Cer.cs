@@ -1,4 +1,4 @@
-public enum Cer // TypeDefIndex: 447
+public enum Cer // TypeDefIndex: 1366
 {
 	// Fields
 	public int value__; // 0x0

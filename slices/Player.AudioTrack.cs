@@ -1,4 +1,4 @@
-public enum Player.AudioTrack // TypeDefIndex: 4177
+public enum Player.AudioTrack // TypeDefIndex: 9936
 {
 	// Fields
 	public int value__; // 0x0

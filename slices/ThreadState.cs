@@ -1,4 +1,4 @@
-public enum ThreadState // TypeDefIndex: 946
+public enum ThreadState // TypeDefIndex: 836
 {
 	// Fields
 	public int value__; // 0x0

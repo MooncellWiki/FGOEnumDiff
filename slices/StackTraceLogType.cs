@@ -1,4 +1,4 @@
-public enum StackTraceLogType // TypeDefIndex: 2085
+public enum StackTraceLogType // TypeDefIndex: 4674
 {
 	// Fields
 	public int value__; // 0x0

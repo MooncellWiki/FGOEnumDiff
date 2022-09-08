@@ -1,4 +1,4 @@
-public enum ServantAssetLoadManager.RetryStatus // TypeDefIndex: 6555
+public enum ServantAssetLoadManager.RetryStatus // TypeDefIndex: 11110
 {
 	// Fields
 	public int value__; // 0x0

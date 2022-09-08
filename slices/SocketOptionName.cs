@@ -1,4 +1,4 @@
-public enum SocketOptionName // TypeDefIndex: 1498
+public enum SocketOptionName // TypeDefIndex: 3540
 {
 	// Fields
 	public int value__; // 0x0
@@ -21,6 +21,7 @@ public enum SocketOptionName // TypeDefIndex: 1498
 	public const SocketOptionName ReceiveTimeout = 4102;
 	public const SocketOptionName Error = 4103;
 	public const SocketOptionName Type = 4104;
+	public const SocketOptionName ReuseUnicastPort = 12295;
 	public const SocketOptionName MaxConnections = 2147483647;
 	public const SocketOptionName IPOptions = 1;
 	public const SocketOptionName HeaderIncluded = 2;
@@ -37,12 +38,14 @@ public enum SocketOptionName // TypeDefIndex: 1498
 	public const SocketOptionName BlockSource = 17;
 	public const SocketOptionName UnblockSource = 18;
 	public const SocketOptionName PacketInformation = 19;
+	public const SocketOptionName HopLimit = 21;
+	public const SocketOptionName IPProtectionLevel = 23;
+	public const SocketOptionName IPv6Only = 27;
 	public const SocketOptionName NoDelay = 1;
 	public const SocketOptionName BsdUrgent = 2;
 	public const SocketOptionName Expedited = 2;
 	public const SocketOptionName NoChecksum = 1;
 	public const SocketOptionName ChecksumCoverage = 20;
-	public const SocketOptionName HopLimit = 21;
 	public const SocketOptionName UpdateAcceptContext = 28683;
 	public const SocketOptionName UpdateConnectContext = 28688;
 }

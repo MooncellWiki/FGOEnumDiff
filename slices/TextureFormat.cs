@@ -1,4 +1,4 @@
-public enum TextureFormat // TypeDefIndex: 2186
+public enum TextureFormat // TypeDefIndex: 4745
 {
 	// Fields
 	public int value__; // 0x0
@@ -39,24 +39,63 @@ public enum TextureFormat // TypeDefIndex: 2186
 	public const TextureFormat ETC2_RGB = 45;
 	public const TextureFormat ETC2_RGBA1 = 46;
 	public const TextureFormat ETC2_RGBA8 = 47;
-	public const TextureFormat ASTC_RGB_4x4 = 48;
-	public const TextureFormat ASTC_RGB_5x5 = 49;
-	public const TextureFormat ASTC_RGB_6x6 = 50;
-	public const TextureFormat ASTC_RGB_8x8 = 51;
-	public const TextureFormat ASTC_RGB_10x10 = 52;
-	public const TextureFormat ASTC_RGB_12x12 = 53;
-	public const TextureFormat ASTC_RGBA_4x4 = 54;
-	public const TextureFormat ASTC_RGBA_5x5 = 55;
-	public const TextureFormat ASTC_RGBA_6x6 = 56;
-	public const TextureFormat ASTC_RGBA_8x8 = 57;
-	public const TextureFormat ASTC_RGBA_10x10 = 58;
-	public const TextureFormat ASTC_RGBA_12x12 = 59;
-	[ObsoleteAttribute] // RVA: 0x4CF740 Offset: 0x4CF740 VA: 0x4CF740
+	public const TextureFormat ASTC_4x4 = 48;
+	public const TextureFormat ASTC_5x5 = 49;
+	public const TextureFormat ASTC_6x6 = 50;
+	public const TextureFormat ASTC_8x8 = 51;
+	public const TextureFormat ASTC_10x10 = 52;
+	public const TextureFormat ASTC_12x12 = 53;
+	[ObsoleteAttribute] // RVA: 0x66A1E8 Offset: 0x66A1E8 VA: 0x66A1E8
 	public const TextureFormat ETC_RGB4_3DS = 60;
-	[ObsoleteAttribute] // RVA: 0x4CF774 Offset: 0x4CF774 VA: 0x4CF774
+	[ObsoleteAttribute] // RVA: 0x66A21C Offset: 0x66A21C VA: 0x66A21C
 	public const TextureFormat ETC_RGBA8_3DS = 61;
 	public const TextureFormat RG16 = 62;
 	public const TextureFormat R8 = 63;
 	public const TextureFormat ETC_RGB4Crunched = 64;
 	public const TextureFormat ETC2_RGBA8Crunched = 65;
+	public const TextureFormat ASTC_HDR_4x4 = 66;
+	public const TextureFormat ASTC_HDR_5x5 = 67;
+	public const TextureFormat ASTC_HDR_6x6 = 68;
+	public const TextureFormat ASTC_HDR_8x8 = 69;
+	public const TextureFormat ASTC_HDR_10x10 = 70;
+	public const TextureFormat ASTC_HDR_12x12 = 71;
+	public const TextureFormat RG32 = 72;
+	public const TextureFormat RGB48 = 73;
+	public const TextureFormat RGBA64 = 74;
+	[ObsoleteAttribute] // RVA: 0x66A250 Offset: 0x66A250 VA: 0x66A250
+	[EditorBrowsableAttribute] // RVA: 0x66A250 Offset: 0x66A250 VA: 0x66A250
+	public const TextureFormat ASTC_RGB_4x4 = 48;
+	[ObsoleteAttribute] // RVA: 0x66A29C Offset: 0x66A29C VA: 0x66A29C
+	[EditorBrowsableAttribute] // RVA: 0x66A29C Offset: 0x66A29C VA: 0x66A29C
+	public const TextureFormat ASTC_RGB_5x5 = 49;
+	[EditorBrowsableAttribute] // RVA: 0x66A2E8 Offset: 0x66A2E8 VA: 0x66A2E8
+	[ObsoleteAttribute] // RVA: 0x66A2E8 Offset: 0x66A2E8 VA: 0x66A2E8
+	public const TextureFormat ASTC_RGB_6x6 = 50;
+	[EditorBrowsableAttribute] // RVA: 0x66A334 Offset: 0x66A334 VA: 0x66A334
+	[ObsoleteAttribute] // RVA: 0x66A334 Offset: 0x66A334 VA: 0x66A334
+	public const TextureFormat ASTC_RGB_8x8 = 51;
+	[ObsoleteAttribute] // RVA: 0x66A380 Offset: 0x66A380 VA: 0x66A380
+	[EditorBrowsableAttribute] // RVA: 0x66A380 Offset: 0x66A380 VA: 0x66A380
+	public const TextureFormat ASTC_RGB_10x10 = 52;
+	[EditorBrowsableAttribute] // RVA: 0x66A3CC Offset: 0x66A3CC VA: 0x66A3CC
+	[ObsoleteAttribute] // RVA: 0x66A3CC Offset: 0x66A3CC VA: 0x66A3CC
+	public const TextureFormat ASTC_RGB_12x12 = 53;
+	[EditorBrowsableAttribute] // RVA: 0x66A418 Offset: 0x66A418 VA: 0x66A418
+	[ObsoleteAttribute] // RVA: 0x66A418 Offset: 0x66A418 VA: 0x66A418
+	public const TextureFormat ASTC_RGBA_4x4 = 54;
+	[EditorBrowsableAttribute] // RVA: 0x66A464 Offset: 0x66A464 VA: 0x66A464
+	[ObsoleteAttribute] // RVA: 0x66A464 Offset: 0x66A464 VA: 0x66A464
+	public const TextureFormat ASTC_RGBA_5x5 = 55;
+	[ObsoleteAttribute] // RVA: 0x66A4B0 Offset: 0x66A4B0 VA: 0x66A4B0
+	[EditorBrowsableAttribute] // RVA: 0x66A4B0 Offset: 0x66A4B0 VA: 0x66A4B0
+	public const TextureFormat ASTC_RGBA_6x6 = 56;
+	[ObsoleteAttribute] // RVA: 0x66A4FC Offset: 0x66A4FC VA: 0x66A4FC
+	[EditorBrowsableAttribute] // RVA: 0x66A4FC Offset: 0x66A4FC VA: 0x66A4FC
+	public const TextureFormat ASTC_RGBA_8x8 = 57;
+	[EditorBrowsableAttribute] // RVA: 0x66A548 Offset: 0x66A548 VA: 0x66A548
+	[ObsoleteAttribute] // RVA: 0x66A548 Offset: 0x66A548 VA: 0x66A548
+	public const TextureFormat ASTC_RGBA_10x10 = 58;
+	[ObsoleteAttribute] // RVA: 0x66A594 Offset: 0x66A594 VA: 0x66A594
+	[EditorBrowsableAttribute] // RVA: 0x66A594 Offset: 0x66A594 VA: 0x66A594
+	public const TextureFormat ASTC_RGBA_12x12 = 59;
 }

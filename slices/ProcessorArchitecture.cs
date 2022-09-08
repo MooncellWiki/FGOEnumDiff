@@ -1,4 +1,4 @@
-public enum ProcessorArchitecture // TypeDefIndex: 415
+public enum ProcessorArchitecture // TypeDefIndex: 537
 {
 	// Fields
 	public int value__; // 0x0
@@ -7,4 +7,5 @@ public enum ProcessorArchitecture // TypeDefIndex: 415
 	public const ProcessorArchitecture X86 = 2;
 	public const ProcessorArchitecture IA64 = 3;
 	public const ProcessorArchitecture Amd64 = 4;
+	public const ProcessorArchitecture Arm = 5;
 }

@@ -1,4 +1,4 @@
-public enum InitializationFailureReason // TypeDefIndex: 2972
+public enum InitializationFailureReason // TypeDefIndex: 6724
 {
 	// Fields
 	public int value__; // 0x0

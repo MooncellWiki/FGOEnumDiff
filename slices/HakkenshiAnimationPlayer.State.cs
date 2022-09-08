@@ -1,4 +1,4 @@
-private enum HakkenshiAnimationPlayer.State // TypeDefIndex: 10325
+private enum HakkenshiAnimationPlayer.State // TypeDefIndex: 14711
 {
 	// Fields
 	public int value__; // 0x0

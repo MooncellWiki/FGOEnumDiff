@@ -1,4 +1,4 @@
-public enum ColorBlendMode // TypeDefIndex: 3308
+public enum ColorBlendMode // TypeDefIndex: 6581
 {
 	// Fields
 	public int value__; // 0x0

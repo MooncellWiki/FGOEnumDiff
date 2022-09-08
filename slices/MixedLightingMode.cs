@@ -1,4 +1,4 @@
-public enum MixedLightingMode // TypeDefIndex: 2177
+public enum MixedLightingMode // TypeDefIndex: 4736
 {
 	// Fields
 	public int value__; // 0x0

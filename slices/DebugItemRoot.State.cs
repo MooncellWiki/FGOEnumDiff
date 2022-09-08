@@ -1,4 +1,4 @@
-protected enum DebugItemRoot.State // TypeDefIndex: 12177
+protected enum DebugItemRoot.State // TypeDefIndex: 17413
 {
 	// Fields
 	public int value__; // 0x0

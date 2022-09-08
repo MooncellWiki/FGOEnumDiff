@@ -1,4 +1,4 @@
-public enum FieldAttributes // TypeDefIndex: 383
+public enum FieldAttributes // TypeDefIndex: 543
 {
 	// Fields
 	public int value__; // 0x0
@@ -14,11 +14,11 @@ public enum FieldAttributes // TypeDefIndex: 383
 	public const FieldAttributes InitOnly = 32;
 	public const FieldAttributes Literal = 64;
 	public const FieldAttributes NotSerialized = 128;
-	public const FieldAttributes HasFieldRVA = 256;
 	public const FieldAttributes SpecialName = 512;
+	public const FieldAttributes PinvokeImpl = 8192;
+	public const FieldAttributes ReservedMask = 38144;
 	public const FieldAttributes RTSpecialName = 1024;
 	public const FieldAttributes HasFieldMarshal = 4096;
-	public const FieldAttributes PinvokeImpl = 8192;
 	public const FieldAttributes HasDefault = 32768;
-	public const FieldAttributes ReservedMask = 38144;
+	public const FieldAttributes HasFieldRVA = 256;
 }

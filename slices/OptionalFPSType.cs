@@ -1,4 +1,4 @@
-public enum OptionalFPSType // TypeDefIndex: 6419
+public enum OptionalFPSType // TypeDefIndex: 10976
 {
 	// Fields
 	public int value__; // 0x0

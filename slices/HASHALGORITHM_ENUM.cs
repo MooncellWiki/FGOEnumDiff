@@ -1,0 +1,8 @@
+internal enum HASHALGORITHM_ENUM // TypeDefIndex: 3887
+{
+	// Fields
+	public int value__; // 0x0
+	public const HASHALGORITHM_ENUM DSA_HASH_ALGORITHM_SHA1 = 0;
+	public const HASHALGORITHM_ENUM DSA_HASH_ALGORITHM_SHA256 = 1;
+	public const HASHALGORITHM_ENUM DSA_HASH_ALGORITHM_SHA512 = 2;
+}

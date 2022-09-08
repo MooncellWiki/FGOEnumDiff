@@ -1,4 +1,4 @@
-public enum CriAtomEx.Speaker // TypeDefIndex: 3983
+public enum CriAtomEx.Speaker // TypeDefIndex: 9550
 {
 	// Fields
 	public int value__; // 0x0

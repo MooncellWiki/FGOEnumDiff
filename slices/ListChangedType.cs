@@ -1,4 +1,4 @@
-public enum ListChangedType // TypeDefIndex: 1259
+public enum ListChangedType // TypeDefIndex: 2901
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum StreamingContextStates // TypeDefIndex: 691
+public enum StreamingContextStates // TypeDefIndex: 1161
 {
 	// Fields
 	public int value__; // 0x0

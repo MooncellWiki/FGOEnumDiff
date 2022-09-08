@@ -1,4 +1,4 @@
-public enum Scrollbar.Direction // TypeDefIndex: 3121
+public enum Scrollbar.Direction // TypeDefIndex: 6371
 {
 	// Fields
 	public int value__; // 0x0

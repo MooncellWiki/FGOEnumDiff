@@ -1,4 +1,4 @@
-public enum UriHostNameType // TypeDefIndex: 1762
+public enum UriHostNameType // TypeDefIndex: 2690
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum MethodImplAttributes // TypeDefIndex: 392
+public enum MethodImplAttributes // TypeDefIndex: 559
 {
 	// Fields
 	public int value__; // 0x0
@@ -15,5 +15,8 @@ public enum MethodImplAttributes // TypeDefIndex: 392
 	public const MethodImplAttributes InternalCall = 4096;
 	public const MethodImplAttributes Synchronized = 32;
 	public const MethodImplAttributes NoInlining = 8;
+	[ComVisibleAttribute] // RVA: 0x3B44C4 Offset: 0x3B44C4 VA: 0x3B44C4
+	public const MethodImplAttributes AggressiveInlining = 256;
+	public const MethodImplAttributes NoOptimization = 64;
 	public const MethodImplAttributes MaxMethodImplVal = 65535;
 }

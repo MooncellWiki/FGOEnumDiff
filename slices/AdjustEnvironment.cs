@@ -1,4 +1,4 @@
-public enum AdjustEnvironment // TypeDefIndex: 4426
+public enum AdjustEnvironment // TypeDefIndex: 18898
 {
 	// Fields
 	public int value__; // 0x0

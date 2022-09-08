@@ -1,4 +1,4 @@
-internal enum UnwindingMode // TypeDefIndex: 3740
+internal enum UnwindingMode // TypeDefIndex: 6866
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum TranslationLocale // TypeDefIndex: 3546
+public enum TranslationLocale // TypeDefIndex: 9309
 {
 	// Fields
 	public int value__; // 0x0

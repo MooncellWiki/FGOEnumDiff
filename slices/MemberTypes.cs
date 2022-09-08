@@ -1,4 +1,4 @@
-public enum MemberTypes // TypeDefIndex: 389
+public enum MemberTypes // TypeDefIndex: 555
 {
 	// Fields
 	public int value__; // 0x0

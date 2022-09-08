@@ -1,4 +1,4 @@
-public enum X509KeyUsageFlags // TypeDefIndex: 1670
+public enum X509KeyUsageFlags // TypeDefIndex: 3045
 {
 	// Fields
 	public int value__; // 0x0

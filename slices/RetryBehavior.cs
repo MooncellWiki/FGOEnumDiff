@@ -1,4 +1,4 @@
-public enum RetryBehavior // TypeDefIndex: 3762
+public enum RetryBehavior // TypeDefIndex: 6845
 {
 	// Fields
 	public int value__; // 0x0

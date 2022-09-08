@@ -1,4 +1,4 @@
-public enum AssemblyVersionCompatibility // TypeDefIndex: 233
+public enum AssemblyVersionCompatibility // TypeDefIndex: 449
 {
 	// Fields
 	public int value__; // 0x0

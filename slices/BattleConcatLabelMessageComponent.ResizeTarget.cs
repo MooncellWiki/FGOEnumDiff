@@ -1,4 +1,4 @@
-public enum BattleConcatLabelMessageComponent.ResizeTarget // TypeDefIndex: 9770
+public enum BattleConcatLabelMessageComponent.ResizeTarget // TypeDefIndex: 14124
 {
 	// Fields
 	public int value__; // 0x0

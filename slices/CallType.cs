@@ -1,4 +1,4 @@
-internal enum CallType // TypeDefIndex: 589
+internal enum CallType // TypeDefIndex: 1351
 {
 	// Fields
 	public int value__; // 0x0

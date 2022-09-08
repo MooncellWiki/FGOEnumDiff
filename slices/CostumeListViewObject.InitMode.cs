@@ -1,4 +1,4 @@
-public enum CostumeListViewObject.InitMode // TypeDefIndex: 10175
+public enum CostumeListViewObject.InitMode // TypeDefIndex: 14562
 {
 	// Fields
 	public int value__; // 0x0

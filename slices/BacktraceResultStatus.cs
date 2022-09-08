@@ -1,4 +1,4 @@
-public enum BacktraceResultStatus // TypeDefIndex: 3756
+public enum BacktraceResultStatus // TypeDefIndex: 6839
 {
 	// Fields
 	public int value__; // 0x0

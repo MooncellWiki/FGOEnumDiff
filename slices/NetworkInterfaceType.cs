@@ -1,4 +1,4 @@
-public enum NetworkInterfaceType // TypeDefIndex: 1419
+public enum NetworkInterfaceType // TypeDefIndex: 3621
 {
 	// Fields
 	public int value__; // 0x0
@@ -27,4 +27,7 @@ public enum NetworkInterfaceType // TypeDefIndex: 1419
 	public const NetworkInterfaceType Tunnel = 131;
 	public const NetworkInterfaceType MultiRateSymmetricDsl = 143;
 	public const NetworkInterfaceType HighPerformanceSerialBus = 144;
+	public const NetworkInterfaceType Wman = 237;
+	public const NetworkInterfaceType Wwanpp = 243;
+	public const NetworkInterfaceType Wwanpp2 = 244;
 }

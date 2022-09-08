@@ -1,4 +1,4 @@
-public enum WarBoardDataEntity.ProgressType // TypeDefIndex: 7901
+public enum WarBoardDataEntity.ProgressType // TypeDefIndex: 12549
 {
 	// Fields
 	public int value__; // 0x0

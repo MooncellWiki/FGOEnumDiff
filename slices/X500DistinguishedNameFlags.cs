@@ -1,4 +1,4 @@
-public enum X500DistinguishedNameFlags // TypeDefIndex: 1649
+public enum X500DistinguishedNameFlags // TypeDefIndex: 3041
 {
 	// Fields
 	public int value__; // 0x0

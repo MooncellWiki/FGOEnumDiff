@@ -1,4 +1,4 @@
-private enum DiggingConfirmDialogComponent.State // TypeDefIndex: 10419
+private enum DiggingConfirmDialogComponent.State // TypeDefIndex: 14811
 {
 	// Fields
 	public int value__; // 0x0

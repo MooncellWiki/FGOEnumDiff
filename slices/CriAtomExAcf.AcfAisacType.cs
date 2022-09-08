@@ -1,4 +1,4 @@
-public enum CriAtomExAcf.AcfAisacType // TypeDefIndex: 4052
+public enum CriAtomExAcf.AcfAisacType // TypeDefIndex: 9619
 {
 	// Fields
 	public uint value__; // 0x0

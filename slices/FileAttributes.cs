@@ -1,4 +1,4 @@
-public enum FileAttributes // TypeDefIndex: 274
+public enum FileAttributes // TypeDefIndex: 686
 {
 	// Fields
 	public int value__; // 0x0
@@ -16,4 +16,6 @@ public enum FileAttributes // TypeDefIndex: 274
 	public const FileAttributes SparseFile = 512;
 	public const FileAttributes System = 4;
 	public const FileAttributes Temporary = 256;
+	public const FileAttributes IntegrityStream = 32768;
+	public const FileAttributes NoScrubData = 131072;
 }

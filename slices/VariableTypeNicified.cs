@@ -1,4 +1,4 @@
-public enum VariableTypeNicified // TypeDefIndex: 3395
+public enum VariableTypeNicified // TypeDefIndex: 6668
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum WarehouseListViewItemDraw.DispMode // TypeDefIndex: 12726
+public enum WarehouseListViewItemDraw.DispMode // TypeDefIndex: 17171
 {
 	// Fields
 	public int value__; // 0x0

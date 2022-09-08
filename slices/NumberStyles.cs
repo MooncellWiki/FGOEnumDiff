@@ -1,4 +1,4 @@
-public enum NumberStyles // TypeDefIndex: 260
+public enum NumberStyles // TypeDefIndex: 735
 {
 	// Fields
 	public int value__; // 0x0

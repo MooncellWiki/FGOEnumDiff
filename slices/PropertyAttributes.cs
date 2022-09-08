@@ -1,4 +1,4 @@
-public enum PropertyAttributes // TypeDefIndex: 416
+public enum PropertyAttributes // TypeDefIndex: 565
 {
 	// Fields
 	public int value__; // 0x0

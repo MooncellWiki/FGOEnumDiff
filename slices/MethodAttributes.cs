@@ -1,4 +1,4 @@
-public enum MethodAttributes // TypeDefIndex: 390
+public enum MethodAttributes // TypeDefIndex: 556
 {
 	// Fields
 	public int value__; // 0x0
@@ -14,8 +14,8 @@ public enum MethodAttributes // TypeDefIndex: 390
 	public const MethodAttributes Final = 32;
 	public const MethodAttributes Virtual = 64;
 	public const MethodAttributes HideBySig = 128;
-	public const MethodAttributes VtableLayoutMask = 256;
 	public const MethodAttributes CheckAccessOnOverride = 512;
+	public const MethodAttributes VtableLayoutMask = 256;
 	public const MethodAttributes ReuseSlot = 0;
 	public const MethodAttributes NewSlot = 256;
 	public const MethodAttributes Abstract = 1024;

@@ -1,4 +1,4 @@
-public enum CombineAdjustTarget.TYPE // TypeDefIndex: 6348
+public enum CombineAdjustTarget.TYPE // TypeDefIndex: 10906
 {
 	// Fields
 	public int value__; // 0x0

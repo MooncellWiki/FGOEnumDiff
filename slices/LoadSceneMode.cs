@@ -1,4 +1,4 @@
-public enum LoadSceneMode // TypeDefIndex: 2549
+public enum LoadSceneMode // TypeDefIndex: 4934
 {
 	// Fields
 	public int value__; // 0x0

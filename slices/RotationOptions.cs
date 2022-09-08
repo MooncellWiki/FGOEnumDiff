@@ -1,4 +1,4 @@
-public enum RotationOptions // TypeDefIndex: 3402
+public enum RotationOptions // TypeDefIndex: 6675
 {
 	// Fields
 	public int value__; // 0x0

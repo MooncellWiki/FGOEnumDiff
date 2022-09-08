@@ -1,4 +1,4 @@
-public enum EventHandle // TypeDefIndex: 3005
+public enum EventHandle // TypeDefIndex: 6425
 {
 	// Fields
 	public int value__; // 0x0

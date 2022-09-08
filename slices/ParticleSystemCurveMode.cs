@@ -1,4 +1,4 @@
-public enum ParticleSystemCurveMode // TypeDefIndex: 2789
+public enum ParticleSystemCurveMode // TypeDefIndex: 6014
 {
 	// Fields
 	public int value__; // 0x0

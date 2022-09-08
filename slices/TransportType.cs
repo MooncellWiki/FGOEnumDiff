@@ -1,4 +1,4 @@
-public enum TransportType // TypeDefIndex: 1609
+public enum TransportType // TypeDefIndex: 3236
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum SocketShutdown // TypeDefIndex: 1500
+public enum SocketShutdown // TypeDefIndex: 3541
 {
 	// Fields
 	public int value__; // 0x0

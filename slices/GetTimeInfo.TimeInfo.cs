@@ -1,4 +1,4 @@
-public enum GetTimeInfo.TimeInfo // TypeDefIndex: 13308
+public enum GetTimeInfo.TimeInfo // TypeDefIndex: 18240
 {
 	// Fields
 	public int value__; // 0x0

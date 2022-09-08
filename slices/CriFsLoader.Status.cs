@@ -1,4 +1,4 @@
-public enum CriFsLoader.Status // TypeDefIndex: 4116
+public enum CriFsLoader.Status // TypeDefIndex: 9683
 {
 	// Fields
 	public int value__; // 0x0

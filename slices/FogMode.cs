@@ -1,4 +1,4 @@
-public enum FogMode // TypeDefIndex: 2175
+public enum FogMode // TypeDefIndex: 4734
 {
 	// Fields
 	public int value__; // 0x0

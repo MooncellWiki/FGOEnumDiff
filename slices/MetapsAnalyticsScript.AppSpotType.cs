@@ -1,4 +1,4 @@
-public enum MetapsAnalyticsScript.AppSpotType // TypeDefIndex: 4347
+public enum MetapsAnalyticsScript.AppSpotType // TypeDefIndex: 9872
 {
 	// Fields
 	public int value__; // 0x0
@@ -7,5 +7,6 @@ public enum MetapsAnalyticsScript.AppSpotType // TypeDefIndex: 4347
 	public const MetapsAnalyticsScript.AppSpotType Banner = 2;
 	public const MetapsAnalyticsScript.AppSpotType BannerBig = 3;
 	public const MetapsAnalyticsScript.AppSpotType BannerRectangle = 4;
+	public const MetapsAnalyticsScript.AppSpotType Dialog = 5;
 	public const MetapsAnalyticsScript.AppSpotType Unknown = 9999;
 }

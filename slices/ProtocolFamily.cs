@@ -1,4 +1,4 @@
-public enum ProtocolFamily // TypeDefIndex: 1478
+public enum ProtocolFamily // TypeDefIndex: 3520
 {
 	// Fields
 	public int value__; // 0x0
@@ -9,8 +9,10 @@ public enum ProtocolFamily // TypeDefIndex: 1478
 	public const ProtocolFamily ImpLink = 3;
 	public const ProtocolFamily Pup = 4;
 	public const ProtocolFamily Chaos = 5;
+	public const ProtocolFamily NS = 6;
 	public const ProtocolFamily Ipx = 6;
 	public const ProtocolFamily Iso = 7;
+	public const ProtocolFamily Osi = 7;
 	public const ProtocolFamily Ecma = 8;
 	public const ProtocolFamily DataKit = 9;
 	public const ProtocolFamily Ccitt = 10;
@@ -31,6 +33,4 @@ public enum ProtocolFamily // TypeDefIndex: 1478
 	public const ProtocolFamily Irda = 26;
 	public const ProtocolFamily NetworkDesigners = 28;
 	public const ProtocolFamily Max = 29;
-	public const ProtocolFamily NS = 6;
-	public const ProtocolFamily Osi = 7;
 }

@@ -1,4 +1,4 @@
-public enum CriAtomExTween.ParameterType // TypeDefIndex: 4088
+public enum CriAtomExTween.ParameterType // TypeDefIndex: 9655
 {
 	// Fields
 	public int value__; // 0x0

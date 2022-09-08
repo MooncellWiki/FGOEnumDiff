@@ -1,4 +1,4 @@
-public enum StoreName // TypeDefIndex: 1647
+public enum StoreName // TypeDefIndex: 3040
 {
 	// Fields
 	public int value__; // 0x0

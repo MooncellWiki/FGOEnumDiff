@@ -1,4 +1,4 @@
-internal enum CodegenOptions // TypeDefIndex: 2053
+internal enum CodegenOptions // TypeDefIndex: 4577
 {
 	// Fields
 	public int value__; // 0x0

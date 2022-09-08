@@ -1,4 +1,4 @@
-public enum NetscapeCertTypeExtension.CertTypes // TypeDefIndex: 1879
+public enum NetscapeCertTypeExtension.CertTypes // TypeDefIndex: 1738
 {
 	// Fields
 	public int value__; // 0x0

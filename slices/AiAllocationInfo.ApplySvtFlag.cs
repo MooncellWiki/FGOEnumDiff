@@ -1,4 +1,4 @@
-public enum AiAllocationInfo.ApplySvtFlag // TypeDefIndex: 6851
+public enum AiAllocationInfo.ApplySvtFlag // TypeDefIndex: 11403
 {
 	// Fields
 	public int value__; // 0x0

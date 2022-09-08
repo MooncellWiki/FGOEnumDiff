@@ -1,4 +1,4 @@
-public enum iTween.EaseType // TypeDefIndex: 12780
+public enum iTween.EaseType // TypeDefIndex: 17387
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum CommonConsumeEntity.CommonConsumeType // TypeDefIndex: 7058
+public enum CommonConsumeEntity.CommonConsumeType // TypeDefIndex: 11616
 {
 	// Fields
 	public int value__; // 0x0

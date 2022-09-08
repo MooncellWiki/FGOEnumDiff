@@ -1,4 +1,4 @@
-public enum EventSpotCooltimeComponent.ReceivableRewardState // TypeDefIndex: 10541
+public enum EventSpotCooltimeComponent.ReceivableRewardState // TypeDefIndex: 14936
 {
 	// Fields
 	public int value__; // 0x0

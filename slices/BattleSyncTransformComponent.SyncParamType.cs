@@ -1,4 +1,4 @@
-public enum BattleSyncTransformComponent.SyncParamType // TypeDefIndex: 9864
+public enum BattleSyncTransformComponent.SyncParamType // TypeDefIndex: 14222
 {
 	// Fields
 	public int value__; // 0x0

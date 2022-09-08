@@ -1,4 +1,4 @@
-public enum LineTextureMode // TypeDefIndex: 2197
+public enum LineTextureMode // TypeDefIndex: 4753
 {
 	// Fields
 	public int value__; // 0x0

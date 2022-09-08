@@ -1,4 +1,4 @@
-public enum ConvertFloatToInt.FloatRounding // TypeDefIndex: 13149
+public enum ConvertFloatToInt.FloatRounding // TypeDefIndex: 18044
 {
 	// Fields
 	public int value__; // 0x0

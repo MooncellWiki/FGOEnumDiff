@@ -1,4 +1,4 @@
-public enum ServantAnimationOverwriteEntity.PhaseType // TypeDefIndex: 7512
+public enum ServantAnimationOverwriteEntity.PhaseType // TypeDefIndex: 12118
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum DateTimeKind // TypeDefIndex: 977
+public enum DateTimeKind // TypeDefIndex: 213
 {
 	// Fields
 	public int value__; // 0x0

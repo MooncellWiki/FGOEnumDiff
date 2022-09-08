@@ -1,4 +1,4 @@
-public enum FileMode // TypeDefIndex: 277
+public enum FileMode // TypeDefIndex: 687
 {
 	// Fields
 	public int value__; // 0x0

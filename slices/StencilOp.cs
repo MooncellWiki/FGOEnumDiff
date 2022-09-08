@@ -1,4 +1,4 @@
-public enum StencilOp // TypeDefIndex: 2204
+public enum StencilOp // TypeDefIndex: 5097
 {
 	// Fields
 	public int value__; // 0x0

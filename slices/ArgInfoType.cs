@@ -1,4 +1,4 @@
-internal enum ArgInfoType // TypeDefIndex: 553
+internal enum ArgInfoType // TypeDefIndex: 1319
 {
 	// Fields
 	public byte value__; // 0x0

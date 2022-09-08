@@ -1,4 +1,4 @@
-public enum GraphicsFormat // TypeDefIndex: 2195
+public enum GraphicsFormat // TypeDefIndex: 5179
 {
 	// Fields
 	public int value__; // 0x0
@@ -86,18 +86,12 @@ public enum GraphicsFormat // TypeDefIndex: 2195
 	public const GraphicsFormat R10G10B10_XRUNormPack32 = 84;
 	public const GraphicsFormat A10R10G10B10_XRSRGBPack32 = 85;
 	public const GraphicsFormat A10R10G10B10_XRUNormPack32 = 86;
-	public const GraphicsFormat D16_UNorm = 90;
-	public const GraphicsFormat D24_UNorm = 91;
-	public const GraphicsFormat D24_UNorm_S8_UInt = 92;
-	public const GraphicsFormat D32_SFloat = 93;
-	public const GraphicsFormat D32_SFloat_S8_Uint = 94;
-	public const GraphicsFormat S8_Uint = 95;
-	[ObsoleteAttribute] // RVA: 0x4CF7A8 Offset: 0x4CF7A8 VA: 0x4CF7A8
-	[EditorBrowsableAttribute] // RVA: 0x4CF7A8 Offset: 0x4CF7A8 VA: 0x4CF7A8
+	[EditorBrowsableAttribute] // RVA: 0x66BFCC Offset: 0x66BFCC VA: 0x66BFCC
+	[ObsoleteAttribute] // RVA: 0x66BFCC Offset: 0x66BFCC VA: 0x66BFCC
 	public const GraphicsFormat RGB_DXT1_SRGB = 96;
 	public const GraphicsFormat RGBA_DXT1_SRGB = 96;
-	[EditorBrowsableAttribute] // RVA: 0x4CF7F8 Offset: 0x4CF7F8 VA: 0x4CF7F8
-	[ObsoleteAttribute] // RVA: 0x4CF7F8 Offset: 0x4CF7F8 VA: 0x4CF7F8
+	[ObsoleteAttribute] // RVA: 0x66C01C Offset: 0x66C01C VA: 0x66C01C
+	[EditorBrowsableAttribute] // RVA: 0x66C01C Offset: 0x66C01C VA: 0x66C01C
 	public const GraphicsFormat RGB_DXT1_UNorm = 97;
 	public const GraphicsFormat RGBA_DXT1_UNorm = 97;
 	public const GraphicsFormat RGBA_DXT3_SRGB = 98;
@@ -143,4 +137,10 @@ public enum GraphicsFormat // TypeDefIndex: 2195
 	public const GraphicsFormat RGBA_ASTC10X10_UNorm = 138;
 	public const GraphicsFormat RGBA_ASTC12X12_SRGB = 139;
 	public const GraphicsFormat RGBA_ASTC12X12_UNorm = 140;
+	public const GraphicsFormat RGBA_ASTC4X4_UFloat = 145;
+	public const GraphicsFormat RGBA_ASTC5X5_UFloat = 146;
+	public const GraphicsFormat RGBA_ASTC6X6_UFloat = 147;
+	public const GraphicsFormat RGBA_ASTC8X8_UFloat = 148;
+	public const GraphicsFormat RGBA_ASTC10X10_UFloat = 149;
+	public const GraphicsFormat RGBA_ASTC12X12_UFloat = 150;
 }

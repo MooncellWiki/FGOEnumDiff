@@ -1,4 +1,4 @@
-public enum ApplicationSandboxType // TypeDefIndex: 2087
+public enum ApplicationSandboxType // TypeDefIndex: 4677
 {
 	// Fields
 	public int value__; // 0x0

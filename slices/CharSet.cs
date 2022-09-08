@@ -1,4 +1,4 @@
-public enum CharSet // TypeDefIndex: 454
+public enum CharSet // TypeDefIndex: 1442
 {
 	// Fields
 	public int value__; // 0x0

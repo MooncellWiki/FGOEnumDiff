@@ -1,4 +1,4 @@
-public enum FileShare // TypeDefIndex: 280
+public enum FileShare // TypeDefIndex: 689
 {
 	// Fields
 	public int value__; // 0x0

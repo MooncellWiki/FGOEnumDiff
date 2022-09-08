@@ -1,4 +1,4 @@
-public enum OpenFlags // TypeDefIndex: 1644
+public enum OpenFlags // TypeDefIndex: 3038
 {
 	// Fields
 	public int value__; // 0x0

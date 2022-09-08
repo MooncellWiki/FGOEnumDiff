@@ -1,4 +1,4 @@
-public enum MetapsAnalyticsScript.NotLoadReason // TypeDefIndex: 4351
+public enum MetapsAnalyticsScript.NotLoadReason // TypeDefIndex: 9876
 {
 	// Fields
 	public int value__; // 0x0

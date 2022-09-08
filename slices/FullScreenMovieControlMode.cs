@@ -1,4 +1,4 @@
-public enum FullScreenMovieControlMode // TypeDefIndex: 2221
+public enum FullScreenMovieControlMode // TypeDefIndex: 4768
 {
 	// Fields
 	public int value__; // 0x0

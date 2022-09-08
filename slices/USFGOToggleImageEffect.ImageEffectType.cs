@@ -1,4 +1,4 @@
-public enum USFGOToggleImageEffect.ImageEffectType // TypeDefIndex: 8594
+public enum USFGOToggleImageEffect.ImageEffectType // TypeDefIndex: 17550
 {
 	// Fields
 	public int value__; // 0x0

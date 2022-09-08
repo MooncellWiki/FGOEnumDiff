@@ -1,4 +1,4 @@
-public enum UserServantCoinListViewManager.InitMode // TypeDefIndex: 10959
+public enum UserServantCoinListViewManager.InitMode // TypeDefIndex: 15368
 {
 	// Fields
 	public int value__; // 0x0

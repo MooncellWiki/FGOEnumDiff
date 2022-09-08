@@ -1,4 +1,4 @@
-public enum WarehouseListViewItem.ServantAttributeKind // TypeDefIndex: 12724
+public enum WarehouseListViewItem.ServantAttributeKind // TypeDefIndex: 17169
 {
 	// Fields
 	public int value__; // 0x0

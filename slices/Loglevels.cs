@@ -1,7 +1,7 @@
-public enum Loglevels // TypeDefIndex: 4546
+public enum Loglevels // TypeDefIndex: 8816
 {
 	// Fields
-	public byte value__; // 0x0
+	public int value__; // 0x0
 	public const Loglevels All = 0;
 	public const Loglevels Information = 1;
 	public const Loglevels Warning = 2;

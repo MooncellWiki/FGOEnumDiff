@@ -1,4 +1,4 @@
-public enum KeyUsages // TypeDefIndex: 1876
+public enum KeyUsages // TypeDefIndex: 1736
 {
 	// Fields
 	public int value__; // 0x0

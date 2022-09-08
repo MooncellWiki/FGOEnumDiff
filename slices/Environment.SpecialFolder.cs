@@ -1,4 +1,4 @@
-public enum Environment.SpecialFolder // TypeDefIndex: 993
+public enum Environment.SpecialFolder // TypeDefIndex: 356
 {
 	// Fields
 	public int value__; // 0x0
@@ -25,4 +25,28 @@ public enum Environment.SpecialFolder // TypeDefIndex: 993
 	public const Environment.SpecialFolder ProgramFiles = 38;
 	public const Environment.SpecialFolder MyPictures = 39;
 	public const Environment.SpecialFolder CommonProgramFiles = 43;
+	public const Environment.SpecialFolder MyVideos = 14;
+	public const Environment.SpecialFolder NetworkShortcuts = 19;
+	public const Environment.SpecialFolder Fonts = 20;
+	public const Environment.SpecialFolder CommonStartMenu = 22;
+	public const Environment.SpecialFolder CommonPrograms = 23;
+	public const Environment.SpecialFolder CommonStartup = 24;
+	public const Environment.SpecialFolder CommonDesktopDirectory = 25;
+	public const Environment.SpecialFolder PrinterShortcuts = 27;
+	public const Environment.SpecialFolder Windows = 36;
+	public const Environment.SpecialFolder UserProfile = 40;
+	public const Environment.SpecialFolder SystemX86 = 41;
+	public const Environment.SpecialFolder ProgramFilesX86 = 42;
+	public const Environment.SpecialFolder CommonProgramFilesX86 = 44;
+	public const Environment.SpecialFolder CommonTemplates = 45;
+	public const Environment.SpecialFolder CommonDocuments = 46;
+	public const Environment.SpecialFolder CommonAdminTools = 47;
+	public const Environment.SpecialFolder AdminTools = 48;
+	public const Environment.SpecialFolder CommonMusic = 53;
+	public const Environment.SpecialFolder CommonPictures = 54;
+	public const Environment.SpecialFolder CommonVideos = 55;
+	public const Environment.SpecialFolder Resources = 56;
+	public const Environment.SpecialFolder LocalizedResources = 57;
+	public const Environment.SpecialFolder CommonOemLinks = 58;
+	public const Environment.SpecialFolder CDBurning = 59;
 }
