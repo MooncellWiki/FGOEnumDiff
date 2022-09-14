@@ -1,4 +1,4 @@
-protected enum CombineLimitUpWarningDialog.State // TypeDefIndex: 14572
+protected enum CombineLimitUpWarningDialog.State // TypeDefIndex: 14603
 {
 	// Fields
 	public int value__; // 0x0

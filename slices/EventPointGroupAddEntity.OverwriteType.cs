@@ -1,4 +1,4 @@
-public enum EventPointGroupAddEntity.OverwriteType // TypeDefIndex: 11798
+public enum EventPointGroupAddEntity.OverwriteType // TypeDefIndex: 11801
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 14029
+public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 14058
 {
 	// Fields
 	public int value__; // 0x0
@@ -61,4 +61,6 @@ public enum BattleLogicTask.ACTIONTYPE // TypeDefIndex: 14029
 	public const BattleLogicTask.ACTIONTYPE MESSAGE = 56;
 	public const BattleLogicTask.ACTIONTYPE LOGIC_REPEAT_REACTION = 57;
 	public const BattleLogicTask.ACTIONTYPE UPDATE_VIEW = 58;
+	public const BattleLogicTask.ACTIONTYPE LOGIC_SERVANT_AI_REACTION = 59;
+	public const BattleLogicTask.ACTIONTYPE LOGIC_NPC_AI_REACTION = 60;
 }

@@ -1,4 +1,4 @@
-public enum EventExpeditionListViewObject.InitMode // TypeDefIndex: 14695
+public enum EventExpeditionListViewObject.InitMode // TypeDefIndex: 14726
 {
 	// Fields
 	public int value__; // 0x0

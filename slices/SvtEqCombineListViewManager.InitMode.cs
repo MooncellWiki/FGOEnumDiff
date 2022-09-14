@@ -1,4 +1,4 @@
-public enum SvtEqCombineListViewManager.InitMode // TypeDefIndex: 14627
+public enum SvtEqCombineListViewManager.InitMode // TypeDefIndex: 14658
 {
 	// Fields
 	public int value__; // 0x0

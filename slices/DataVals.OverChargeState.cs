@@ -1,4 +1,4 @@
-public enum DataVals.OverChargeState // TypeDefIndex: 11434
+public enum DataVals.OverChargeState // TypeDefIndex: 11437
 {
 	// Fields
 	public int value__; // 0x0

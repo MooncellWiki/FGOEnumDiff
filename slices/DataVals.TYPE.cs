@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 11433
+public enum DataVals.TYPE // TypeDefIndex: 11436
 {
 	// Fields
 	public int value__; // 0x0

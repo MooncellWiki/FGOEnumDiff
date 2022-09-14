@@ -1,4 +1,4 @@
-public enum FGOLogic.PROC // TypeDefIndex: 17782
+public enum FGOLogic.PROC // TypeDefIndex: 17844
 {
 	// Fields
 	public int value__; // 0x0
@@ -51,4 +51,5 @@ public enum FGOLogic.PROC // TypeDefIndex: 17782
 	public const FGOLogic.PROC ASSIST = 46;
 	public const FGOLogic.PROC FIELDAI_ENTRY = 47;
 	public const FGOLogic.PROC PRECHECK_ENDBATTLE = 48;
+	public const FGOLogic.PROC SERVANT_AI_WAVE = 49;
 }

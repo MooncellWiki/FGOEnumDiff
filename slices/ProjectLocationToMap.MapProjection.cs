@@ -1,4 +1,4 @@
-public enum ProjectLocationToMap.MapProjection // TypeDefIndex: 18347
+public enum ProjectLocationToMap.MapProjection // TypeDefIndex: 18409
 {
 	// Fields
 	public int value__; // 0x0

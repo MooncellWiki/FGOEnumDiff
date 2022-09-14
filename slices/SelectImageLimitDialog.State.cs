@@ -1,4 +1,4 @@
-protected enum SelectImageLimitDialog.State // TypeDefIndex: 15217
+protected enum SelectImageLimitDialog.State // TypeDefIndex: 15278
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleLogic.LOGICTYPE // TypeDefIndex: 13875
+public enum BattleLogic.LOGICTYPE // TypeDefIndex: 13887
 {
 	// Fields
 	public int value__; // 0x0
@@ -74,5 +74,6 @@ public enum BattleLogic.LOGICTYPE // TypeDefIndex: 13875
 	public const BattleLogic.LOGICTYPE ENEMY_ATTACK_AI_START = 69;
 	public const BattleLogic.LOGICTYPE ENEMY_ATTACK_AI_END = 70;
 	public const BattleLogic.LOGICTYPE ENEMY_ATTACK_AI_PRECHECK = 71;
-	public const BattleLogic.LOGICTYPE LOGIC_TERM = 72;
+	public const BattleLogic.LOGICTYPE REACTION_PLAYER_ACTION_START = 72;
+	public const BattleLogic.LOGICTYPE LOGIC_TERM = 73;
 }

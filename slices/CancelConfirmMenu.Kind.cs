@@ -1,4 +1,4 @@
-public enum CancelConfirmMenu.Kind // TypeDefIndex: 15892
+public enum CancelConfirmMenu.Kind // TypeDefIndex: 15953
 {
 	// Fields
 	public int value__; // 0x0

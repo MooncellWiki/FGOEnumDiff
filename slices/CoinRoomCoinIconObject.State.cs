@@ -1,4 +1,4 @@
-protected enum CoinRoomCoinIconObject.State // TypeDefIndex: 14342
+protected enum CoinRoomCoinIconObject.State // TypeDefIndex: 14373
 {
 	// Fields
 	public int value__; // 0x0

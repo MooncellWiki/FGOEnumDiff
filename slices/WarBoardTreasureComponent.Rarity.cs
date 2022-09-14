@@ -1,4 +1,4 @@
-private enum WarBoardTreasureComponent.Rarity // TypeDefIndex: 16895
+private enum WarBoardTreasureComponent.Rarity // TypeDefIndex: 16956
 {
 	// Fields
 	public int value__; // 0x0

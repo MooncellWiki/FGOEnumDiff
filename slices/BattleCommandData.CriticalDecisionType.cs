@@ -1,4 +1,4 @@
-public enum BattleCommandData.CriticalDecisionType // TypeDefIndex: 13816
+public enum BattleCommandData.CriticalDecisionType // TypeDefIndex: 13828
 {
 	// Fields
 	public int value__; // 0x0

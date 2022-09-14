@@ -1,4 +1,4 @@
-public enum NotificationImportance // TypeDefIndex: 17423
+public enum NotificationImportance // TypeDefIndex: 17484
 {
 	// Fields
 	public int value__; // 0x0

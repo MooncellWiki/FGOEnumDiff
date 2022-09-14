@@ -1,4 +1,4 @@
-public enum ObscuredPrefs.DeviceLockLevel // TypeDefIndex: 18845
+public enum ObscuredPrefs.DeviceLockLevel // TypeDefIndex: 18907
 {
 	// Fields
 	public byte value__; // 0x0

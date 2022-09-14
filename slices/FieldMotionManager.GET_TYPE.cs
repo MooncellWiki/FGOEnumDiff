@@ -1,4 +1,4 @@
-public enum FieldMotionManager.GET_TYPE // TypeDefIndex: 14240
+public enum FieldMotionManager.GET_TYPE // TypeDefIndex: 14270
 {
 	// Fields
 	public int value__; // 0x0

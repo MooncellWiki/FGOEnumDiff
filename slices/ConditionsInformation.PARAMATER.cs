@@ -1,4 +1,4 @@
-public enum ConditionsInformation.PARAMATER // TypeDefIndex: 13854
+public enum ConditionsInformation.PARAMATER // TypeDefIndex: 13866
 {
 	// Fields
 	public int value__; // 0x0

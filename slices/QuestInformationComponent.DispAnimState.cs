@@ -1,4 +1,4 @@
-private enum QuestInformationComponent.DispAnimState // TypeDefIndex: 16293
+private enum QuestInformationComponent.DispAnimState // TypeDefIndex: 16354
 {
 	// Fields
 	public int value__; // 0x0

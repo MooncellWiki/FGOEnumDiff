@@ -23,5 +23,6 @@ public enum SvtVoiceType.Type // TypeDefIndex: 11019
 	public const SvtVoiceType.Type WAR_BOARD = 19;
 	public const SvtVoiceType.Type EVENT_DIGGING = 20;
 	public const SvtVoiceType.Type EVENT_EXPEDITION = 21;
-	public const SvtVoiceType.Type SUM = 22;
+	public const SvtVoiceType.Type EVENT_RECIPE = 22;
+	public const SvtVoiceType.Type SUM = 23;
 }

@@ -1,4 +1,4 @@
-public enum GetAtan2FromVector3.aTan2EnumAxis // TypeDefIndex: 18598
+public enum GetAtan2FromVector3.aTan2EnumAxis // TypeDefIndex: 18660
 {
 	// Fields
 	public int value__; // 0x0

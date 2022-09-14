@@ -1,4 +1,4 @@
-private enum DropAutoSellDlgComponent.FlagKind // TypeDefIndex: 15475
+private enum DropAutoSellDlgComponent.FlagKind // TypeDefIndex: 15536
 {
 	// Fields
 	public int value__; // 0x0

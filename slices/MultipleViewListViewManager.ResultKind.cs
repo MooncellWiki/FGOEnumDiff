@@ -1,4 +1,4 @@
-public enum MultipleViewListViewManager.ResultKind // TypeDefIndex: 15208
+public enum MultipleViewListViewManager.ResultKind // TypeDefIndex: 15269
 {
 	// Fields
 	public int value__; // 0x0

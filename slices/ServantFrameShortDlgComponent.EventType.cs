@@ -5,4 +5,5 @@ public enum ServantFrameShortDlgComponent.EventType // TypeDefIndex: 10416
 	public const ServantFrameShortDlgComponent.EventType NONE = 0;
 	public const ServantFrameShortDlgComponent.EventType EXPEDITION = 1;
 	public const ServantFrameShortDlgComponent.EventType AREA_IMPROVE = 2;
+	public const ServantFrameShortDlgComponent.EventType EVENT_RECIPE = 3;
 }

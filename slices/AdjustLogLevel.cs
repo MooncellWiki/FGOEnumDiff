@@ -1,4 +1,4 @@
-public enum AdjustLogLevel // TypeDefIndex: 18903
+public enum AdjustLogLevel // TypeDefIndex: 18965
 {
 	// Fields
 	public int value__; // 0x0
