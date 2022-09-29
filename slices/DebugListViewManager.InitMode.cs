@@ -1,4 +1,4 @@
-public enum DebugListViewManager.InitMode // TypeDefIndex: 16686
+public enum DebugListViewManager.InitMode // TypeDefIndex: 16690
 {
 	// Fields
 	public int value__; // 0x0

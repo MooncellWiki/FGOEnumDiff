@@ -1,4 +1,4 @@
-public enum UIBasicSprite.Type // TypeDefIndex: 17351
+public enum UIBasicSprite.Type // TypeDefIndex: 17355
 {
 	// Fields
 	public int value__; // 0x0

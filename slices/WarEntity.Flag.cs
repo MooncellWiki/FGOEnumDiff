@@ -22,4 +22,6 @@ public enum WarEntity.Flag // TypeDefIndex: 12624
 	public const WarEntity.Flag WHITE_MARK_UNDER_BOARD = 262144;
 	public const WarEntity.Flag SUB_FOLDER = 524288;
 	public const WarEntity.Flag DISP_EARTH_POINT_WITHOUT_MAP = 1048576;
+	public const WarEntity.Flag IS_WAR_ICON_FREE = 2097152;
+	public const WarEntity.Flag IS_WAR_ICON_CENTER = 4194304;
 }

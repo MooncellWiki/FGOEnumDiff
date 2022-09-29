@@ -1,4 +1,4 @@
-public enum UIInput.KeyboardType // TypeDefIndex: 17408
+public enum UIInput.KeyboardType // TypeDefIndex: 17412
 {
 	// Fields
 	public int value__; // 0x0

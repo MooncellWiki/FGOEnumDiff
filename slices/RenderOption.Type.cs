@@ -1,4 +1,4 @@
-public enum RenderOption.Type // TypeDefIndex: 18980
+public enum RenderOption.Type // TypeDefIndex: 18984
 {
 	// Fields
 	public int value__; // 0x0

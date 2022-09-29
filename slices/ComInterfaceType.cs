@@ -5,6 +5,6 @@ public enum ComInterfaceType // TypeDefIndex: 1422
 	public const ComInterfaceType InterfaceIsDual = 0;
 	public const ComInterfaceType InterfaceIsIUnknown = 1;
 	public const ComInterfaceType InterfaceIsIDispatch = 2;
-	[ComVisibleAttribute] // RVA: 0x3B772C Offset: 0x3B772C VA: 0x3B772C
+	[ComVisibleAttribute] // RVA: 0x3B7584 Offset: 0x3B7584 VA: 0x3B7584
 	public const ComInterfaceType InterfaceIsIInspectable = 3;
 }

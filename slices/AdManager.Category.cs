@@ -10,8 +10,8 @@ public enum AdManager.Category // TypeDefIndex: 11244
 	public const AdManager.Category QUEST_CLEAR = 5;
 	public const AdManager.Category WAR_CLEAR = 6;
 	public const AdManager.Category LOGIN = 7;
-	[ObsoleteAttribute] // RVA: 0x4F4164 Offset: 0x4F4164 VA: 0x4F4164
+	[ObsoleteAttribute] // RVA: 0x4F3FEC Offset: 0x4F3FEC VA: 0x4F3FEC
 	public const AdManager.Category metaps_tutorial = 8;
-	[ObsoleteAttribute] // RVA: 0x4F4174 Offset: 0x4F4174 VA: 0x4F4174
+	[ObsoleteAttribute] // RVA: 0x4F3FFC Offset: 0x4F3FFC VA: 0x4F3FFC
 	public const AdManager.Category metaps_takeover = 9;
 }

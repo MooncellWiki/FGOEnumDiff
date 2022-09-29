@@ -1,4 +1,4 @@
-public enum UIKeyBinding.Modifier // TypeDefIndex: 17283
+public enum UIKeyBinding.Modifier // TypeDefIndex: 17287
 {
 	// Fields
 	public int value__; // 0x0

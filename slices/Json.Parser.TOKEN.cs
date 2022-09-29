@@ -15,7 +15,7 @@ private enum Json.Parser.TOKEN // TypeDefIndex: 6087
 	public const Json.Parser.TOKEN FALSE = 10;
 	public const Json.Parser.TOKEN NULL = 11;
 }
-private enum Json.Parser.TOKEN // TypeDefIndex: 18887
+private enum Json.Parser.TOKEN // TypeDefIndex: 18891
 {
 	// Fields
 	public int value__; // 0x0

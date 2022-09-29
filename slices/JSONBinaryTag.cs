@@ -1,4 +1,4 @@
-public enum JSONBinaryTag // TypeDefIndex: 18933
+public enum JSONBinaryTag // TypeDefIndex: 18937
 {
 	// Fields
 	public int value__; // 0x0

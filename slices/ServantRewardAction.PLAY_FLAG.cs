@@ -1,4 +1,4 @@
-public enum ServantRewardAction.PLAY_FLAG // TypeDefIndex: 16570
+public enum ServantRewardAction.PLAY_FLAG // TypeDefIndex: 16574
 {
 	// Fields
 	public int value__; // 0x0

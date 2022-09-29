@@ -45,9 +45,9 @@ public enum TextureFormat // TypeDefIndex: 4745
 	public const TextureFormat ASTC_8x8 = 51;
 	public const TextureFormat ASTC_10x10 = 52;
 	public const TextureFormat ASTC_12x12 = 53;
-	[ObsoleteAttribute] // RVA: 0x66DD40 Offset: 0x66DD40 VA: 0x66DD40
+	[ObsoleteAttribute] // RVA: 0x66E580 Offset: 0x66E580 VA: 0x66E580
 	public const TextureFormat ETC_RGB4_3DS = 60;
-	[ObsoleteAttribute] // RVA: 0x66DD74 Offset: 0x66DD74 VA: 0x66DD74
+	[ObsoleteAttribute] // RVA: 0x66E5B4 Offset: 0x66E5B4 VA: 0x66E5B4
 	public const TextureFormat ETC_RGBA8_3DS = 61;
 	public const TextureFormat RG16 = 62;
 	public const TextureFormat R8 = 63;
@@ -62,40 +62,40 @@ public enum TextureFormat // TypeDefIndex: 4745
 	public const TextureFormat RG32 = 72;
 	public const TextureFormat RGB48 = 73;
 	public const TextureFormat RGBA64 = 74;
-	[ObsoleteAttribute] // RVA: 0x66DDA8 Offset: 0x66DDA8 VA: 0x66DDA8
-	[EditorBrowsableAttribute] // RVA: 0x66DDA8 Offset: 0x66DDA8 VA: 0x66DDA8
+	[ObsoleteAttribute] // RVA: 0x66E5E8 Offset: 0x66E5E8 VA: 0x66E5E8
+	[EditorBrowsableAttribute] // RVA: 0x66E5E8 Offset: 0x66E5E8 VA: 0x66E5E8
 	public const TextureFormat ASTC_RGB_4x4 = 48;
-	[ObsoleteAttribute] // RVA: 0x66DDF4 Offset: 0x66DDF4 VA: 0x66DDF4
-	[EditorBrowsableAttribute] // RVA: 0x66DDF4 Offset: 0x66DDF4 VA: 0x66DDF4
+	[ObsoleteAttribute] // RVA: 0x66E634 Offset: 0x66E634 VA: 0x66E634
+	[EditorBrowsableAttribute] // RVA: 0x66E634 Offset: 0x66E634 VA: 0x66E634
 	public const TextureFormat ASTC_RGB_5x5 = 49;
-	[EditorBrowsableAttribute] // RVA: 0x66DE40 Offset: 0x66DE40 VA: 0x66DE40
-	[ObsoleteAttribute] // RVA: 0x66DE40 Offset: 0x66DE40 VA: 0x66DE40
+	[EditorBrowsableAttribute] // RVA: 0x66E680 Offset: 0x66E680 VA: 0x66E680
+	[ObsoleteAttribute] // RVA: 0x66E680 Offset: 0x66E680 VA: 0x66E680
 	public const TextureFormat ASTC_RGB_6x6 = 50;
-	[ObsoleteAttribute] // RVA: 0x66DE8C Offset: 0x66DE8C VA: 0x66DE8C
-	[EditorBrowsableAttribute] // RVA: 0x66DE8C Offset: 0x66DE8C VA: 0x66DE8C
+	[ObsoleteAttribute] // RVA: 0x66E6CC Offset: 0x66E6CC VA: 0x66E6CC
+	[EditorBrowsableAttribute] // RVA: 0x66E6CC Offset: 0x66E6CC VA: 0x66E6CC
 	public const TextureFormat ASTC_RGB_8x8 = 51;
-	[ObsoleteAttribute] // RVA: 0x66DED8 Offset: 0x66DED8 VA: 0x66DED8
-	[EditorBrowsableAttribute] // RVA: 0x66DED8 Offset: 0x66DED8 VA: 0x66DED8
+	[ObsoleteAttribute] // RVA: 0x66E718 Offset: 0x66E718 VA: 0x66E718
+	[EditorBrowsableAttribute] // RVA: 0x66E718 Offset: 0x66E718 VA: 0x66E718
 	public const TextureFormat ASTC_RGB_10x10 = 52;
-	[EditorBrowsableAttribute] // RVA: 0x66DF24 Offset: 0x66DF24 VA: 0x66DF24
-	[ObsoleteAttribute] // RVA: 0x66DF24 Offset: 0x66DF24 VA: 0x66DF24
+	[EditorBrowsableAttribute] // RVA: 0x66E764 Offset: 0x66E764 VA: 0x66E764
+	[ObsoleteAttribute] // RVA: 0x66E764 Offset: 0x66E764 VA: 0x66E764
 	public const TextureFormat ASTC_RGB_12x12 = 53;
-	[ObsoleteAttribute] // RVA: 0x66DF70 Offset: 0x66DF70 VA: 0x66DF70
-	[EditorBrowsableAttribute] // RVA: 0x66DF70 Offset: 0x66DF70 VA: 0x66DF70
+	[ObsoleteAttribute] // RVA: 0x66E7B0 Offset: 0x66E7B0 VA: 0x66E7B0
+	[EditorBrowsableAttribute] // RVA: 0x66E7B0 Offset: 0x66E7B0 VA: 0x66E7B0
 	public const TextureFormat ASTC_RGBA_4x4 = 54;
-	[EditorBrowsableAttribute] // RVA: 0x66DFBC Offset: 0x66DFBC VA: 0x66DFBC
-	[ObsoleteAttribute] // RVA: 0x66DFBC Offset: 0x66DFBC VA: 0x66DFBC
+	[EditorBrowsableAttribute] // RVA: 0x66E7FC Offset: 0x66E7FC VA: 0x66E7FC
+	[ObsoleteAttribute] // RVA: 0x66E7FC Offset: 0x66E7FC VA: 0x66E7FC
 	public const TextureFormat ASTC_RGBA_5x5 = 55;
-	[EditorBrowsableAttribute] // RVA: 0x66E008 Offset: 0x66E008 VA: 0x66E008
-	[ObsoleteAttribute] // RVA: 0x66E008 Offset: 0x66E008 VA: 0x66E008
+	[EditorBrowsableAttribute] // RVA: 0x66E848 Offset: 0x66E848 VA: 0x66E848
+	[ObsoleteAttribute] // RVA: 0x66E848 Offset: 0x66E848 VA: 0x66E848
 	public const TextureFormat ASTC_RGBA_6x6 = 56;
-	[ObsoleteAttribute] // RVA: 0x66E054 Offset: 0x66E054 VA: 0x66E054
-	[EditorBrowsableAttribute] // RVA: 0x66E054 Offset: 0x66E054 VA: 0x66E054
+	[ObsoleteAttribute] // RVA: 0x66E894 Offset: 0x66E894 VA: 0x66E894
+	[EditorBrowsableAttribute] // RVA: 0x66E894 Offset: 0x66E894 VA: 0x66E894
 	public const TextureFormat ASTC_RGBA_8x8 = 57;
-	[EditorBrowsableAttribute] // RVA: 0x66E0A0 Offset: 0x66E0A0 VA: 0x66E0A0
-	[ObsoleteAttribute] // RVA: 0x66E0A0 Offset: 0x66E0A0 VA: 0x66E0A0
+	[EditorBrowsableAttribute] // RVA: 0x66E8E0 Offset: 0x66E8E0 VA: 0x66E8E0
+	[ObsoleteAttribute] // RVA: 0x66E8E0 Offset: 0x66E8E0 VA: 0x66E8E0
 	public const TextureFormat ASTC_RGBA_10x10 = 58;
-	[EditorBrowsableAttribute] // RVA: 0x66E0EC Offset: 0x66E0EC VA: 0x66E0EC
-	[ObsoleteAttribute] // RVA: 0x66E0EC Offset: 0x66E0EC VA: 0x66E0EC
+	[EditorBrowsableAttribute] // RVA: 0x66E92C Offset: 0x66E92C VA: 0x66E92C
+	[ObsoleteAttribute] // RVA: 0x66E92C Offset: 0x66E92C VA: 0x66E92C
 	public const TextureFormat ASTC_RGBA_12x12 = 59;
 }
