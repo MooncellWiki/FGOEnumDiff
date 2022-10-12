@@ -1,4 +1,4 @@
-public enum SupportSelectDeckListViewManager.InitMode // TypeDefIndex: 15985
+public enum SupportSelectDeckListViewManager.InitMode // TypeDefIndex: 16057
 {
 	// Fields
 	public int value__; // 0x0

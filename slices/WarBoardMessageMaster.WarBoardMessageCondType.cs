@@ -1,4 +1,4 @@
-public enum WarBoardMessageMaster.WarBoardMessageCondType // TypeDefIndex: 12572
+public enum WarBoardMessageMaster.WarBoardMessageCondType // TypeDefIndex: 12589
 {
 	// Fields
 	public int value__; // 0x0

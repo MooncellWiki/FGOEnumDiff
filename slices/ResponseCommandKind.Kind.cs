@@ -1,4 +1,4 @@
-public enum ResponseCommandKind.Kind // TypeDefIndex: 10986
+public enum ResponseCommandKind.Kind // TypeDefIndex: 10991
 {
 	// Fields
 	public int value__; // 0x0
@@ -119,4 +119,5 @@ public enum ResponseCommandKind.Kind // TypeDefIndex: 10986
 	public const ResponseCommandKind.Kind CLIENT_API_ERROR_DIALOG = 114;
 	public const ResponseCommandKind.Kind EVENT_RECEIVE_COOLTIME_REWARD = 115;
 	public const ResponseCommandKind.Kind EVENT_CREATE_RECIPE = 116;
+	public const ResponseCommandKind.Kind EVENT_FORTIFICATION = 117;
 }

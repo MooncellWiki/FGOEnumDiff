@@ -1,4 +1,4 @@
-public enum ServantListViewManager.ResultKind // TypeDefIndex: 15723
+public enum ServantListViewManager.ResultKind // TypeDefIndex: 15795
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,12 +1,12 @@
-public enum MyRoomStateMaterial.STATE // TypeDefIndex: 15318
+public enum MyRoomStateMaterial.STATE // TypeDefIndex: 15388
 {
 	// Fields
 	public int value__; // 0x0
 	public const MyRoomStateMaterial.STATE TOP = 0;
-	public const MyRoomStateMaterial.STATE SERVANT = 1;
-	public const MyRoomStateMaterial.STATE MAP = 2;
-	public const MyRoomStateMaterial.STATE MAP_SUB = 3;
-	public const MyRoomStateMaterial.STATE STORY = 4;
+	public const MyRoomStateMaterial.STATE MAINSTORY_TOP = 1;
+	public const MyRoomStateMaterial.STATE MAINSTORY_SUB = 2;
+	public const MyRoomStateMaterial.STATE SERVANT_MENU_TOP = 3;
+	public const MyRoomStateMaterial.STATE SERVANT_STORY = 4;
 	public const MyRoomStateMaterial.STATE EVENT = 5;
 	public const MyRoomStateMaterial.STATE FREE = 6;
 	public const MyRoomStateMaterial.STATE QUEST = 7;

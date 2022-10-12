@@ -1,4 +1,4 @@
-public enum MyRoomControl.MULTIPLEVIEWSTATE // TypeDefIndex: 15293
+public enum MyRoomControl.MULTIPLEVIEWSTATE // TypeDefIndex: 15362
 {
 	// Fields
 	public int value__; // 0x0

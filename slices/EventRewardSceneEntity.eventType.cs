@@ -1,4 +1,4 @@
-public enum EventRewardSceneEntity.eventType // TypeDefIndex: 11849
+public enum EventRewardSceneEntity.eventType // TypeDefIndex: 11862
 {
 	// Fields
 	public int value__; // 0x0
@@ -16,4 +16,5 @@ public enum EventRewardSceneEntity.eventType // TypeDefIndex: 11849
 	public const EventRewardSceneEntity.eventType DIGGING_MISSION = 12;
 	public const EventRewardSceneEntity.eventType EVENT_EXPEDITION = 13;
 	public const EventRewardSceneEntity.eventType EVENT_RECIPE = 14;
+	public const EventRewardSceneEntity.eventType EVENT_FORTIFICATION = 15;
 }

@@ -1,4 +1,4 @@
-public enum QuestGroupType.Type // TypeDefIndex: 10979
+public enum QuestGroupType.Type // TypeDefIndex: 10984
 {
 	// Fields
 	public int value__; // 0x0
@@ -20,4 +20,5 @@ public enum QuestGroupType.Type // TypeDefIndex: 10979
 	public const QuestGroupType.Type BATTLE_GROUP = 15;
 	public const QuestGroupType.Type SHARE_QUEST_INFO = 16;
 	public const QuestGroupType.Type ALLOUT_BATTLE_QUEST = 17;
+	public const QuestGroupType.Type EVENT_FORTIFICATION = 18;
 }

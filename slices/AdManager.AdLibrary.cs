@@ -1,4 +1,4 @@
-public enum AdManager.AdLibrary // TypeDefIndex: 11243
+public enum AdManager.AdLibrary // TypeDefIndex: 11248
 {
 	// Fields
 	public int value__; // 0x0

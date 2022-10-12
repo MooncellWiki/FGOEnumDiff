@@ -1,4 +1,4 @@
-public enum FriendOperationConfirmMenu.Kind // TypeDefIndex: 15048
+public enum FriendOperationConfirmMenu.Kind // TypeDefIndex: 15117
 {
 	// Fields
 	public int value__; // 0x0

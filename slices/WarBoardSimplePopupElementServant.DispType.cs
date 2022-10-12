@@ -1,4 +1,4 @@
-private enum WarBoardSimplePopupElementServant.DispType // TypeDefIndex: 17191
+private enum WarBoardSimplePopupElementServant.DispType // TypeDefIndex: 17265
 {
 	// Fields
 	public int value__; // 0x0

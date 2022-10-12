@@ -1,4 +1,4 @@
-public enum USFGOActorBattleActionEvent.ActionType // TypeDefIndex: 17516
+public enum USFGOActorBattleActionEvent.ActionType // TypeDefIndex: 17590
 {
 	// Fields
 	public int value__; // 0x0

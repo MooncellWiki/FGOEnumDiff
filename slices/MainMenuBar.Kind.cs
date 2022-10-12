@@ -1,4 +1,4 @@
-public enum MainMenuBar.Kind // TypeDefIndex: 11317
+public enum MainMenuBar.Kind // TypeDefIndex: 11322
 {
 	// Fields
 	public int value__; // 0x0

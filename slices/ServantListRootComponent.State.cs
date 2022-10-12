@@ -1,4 +1,4 @@
-protected enum ServantListRootComponent.State // TypeDefIndex: 15716
+protected enum ServantListRootComponent.State // TypeDefIndex: 15788
 {
 	// Fields
 	public int value__; // 0x0

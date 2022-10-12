@@ -1,4 +1,4 @@
-public enum GachaAppendMaster.STATE // TypeDefIndex: 11934
+public enum GachaAppendMaster.STATE // TypeDefIndex: 11947
 {
 	// Fields
 	public int value__; // 0x0

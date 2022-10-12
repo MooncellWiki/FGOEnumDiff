@@ -1,4 +1,4 @@
-public enum UIPlaySystemSe.Trigger // TypeDefIndex: 12887
+public enum UIPlaySystemSe.Trigger // TypeDefIndex: 12902
 {
 	// Fields
 	public int value__; // 0x0

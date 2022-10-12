@@ -1,4 +1,4 @@
-public enum UIButtonColor.State // TypeDefIndex: 17257
+public enum UIButtonColor.State // TypeDefIndex: 17331
 {
 	// Fields
 	public int value__; // 0x0

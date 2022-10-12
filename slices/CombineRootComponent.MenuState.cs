@@ -1,4 +1,4 @@
-public enum CombineRootComponent.MenuState // TypeDefIndex: 14426
+public enum CombineRootComponent.MenuState // TypeDefIndex: 14448
 {
 	// Fields
 	public int value__; // 0x0

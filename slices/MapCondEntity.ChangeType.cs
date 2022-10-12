@@ -1,4 +1,4 @@
-public enum MapCondEntity.ChangeType // TypeDefIndex: 11981
+public enum MapCondEntity.ChangeType // TypeDefIndex: 11994
 {
 	// Fields
 	public int value__; // 0x0

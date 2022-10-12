@@ -1,4 +1,4 @@
-public enum DataVals.TYPE // TypeDefIndex: 11436
+public enum DataVals.TYPE // TypeDefIndex: 11441
 {
 	// Fields
 	public int value__; // 0x0
@@ -114,4 +114,7 @@ public enum DataVals.TYPE // TypeDefIndex: 11436
 	public const DataVals.TYPE RemoveFieldBuffActorDeath = 109;
 	public const DataVals.TYPE FieldBuffGrantType = 110;
 	public const DataVals.TYPE Priority = 111;
+	public const DataVals.TYPE AddIndividualityEx = 112;
+	public const DataVals.TYPE IgnoreResistance = 113;
+	public const DataVals.TYPE GainNpTargetPassiveIndividuality = 114;
 }

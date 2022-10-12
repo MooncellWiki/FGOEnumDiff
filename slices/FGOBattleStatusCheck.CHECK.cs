@@ -1,4 +1,4 @@
-public enum FGOBattleStatusCheck.CHECK // TypeDefIndex: 17803
+public enum FGOBattleStatusCheck.CHECK // TypeDefIndex: 17877
 {
 	// Fields
 	public int value__; // 0x0

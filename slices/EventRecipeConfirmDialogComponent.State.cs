@@ -1,4 +1,4 @@
-private enum EventRecipeConfirmDialogComponent.State // TypeDefIndex: 14821
+private enum EventRecipeConfirmDialogComponent.State // TypeDefIndex: 14890
 {
 	// Fields
 	public int value__; // 0x0

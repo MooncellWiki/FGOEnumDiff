@@ -1,4 +1,4 @@
-private enum EventRecipeListViewObject.State // TypeDefIndex: 14836
+private enum EventRecipeListViewObject.State // TypeDefIndex: 14905
 {
 	// Fields
 	public int value__; // 0x0

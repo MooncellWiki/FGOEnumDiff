@@ -5,57 +5,57 @@ public enum RuntimePlatform // TypeDefIndex: 4662
 	public const RuntimePlatform OSXEditor = 0;
 	public const RuntimePlatform OSXPlayer = 1;
 	public const RuntimePlatform WindowsPlayer = 2;
-	[ObsoleteAttribute] // RVA: 0x66DCF0 Offset: 0x66DCF0 VA: 0x66DCF0
+	[ObsoleteAttribute] // RVA: 0x664C10 Offset: 0x664C10 VA: 0x664C10
 	public const RuntimePlatform OSXWebPlayer = 3;
-	[ObsoleteAttribute] // RVA: 0x66DD28 Offset: 0x66DD28 VA: 0x66DD28
+	[ObsoleteAttribute] // RVA: 0x664C48 Offset: 0x664C48 VA: 0x664C48
 	public const RuntimePlatform OSXDashboardPlayer = 4;
-	[ObsoleteAttribute] // RVA: 0x66DD60 Offset: 0x66DD60 VA: 0x66DD60
+	[ObsoleteAttribute] // RVA: 0x664C80 Offset: 0x664C80 VA: 0x664C80
 	public const RuntimePlatform WindowsWebPlayer = 5;
 	public const RuntimePlatform WindowsEditor = 7;
 	public const RuntimePlatform IPhonePlayer = 8;
-	[ObsoleteAttribute] // RVA: 0x66DD98 Offset: 0x66DD98 VA: 0x66DD98
+	[ObsoleteAttribute] // RVA: 0x664CB8 Offset: 0x664CB8 VA: 0x664CB8
 	public const RuntimePlatform XBOX360 = 10;
-	[ObsoleteAttribute] // RVA: 0x66DDCC Offset: 0x66DDCC VA: 0x66DDCC
+	[ObsoleteAttribute] // RVA: 0x664CEC Offset: 0x664CEC VA: 0x664CEC
 	public const RuntimePlatform PS3 = 9;
 	public const RuntimePlatform Android = 11;
-	[ObsoleteAttribute] // RVA: 0x66DE00 Offset: 0x66DE00 VA: 0x66DE00
+	[ObsoleteAttribute] // RVA: 0x664D20 Offset: 0x664D20 VA: 0x664D20
 	public const RuntimePlatform NaCl = 12;
-	[ObsoleteAttribute] // RVA: 0x66DE34 Offset: 0x66DE34 VA: 0x66DE34
+	[ObsoleteAttribute] // RVA: 0x664D54 Offset: 0x664D54 VA: 0x664D54
 	public const RuntimePlatform FlashPlayer = 15;
 	public const RuntimePlatform LinuxPlayer = 13;
 	public const RuntimePlatform LinuxEditor = 16;
 	public const RuntimePlatform WebGLPlayer = 17;
-	[ObsoleteAttribute] // RVA: 0x66DE68 Offset: 0x66DE68 VA: 0x66DE68
+	[ObsoleteAttribute] // RVA: 0x664D88 Offset: 0x664D88 VA: 0x664D88
 	public const RuntimePlatform MetroPlayerX86 = 18;
 	public const RuntimePlatform WSAPlayerX86 = 18;
-	[ObsoleteAttribute] // RVA: 0x66DE9C Offset: 0x66DE9C VA: 0x66DE9C
+	[ObsoleteAttribute] // RVA: 0x664DBC Offset: 0x664DBC VA: 0x664DBC
 	public const RuntimePlatform MetroPlayerX64 = 19;
 	public const RuntimePlatform WSAPlayerX64 = 19;
-	[ObsoleteAttribute] // RVA: 0x66DED0 Offset: 0x66DED0 VA: 0x66DED0
+	[ObsoleteAttribute] // RVA: 0x664DF0 Offset: 0x664DF0 VA: 0x664DF0
 	public const RuntimePlatform MetroPlayerARM = 20;
 	public const RuntimePlatform WSAPlayerARM = 20;
-	[ObsoleteAttribute] // RVA: 0x66DF04 Offset: 0x66DF04 VA: 0x66DF04
+	[ObsoleteAttribute] // RVA: 0x664E24 Offset: 0x664E24 VA: 0x664E24
 	public const RuntimePlatform WP8Player = 21;
-	[ObsoleteAttribute] // RVA: 0x66DF38 Offset: 0x66DF38 VA: 0x66DF38
+	[ObsoleteAttribute] // RVA: 0x664E58 Offset: 0x664E58 VA: 0x664E58
 	public const RuntimePlatform BlackBerryPlayer = 22;
-	[ObsoleteAttribute] // RVA: 0x66DF6C Offset: 0x66DF6C VA: 0x66DF6C
+	[ObsoleteAttribute] // RVA: 0x664E8C Offset: 0x664E8C VA: 0x664E8C
 	public const RuntimePlatform TizenPlayer = 23;
-	[ObsoleteAttribute] // RVA: 0x66DFA0 Offset: 0x66DFA0 VA: 0x66DFA0
+	[ObsoleteAttribute] // RVA: 0x664EC0 Offset: 0x664EC0 VA: 0x664EC0
 	public const RuntimePlatform PSP2 = 24;
 	public const RuntimePlatform PS4 = 25;
-	[ObsoleteAttribute] // RVA: 0x66DFD4 Offset: 0x66DFD4 VA: 0x66DFD4
+	[ObsoleteAttribute] // RVA: 0x664EF4 Offset: 0x664EF4 VA: 0x664EF4
 	public const RuntimePlatform PSM = 26;
 	public const RuntimePlatform XboxOne = 27;
-	[ObsoleteAttribute] // RVA: 0x66E008 Offset: 0x66E008 VA: 0x66E008
+	[ObsoleteAttribute] // RVA: 0x664F28 Offset: 0x664F28 VA: 0x664F28
 	public const RuntimePlatform SamsungTVPlayer = 28;
-	[ObsoleteAttribute] // RVA: 0x66E03C Offset: 0x66E03C VA: 0x66E03C
+	[ObsoleteAttribute] // RVA: 0x664F5C Offset: 0x664F5C VA: 0x664F5C
 	public const RuntimePlatform WiiU = 30;
 	public const RuntimePlatform tvOS = 31;
 	public const RuntimePlatform Switch = 32;
 	public const RuntimePlatform Lumin = 33;
 	public const RuntimePlatform Stadia = 34;
 	public const RuntimePlatform CloudRendering = 35;
-	[ObsoleteAttribute] // RVA: 0x66E070 Offset: 0x66E070 VA: 0x66E070
+	[ObsoleteAttribute] // RVA: 0x664F90 Offset: 0x664F90 VA: 0x664F90
 	public const RuntimePlatform GameCoreScarlett = 36;
 	public const RuntimePlatform GameCoreXboxSeries = 36;
 	public const RuntimePlatform GameCoreXboxOne = 37;

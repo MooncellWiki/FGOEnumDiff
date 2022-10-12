@@ -1,4 +1,4 @@
-public enum BattleServantData.STATUS // TypeDefIndex: 13765
+public enum BattleServantData.STATUS // TypeDefIndex: 13782
 {
 	// Fields
 	public int value__; // 0x0

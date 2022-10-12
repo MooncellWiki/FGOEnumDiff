@@ -1,4 +1,4 @@
-public enum Ai.COND // TypeDefIndex: 10870
+public enum Ai.COND // TypeDefIndex: 10873
 {
 	// Fields
 	public int value__; // 0x0

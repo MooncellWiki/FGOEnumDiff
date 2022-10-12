@@ -1,4 +1,4 @@
-public enum BattleFieldEnvironmentData.GrantType // TypeDefIndex: 13685
+public enum BattleFieldEnvironmentData.GrantType // TypeDefIndex: 13701
 {
 	// Fields
 	public int value__; // 0x0

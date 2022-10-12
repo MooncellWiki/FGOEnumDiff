@@ -1,4 +1,4 @@
-public enum BattleCommandComponent.ARROW_POS_TYPE // TypeDefIndex: 13817
+public enum BattleCommandComponent.ARROW_POS_TYPE // TypeDefIndex: 13834
 {
 	// Fields
 	public int value__; // 0x0

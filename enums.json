@@ -312,6 +312,12 @@
     "None": "0",
     "EventReward": "1"
   },
+  "EventFortificationListViewItemDraw.DispMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3"
+  },
   "Device.Type": {
     "ALL": "0",
     "ANDROID": "1",
@@ -352,6 +358,12 @@
     "Completed": "3",
     "Failed": "4",
     "Canceled": "5"
+  },
+  "EventFortificationListViewObject.State": {
+    "INIT": "0",
+    "IDLE": "1",
+    "MOVE": "2",
+    "INPUT": "3"
   },
   "SummonConfirmDlgComponent.State": {
     "INIT": "0",
@@ -1642,6 +1654,11 @@
     "SELECTED": "3",
     "CLOSE": "4"
   },
+  "EventFortificationDataLogic.SvtType": {
+    "USER_SVT": "0",
+    "NPC": "1",
+    "NONE": "2"
+  },
   "BlacklistRootComponent.MODE": {
     "FRIEND_HISTORY": "0",
     "BLACKLIST": "1"
@@ -2194,7 +2211,8 @@
     "EVENT_EXPEDITION_FINISH": "113",
     "CLIENT_API_ERROR_DIALOG": "114",
     "EVENT_RECEIVE_COOLTIME_REWARD": "115",
-    "EVENT_CREATE_RECIPE": "116"
+    "EVENT_CREATE_RECIPE": "116",
+    "EVENT_FORTIFICATION": "117"
   },
   "WarehouseListViewObject.InitMode": {
     "INVISIBLE": "0",
@@ -2313,6 +2331,12 @@
   "EventRewardRootComponent.VoiceIndexEnum": {
     "WELCOME": "0",
     "PURCHASE": "1"
+  },
+  "GainNpIndividualSum.GainIndividualTarget": {
+    "SELF": "0",
+    "PLAYER": "1",
+    "ENEMY": "2",
+    "ALL": "3"
   },
   "ParticleSystemStopBehavior": {
     "StopEmittingAndClear": "0",
@@ -4006,6 +4030,12 @@
     "Connected": "2",
     "Closed": "3"
   },
+  "EventFortificationListViewManager.InitMode": {
+    "NONE": "0",
+    "VALID": "1",
+    "INPUT": "2",
+    "MODIFY": "3"
+  },
   "PartyListMenu.TutorialMode": {
     "NONE": "0",
     "ORGANIZATION_GUIDE_CHANGE_SELECT": "1",
@@ -4207,17 +4237,18 @@
     "SUM": "3"
   },
   "MyRoomHelpListViewManager.ItemKind": {
-    "MYROOM_HELP_MATERIAL": "1",
-    "MYROOM_HELP_ITEM": "2",
-    "MYROOM_HELP_SERVANT_COIN": "3",
-    "MYROOM_HELP_SOUND_PLAYER": "4",
-    "MYROOM_HELP_MST_PROFILE": "5",
-    "MYROOM_HELP_FAVORITE": "6",
-    "MYROOM_HELP_HELP": "7",
-    "MYROOM_HELP_OPTION": "8",
-    "MYROOM_HELP_TAKE_OVER": "9",
-    "MYROOM_HELP_RETURN_TITLE": "10",
-    "MYROOM_BLANK": "11"
+    "MYROOM_HELP_MATERIAL_STORY": "1",
+    "MYROOM_HELP_MATERIAL_SERVANT": "2",
+    "MYROOM_HELP_ITEM": "3",
+    "MYROOM_HELP_SERVANT_COIN": "4",
+    "MYROOM_HELP_SOUND_PLAYER": "5",
+    "MYROOM_HELP_MST_PROFILE": "6",
+    "MYROOM_HELP_FAVORITE": "7",
+    "MYROOM_HELP_HELP": "8",
+    "MYROOM_HELP_OPTION": "9",
+    "MYROOM_HELP_TAKE_OVER": "10",
+    "MYROOM_HELP_RETURN_TITLE": "11",
+    "MYROOM_BLANK": "12"
   },
   "AvalonSceneManager.FadeType": {
     "NONE": "0",
@@ -6384,7 +6415,8 @@
     "EVENT_DIGGING": "20",
     "EVENT_EXPEDITION": "21",
     "EVENT_RECIPE": "22",
-    "SUM": "23"
+    "EVENT_FORTIFICATION": "23",
+    "SUM": "24"
   },
   "Scrollbar.Axis": {
     "Horizontal": "0",
@@ -6432,6 +6464,11 @@
     "Long": "18",
     "MinKey": "-1",
     "MaxKey": "127"
+  },
+  "OpeningMovieEntity.MaterialPosType": {
+    "NONE": "0",
+    "MAIN_RECORD_TOP": "1",
+    "STORY_BOTTOM": "2"
   },
   "CommonEffectComponent.Status": {
     "INIT": "0",
@@ -6820,7 +6857,10 @@
     "TakeOverNextWaveBGAndBGM": "108",
     "RemoveFieldBuffActorDeath": "109",
     "FieldBuffGrantType": "110",
-    "Priority": "111"
+    "Priority": "111",
+    "AddIndividualityEx": "112",
+    "IgnoreResistance": "113",
+    "GainNpTargetPassiveIndividuality": "114"
   },
   "EventPointItemListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
@@ -6928,7 +6968,8 @@
     "EVENT_BATTLE_LINE": "14",
     "BATTLE_GROUP": "15",
     "SHARE_QUEST_INFO": "16",
-    "ALLOUT_BATTLE_QUEST": "17"
+    "ALLOUT_BATTLE_QUEST": "17",
+    "EVENT_FORTIFICATION": "18"
   },
   "MasterMissionComponent.Type": {
     "NONE": "-1",
@@ -7476,6 +7517,12 @@
     "OPEN": "1",
     "INPUT": "2",
     "CLOSE": "3"
+  },
+  "EventFortificationListViewManager.ModeKind": {
+    "NORMAL": "0",
+    "LOCK": "1",
+    "CHOICE": "2",
+    "PUSH": "3"
   },
   "FGOBattleStatusCheck.CHECK": {
     "NONE": "0",
@@ -8685,7 +8732,8 @@
     "COUNTER_FUNCTION": "102",
     "NOT_TARGET_SKILL": "103",
     "TO_FIELD_CHANGE_FIELD": "104",
-    "TO_FIELD_AVOID_BUFF": "105"
+    "TO_FIELD_AVOID_BUFF": "105",
+    "GRANT_STATE_UP_ONLY": "106"
   },
   "ServantSellConfirmListViewManager.Kind": {
     "SERVANT": "0",
@@ -13715,7 +13763,8 @@
     "PROGRESS_VALUE_ABOVE": "160",
     "PROGRESS_VALUE_BELOW": "161",
     "RANDOM_MISSION_TOTAL_CLEAR_NUM": "162",
-    "WEEKDAYS": "166"
+    "WEEKDAYS": "166",
+    "EVENT_FORTIFICATION_REWARD_NUM": "167"
   },
   "SocketOperation": {
     "Accept": "0",
@@ -13864,6 +13913,13 @@
     "RENDER": "2",
     "SEND": "3",
     "ERROR": "4"
+  },
+  "FortificationWarningDialogComponent.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
   },
   "UICommonButtonColor.State": {
     "Normal": "0",
@@ -14457,6 +14513,13 @@
     "SHOP_HELP_TRADE_AP": "19",
     "SHOP_BLANK": "20"
   },
+  "FortificationAutomaticDialogComponent.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
+  },
   "EventRankingListViewItemDraw.DispMode": {
     "INVISIBLE": "0",
     "INVALID": "1",
@@ -14675,7 +14738,8 @@
     "EVENT_RANDOM": "12",
     "EVENT_DIGGING": "13",
     "EVENT_EXPEDITION": "14",
-    "EVENT_RECIPE": "15"
+    "EVENT_RECIPE": "15",
+    "EVENT_FORTIFICATION": "16"
   },
   "ServantCombineControl.ConductionType": {
     "NONE": "0",
@@ -14949,7 +15013,9 @@
     "UPDATE_ENTRY_POSITIONS": "128",
     "BUDDY_POINT_UP": "129",
     "ADD_FIELD_CHANGE_TO_FIELD": "130",
-    "SUB_FIELD_BUFF": "131"
+    "SUB_FIELD_BUFF": "131",
+    "EVENT_FORTIFICATION_POINT_UP": "132",
+    "GAIN_NP_INDIVIDUAL_SUM": "133"
   },
   "QuestPhaseMaster.MoviePlayType": {
     "BeforeBattle": "1",
@@ -15921,6 +15987,13 @@
     "SetPglenInch": "393",
     "Last": "394"
   },
+  "FortificationConfirmDialogComponent.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
+  },
   "ScriptManager.MenuRouteInfo.RouteType": {
     "NONE": "0",
     "BAD": "1",
@@ -16808,6 +16881,11 @@
     "AM": "0",
     "PM": "1"
   },
+  "FortificationConfirmDialogComponent.DialogType": {
+    "SET": "0",
+    "REMOVE": "1",
+    "CHANGE": "2"
+  },
   "UserGachaEntity.Status": {
     "PC_END": "2"
   },
@@ -17149,6 +17227,11 @@
     "Populate": "2",
     "IgnoreAndPopulate": "3"
   },
+  "EventWorkType.Type": {
+    "MILITSRY_AFFAIRS": "1",
+    "INTERNAL_AFFAIRS": "2",
+    "FARMMING": "3"
+  },
   "ReflectionProbeUsage": {
     "Off": "0",
     "BlendProbes": "1",
@@ -17255,7 +17338,7 @@
     "NO_DAMAGE_ITEM": "512",
     "EVENT_POINT_RESULT": "1024",
     "RETRY_QUEST": "2048",
-    "RESERVE_6": "4096",
+    "EVENT_FORTIFICATION_ITEM": "4096",
     "RESERVE_7": "8192",
     "RESERVE_8": "16384",
     "RESERVE_9": "32768"
@@ -18979,43 +19062,47 @@
     "EVENT_EXPEDITION_PIECE": "373",
     "EVENT_RECIPE": "374",
     "EVENT_RECIPE_GIFT": "375",
-    "USER_SERVANT_VOICE_PLAYED": "376",
-    "UPDATE_PROFILE_DIALOG_INFO": "377",
-    "SVT_MATERIAL_TD": "378",
-    "BATTLE_MASTER_IMAGE": "379",
-    "USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG": "380",
-    "USER_EVENT_RANDOM_MISSION": "381",
-    "EVENT_PROGRESS_VALUE": "382",
-    "SVT_MULTI_PORTRAIT": "383",
-    "EVENT_RANDOM_MISSION": "384",
-    "USER_GACHA_HISTORY": "385",
-    "USER_COIN_ROOM": "386",
-    "EVENT_BUDDY_POINT": "387",
-    "EVENT_SERVANT_POINT_RANK": "388",
-    "USER_EVENT_SERVANT_POINT": "389",
-    "FIELD_MOTION": "390",
-    "USER_DELETE_RESERVATION": "391",
-    "SERVANT_SCRIPT_MULTIPLE": "392",
-    "EQUIP_ADD": "393",
-    "QUEST_RELEASE_OVERWRITE": "394",
-    "USER_EVENT_ALLOUT_BATTLE": "395",
-    "QUEST_SCRIPT_MATERIAL_NEXT": "396",
-    "BATTLE_MESSAGE": "397",
-    "BATTLE_MESSAGE_GROUP": "398",
-    "USER_NPC_SVT_RECORD": "399",
-    "BUFF_TYPE_DETAIL": "400",
-    "WARBOARD_MESSAGE": "401",
-    "WARBOARD_PARTY_SKILL": "402",
-    "WARBOARD_MESSAGE_SCRIPT": "403",
-    "WAR_QUEST_SELECTION": "404",
-    "WARBOARD_STAGE_DETAIL": "405",
-    "QUEST_SCRIPT_MATERIAL_OVERWRITE": "406",
-    "QUEST_SCRIPT_BRANCH_MATERIAL": "407",
-    "AD_CHECK_POINT": "408",
-    "GIFT_DETAIL": "409",
-    "COMBINE_LIMIT_GIFT": "410",
-    "EVENT_COOLTIME_REWARD": "411",
-    "USER_EVENT_COOLTIME_REWARD": "412"
+    "USER_EVENT_FORTIFICATION": "376",
+    "EVENT_FORTIFICATION": "377",
+    "EVENT_FORTIFICATION_DETAIL": "378",
+    "EVENT_FORTIFICATION_SVT": "379",
+    "USER_SERVANT_VOICE_PLAYED": "380",
+    "UPDATE_PROFILE_DIALOG_INFO": "381",
+    "SVT_MATERIAL_TD": "382",
+    "BATTLE_MASTER_IMAGE": "383",
+    "USER_FRIEND_POINT_GACHA_FREE_DRAW_CAMPAIGN_LOG": "384",
+    "USER_EVENT_RANDOM_MISSION": "385",
+    "EVENT_PROGRESS_VALUE": "386",
+    "SVT_MULTI_PORTRAIT": "387",
+    "EVENT_RANDOM_MISSION": "388",
+    "USER_GACHA_HISTORY": "389",
+    "USER_COIN_ROOM": "390",
+    "EVENT_BUDDY_POINT": "391",
+    "EVENT_SERVANT_POINT_RANK": "392",
+    "USER_EVENT_SERVANT_POINT": "393",
+    "FIELD_MOTION": "394",
+    "USER_DELETE_RESERVATION": "395",
+    "SERVANT_SCRIPT_MULTIPLE": "396",
+    "EQUIP_ADD": "397",
+    "QUEST_RELEASE_OVERWRITE": "398",
+    "USER_EVENT_ALLOUT_BATTLE": "399",
+    "QUEST_SCRIPT_MATERIAL_NEXT": "400",
+    "BATTLE_MESSAGE": "401",
+    "BATTLE_MESSAGE_GROUP": "402",
+    "USER_NPC_SVT_RECORD": "403",
+    "BUFF_TYPE_DETAIL": "404",
+    "WARBOARD_MESSAGE": "405",
+    "WARBOARD_PARTY_SKILL": "406",
+    "WARBOARD_MESSAGE_SCRIPT": "407",
+    "WAR_QUEST_SELECTION": "408",
+    "WARBOARD_STAGE_DETAIL": "409",
+    "QUEST_SCRIPT_MATERIAL_OVERWRITE": "410",
+    "QUEST_SCRIPT_BRANCH_MATERIAL": "411",
+    "AD_CHECK_POINT": "412",
+    "GIFT_DETAIL": "413",
+    "COMBINE_LIMIT_GIFT": "414",
+    "EVENT_COOLTIME_REWARD": "415",
+    "USER_EVENT_COOLTIME_REWARD": "416"
   },
   "PayoutType": {
     "Other": "0",
@@ -19134,10 +19221,10 @@
   },
   "MyRoomStateMaterial.STATE": {
     "TOP": "0",
-    "SERVANT": "1",
-    "MAP": "2",
-    "MAP_SUB": "3",
-    "STORY": "4",
+    "MAINSTORY_TOP": "1",
+    "MAINSTORY_SUB": "2",
+    "SERVANT_MENU_TOP": "3",
+    "SERVANT_STORY": "4",
     "EVENT": "5",
     "FREE": "6",
     "QUEST": "7",
@@ -20098,6 +20185,13 @@
     "MaximizedWindow": "2",
     "Windowed": "3"
   },
+  "FortificationNotifyDialog.State": {
+    "INIT": "0",
+    "OPEN": "1",
+    "INPUT": "2",
+    "SELECTED": "3",
+    "CLOSE": "4"
+  },
   "ServantSellConfirmListViewObject.State": {
     "INIT": "0",
     "IDLE": "1",
@@ -20860,6 +20954,10 @@
     "RESTRICTION": "2",
     "MARGE_UP_VAL": "3"
   },
+  "EventFortificationListViewManager.ResultKind": {
+    "NONE": "0",
+    "SERVANT_STATUS": "1"
+  },
   "EventRewardSceneEntity.eventType": {
     "EVENT_ITEM": "1",
     "BOX_GACHA": "2",
@@ -20874,7 +20972,8 @@
     "RANDOM_MISSION": "11",
     "DIGGING_MISSION": "12",
     "EVENT_EXPEDITION": "13",
-    "EVENT_RECIPE": "14"
+    "EVENT_RECIPE": "14",
+    "EVENT_FORTIFICATION": "15"
   },
   "FollowerSelectItemListViewManager.InitMode": {
     "NONE": "0",
@@ -21219,6 +21318,13 @@
     "IDLE": "1",
     "MOVE": "2",
     "INPUT": "3"
+  },
+  "EventFortificationListViewObject.InitMode": {
+    "INVISIBLE": "0",
+    "INVALID": "1",
+    "VALID": "2",
+    "INPUT": "3",
+    "MODIFY": "4"
   },
   "ValueFixupEnum": {
     "Empty": "0",

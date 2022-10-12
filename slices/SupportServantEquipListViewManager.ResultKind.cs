@@ -1,4 +1,4 @@
-public enum SupportServantEquipListViewManager.ResultKind // TypeDefIndex: 16030
+public enum SupportServantEquipListViewManager.ResultKind // TypeDefIndex: 16102
 {
 	// Fields
 	public int value__; // 0x0

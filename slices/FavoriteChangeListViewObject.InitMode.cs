@@ -1,4 +1,4 @@
-public enum FavoriteChangeListViewObject.InitMode // TypeDefIndex: 15128
+public enum FavoriteChangeListViewObject.InitMode // TypeDefIndex: 15197
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FGOSwapShaderPropertyWhenEnemy.FGONobleGUI_CullMode // TypeDefIndex: 10850
+public enum FGOSwapShaderPropertyWhenEnemy.FGONobleGUI_CullMode // TypeDefIndex: 10853
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum QuestInformationListViewItem.rewardType // TypeDefIndex: 16360
+public enum QuestInformationListViewItem.rewardType // TypeDefIndex: 16434
 {
 	// Fields
 	public int value__; // 0x0

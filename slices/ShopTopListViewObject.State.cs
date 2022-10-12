@@ -1,4 +1,4 @@
-private enum ShopTopListViewObject.State // TypeDefIndex: 15870
+private enum ShopTopListViewObject.State // TypeDefIndex: 15942
 {
 	// Fields
 	public int value__; // 0x0

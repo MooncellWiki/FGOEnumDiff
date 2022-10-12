@@ -1,4 +1,4 @@
-public enum EventRewardRootComponent.StateType // TypeDefIndex: 14929
+public enum EventRewardRootComponent.StateType // TypeDefIndex: 14998
 {
 	// Fields
 	public int value__; // 0x0
@@ -18,4 +18,5 @@ public enum EventRewardRootComponent.StateType // TypeDefIndex: 14929
 	public const EventRewardRootComponent.StateType EVENT_DIGGING = 13;
 	public const EventRewardRootComponent.StateType EVENT_EXPEDITION = 14;
 	public const EventRewardRootComponent.StateType EVENT_RECIPE = 15;
+	public const EventRewardRootComponent.StateType EVENT_FORTIFICATION = 16;
 }

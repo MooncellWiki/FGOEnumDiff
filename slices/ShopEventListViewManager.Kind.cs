@@ -1,4 +1,4 @@
-public enum ShopEventListViewManager.Kind // TypeDefIndex: 15805
+public enum ShopEventListViewManager.Kind // TypeDefIndex: 15877
 {
 	// Fields
 	public int value__; // 0x0

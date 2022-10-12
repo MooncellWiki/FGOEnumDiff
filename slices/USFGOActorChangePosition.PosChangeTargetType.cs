@@ -1,4 +1,4 @@
-public enum USFGOActorChangePosition.PosChangeTargetType // TypeDefIndex: 17522
+public enum USFGOActorChangePosition.PosChangeTargetType // TypeDefIndex: 17596
 {
 	// Fields
 	public int value__; // 0x0

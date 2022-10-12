@@ -1,4 +1,4 @@
-public enum MaterialEventLogListViewObject.InitMode // TypeDefIndex: 15255
+public enum MaterialEventLogListViewObject.InitMode // TypeDefIndex: 15324
 {
 	// Fields
 	public int value__; // 0x0

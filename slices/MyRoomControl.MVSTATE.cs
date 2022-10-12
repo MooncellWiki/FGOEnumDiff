@@ -1,4 +1,4 @@
-public enum MyRoomControl.MVSTATE // TypeDefIndex: 15292
+public enum MyRoomControl.MVSTATE // TypeDefIndex: 15361
 {
 	// Fields
 	public int value__; // 0x0

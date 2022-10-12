@@ -1,4 +1,4 @@
-public enum BuffList.DEL_AFTER_TYPE // TypeDefIndex: 10891
+public enum BuffList.DEL_AFTER_TYPE // TypeDefIndex: 10894
 {
 	// Fields
 	public int value__; // 0x0

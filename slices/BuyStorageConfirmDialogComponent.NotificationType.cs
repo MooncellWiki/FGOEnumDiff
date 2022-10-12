@@ -1,4 +1,4 @@
-public enum BuyStorageConfirmDialogComponent.NotificationType // TypeDefIndex: 15732
+public enum BuyStorageConfirmDialogComponent.NotificationType // TypeDefIndex: 15804
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum FuncList.TYPE // TypeDefIndex: 10949
+public enum FuncList.TYPE // TypeDefIndex: 10954
 {
 	// Fields
 	public int value__; // 0x0
@@ -95,4 +95,6 @@ public enum FuncList.TYPE // TypeDefIndex: 10949
 	public const FuncList.TYPE BUDDY_POINT_UP = 129;
 	public const FuncList.TYPE ADD_FIELD_CHANGE_TO_FIELD = 130;
 	public const FuncList.TYPE SUB_FIELD_BUFF = 131;
+	public const FuncList.TYPE EVENT_FORTIFICATION_POINT_UP = 132;
+	public const FuncList.TYPE GAIN_NP_INDIVIDUAL_SUM = 133;
 }

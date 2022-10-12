@@ -1,4 +1,4 @@
-public enum BattleResultComponent.resultData.ResultDispFlagEnum // TypeDefIndex: 14288
+public enum BattleResultComponent.resultData.ResultDispFlagEnum // TypeDefIndex: 14307
 {
 	// Fields
 	public int value__; // 0x0
@@ -14,7 +14,7 @@ public enum BattleResultComponent.resultData.ResultDispFlagEnum // TypeDefIndex:
 	public const BattleResultComponent.resultData.ResultDispFlagEnum NO_DAMAGE_ITEM = 512;
 	public const BattleResultComponent.resultData.ResultDispFlagEnum EVENT_POINT_RESULT = 1024;
 	public const BattleResultComponent.resultData.ResultDispFlagEnum RETRY_QUEST = 2048;
-	public const BattleResultComponent.resultData.ResultDispFlagEnum RESERVE_6 = 4096;
+	public const BattleResultComponent.resultData.ResultDispFlagEnum EVENT_FORTIFICATION_ITEM = 4096;
 	public const BattleResultComponent.resultData.ResultDispFlagEnum RESERVE_7 = 8192;
 	public const BattleResultComponent.resultData.ResultDispFlagEnum RESERVE_8 = 16384;
 	public const BattleResultComponent.resultData.ResultDispFlagEnum RESERVE_9 = 32768;

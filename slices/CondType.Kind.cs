@@ -1,4 +1,4 @@
-public enum CondType.Kind // TypeDefIndex: 10908
+public enum CondType.Kind // TypeDefIndex: 10911
 {
 	// Fields
 	public int value__; // 0x0
@@ -166,4 +166,5 @@ public enum CondType.Kind // TypeDefIndex: 10908
 	public const CondType.Kind PROGRESS_VALUE_BELOW = 161;
 	public const CondType.Kind RANDOM_MISSION_TOTAL_CLEAR_NUM = 162;
 	public const CondType.Kind WEEKDAYS = 166;
+	public const CondType.Kind EVENT_FORTIFICATION_REWARD_NUM = 167;
 }
