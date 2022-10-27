@@ -1,4 +1,4 @@
-private enum FortificationWarningDialogComponent.State // TypeDefIndex: 14812
+private enum FortificationWarningDialogComponent.State // TypeDefIndex: 14818
 {
 	// Fields
 	public int value__; // 0x0

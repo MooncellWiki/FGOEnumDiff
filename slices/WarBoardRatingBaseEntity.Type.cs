@@ -1,4 +1,4 @@
-public enum WarBoardRatingBaseEntity.Type // TypeDefIndex: 12607
+public enum WarBoardRatingBaseEntity.Type // TypeDefIndex: 12613
 {
 	// Fields
 	public int value__; // 0x0

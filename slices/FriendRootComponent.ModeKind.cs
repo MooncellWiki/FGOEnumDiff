@@ -1,4 +1,4 @@
-public enum FriendRootComponent.ModeKind // TypeDefIndex: 15135
+public enum FriendRootComponent.ModeKind // TypeDefIndex: 15141
 {
 	// Fields
 	public int value__; // 0x0

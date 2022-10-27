@@ -1,4 +1,4 @@
-public enum ScriptTextViewMenu.ResultKind // TypeDefIndex: 16908
+public enum ScriptTextViewMenu.ResultKind // TypeDefIndex: 16917
 {
 	// Fields
 	public int value__; // 0x0

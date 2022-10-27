@@ -1,4 +1,4 @@
-public enum USFGOChrAlphaChangeEvent.ChangeTarget // TypeDefIndex: 17619
+public enum USFGOChrAlphaChangeEvent.ChangeTarget // TypeDefIndex: 17629
 {
 	// Fields
 	public int value__; // 0x0

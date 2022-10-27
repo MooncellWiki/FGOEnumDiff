@@ -1,4 +1,4 @@
-private enum RecipeRewardDialogComponent.State // TypeDefIndex: 14912
+private enum RecipeRewardDialogComponent.State // TypeDefIndex: 14918
 {
 	// Fields
 	public int value__; // 0x0

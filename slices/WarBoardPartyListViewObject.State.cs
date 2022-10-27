@@ -1,4 +1,4 @@
-protected enum WarBoardPartyListViewObject.State // TypeDefIndex: 17209
+protected enum WarBoardPartyListViewObject.State // TypeDefIndex: 17218
 {
 	// Fields
 	public int value__; // 0x0

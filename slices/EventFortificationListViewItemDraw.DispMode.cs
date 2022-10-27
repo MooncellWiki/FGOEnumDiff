@@ -1,4 +1,4 @@
-public enum EventFortificationListViewItemDraw.DispMode // TypeDefIndex: 14774
+public enum EventFortificationListViewItemDraw.DispMode // TypeDefIndex: 14780
 {
 	// Fields
 	public int value__; // 0x0

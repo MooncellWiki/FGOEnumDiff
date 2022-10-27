@@ -1,4 +1,4 @@
-public enum EventFortificationDataLogic.SvtType // TypeDefIndex: 14770
+public enum EventFortificationDataLogic.SvtType // TypeDefIndex: 14776
 {
 	// Fields
 	public int value__; // 0x0

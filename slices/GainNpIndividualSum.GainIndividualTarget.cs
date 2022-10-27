@@ -1,4 +1,4 @@
-public enum GainNpIndividualSum.GainIndividualTarget // TypeDefIndex: 14024
+public enum GainNpIndividualSum.GainIndividualTarget // TypeDefIndex: 14030
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum BattleLogicTask.MESSAGE_TYPE // TypeDefIndex: 14078
+public enum BattleLogicTask.MESSAGE_TYPE // TypeDefIndex: 14084
 {
 	// Fields
 	public int value__; // 0x0

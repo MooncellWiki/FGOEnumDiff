@@ -1,4 +1,4 @@
-public enum FortificationConfirmDialogComponent.DialogType // TypeDefIndex: 14807
+public enum FortificationConfirmDialogComponent.DialogType // TypeDefIndex: 14813
 {
 	// Fields
 	public int value__; // 0x0

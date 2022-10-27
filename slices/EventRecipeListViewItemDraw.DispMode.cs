@@ -1,4 +1,4 @@
-public enum EventRecipeListViewItemDraw.DispMode // TypeDefIndex: 14898
+public enum EventRecipeListViewItemDraw.DispMode // TypeDefIndex: 14904
 {
 	// Fields
 	public int value__; // 0x0

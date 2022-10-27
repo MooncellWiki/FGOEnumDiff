@@ -1,4 +1,4 @@
-public enum ServantCoinConfirmDialog.DispType // TypeDefIndex: 10261
+public enum ServantCoinConfirmDialog.DispType // TypeDefIndex: 10265
 {
 	// Fields
 	public int value__; // 0x0

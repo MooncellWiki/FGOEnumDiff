@@ -1,4 +1,4 @@
-private enum ServantOperationListViewItem.Type // TypeDefIndex: 15809
+private enum ServantOperationListViewItem.Type // TypeDefIndex: 15815
 {
 	// Fields
 	public int value__; // 0x0

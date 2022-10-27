@@ -1,4 +1,4 @@
-public enum SkillEntity.CutinCameraSide // TypeDefIndex: 12279
+public enum SkillEntity.CutinCameraSide // TypeDefIndex: 12285
 {
 	// Fields
 	public int value__; // 0x0

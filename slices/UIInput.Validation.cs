@@ -1,4 +1,4 @@
-public enum UIInput.Validation // TypeDefIndex: 17485
+public enum UIInput.Validation // TypeDefIndex: 17494
 {
 	// Fields
 	public int value__; // 0x0

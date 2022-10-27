@@ -1,4 +1,4 @@
-private enum ExpeditionRewardDialogComponent.State // TypeDefIndex: 14760
+private enum ExpeditionRewardDialogComponent.State // TypeDefIndex: 14766
 {
 	// Fields
 	public int value__; // 0x0

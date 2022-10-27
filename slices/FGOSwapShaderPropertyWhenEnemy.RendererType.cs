@@ -1,4 +1,4 @@
-public enum FGOSwapShaderPropertyWhenEnemy.RendererType // TypeDefIndex: 10852
+public enum FGOSwapShaderPropertyWhenEnemy.RendererType // TypeDefIndex: 10858
 {
 	// Fields
 	public int value__; // 0x0

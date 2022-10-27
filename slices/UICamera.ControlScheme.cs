@@ -1,4 +1,4 @@
-public enum UICamera.ControlScheme // TypeDefIndex: 12793
+public enum UICamera.ControlScheme // TypeDefIndex: 12799
 {
 	// Fields
 	public int value__; // 0x0

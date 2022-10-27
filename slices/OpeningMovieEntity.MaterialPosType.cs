@@ -1,4 +1,4 @@
-public enum OpeningMovieEntity.MaterialPosType // TypeDefIndex: 12034
+public enum OpeningMovieEntity.MaterialPosType // TypeDefIndex: 12040
 {
 	// Fields
 	public int value__; // 0x0

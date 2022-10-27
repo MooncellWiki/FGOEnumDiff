@@ -19171,6 +19171,12 @@
     "Untrusted": "4",
     "NoZone": "-1"
   },
+  "TitleInfoEventSubmarineStatusComponent.AnimType": {
+    "NONE": "0",
+    "START": "1",
+    "LOOP": "2",
+    "END": "3"
+  },
   "ParticleSystemForceFieldShape": {
     "Sphere": "0",
     "Hemisphere": "1",

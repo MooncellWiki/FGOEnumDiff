@@ -1,4 +1,4 @@
-protected enum ChangeGenderTypeWindow.State // TypeDefIndex: 15249
+protected enum ChangeGenderTypeWindow.State // TypeDefIndex: 15255
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum TripleButtonDlgComponent.ResultClicked // TypeDefIndex: 10763
+public enum TripleButtonDlgComponent.ResultClicked // TypeDefIndex: 10769
 {
 	// Fields
 	public int value__; // 0x0

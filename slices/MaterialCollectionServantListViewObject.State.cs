@@ -1,4 +1,4 @@
-protected enum MaterialCollectionServantListViewObject.State // TypeDefIndex: 15284
+protected enum MaterialCollectionServantListViewObject.State // TypeDefIndex: 15290
 {
 	// Fields
 	public int value__; // 0x0

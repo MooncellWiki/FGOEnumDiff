@@ -1,4 +1,4 @@
-public enum FigureViewListViewItemDraw.DispMode // TypeDefIndex: 16790
+public enum FigureViewListViewItemDraw.DispMode // TypeDefIndex: 16799
 {
 	// Fields
 	public int value__; // 0x0

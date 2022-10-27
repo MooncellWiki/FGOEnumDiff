@@ -1,4 +1,4 @@
-public enum ChrDirectionalLight.MaterialType // TypeDefIndex: 13826
+public enum ChrDirectionalLight.MaterialType // TypeDefIndex: 13832
 {
 	// Fields
 	public int value__; // 0x0

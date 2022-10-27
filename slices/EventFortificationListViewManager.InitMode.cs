@@ -1,4 +1,4 @@
-public enum EventFortificationListViewManager.InitMode // TypeDefIndex: 14776
+public enum EventFortificationListViewManager.InitMode // TypeDefIndex: 14782
 {
 	// Fields
 	public int value__; // 0x0

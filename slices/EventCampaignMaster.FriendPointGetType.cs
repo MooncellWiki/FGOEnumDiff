@@ -1,4 +1,4 @@
-public enum EventCampaignMaster.FriendPointGetType // TypeDefIndex: 11705
+public enum EventCampaignMaster.FriendPointGetType // TypeDefIndex: 11711
 {
 	// Fields
 	public int value__; // 0x0

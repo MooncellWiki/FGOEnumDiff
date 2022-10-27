@@ -1,4 +1,4 @@
-private enum FortificationAutomaticDialogComponent.State // TypeDefIndex: 14798
+private enum FortificationAutomaticDialogComponent.State // TypeDefIndex: 14804
 {
 	// Fields
 	public int value__; // 0x0

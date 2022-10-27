@@ -1,4 +1,4 @@
-public enum EventRecipeListViewObject.InitMode // TypeDefIndex: 14904
+public enum EventRecipeListViewObject.InitMode // TypeDefIndex: 14910
 {
 	// Fields
 	public int value__; // 0x0

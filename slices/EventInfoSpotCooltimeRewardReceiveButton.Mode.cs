@@ -1,4 +1,4 @@
-public enum EventInfoSpotCooltimeRewardReceiveButton.Mode // TypeDefIndex: 10216
+public enum EventInfoSpotCooltimeRewardReceiveButton.Mode // TypeDefIndex: 10218
 {
 	// Fields
 	public int value__; // 0x0

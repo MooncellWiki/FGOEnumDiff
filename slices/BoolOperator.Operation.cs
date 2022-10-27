@@ -1,4 +1,4 @@
-public enum BoolOperator.Operation // TypeDefIndex: 18160
+public enum BoolOperator.Operation // TypeDefIndex: 18170
 {
 	// Fields
 	public int value__; // 0x0

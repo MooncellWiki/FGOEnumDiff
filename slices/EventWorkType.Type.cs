@@ -1,4 +1,4 @@
-public enum EventWorkType.Type // TypeDefIndex: 10941
+public enum EventWorkType.Type // TypeDefIndex: 10947
 {
 	// Fields
 	public int value__; // 0x0

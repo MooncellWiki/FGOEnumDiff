@@ -1,4 +1,4 @@
-public enum EventFortificationListViewObject.State // TypeDefIndex: 14785
+public enum EventFortificationListViewObject.State // TypeDefIndex: 14791
 {
 	// Fields
 	public int value__; // 0x0

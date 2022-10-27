@@ -1,4 +1,4 @@
-public enum EventFortificationListViewManager.ResultKind // TypeDefIndex: 14777
+public enum EventFortificationListViewManager.ResultKind // TypeDefIndex: 14783
 {
 	// Fields
 	public int value__; // 0x0

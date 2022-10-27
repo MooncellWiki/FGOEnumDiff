@@ -1,4 +1,4 @@
-public enum QuestEntity.enType // TypeDefIndex: 12059
+public enum QuestEntity.enType // TypeDefIndex: 12065
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum RendererScaler.RenderScale // TypeDefIndex: 19060
+public enum RendererScaler.RenderScale // TypeDefIndex: 19070
 {
 	// Fields
 	public int value__; // 0x0

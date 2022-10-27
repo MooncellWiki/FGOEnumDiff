@@ -1,4 +1,4 @@
-public enum PresentBoxNotificationMenu.Result // TypeDefIndex: 10373
+public enum PresentBoxNotificationMenu.Result // TypeDefIndex: 10377
 {
 	// Fields
 	public int value__; // 0x0

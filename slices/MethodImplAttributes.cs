@@ -15,7 +15,7 @@ public enum MethodImplAttributes // TypeDefIndex: 559
 	public const MethodImplAttributes InternalCall = 4096;
 	public const MethodImplAttributes Synchronized = 32;
 	public const MethodImplAttributes NoInlining = 8;
-	[ComVisibleAttribute] // RVA: 0x67AD64 Offset: 0x67AD64 VA: 0x67AD64
+	[ComVisibleAttribute] // RVA: 0xA73628 Offset: 0xA73628 VA: 0xA73628
 	public const MethodImplAttributes AggressiveInlining = 256;
 	public const MethodImplAttributes NoOptimization = 64;
 	public const MethodImplAttributes MaxMethodImplVal = 65535;

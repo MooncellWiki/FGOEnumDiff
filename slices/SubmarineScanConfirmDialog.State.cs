@@ -1,4 +1,4 @@
-private enum SubmarineScanConfirmDialog.State // TypeDefIndex: 16209
+private enum SubmarineScanConfirmDialog.State // TypeDefIndex: 16216
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum ScrTerminalListTop.AdditionalDlgMessage.TYPE // TypeDefIndex: 16527
+public enum ScrTerminalListTop.AdditionalDlgMessage.TYPE // TypeDefIndex: 16536
 {
 	// Fields
 	public int value__; // 0x0

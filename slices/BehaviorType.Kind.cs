@@ -1,4 +1,4 @@
-public enum BehaviorType.Kind // TypeDefIndex: 10889
+public enum BehaviorType.Kind // TypeDefIndex: 10895
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-public enum EventInfoPointGaugeComponent.GaugeState // TypeDefIndex: 10195
+public enum EventInfoPointGaugeComponent.GaugeState // TypeDefIndex: 10197
 {
 	// Fields
 	public int value__; // 0x0

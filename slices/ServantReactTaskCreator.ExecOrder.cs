@@ -1,4 +1,4 @@
-public enum ServantReactTaskCreator.ExecOrder // TypeDefIndex: 14060
+public enum ServantReactTaskCreator.ExecOrder // TypeDefIndex: 14066
 {
 	// Fields
 	public int value__; // 0x0

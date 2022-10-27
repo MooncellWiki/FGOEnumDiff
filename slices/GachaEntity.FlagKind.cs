@@ -1,4 +1,4 @@
-public enum GachaEntity.FlagKind // TypeDefIndex: 11954
+public enum GachaEntity.FlagKind // TypeDefIndex: 11960
 {
 	// Fields
 	public int value__; // 0x0

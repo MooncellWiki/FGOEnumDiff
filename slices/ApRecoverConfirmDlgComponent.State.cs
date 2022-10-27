@@ -1,4 +1,4 @@
-private enum ApRecoverConfirmDlgComponent.State // TypeDefIndex: 10387
+private enum ApRecoverConfirmDlgComponent.State // TypeDefIndex: 10391
 {
 	// Fields
 	public int value__; // 0x0

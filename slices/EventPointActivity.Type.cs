@@ -1,4 +1,4 @@
-public enum EventPointActivity.Type // TypeDefIndex: 10936
+public enum EventPointActivity.Type // TypeDefIndex: 10942
 {
 	// Fields
 	public int value__; // 0x0

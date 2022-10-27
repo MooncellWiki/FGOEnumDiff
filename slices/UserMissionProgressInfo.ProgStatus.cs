@@ -1,4 +1,4 @@
-public enum UserMissionProgressInfo.ProgStatus // TypeDefIndex: 12702
+public enum UserMissionProgressInfo.ProgStatus // TypeDefIndex: 12708
 {
 	// Fields
 	public int value__; // 0x0

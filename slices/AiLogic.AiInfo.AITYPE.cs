@@ -1,4 +1,4 @@
-public enum AiLogic.AiInfo.AITYPE // TypeDefIndex: 13875
+public enum AiLogic.AiInfo.AITYPE // TypeDefIndex: 13881
 {
 	// Fields
 	public int value__; // 0x0

@@ -1,4 +1,4 @@
-private enum AutoDiggingDialogComponent.State // TypeDefIndex: 14935
+private enum AutoDiggingDialogComponent.State // TypeDefIndex: 14941
 {
 	// Fields
 	public int value__; // 0x0

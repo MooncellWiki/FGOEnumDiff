@@ -1,4 +1,4 @@
-protected enum SelectImageLimitListViewObject.State // TypeDefIndex: 15357
+protected enum SelectImageLimitListViewObject.State // TypeDefIndex: 15363
 {
 	// Fields
 	public int value__; // 0x0

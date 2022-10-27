@@ -1,4 +1,4 @@
-private enum ScriptBranchMenu.SortType // TypeDefIndex: 16843
+private enum ScriptBranchMenu.SortType // TypeDefIndex: 16852
 {
 	// Fields
 	public int value__; // 0x0

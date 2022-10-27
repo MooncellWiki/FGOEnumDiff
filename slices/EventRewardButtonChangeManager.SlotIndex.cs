@@ -1,4 +1,4 @@
-public enum EventRewardButtonChangeManager.SlotIndex // TypeDefIndex: 14994
+public enum EventRewardButtonChangeManager.SlotIndex // TypeDefIndex: 15000
 {
 	// Fields
 	public int value__; // 0x0
