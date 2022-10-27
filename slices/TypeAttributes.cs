@@ -23,7 +23,7 @@ public enum TypeAttributes // TypeDefIndex: 570
 	public const TypeAttributes SpecialName = 1024;
 	public const TypeAttributes Import = 4096;
 	public const TypeAttributes Serializable = 8192;
-	[ComVisibleAttribute] // RVA: 0xA7363C Offset: 0xA7363C VA: 0xA7363C
+	[ComVisibleAttribute] // RVA: 0xA7365C Offset: 0xA7365C VA: 0xA7365C
 	public const TypeAttributes WindowsRuntime = 16384;
 	public const TypeAttributes StringFormatMask = 196608;
 	public const TypeAttributes AnsiClass = 0;

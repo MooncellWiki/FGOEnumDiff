@@ -45,9 +45,9 @@ public enum TextureFormat // TypeDefIndex: 4745
 	public const TextureFormat ASTC_8x8 = 51;
 	public const TextureFormat ASTC_10x10 = 52;
 	public const TextureFormat ASTC_12x12 = 53;
-	[ObsoleteAttribute] // RVA: 0xD15F50 Offset: 0xD15F50 VA: 0xD15F50
+	[ObsoleteAttribute] // RVA: 0xD15F70 Offset: 0xD15F70 VA: 0xD15F70
 	public const TextureFormat ETC_RGB4_3DS = 60;
-	[ObsoleteAttribute] // RVA: 0xD15F88 Offset: 0xD15F88 VA: 0xD15F88
+	[ObsoleteAttribute] // RVA: 0xD15FA8 Offset: 0xD15FA8 VA: 0xD15FA8
 	public const TextureFormat ETC_RGBA8_3DS = 61;
 	public const TextureFormat RG16 = 62;
 	public const TextureFormat R8 = 63;
@@ -62,40 +62,40 @@ public enum TextureFormat // TypeDefIndex: 4745
 	public const TextureFormat RG32 = 72;
 	public const TextureFormat RGB48 = 73;
 	public const TextureFormat RGBA64 = 74;
-	[ObsoleteAttribute] // RVA: 0xD15FC0 Offset: 0xD15FC0 VA: 0xD15FC0
-	[EditorBrowsableAttribute] // RVA: 0xD15FC0 Offset: 0xD15FC0 VA: 0xD15FC0
+	[ObsoleteAttribute] // RVA: 0xD15FE0 Offset: 0xD15FE0 VA: 0xD15FE0
+	[EditorBrowsableAttribute] // RVA: 0xD15FE0 Offset: 0xD15FE0 VA: 0xD15FE0
 	public const TextureFormat ASTC_RGB_4x4 = 48;
-	[ObsoleteAttribute] // RVA: 0xD16010 Offset: 0xD16010 VA: 0xD16010
-	[EditorBrowsableAttribute] // RVA: 0xD16010 Offset: 0xD16010 VA: 0xD16010
+	[ObsoleteAttribute] // RVA: 0xD16030 Offset: 0xD16030 VA: 0xD16030
+	[EditorBrowsableAttribute] // RVA: 0xD16030 Offset: 0xD16030 VA: 0xD16030
 	public const TextureFormat ASTC_RGB_5x5 = 49;
-	[EditorBrowsableAttribute] // RVA: 0xD16060 Offset: 0xD16060 VA: 0xD16060
-	[ObsoleteAttribute] // RVA: 0xD16060 Offset: 0xD16060 VA: 0xD16060
+	[EditorBrowsableAttribute] // RVA: 0xD16080 Offset: 0xD16080 VA: 0xD16080
+	[ObsoleteAttribute] // RVA: 0xD16080 Offset: 0xD16080 VA: 0xD16080
 	public const TextureFormat ASTC_RGB_6x6 = 50;
-	[ObsoleteAttribute] // RVA: 0xD160B0 Offset: 0xD160B0 VA: 0xD160B0
-	[EditorBrowsableAttribute] // RVA: 0xD160B0 Offset: 0xD160B0 VA: 0xD160B0
+	[ObsoleteAttribute] // RVA: 0xD160D0 Offset: 0xD160D0 VA: 0xD160D0
+	[EditorBrowsableAttribute] // RVA: 0xD160D0 Offset: 0xD160D0 VA: 0xD160D0
 	public const TextureFormat ASTC_RGB_8x8 = 51;
-	[ObsoleteAttribute] // RVA: 0xD16100 Offset: 0xD16100 VA: 0xD16100
-	[EditorBrowsableAttribute] // RVA: 0xD16100 Offset: 0xD16100 VA: 0xD16100
+	[ObsoleteAttribute] // RVA: 0xD16120 Offset: 0xD16120 VA: 0xD16120
+	[EditorBrowsableAttribute] // RVA: 0xD16120 Offset: 0xD16120 VA: 0xD16120
 	public const TextureFormat ASTC_RGB_10x10 = 52;
-	[EditorBrowsableAttribute] // RVA: 0xD16150 Offset: 0xD16150 VA: 0xD16150
-	[ObsoleteAttribute] // RVA: 0xD16150 Offset: 0xD16150 VA: 0xD16150
+	[EditorBrowsableAttribute] // RVA: 0xD16170 Offset: 0xD16170 VA: 0xD16170
+	[ObsoleteAttribute] // RVA: 0xD16170 Offset: 0xD16170 VA: 0xD16170
 	public const TextureFormat ASTC_RGB_12x12 = 53;
-	[ObsoleteAttribute] // RVA: 0xD161A0 Offset: 0xD161A0 VA: 0xD161A0
-	[EditorBrowsableAttribute] // RVA: 0xD161A0 Offset: 0xD161A0 VA: 0xD161A0
+	[ObsoleteAttribute] // RVA: 0xD161C0 Offset: 0xD161C0 VA: 0xD161C0
+	[EditorBrowsableAttribute] // RVA: 0xD161C0 Offset: 0xD161C0 VA: 0xD161C0
 	public const TextureFormat ASTC_RGBA_4x4 = 54;
-	[EditorBrowsableAttribute] // RVA: 0xD161F0 Offset: 0xD161F0 VA: 0xD161F0
-	[ObsoleteAttribute] // RVA: 0xD161F0 Offset: 0xD161F0 VA: 0xD161F0
+	[EditorBrowsableAttribute] // RVA: 0xD16210 Offset: 0xD16210 VA: 0xD16210
+	[ObsoleteAttribute] // RVA: 0xD16210 Offset: 0xD16210 VA: 0xD16210
 	public const TextureFormat ASTC_RGBA_5x5 = 55;
-	[EditorBrowsableAttribute] // RVA: 0xD16240 Offset: 0xD16240 VA: 0xD16240
-	[ObsoleteAttribute] // RVA: 0xD16240 Offset: 0xD16240 VA: 0xD16240
+	[EditorBrowsableAttribute] // RVA: 0xD16260 Offset: 0xD16260 VA: 0xD16260
+	[ObsoleteAttribute] // RVA: 0xD16260 Offset: 0xD16260 VA: 0xD16260
 	public const TextureFormat ASTC_RGBA_6x6 = 56;
-	[ObsoleteAttribute] // RVA: 0xD16290 Offset: 0xD16290 VA: 0xD16290
-	[EditorBrowsableAttribute] // RVA: 0xD16290 Offset: 0xD16290 VA: 0xD16290
+	[ObsoleteAttribute] // RVA: 0xD162B0 Offset: 0xD162B0 VA: 0xD162B0
+	[EditorBrowsableAttribute] // RVA: 0xD162B0 Offset: 0xD162B0 VA: 0xD162B0
 	public const TextureFormat ASTC_RGBA_8x8 = 57;
-	[EditorBrowsableAttribute] // RVA: 0xD162E0 Offset: 0xD162E0 VA: 0xD162E0
-	[ObsoleteAttribute] // RVA: 0xD162E0 Offset: 0xD162E0 VA: 0xD162E0
+	[EditorBrowsableAttribute] // RVA: 0xD16300 Offset: 0xD16300 VA: 0xD16300
+	[ObsoleteAttribute] // RVA: 0xD16300 Offset: 0xD16300 VA: 0xD16300
 	public const TextureFormat ASTC_RGBA_10x10 = 58;
-	[EditorBrowsableAttribute] // RVA: 0xD16330 Offset: 0xD16330 VA: 0xD16330
-	[ObsoleteAttribute] // RVA: 0xD16330 Offset: 0xD16330 VA: 0xD16330
+	[EditorBrowsableAttribute] // RVA: 0xD16350 Offset: 0xD16350 VA: 0xD16350
+	[ObsoleteAttribute] // RVA: 0xD16350 Offset: 0xD16350 VA: 0xD16350
 	public const TextureFormat ASTC_RGBA_12x12 = 59;
 }

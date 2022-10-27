@@ -37,10 +37,10 @@ public enum UnmanagedType // TypeDefIndex: 1429
 	public const UnmanagedType LPStruct = 43;
 	public const UnmanagedType CustomMarshaler = 44;
 	public const UnmanagedType Error = 45;
-	[ComVisibleAttribute] // RVA: 0xA745C4 Offset: 0xA745C4 VA: 0xA745C4
+	[ComVisibleAttribute] // RVA: 0xA745E4 Offset: 0xA745E4 VA: 0xA745E4
 	public const UnmanagedType IInspectable = 46;
-	[ComVisibleAttribute] // RVA: 0xA745D8 Offset: 0xA745D8 VA: 0xA745D8
+	[ComVisibleAttribute] // RVA: 0xA745F8 Offset: 0xA745F8 VA: 0xA745F8
 	public const UnmanagedType HString = 47;
-	[ComVisibleAttribute] // RVA: 0xA745EC Offset: 0xA745EC VA: 0xA745EC
+	[ComVisibleAttribute] // RVA: 0xA7460C Offset: 0xA7460C VA: 0xA7460C
 	public const UnmanagedType LPUTF8Str = 48;
 }
